@@ -82,16 +82,6 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 | `validation/ncbi_nt_comparison_v2.json` | MaizePathogenDB vs NCBI-nt benchmark (101 queries) |
 | `validation/external/external_validation_final.json` | External validation on 2025-2026 NCBI sequences |
 
-### Figures
-
-| File | Description |
-|---|---|
-| `figures/Fig1_Flowchart.pdf` | Database construction and usage pipeline |
-| `figures/Fig2_Composition.pdf` | Database composition (species, sequences, taxonomy) |
-| `figures/Fig3_Validation.pdf` | Multi-method validation accuracy |
-| `figures/Fig_NCBI_nt_Comparison_Final.pdf` | MaizePathogenDB vs NCBI-nt comparison (n=101) |
-| `figures/FigS1_Identity.pdf` | Self-hit identity distribution |
-
 ### Web Platform
 
 | File | Description |
