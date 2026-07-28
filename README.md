@@ -255,12 +255,12 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Links
 
-- **Figshare dataset**: [https://doi.org/...](https://doi.org/...)
-- **GitHub repository**: [https://github.com/...](https://github.com/...)
-- **Web platform**: [https://...](https://...)
+- **GitHub repository**: [https://github.com/guifeng-gao/MaizePathogenDB](https://github.com/guifeng-gao/MaizePathogenDB)
+- **Web platform**: [https://guifeng-gao.github.io/MaizePathogenDB/web/](https://guifeng-gao.github.io/MaizePathogenDB/web/)
+- **Figshare dataset**: [DOI pending]
 
 ---
 
 ## Contact
 
-For questions, bug reports, or suggestions, please open an issue on the GitHub repository or contact the corresponding author at [email address].
+For questions, bug reports, or suggestions, please open an issue on the [GitHub repository](https://github.com/guifeng-gao/MaizePathogenDB) or contact the corresponding author at gfgao@issas.ac.cn.
