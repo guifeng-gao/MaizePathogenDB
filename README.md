@@ -227,14 +227,6 @@ All scripts used for database construction and validation are available in the `
 **Dependencies:** Python 3.8+ · Biopython · openpyxl · requests · matplotlib · numpy · BLAST+ 2.17.0
 
 
-## Citation
-
-If you use MaizePathogenDB in your work, please cite:
-
-> [Authors]. ([Year]). MaizePathogenDB v1.0: A curated reference database for maize pathogen identification. *[Journal]*. DOI: [Figshare DOI]
-
-Replace [Authors], [Year], [Journal], and [Figshare DOI] with the final publication details.
-
 ---
 
 ## License
@@ -247,7 +239,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 - **GitHub repository**: [https://github.com/guifeng-gao/MaizePathogenDB](https://github.com/guifeng-gao/MaizePathogenDB)
 - **Web platform**: [https://guifeng-gao.github.io/MaizePathogenDB/web/](https://guifeng-gao.github.io/MaizePathogenDB/web/)
-- **Figshare dataset**: [DOI pending]
 
 ---
 
