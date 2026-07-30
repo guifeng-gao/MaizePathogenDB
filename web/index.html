@@ -164,10 +164,10 @@ footer a{color:#2F5496;text-decoration:none}
 <div class="stat-card"><div class="number">4</div><div class="label">BLAST Databases</div></div>
 </div>
 <div class="stats-grid" style="margin-top:16px">
-<div class="stat-card" style="cursor:pointer;border-left:3px solid #2F5496" onclick="showCatSpecies('Bacteria')"><div class="number">26</div><div class="label">Bacteria (16S rRNA)</div></div>
-<div class="stat-card" style="cursor:pointer;border-left:3px solid #C00000" onclick="showCatSpecies('Viruses')"><div class="number">25</div><div class="label">Viruses (Genomes)</div></div>
-<div class="stat-card" style="cursor:pointer;border-left:3px solid #548235" onclick="showCatSpecies('Fungi/Oomycetes')"><div class="number">62</div><div class="label">True Fungi (ITS)</div></div>
-<div class="stat-card" style="cursor:pointer;border-left:3px solid #BF8F00" onclick="showCatSpecies('Fungi/Oomycetes')"><div class="number">9</div><div class="label">Oomycetes (ITS)</div></div>
+<div class="stat-card" style="cursor:pointer;border-left:3px solid #2F5496" onclick="showCatSpecies('Bacteria')"><div class="number">30</div><div class="label">Bacteria (16S rRNA)</div></div>
+<div class="stat-card" style="cursor:pointer;border-left:3px solid #C00000" onclick="showCatSpecies('Viruses')"><div class="number">36</div><div class="label">Viruses (Genomes)</div></div>
+<div class="stat-card" style="cursor:pointer;border-left:3px solid #548235" onclick="showCatSpecies('Fungi')"><div class="number">146</div><div class="label">True Fungi (ITS)</div></div>
+<div class="stat-card" style="cursor:pointer;border-left:3px solid #BF8F00" onclick="showCatSpecies('Oomycetes')"><div class="number">33</div><div class="label">Oomycetes (ITS)</div></div>
 </div>
 <div id="info-species-list" style="margin-top:24px"></div>
 <div style="margin-top:24px">
@@ -252,7 +252,8 @@ function searchSequence(){
         for(var si=0;si<spp.length;si++){
             var tid=spp[si],fpl=FP[tid],m=0;
             for(var fi=0;fi<fpl.length;fi++){if(qkmers.has(fpl[fi]))m++}
-            if(m>0){var mt=META[tid]||{};scores.push({taxid:tid,score:m,pct:Math.min(100,(m/Math.min(50,fpl.length))*100),species:mt.s||'?',category:mt.c||'?',length:mt.l||0})}
+            if(m>0){var mt=META[tid]||{};
+scores.push({taxid:tid,score:m,pct:Math.min(100,(m/Math.min(50,fpl.length))*100),species:mt.s||'?',category:mt.c||'?',length:mt.l||0})}
         }
         scores.sort(function(a,b){return b.score-a.score});scores=scores.slice(0,20);
         var c=document.getElementById('seq-results-count'),d=document.getElementById('seq-results');
@@ -278,6 +279,9 @@ document.getElementById('submit-form').addEventListener('submit',function(e){
     btn.textContent='Submitting...';btn.disabled=true;
     setTimeout(function(){btn.textContent='Submitting...';},100);
 });
+</script>
+</body>
+</html>
 </script>
 </body>
 </html>
