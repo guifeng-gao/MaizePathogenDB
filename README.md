@@ -1,4 +1,4 @@
-# MaizePathogenDB v2.0
+# MaizePathogenDB
 
 **Curated Reference Database for Maize (*Zea mays* L.) Pathogen Identification**
 
