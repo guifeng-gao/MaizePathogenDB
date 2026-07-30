@@ -190,9 +190,9 @@ The complete NCBI lineage (kingdom → phylum → class → order → family →
 
 | Method | Bacteria | Viruses | Fungi/Oomycetes | Overall |
 |---|---|---|---|---|
-| Internal self-hit | 100% (63/63) | 100% (70/70) | 99.5% (190/191) | 99.8% (323/324) |
-| External (2025-2026) | 100% (10/10) | 100% (5/5) | 93.4% (57/61) | 94.7% (72/76) |
-| SILVA/UNITE cross-val | 95.0% (19/20) | N/A | 90.6% (58/64) | 91.7% (77/84) |
+| Internal self-hit | 100% (72/72) | 100% (96/96) | 99.5% (450/456) | 99.0% (618/624) |
+| External (2025-2026) | 90.9% (10/11) | 100% (8/8) | 94.0% (125/133) | 94.1% (143/152) |
+| SILVA/UNITE cross-val | 85.0% (17/20) | N/A | 82.8% (53/64) | 83.3% (70/84) |
 | vs NCBI-nt (n=200) | 100% (23/23) | 100% (32/32) | 98.6% (143/145) | 99.0% (198/200) |
 | Genus-level (external) | 100% | 100% | 95.1% | 96.1% |
 | Genus-level (SILVA/UNITE) | 95.0% | N/A | 96.9% | — |
