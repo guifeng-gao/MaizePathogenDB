@@ -1,8 +1,8 @@
-# MaizePathogenDB v1.0
+# MaizePathogenDB v2.0
 
 **Curated Reference Database for Maize (*Zea mays* L.) Pathogen Identification**
 
-A manually curated, multi-kingdom reference database of 122 maize-associated pathogen species with verified NCBI Taxonomy classifications and 324 marker gene sequences. The database is designed for taxonomic classification of metagenomic and amplicon sequencing data targeting the 16S rRNA gene (bacteria), ITS region (fungi and oomycetes), and complete or partial genomes (viruses).
+A manually curated, multi-kingdom reference database of 245 maize-associated pathogen species with verified NCBI Taxonomy classifications and 624 marker gene sequences. The database is designed for taxonomic classification of metagenomic and amplicon sequencing data targeting the 16S rRNA gene (bacteria), ITS region (fungi and oomycetes), and complete or partial genomes (viruses).
 
 ---
 
@@ -10,7 +10,7 @@ A manually curated, multi-kingdom reference database of 122 maize-associated pat
 
 | Attribute | Count |
 |---|---|
-| Total pathogen species | 122 |
+| Total pathogen species | 245 |
 | Marker gene sequences | 324 |
 | Species with sequences | 111 |
 | Sequence coverage | 91.0% (111/122) |
@@ -39,7 +39,7 @@ Four bacterial species (Spiroplasma kunkelii, Maize bushy stunt phytoplasma, Pse
 
 | File | Format | Contents |
 |---|---|---|
-| `data/maize_pathogens_all.fasta` | FASTA | All 324 marker gene sequences (merged) |
+| `data/maize_pathogens_all.fasta` | FASTA | All 624 marker gene sequences (merged) |
 | `data/maize_pathogens_bacteria.fasta` | FASTA | 63 bacterial 16S rRNA sequences |
 | `data/maize_pathogens_viruses.fasta` | FASTA | 70 viral genome sequences |
 | `data/maize_pathogens_fungi.fasta` | FASTA | 191 fungal and oomycete ITS sequences |

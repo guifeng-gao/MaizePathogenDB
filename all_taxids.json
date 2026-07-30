@@ -2,721 +2,1369 @@
   {
     "tax_id": "66269",
     "species": "Pantoea stewartii subsp. stewartii",
-    "disease_cn": "斯图尔特细菌性枯萎病/叶枯病",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "斯图尔特细菌性枯萎病/叶枯病"
   },
   {
     "tax_id": "31963",
     "species": "Clavibacter michiganensis subsp. nebraskensis",
-    "disease_cn": "高斯细菌性枯萎病/叶枯病",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "高斯细菌性枯萎病/叶枯病"
   },
   {
     "tax_id": "325776",
-    "species": "Xanthomonas vasicola pv. vasculorum",
-    "disease_cn": "细菌性条斑病",
-    "category": "bacteria"
+    "species": "Xanthomonas vasicola pv. Zeae/Xanthomonas campestrispv.zeae",
+    "category": "bacteria",
+    "disease_cn": "细菌性条斑病"
   },
   {
     "tax_id": "80867",
-    "species": "Acidovorax avenae subsp. avenae",
-    "disease_cn": "细菌性条纹病/红条病",
-    "category": "bacteria"
+    "species": "Paracidovorax avenae/Acidovorax avenae",
+    "category": "bacteria",
+    "disease_cn": "细菌性条纹病/红条病"
   },
   {
     "tax_id": "321",
     "species": "Pseudomonas syringae pv. syringae",
-    "disease_cn": "细菌性褐斑病 (Holcus spot)",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "细菌性褐斑病 (Holcus spot)"
   },
   {
     "tax_id": "28095",
     "species": "Burkholderia gladioli",
-    "disease_cn": "细菌性叶斑病/茎腐病",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "细菌性叶斑病/茎腐病"
   },
   {
     "tax_id": "204042",
     "species": "Dickeya zeae",
-    "disease_cn": "细菌性茎腐病",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "细菌性茎腐病"
   },
   {
     "tax_id": "204038",
     "species": "Dickeya dadantii",
-    "disease_cn": "细菌性茎腐病",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "细菌性茎腐病"
   },
   {
     "tax_id": "202462",
     "species": "Maize bushy stunt phytoplasma (MBSP)",
-    "disease_cn": "玉米丛矮病",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "玉米丛矮病"
   },
   {
     "tax_id": "85620",
     "species": "Candidatus Phytoplasma asteris (Aster yellows)",
-    "disease_cn": "翠菊黄化病（玉米红化病）",
-    "category": "bacteria"
-  },
-  {
-    "tax_id": "305",
-    "species": "Ralstonia solanacearum",
-    "disease_cn": "青枯病/细菌性枯萎病（偶侵染玉米）",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "翠菊黄化病（玉米红化病）"
   },
   {
     "tax_id": "549",
     "species": "Pantoea agglomerans",
-    "disease_cn": "细菌性茎腐病/叶斑病（条件致病）",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "细菌性茎腐病/叶斑病（条件致病）"
   },
   {
     "tax_id": "554",
-    "species": "Pectobacterium carotovorum",
-    "disease_cn": "细菌性茎腐病/软腐病",
-    "category": "bacteria"
+    "species": "Pectobacterium carotovorum/Erwinia carotovora",
+    "category": "bacteria",
+    "disease_cn": "细菌性茎腐病/软腐病/细菌性顶腐病"
   },
   {
     "tax_id": "47834",
     "species": "Spiroplasma kunkelii",
-    "disease_cn": "玉米矮化病 (Corn stunt)",
-    "category": "bacteria"
-  },
-  {
-    "tax_id": "550",
-    "species": "Enterobacter cloacae",
-    "disease_cn": "细菌性茎腐病（条件致病）",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "玉米矮化病 (Corn stunt)"
   },
   {
     "tax_id": "553",
     "species": "Pantoea ananatis",
-    "disease_cn": "细菌性叶斑病/茎腐病",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "细菌性叶斑病/茎腐病/细菌性白斑病"
   },
   {
     "tax_id": "615",
     "species": "Serratia marcescens",
-    "disease_cn": "细菌性茎腐病（条件致病）",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "细菌性茎腐病（条件致病）"
   },
   {
     "tax_id": "573",
     "species": "Klebsiella pneumoniae",
-    "disease_cn": "细菌性茎腐病（条件致病）",
-    "category": "bacteria"
-  },
-  {
-    "tax_id": "55212",
-    "species": "Erwinia rhapontici",
-    "disease_cn": "粉红种子病 (Pink seed)",
-    "category": "bacteria"
-  },
-  {
-    "tax_id": "1404",
-    "species": "Bacillus megaterium (Priestia megaterium)",
-    "disease_cn": "茎腐病相关菌（次生）",
-    "category": "bacteria"
-  },
-  {
-    "tax_id": "294",
-    "species": "Pseudomonas fluorescens",
-    "disease_cn": "苗枯病（部分菌株致病）",
-    "category": "bacteria"
-  },
-  {
-    "tax_id": "2035",
-    "species": "Curtobacterium flaccumfaciens pv. flaccumfaciens",
-    "disease_cn": "细菌性萎蔫病（偶侵染玉米）",
-    "category": "bacteria"
-  },
-  {
-    "tax_id": "1408",
-    "species": "Bacillus pumilus",
-    "disease_cn": "茎腐病/叶斑病（偶发）",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "细菌性茎腐病（条件致病）"
   },
   {
     "tax_id": "235275",
-    "species": "Pseudomonas syringae pv. coronafaciens",
-    "disease_cn": "晕斑病/叶斑病（偶侵染玉米）",
-    "category": "bacteria"
-  },
-  {
-    "tax_id": "1396",
-    "species": "Bacillus cereus",
-    "disease_cn": "茎腐病/叶斑病（偶发，机会性）",
-    "category": "bacteria"
+    "species": "Pseudomonas coronafaciens pv. Coronafaciens/ Pseudomonas syringae pv.coronafaciens/Pseudomonas coronafaciens pv.zeae",
+    "category": "bacteria",
+    "disease_cn": "晕斑病/叶斑病（偶侵染玉米）"
   },
   {
     "tax_id": "40324",
     "species": "Stenotrophomonas maltophilia",
-    "disease_cn": "茎腐病/叶斑病（偶发，条件致病）",
-    "category": "bacteria"
+    "category": "bacteria",
+    "disease_cn": "茎腐病/叶斑病（偶发，条件致病）"
+  },
+  {
+    "tax_id": "28092",
+    "species": "Robbsia andropogonis/Pseudomonas andropogonis",
+    "category": "bacteria",
+    "disease_cn": "叶斑病"
+  },
+  {
+    "tax_id": "53407",
+    "species": "Pseudomonas fuscovaginae / Pseudomonas asplenii",
+    "category": "bacteria",
+    "disease_cn": "鞘褐腐病"
+  },
+  {
+    "tax_id": "69896",
+    "species": "stolbur phytoplasma / Candidatus \nPhytoplasma solani",
+    "category": "bacteria",
+    "disease_cn": "红化病"
+  },
+  {
+    "tax_id": "550",
+    "species": "Enterobacter cloacae",
+    "category": "bacteria",
+    "disease_cn": "细菌性茎腐病（条件致病）"
+  },
+  {
+    "tax_id": "1408",
+    "species": "Bacillus pumilus",
+    "category": "bacteria",
+    "disease_cn": "茎腐病/叶斑病（偶发）"
+  },
+  {
+    "tax_id": "55212",
+    "species": "Erwinia rhapontici",
+    "category": "bacteria",
+    "disease_cn": "粉红种子病 (Pink seed)"
+  },
+  {
+    "tax_id": "1404",
+    "species": "Bacillus megaterium (Priestia megaterium)",
+    "category": "bacteria",
+    "disease_cn": "茎腐病相关菌（次生）"
+  },
+  {
+    "tax_id": "294",
+    "species": "Pseudomonas fluorescens",
+    "category": "bacteria",
+    "disease_cn": "苗枯病（部分菌株致病）"
+  },
+  {
+    "tax_id": "2035",
+    "species": "Curtobacterium flaccumfaciens pv. flaccumfaciens",
+    "category": "bacteria",
+    "disease_cn": "细菌性萎蔫病（偶侵染玉米）"
+  },
+  {
+    "tax_id": "1396",
+    "species": "Bacillus cereus",
+    "category": "bacteria",
+    "disease_cn": "茎腐病/叶斑病（偶发，机会性）"
+  },
+  {
+    "tax_id": "1423",
+    "species": "Bacillus subtilis",
+    "category": "bacteria",
+    "disease_cn": "种腐-苗枯病"
   },
   {
     "tax_id": "10821",
     "species": "Maize streak virus (MSV)",
-    "disease_cn": "玉米条纹病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米条纹病"
   },
   {
     "tax_id": "12203",
     "species": "Maize dwarf mosaic virus (MDMV)",
-    "disease_cn": "玉米矮花叶病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米矮花叶病"
   },
   {
     "tax_id": "12224",
     "species": "Sugarcane mosaic virus (SCMV)",
-    "disease_cn": "甘蔗花叶病（侵染玉米）",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "甘蔗花叶病（侵染玉米）"
   },
   {
     "tax_id": "12138",
     "species": "Maize chlorotic mottle virus (MCMV)",
-    "disease_cn": "玉米致死性坏死病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米致死性坏死病"
   },
   {
     "tax_id": "279896",
     "species": "Maize mosaic virus (MMV)",
-    "disease_cn": "玉米花叶病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米花叶病"
   },
   {
     "tax_id": "209854",
     "species": "Maize fine streak virus (MFSV)",
-    "disease_cn": "玉米细条斑病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米细条斑病"
   },
   {
     "tax_id": "10989",
     "species": "Maize rough dwarf virus (MRDV)",
-    "disease_cn": "玉米粗缩病（欧洲株系）",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米粗缩病（欧洲株系）"
   },
   {
     "tax_id": "59749",
     "species": "Maize rayado fino virus (MRFV)",
-    "disease_cn": "玉米雷亚多菲诺病毒病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米雷亚多菲诺病毒病"
   },
   {
     "tax_id": "51354",
     "species": "Maize chlorotic dwarf virus (MCDV)",
-    "disease_cn": "玉米褪绿矮缩病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米褪绿矮缩病"
   },
   {
     "tax_id": "31741",
     "species": "Wheat streak mosaic virus (WSMV)",
-    "disease_cn": "小麦条斑花叶病（侵染玉米）",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "小麦条斑花叶病（侵染玉米）"
   },
   {
     "tax_id": "10990",
     "species": "Rice black streaked dwarf virus (RBSDV) ★",
-    "disease_cn": "水稻黑条矮缩病毒（中国玉米粗缩病主要病原）★",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "水稻黑条矮缩病毒（中国玉米粗缩病主要病原）★"
   },
   {
     "tax_id": "3052767",
     "species": "Maize stripe virus (MSpV)",
-    "disease_cn": "玉米条纹叶枯病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米条纹叶枯病"
   },
   {
     "tax_id": "1980428",
     "species": "High Plains wheat mosaic virus (HPWMoV)",
-    "disease_cn": "高原病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "高原病"
   },
   {
     "tax_id": "31742",
     "species": "Johnsongrass mosaic virus (JGMV)",
-    "disease_cn": "约翰逊草花叶病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "约翰逊草花叶病"
   },
   {
     "tax_id": "519497",
     "species": "Southern rice black streaked dwarf virus (SRBSDV)",
-    "disease_cn": "南方水稻黑条矮缩病毒（侵染玉米）",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "南方水稻黑条矮缩病毒（侵染玉米）"
   },
   {
     "tax_id": "185954",
     "species": "Mal de Rio Cuarto virus (MRCV)",
-    "disease_cn": "里奥夸尔托病毒病（阿根廷玉米粗缩病）",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "里奥夸尔托病毒病（阿根廷玉米粗缩病）"
   },
   {
     "tax_id": "2170101",
     "species": "Maize yellow dwarf virus-RMV (MYDV-RMV)",
-    "disease_cn": "玉米黄矮病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米黄矮病"
   },
   {
     "tax_id": "2169984",
-    "species": "Barley yellow dwarf virus-MAV (BYDV-MAV)",
-    "disease_cn": "大麦黄矮病（侵染玉米）",
-    "category": "viruses"
+    "species": "Barley yellow dwarf virus-MAV (BYDV-MAV)  /  Maize leaf fleck virus",
+    "category": "viruses",
+    "disease_cn": "大麦黄矮病（侵染玉米）"
   },
   {
     "tax_id": "1856642",
     "species": "Maize yellow mosaic virus (MaYMV)",
-    "disease_cn": "玉米黄花叶病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米黄花叶病"
   },
   {
     "tax_id": "137556",
     "species": "Maize necrotic streak virus (MNeSV)",
-    "disease_cn": "玉米坏死条纹病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米坏死条纹病"
   },
   {
     "tax_id": "445227",
     "species": "Maize white line mosaic virus (MWLMV)",
-    "disease_cn": "玉米白线花叶病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米白线花叶病"
   },
   {
     "tax_id": "348823",
     "species": "Maize Iranian mosaic virus (MIMV)",
-    "disease_cn": "玉米伊朗花叶病",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "玉米伊朗花叶病"
   },
   {
     "tax_id": "2545470",
-    "species": "Maize sterile stunt virus (MSSV)",
-    "disease_cn": "玉米不育矮化病",
-    "category": "viruses"
+    "species": "Maize sterile stunt virus (MSSV)/Barley yellow striate \nmosaic virus",
+    "category": "viruses",
+    "disease_cn": "玉米不育矮化病"
   },
   {
     "tax_id": "32619",
     "species": "Sorghum mosaic virus (SrMV)",
-    "disease_cn": "高粱花叶病毒（偶侵染玉米）",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "高粱花叶病毒（偶侵染玉米）"
+  },
+  {
+    "tax_id": "2557970",
+    "species": "Maize streak dwarfing virus",
+    "category": "viruses",
+    "disease_cn": "玉米条纹矮缩病"
+  },
+  {
+    "tax_id": "221262",
+    "species": "Pennisetum Mosaic Virus",
+    "category": "viruses",
+    "disease_cn": "玉米矮花叶病"
+  },
+  {
+    "tax_id": "12327",
+    "species": "Barley stripe mosaic virus",
+    "category": "viruses",
+    "disease_cn": "玉米矮缩病毒病"
+  },
+  {
+    "tax_id": "12302",
+    "species": "Brome mosaic virus",
+    "category": "viruses",
+    "disease_cn": "玉米病毒性白斑病"
+  },
+  {
+    "tax_id": "2964312",
+    "species": "Cereal chlorotic mottle virus",
+    "category": "viruses",
+    "disease_cn": "玉米禾谷褪绿斑驳病"
+  },
+  {
+    "tax_id": "12305",
+    "species": "Cucumber mosaic virus",
+    "category": "viruses",
+    "disease_cn": "玉米条纹花叶病"
+  },
+  {
+    "tax_id": "115232",
+    "species": "Zea mosaic virus",
+    "category": "viruses",
+    "disease_cn": "玉米矮花叶病"
+  },
+  {
+    "tax_id": "328622",
+    "species": "Maize yellow stripe virus",
+    "category": "viruses",
+    "disease_cn": "玉米黄条病毒病"
+  },
+  {
+    "tax_id": "1182518",
+    "species": "Maize streak Reunion virus",
+    "category": "viruses",
+    "disease_cn": "玉米条斑花叶病"
+  },
+  {
+    "tax_id": "3052763",
+    "species": "Rice stripe virus / Tenuivirus oryzaclavatae",
+    "category": "viruses",
+    "disease_cn": "玉米褪绿条纹病"
   },
   {
     "tax_id": "1756285",
     "species": "Maize-associated totivirus",
-    "disease_cn": "持续性/潜伏感染（无明显病害症状）",
-    "category": "viruses"
+    "category": "viruses",
+    "disease_cn": "持续性/潜伏感染（无明显病害症状）"
   },
   {
     "tax_id": "117187",
     "species": "Fusarium verticillioides (Gibberella moniliformis)",
-    "disease_cn": "镰刀菌穗腐病/茎腐病/苗枯病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病/茎腐病/苗枯病"
   },
   {
     "tax_id": "5518",
     "species": "Fusarium graminearum (Gibberella zeae)",
-    "disease_cn": "赤霉病/赤霉穗腐病/茎腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "赤霉病/赤霉穗腐病/茎腐病"
   },
   {
     "tax_id": "948311",
     "species": "Fusarium proliferatum",
-    "disease_cn": "镰刀菌穗腐病/茎腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病/茎腐病"
   },
   {
     "tax_id": "42677",
     "species": "Fusarium subglutinans",
-    "disease_cn": "镰刀菌穗腐病/茎腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病/茎腐病"
   },
   {
     "tax_id": "1035347",
     "species": "Fusarium temperatum",
-    "disease_cn": "镰刀菌穗腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病"
   },
   {
     "tax_id": "5127",
     "species": "Gibberella fujikuroi (Fusarium fujikuroi)",
-    "disease_cn": "镰刀菌穗腐病/茎腐病（恶苗病类似）",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病/茎腐病（恶苗病类似）"
   },
   {
     "tax_id": "31870",
-    "species": "Colletotrichum graminicola",
-    "disease_cn": "炭疽病/炭疽茎腐病",
-    "category": "fungi"
+    "species": "Colletotrichum graminicola /Glomerella graminicola",
+    "category": "fungi",
+    "disease_cn": "炭疽病/炭疽茎腐病"
   },
   {
     "tax_id": "238245",
     "species": "Stenocarpella maydis (Diplodia maydis)",
-    "disease_cn": "色二孢穗腐病/茎腐病 (Diplodia ear/stalk rot)",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "色二孢穗腐病/茎腐病 (Diplodia ear/stalk rot)"
   },
   {
     "tax_id": "371126",
     "species": "Stenocarpella macrospora",
-    "disease_cn": "色二孢干穗腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "色二孢干穗腐病"
   },
   {
     "tax_id": "335854",
     "species": "Nigrospora oryzae (Khuskia oryzae)",
-    "disease_cn": "黑孢霉穗腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "黑孢霉穗腐病"
   },
   {
     "tax_id": "5046",
     "species": "Sarocladium strictum (Acremonium strictum)",
-    "disease_cn": "枝顶孢枯萎病/黑束病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "枝顶孢枯萎病/黑束病"
   },
   {
     "tax_id": "89175",
     "species": "Claviceps gigantea",
-    "disease_cn": "巨型麦角病 (Horse's tooth)",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "巨型麦角病 (Horse's tooth)"
   },
   {
     "tax_id": "318829",
     "species": "Pyricularia oryzae (Magnaporthe oryzae)",
-    "disease_cn": "稻瘟病（偶侵染玉米）",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "稻瘟病（偶侵染玉米）"
   },
   {
     "tax_id": "93612",
     "species": "Exserohilum turcicum (Setosphaeria turcica)",
-    "disease_cn": "玉米大斑病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米大斑病"
   },
   {
     "tax_id": "5016",
     "species": "Bipolaris maydis (Cochliobolus heterostrophus)",
-    "disease_cn": "玉米小斑病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米小斑病"
   },
   {
     "tax_id": "5017",
     "species": "Bipolaris zeicola (Cochliobolus carbonum)",
-    "disease_cn": "玉米圆斑病/北方叶斑病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米圆斑病/北方叶斑病"
   },
   {
     "tax_id": "135779",
     "species": "Cercospora zeae-maydis",
-    "disease_cn": "玉米灰斑病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米灰斑病"
   },
   {
     "tax_id": "35725",
     "species": "Macrophomina phaseolina",
-    "disease_cn": "炭腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "炭腐病"
   },
   {
     "tax_id": "259522",
-    "species": "Didymella maydis (Phaeosphaeria maydis, Phyllosticta maydis)",
-    "disease_cn": "褐斑病/Phaeosphaeria叶斑病",
-    "category": "fungi"
+    "species": "Didymella maydis (Phyllosticta maydis)",
+    "category": "fungi",
+    "disease_cn": "褐斑病/Phaeosphaeria叶斑病"
   },
   {
     "tax_id": "5059",
     "species": "Aspergillus flavus",
-    "disease_cn": "黄曲霉穗腐病（黄曲霉毒素污染）",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "黄曲霉穗腐病（黄曲霉毒素污染）"
   },
   {
     "tax_id": "5061",
     "species": "Aspergillus niger",
-    "disease_cn": "黑曲霉穗腐病/黑霉病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "黑曲霉穗腐病/黑霉病"
   },
   {
     "tax_id": "69781",
     "species": "Penicillium oxalicum",
-    "disease_cn": "青霉穗腐病/蓝眼病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "青霉穗腐病/蓝眼病"
   },
   {
     "tax_id": "5270",
     "species": "Mycosarcoma maydis (Ustilago maydis)",
-    "disease_cn": "玉米黑粉病/瘤黑粉病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米黑粉病/瘤黑粉病"
   },
   {
     "tax_id": "72558",
     "species": "Sporisorium reilianum (Sphacelotheca reiliana)",
-    "disease_cn": "玉米丝黑穗病/头黑粉病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米丝黑穗病/头黑粉病"
   },
   {
     "tax_id": "27349",
     "species": "Puccinia sorghi",
-    "disease_cn": "玉米普通锈病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米普通锈病"
   },
   {
     "tax_id": "684837",
     "species": "Puccinia polysora",
-    "disease_cn": "玉米南方锈病/多堆柄锈菌病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米南方锈病/多堆柄锈菌病"
   },
   {
     "tax_id": "456999",
     "species": "Rhizoctonia solani (Thanatephorus cucumeris)",
-    "disease_cn": "玉米纹枯病/鞘枯病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米纹枯病/鞘枯病"
   },
   {
     "tax_id": "39291",
     "species": "Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)",
-    "disease_cn": "白绢病/菌核病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "白绢病/菌核病"
   },
   {
     "tax_id": "1592451",
     "species": "Kabatiella zeae (Aureobasidium zeae)",
-    "disease_cn": "玉米眼斑病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米眼斑病"
   },
   {
     "tax_id": "276838",
     "species": "Physoderma maydis",
-    "disease_cn": "玉米褐斑病/节壶菌病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "玉米褐斑病/节壶菌病"
   },
   {
     "tax_id": "29918",
     "species": "Cladosporium herbarum",
-    "disease_cn": "枝孢霉穗腐病/叶斑病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "枝孢霉穗腐病/叶斑病"
   },
   {
     "tax_id": "67620",
     "species": "Graphium penicillioides",
-    "disease_cn": "粘束孢茎腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "粘束孢茎腐病"
   },
   {
     "tax_id": "1825666",
     "species": "Phyllachora maydis",
-    "disease_cn": "焦油斑病 (Tar spot)",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "焦油斑病 (Tar spot)"
   },
   {
     "tax_id": "65070",
     "species": "Pythium aphanidermatum",
-    "disease_cn": "腐霉茎腐病/猝倒病/根腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "腐霉茎腐病/猝倒病/根腐病"
   },
   {
     "tax_id": "82937",
     "species": "Pythium graminicola",
-    "disease_cn": "腐霉根腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "腐霉根腐病"
   },
   {
     "tax_id": "82932",
     "species": "Pythium arrhenomanes",
-    "disease_cn": "腐霉根腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "腐霉根腐病"
   },
   {
     "tax_id": "230839",
     "species": "Peronosclerospora sorghi",
-    "disease_cn": "高粱霜霉病（侵染玉米）",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "高粱霜霉病（侵染玉米）"
   },
   {
     "tax_id": "886949",
     "species": "Peronosclerospora maydis",
-    "disease_cn": "爪哇霜霉病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "爪哇霜霉病"
   },
   {
     "tax_id": "467176",
     "species": "Sclerophthora macrospora",
-    "disease_cn": "疯顶病/霜霉疯顶病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "疯顶病/霜霉疯顶病"
   },
   {
     "tax_id": "162130",
     "species": "Sclerospora graminicola",
-    "disease_cn": "禾谷类霜霉病（侵染玉米）",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "禾谷类霜霉病（侵染玉米）"
   },
   {
     "tax_id": "61235",
     "species": "Fusarium equiseti",
-    "disease_cn": "镰刀菌穗腐病/茎腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病/茎腐病"
   },
   {
     "tax_id": "5514",
     "species": "Fusarium sporotrichioides",
-    "disease_cn": "镰刀菌穗腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病"
   },
   {
     "tax_id": "36050",
     "species": "Fusarium poae",
-    "disease_cn": "镰刀菌穗腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病"
   },
   {
     "tax_id": "5516",
     "species": "Fusarium culmorum",
-    "disease_cn": "镰刀菌穗腐病/茎腐病/根腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病/茎腐病/根腐病"
   },
   {
     "tax_id": "40199",
     "species": "Fusarium avenaceum",
-    "disease_cn": "镰刀菌穗腐病/茎腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病/茎腐病"
   },
   {
     "tax_id": "5515",
     "species": "Fusarium acuminatum",
-    "disease_cn": "镰刀菌穗腐病（次要）",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病（次要）"
   },
   {
     "tax_id": "5503",
     "species": "Curvularia lunata (Cochliobolus lunatus)",
-    "disease_cn": "弯孢霉叶斑病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "弯孢霉叶斑病"
   },
   {
     "tax_id": "45130",
     "species": "Bipolaris sorokiniana (Cochliobolus sativus)",
-    "disease_cn": "普通根腐病/叶斑病/苗枯病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "普通根腐病/叶斑病/苗枯病"
   },
   {
     "tax_id": "1659837",
     "species": "Exserohilum rostratum (Setosphaeria rostrata)",
-    "disease_cn": "突脐蠕孢叶斑病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "突脐蠕孢叶斑病"
   },
   {
     "tax_id": "5599",
     "species": "Alternaria alternata",
-    "disease_cn": "链格孢叶枯病/叶斑病",
-    "category": "fungi"
-  },
-  {
-    "tax_id": "55169",
-    "species": "Botryosphaeria dothidea",
-    "disease_cn": "葡萄座腔菌穗腐病/茎溃疡病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "链格孢叶枯病/叶斑病"
   },
   {
     "tax_id": "47278",
-    "species": "Trichothecium roseum",
-    "disease_cn": "粉红穗腐病/粉红霉病",
-    "category": "fungi"
+    "species": "Trichoderma roseum /Trichothecium roseum",
+    "category": "fungi",
+    "disease_cn": "粉红穗腐病/粉红霉病"
   },
   {
     "tax_id": "4846",
     "species": "Rhizopus stolonifer",
-    "disease_cn": "根霉穗腐病/储藏霉病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "根霉穗腐病/储藏霉病"
   },
   {
     "tax_id": "105696",
     "species": "Epicoccum nigrum",
-    "disease_cn": "附球菌叶斑病/穗霉病（次要）",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "附球菌叶斑病/穗霉病（次要）"
   },
   {
     "tax_id": "1036732",
-    "species": "Sarocladium zeae",
-    "disease_cn": "鞘腐病/茎腐病",
-    "category": "fungi"
+    "species": "Sarocladium zeae/Acremonium zeae",
+    "category": "fungi",
+    "disease_cn": "鞘腐病/茎腐病"
   },
   {
     "tax_id": "418126",
     "species": "Cochliobolus geniculatus (Curvularia geniculata)",
-    "disease_cn": "叶斑病（次要）",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "叶斑病（次要）"
   },
   {
     "tax_id": "36080",
     "species": "Mucor circinelloides",
-    "disease_cn": "毛霉穗腐病/储藏霉病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "毛霉穗腐病/储藏霉病"
   },
   {
     "tax_id": "298378",
     "species": "Fusarium incarnatum (F. semitectum)",
-    "disease_cn": "镰刀菌茎腐病/穗腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌茎腐病/穗腐病"
   },
   {
     "tax_id": "169388",
     "species": "Fusarium solani (Neocosmospora solani)",
-    "disease_cn": "镰刀菌根腐病/茎腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌根腐病/茎腐病"
   },
   {
     "tax_id": "520446",
     "species": "Fusarium andiyazi",
-    "disease_cn": "镰刀菌穗腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "镰刀菌穗腐病"
   },
   {
     "tax_id": "282267",
     "species": "Fusarium asiaticum",
-    "disease_cn": "赤霉穗腐病/茎腐病（亚洲）",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "赤霉穗腐病/茎腐病（亚洲）"
   },
   {
     "tax_id": "101028",
     "species": "Fusarium pseudograminearum",
-    "disease_cn": "冠腐病/茎腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "冠腐病/茎腐病"
   },
   {
     "tax_id": "282269",
     "species": "Fusarium meridionale",
-    "disease_cn": "赤霉穗腐病（南美洲）",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "赤霉穗腐病（南美洲）"
   },
   {
     "tax_id": "749593",
     "species": "Phoma sorghina (Epicoccum sorghinum)",
-    "disease_cn": "茎点霉叶斑病/茎腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "茎点霉叶斑病/茎腐病"
   },
   {
     "tax_id": "36923",
     "species": "Diaporthe phaseolorum (Phomopsis)",
-    "disease_cn": "拟茎点霉穗腐/茎腐",
-    "category": "fungi"
-  },
-  {
-    "tax_id": "5180",
-    "species": "Sclerotinia sclerotiorum",
-    "disease_cn": "菌核病/白霉病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "拟茎点霉穗腐/茎腐"
   },
   {
     "tax_id": "40559",
     "species": "Botrytis cinerea",
-    "disease_cn": "灰霉病/灰霉穗腐",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "灰霉病/灰霉穗腐"
   },
   {
     "tax_id": "2052682",
     "species": "Pythium ultimum",
-    "disease_cn": "腐霉根腐/猝倒病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "腐霉根腐/猝倒病"
+  },
+  {
+    "tax_id": "65069",
+    "species": "Pythium acanthicum",
+    "category": "fungi",
+    "disease_cn": "玉米根腐苗枯病"
+  },
+  {
+    "tax_id": "289596",
+    "species": "Pythium adhaerens",
+    "category": "fungi",
+    "disease_cn": "玉米根腐苗枯病"
+  },
+  {
+    "tax_id": "36331",
+    "species": "Globisporangium irregulare （Pythium irregulare）",
+    "category": "fungi",
+    "disease_cn": "玉米根腐苗枯病"
+  },
+  {
+    "tax_id": "2711123",
+    "species": "Globisporangium rostratum （Pythium rostratum ）",
+    "category": "fungi",
+    "disease_cn": "玉米根腐苗枯病"
+  },
+  {
+    "tax_id": "5507",
+    "species": "Fusarium oxysporum",
+    "category": "fungi",
+    "disease_cn": "玉米根腐苗枯病"
+  },
+  {
+    "tax_id": "27334",
+    "species": "Penicillium expansum",
+    "category": "fungi",
+    "disease_cn": "青霉穗腐病/蓝眼病"
+  },
+  {
+    "tax_id": "82938",
+    "species": "Pythium inflatum",
+    "category": "fungi",
+    "disease_cn": "玉米茎基腐病/青枯病"
+  },
+  {
+    "tax_id": "798162",
+    "species": "Setophoma terrestris （Phoma terrestris/Pyrenochaeta terrestris ）",
+    "category": "fungi",
+    "disease_cn": "红根腐病"
+  },
+  {
+    "tax_id": "64495",
+    "species": "Rhizopus arrhizus",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "49569",
+    "species": "Waitea zeae （Rhizoctonia zeae）",
+    "category": "fungi",
+    "disease_cn": "玉米纹枯病"
+  },
+  {
+    "tax_id": "76351",
+    "species": "Ceratobasidium cereale （Rhizoctonia cerealis）",
+    "category": "fungi",
+    "disease_cn": "锐眼斑病"
+  },
+  {
+    "tax_id": "886948",
+    "species": "Peronosclerospora philippinensis",
+    "category": "fungi",
+    "disease_cn": "霜霉病"
+  },
+  {
+    "tax_id": "348901",
+    "species": "Cercospora zeina",
+    "category": "fungi",
+    "disease_cn": "灰斑病"
+  },
+  {
+    "tax_id": "161743",
+    "species": "Cercospora sorghi var. maydis",
+    "category": "fungi",
+    "disease_cn": "灰斑病"
+  },
+  {
+    "tax_id": "5547",
+    "species": "Trichoderma viride",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "5544",
+    "species": "Trichoderma harzianum",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "1567482",
+    "species": "Trichoderma afroharzianum",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "5076",
+    "species": "Penicillium chrysogenum",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "29917",
+    "species": "Cladosporium cladosporioides",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "1608309",
+    "species": "Eutiarosporella dactylidis",
+    "category": "fungi",
+    "disease_cn": "真小孢帽菌叶枯病"
+  },
+  {
+    "tax_id": "119927",
+    "species": "Alternaria tenuissima",
+    "category": "fungi",
+    "disease_cn": "叶斑病"
+  },
+  {
+    "tax_id": "1187904",
+    "species": "Alternaria burnsii",
+    "category": "fungi",
+    "disease_cn": "叶斑病"
+  },
+  {
+    "tax_id": "29850",
+    "species": "Gaeumannomyces graminis",
+    "category": "fungi",
+    "disease_cn": "玉米全蚀病"
+  },
+  {
+    "tax_id": "231958",
+    "species": "Pythium debaryanum /Globisporangium debaryanum",
+    "category": "fungi",
+    "disease_cn": "种腐病/苗枯病/根腐病"
+  },
+  {
+    "tax_id": "2125995",
+    "species": "Pythium paroecandrum/ Globisporangium paroecandrum",
+    "category": "fungi",
+    "disease_cn": "种腐病"
+  },
+  {
+    "tax_id": "2125998",
+    "species": "Pythium spinosum /Globisporangium spinosum",
+    "category": "fungi",
+    "disease_cn": "种腐病"
+  },
+  {
+    "tax_id": "82926",
+    "species": "Pythium splendens/Globisporangium splendens",
+    "category": "fungi",
+    "disease_cn": "苗枯病/根腐病"
+  },
+  {
+    "tax_id": "1277646",
+    "species": "Pythium schmitthenneri / Globisporangium schmitthenneri",
+    "category": "fungi",
+    "disease_cn": "苗枯病"
+  },
+  {
+    "tax_id": "119929",
+    "species": "Helminthosporium pedicellatum/Exserohilum pedicellatum",
+    "category": "fungi",
+    "disease_cn": "根腐病"
+  },
+  {
+    "tax_id": "61284",
+    "species": "Fusarium tricinctum",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "1577605",
+    "species": "Phialophora radicicola / Gaeumannomyces radicicola",
+    "category": "fungi",
+    "disease_cn": "根腐病"
+  },
+  {
+    "tax_id": "115420",
+    "species": "Pythium pulchrum / Globisporangium pulchrum",
+    "category": "fungi",
+    "disease_cn": "根腐病"
+  },
+  {
+    "tax_id": "82950",
+    "species": "Pythium sylvaticum / Globisporangium sylvaticum",
+    "category": "fungi",
+    "disease_cn": "种腐病/根腐病"
+  },
+  {
+    "tax_id": "196109",
+    "species": "Microdochium bolleyi",
+    "category": "fungi",
+    "disease_cn": "根腐病"
+  },
+  {
+    "tax_id": "126844",
+    "species": "Pythium helicoides / Phytopythium helicoides",
+    "category": "fungi",
+    "disease_cn": "茎腐病"
+  },
+  {
+    "tax_id": "289618",
+    "species": "Pythium lutarium",
+    "category": "fungi",
+    "disease_cn": "根腐病"
+  },
+  {
+    "tax_id": "4799",
+    "species": "Pythium torulosum",
+    "category": "fungi",
+    "disease_cn": "根腐病"
+  },
+  {
+    "tax_id": "49224",
+    "species": "Trichoderma hamatum",
+    "category": "fungi",
+    "disease_cn": "第一节间病斑"
+  },
+  {
+    "tax_id": "97093",
+    "species": "Trichoderma koningii",
+    "category": "fungi",
+    "disease_cn": "第一节间病斑"
+  },
+  {
+    "tax_id": "1203437",
+    "species": "Curvularia aeria / Curvularia lunata var. aeria",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "91365",
+    "species": "Curvularia australiensis",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "95742",
+    "species": "Curvularia clavata",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "418125",
+    "species": "Curvularia eragrostidis",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "38902",
+    "species": "Curvularia inaequalis / Helminthosporium inaequale",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "95735",
+    "species": "Curvularia intermedia / Cochliobolus intermedius",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "318706",
+    "species": "Curvularia pallescens",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "215132",
+    "species": "Curvularia senegalensis / Brachysporium senegalense",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "1056642",
+    "species": "Curvularia tuberculata  / Cochliobolus tuberculatus",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "145392",
+    "species": "Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "39953",
+    "species": "Exserohilum prolatum / Setosphaeria prolata",
+    "category": "fungi",
+    "disease_cn": "叶斑病"
+  },
+  {
+    "tax_id": "318710",
+    "species": "Leptosphaerulina australis",
+    "category": "fungi",
+    "disease_cn": "叶斑病"
+  },
+  {
+    "tax_id": "1682391",
+    "species": "Gloeocercospora sorghi / Microdochium sorghi",
+    "category": "fungi",
+    "disease_cn": "豹纹病"
+  },
+  {
+    "tax_id": "1081076",
+    "species": "Peronosclerospora miscanthi",
+    "category": "fungi",
+    "disease_cn": "裂叶霜霉病"
+  },
+  {
+    "tax_id": "467162",
+    "species": "Peronosclerospora heteropogonis",
+    "category": "fungi",
+    "disease_cn": "拉贾斯坦霜霉病"
+  },
+  {
+    "tax_id": "467161",
+    "species": "Peronosclerospora sacchari",
+    "category": "fungi",
+    "disease_cn": "禾黍霜霉病"
+  },
+  {
+    "tax_id": "41413",
+    "species": "Aspergillus glaucus",
+    "category": "fungi",
+    "disease_cn": "曲霉穗腐病"
+  },
+  {
+    "tax_id": "5067",
+    "species": "Aspergillus parasiticus",
+    "category": "fungi",
+    "disease_cn": "曲霉穗腐病"
+  },
+  {
+    "tax_id": "45133",
+    "species": "Lasiodiplodia theobromae / Botryodiplodia tubericola",
+    "category": "fungi",
+    "disease_cn": "穗黑腐病"
+  },
+  {
+    "tax_id": "1159556",
+    "species": "Ustilaginoidea virens",
+    "category": "fungi",
+    "disease_cn": "假黑粉病"
+  },
+  {
+    "tax_id": "57143",
+    "species": "Fusarium camptoceras",
+    "category": "fungi",
+    "disease_cn": "穗腐病/茎腐病"
+  },
+  {
+    "tax_id": "86545",
+    "species": "Fusarium chlamydosporum",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "48491",
+    "species": "Fusarium concentricum",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "56665",
+    "species": "Fusarium kyushuense",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "42676",
+    "species": "Fusarium sacchari",
+    "category": "fungi",
+    "disease_cn": "茎腐病"
+  },
+  {
+    "tax_id": "282271",
+    "species": "Fusarium boothii",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "56641",
+    "species": "Fusarium cerealis  / Fusarium crookwellense",
+    "category": "fungi",
+    "disease_cn": "穗腐病/茎腐病"
+  },
+  {
+    "tax_id": "60167",
+    "species": "Penicillium cyclopium",
+    "category": "fungi",
+    "disease_cn": "青霉穗腐病"
+  },
+  {
+    "tax_id": "28572",
+    "species": "Penicillium funiculosum / Talaromyces funiculosus",
+    "category": "fungi",
+    "disease_cn": "青霉穗腐病"
+  },
+  {
+    "tax_id": "60134",
+    "species": "Penicillium viridicatum",
+    "category": "fungi",
+    "disease_cn": "青霉穗腐病"
+  },
+  {
+    "tax_id": "101201",
+    "species": "Trichoderma asperellum",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "3021703",
+    "species": "Marasmiellus inoderma",
+    "category": "fungi",
+    "disease_cn": "茎腐病"
+  },
+  {
+    "tax_id": "160937",
+    "species": "Marasmius graminum var. brevispora / Marasmius graminum",
+    "category": "fungi",
+    "disease_cn": "根腐/茎腐病"
+  },
+  {
+    "tax_id": "2075139",
+    "species": "Marasmius sacchari var. hawaiiensis / Marasmius sacchar",
+    "category": "fungi",
+    "disease_cn": "根腐/茎腐病"
+  },
+  {
+    "tax_id": "935936",
+    "species": "Phaeocytostroma ambiguum",
+    "category": "fungi",
+    "disease_cn": "茎腐病"
+  },
+  {
+    "tax_id": "140044",
+    "species": "Pythium aristosporum",
+    "category": "fungi",
+    "disease_cn": "茎腐病"
+  },
+  {
+    "tax_id": "27338",
+    "species": "Sordaria fimicola",
+    "category": "fungi",
+    "disease_cn": "茎腐病"
+  },
+  {
+    "tax_id": "255602",
+    "species": "Trichoderma ovalisporum",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "228353",
+    "species": "Talaromyces radicus",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "1682390",
+    "species": "Microdochium seminicola",
+    "category": "fungi",
+    "disease_cn": "焦斑病"
+  },
+  {
+    "tax_id": "226117",
+    "species": "Myrothecium gramineum /Xepiculopsis graminea",
+    "category": "fungi",
+    "disease_cn": "苞叶腐烂病"
+  },
+  {
+    "tax_id": "60171",
+    "species": "Penicillium verrucosum",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "78864",
+    "species": "Fusarium globosum",
+    "category": "fungi",
+    "disease_cn": ""
+  },
+  {
+    "tax_id": "42672",
+    "species": "Fusarium napiforme",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
+  },
+  {
+    "tax_id": "47755",
+    "species": "Fusarium pseudonygamai",
+    "category": "fungi",
+    "disease_cn": "穗腐病/茎腐病"
+  },
+  {
+    "tax_id": "5062",
+    "species": "Aspergillus oryzae",
+    "category": "fungi",
+    "disease_cn": "曲霉穗腐病"
+  },
+  {
+    "tax_id": "487631",
+    "species": "Didymella exitialis / Neoascochyta exitialis",
+    "category": "fungi",
+    "disease_cn": "叶斑病"
+  },
+  {
+    "tax_id": "33175",
+    "species": "Phaeosphaeria herpotricha / Ophiosphaerella herpotricha",
+    "category": "fungi",
+    "disease_cn": "叶斑病"
+  },
+  {
+    "tax_id": "125373",
+    "species": "Paraphaeosphaeria michotii / Sphaeria michotii",
+    "category": "fungi",
+    "disease_cn": "焦斑病"
+  },
+  {
+    "tax_id": "1230527",
+    "species": "Helminthosporium hawaiiensis / Curvularia hawaiiensis",
+    "category": "fungi",
+    "disease_cn": "弯孢叶斑病"
+  },
+  {
+    "tax_id": "13001",
+    "species": "Ceratocystis paradoxa/Thielaviopsis paradoxa",
+    "category": "fungi",
+    "disease_cn": "长喙壳叶斑病"
+  },
+  {
+    "tax_id": "907947",
+    "species": "Pythium vexans/Phytopythium vexans",
+    "category": "fungi",
+    "disease_cn": "种腐病/苗枯病/根腐病"
+  },
+  {
+    "tax_id": "289598",
+    "species": "Pythium angustatum",
+    "category": "fungi",
+    "disease_cn": "根腐病"
+  },
+  {
+    "tax_id": "2713053",
+    "species": "Gonatobotrys simplex",
+    "category": "fungi",
+    "disease_cn": "种腐病"
+  },
+  {
+    "tax_id": "41984",
+    "species": "Aspergillus tamarii",
+    "category": "fungi",
+    "disease_cn": "种腐病"
+  },
+  {
+    "tax_id": "55169",
+    "species": "Botryosphaeria dothidea",
+    "category": "fungi",
+    "disease_cn": "葡萄座腔菌穗腐病/茎溃疡病"
+  },
+  {
+    "tax_id": "5180",
+    "species": "Sclerotinia sclerotiorum",
+    "category": "fungi",
+    "disease_cn": "菌核病/白霉病"
   },
   {
     "tax_id": "4785",
     "species": "Phytophthora cinnamomi",
-    "disease_cn": "疫霉根腐病",
-    "category": "fungi"
+    "category": "fungi",
+    "disease_cn": "疫霉根腐病"
+  },
+  {
+    "tax_id": "337941",
+    "species": "Trichoderma koningiopsis",
+    "category": "fungi",
+    "disease_cn": "穗腐病"
   }
 ]
