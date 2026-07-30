@@ -13,7 +13,7 @@ A manually curated, multi-kingdom reference database of 245 maize-associated pat
 | Total pathogen species | 245 |
 | Marker gene sequences | 624 |
 | Species with sequences | 214/228 |
-| Sequence coverage | 91.0% (111/122) |
+| Sequence coverage | 87.3% (214/245) |
 | BLAST nucleotide databases | 4 (all, bacteria, viruses, fungi) |
 | Taxonomic groups covered | 4 kingdoms (Bacteria, Fungi, Oomycota, Viruses) |
 | Marker genes | 16S rRNA, ITS region, viral complete genomes |
@@ -22,14 +22,14 @@ A manually curated, multi-kingdom reference database of 245 maize-associated pat
 
 | Group | Species | Sequences | Marker Gene | Avg Length | Coverage |
 |---|---|---|---|---|---|
-| Bacteria | 26 | 63 | 16S rRNA | 1,338 bp | 84.6% (22/26) |
-| Viruses | 25 | 70 | Complete genome | 6,470 bp | 100% (25/25) |
-| True Fungi | 62 | 181 | ITS region | 594 bp | 95.2% (59/62) |
-| Oomycetes | 9 | 10 | ITS region | 815 bp | 55.6% (5/9) |
+| Bacteria | 30 | 72 | 16S rRNA | 1,350 bp | 83.3% (25/30) |
+| Viruses | 36 | 96 | Complete genome | 6,200 bp | 94.4% (34/36) |
+| True Fungi | 146 | 456 | ITS region | 590 bp | 86.6% (131/146) |
+| Oomycetes | 33 | 456 | ITS region | 800 bp | 72.7% (24/33) |
 
-### Species without Sequences (11)
+### Species without Sequences (31)
 
-Four bacterial species (Spiroplasma kunkelii, Maize bushy stunt phytoplasma, Pseudomonas syringae pv. coronafaciens, Xanthomonas vasicola pv. vasculorum), three true fungi (Fusarium temperatum, Harpophora maydis, Magnaporthiopsis maydis), and four oomycetes (Peronosclerospora sorghi, Peronosclerospora maydis, Sclerophthora macrospora, Sclerospora graminicola) lack publicly available marker gene sequences in NCBI GenBank at the time of database construction.
+5 bacterial species (Xanthomonas vasicola pv. Zeae/Xanthomonas campestr, Maize bushy stunt phytoplasma (MBSP), Spiroplasma kunkelii, and 2 more), 2 viral species (American wheat striate mosaic virus / Wheat Americ, Zea mosaic virus), 15 true fungi (Fusarium temperatum, Harpophora maydis (Cephalosporium maydis/Magnaport, Ascochyta zeae, Hyalothyridium maydis / Orphanocoela maydis, Physopella pallescens / Phakopsora pallescens, and 10 more), and 9 oomycetes (Peronosclerospora sorghi, Peronosclerospora maydis, Sclerophthora macrospora, and 6 more) lack publicly available marker gene sequences in NCBI GenBank at the time of database construction.
 
 ---
 
