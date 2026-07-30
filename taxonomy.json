@@ -416,8 +416,8 @@
     "family": "双生病毒科 Geminiviridae",
     "genus": "Mastrevirus",
     "taxid": "10821",
-    "category": "Virus",
-    "keywords": "maize streak virus (msv) shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastrevirus maize streak virus maize streak disease 玉米条纹病"
+    "category": "Viruses",
+    "keywords": "maize streak viruseses (msv) shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastreviruses maize streak viruseses maize streak disease 玉米条纹病"
   },
   {
     "species": "Maize dwarf mosaic virus (MDMV)",
@@ -430,8 +430,8 @@
     "family": "马铃薯Y病毒科 Potyviridae",
     "genus": "Potyvirus",
     "taxid": "12203",
-    "category": "Virus",
-    "keywords": "maize dwarf mosaic virus (mdmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus maize dwarf mosaic virus maize dwarf mosaic 玉米矮花叶病"
+    "category": "Viruses",
+    "keywords": "maize dwarf mosaic viruseses (mdmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses maize dwarf mosaic viruseses maize dwarf mosaic 玉米矮花叶病"
   },
   {
     "species": "Sugarcane mosaic virus (SCMV)",
@@ -444,8 +444,8 @@
     "family": "马铃薯Y病毒科 Potyviridae",
     "genus": "Potyvirus",
     "taxid": "12224",
-    "category": "Virus",
-    "keywords": "sugarcane mosaic virus (scmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus sugarcane mosaic virus sugarcane mosaic (infects maize) 甘蔗花叶病（侵染玉米）"
+    "category": "Viruses",
+    "keywords": "sugarcane mosaic viruseses (scmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses sugarcane mosaic viruseses sugarcane mosaic (infects maize) 甘蔗花叶病（侵染玉米）"
   },
   {
     "species": "Maize chlorotic mottle virus (MCMV)",
@@ -458,8 +458,8 @@
     "family": "番茄丛矮病毒科 Tombusviridae",
     "genus": "Machlomovirus",
     "taxid": "12138",
-    "category": "Virus",
-    "keywords": "maize chlorotic mottle virus (mcmv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae machlomovirus maize chlorotic mottle virus maize lethal necrosis (synergistic) 玉米致死性坏死病"
+    "category": "Viruses",
+    "keywords": "maize chlorotic mottle viruseses (mcmv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae machlomoviruses maize chlorotic mottle viruseses maize lethal necrosis (synergistic) 玉米致死性坏死病"
   },
   {
     "species": "Maize mosaic virus (MMV)",
@@ -472,8 +472,8 @@
     "family": "弹状病毒科 Rhabdoviridae",
     "genus": "Alphanucleorhabdovirus",
     "taxid": "279896",
-    "category": "Virus",
-    "keywords": "maize mosaic virus (mmv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae alphanucleorhabdovirus maize mosaic virus maize mosaic 玉米花叶病"
+    "category": "Viruses",
+    "keywords": "maize mosaic viruseses (mmv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae alphanucleorhabdoviruses maize mosaic viruseses maize mosaic 玉米花叶病"
   },
   {
     "species": "Maize fine streak virus (MFSV)",
@@ -486,8 +486,8 @@
     "family": "弹状病毒科 Rhabdoviridae",
     "genus": "Gammanucleorhabdovirus",
     "taxid": "209854",
-    "category": "Virus",
-    "keywords": "maize fine streak virus (mfsv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae gammanucleorhabdovirus maize fine streak virus maize fine streak 玉米细条斑病"
+    "category": "Viruses",
+    "keywords": "maize fine streak viruseses (mfsv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae gammanucleorhabdoviruses maize fine streak viruseses maize fine streak 玉米细条斑病"
   },
   {
     "species": "Maize rough dwarf virus (MRDV)",
@@ -500,8 +500,8 @@
     "family": "刺突呼肠孤病毒科 Spinareoviridae",
     "genus": "Fijivirus",
     "taxid": "10989",
-    "category": "Virus",
-    "keywords": "maize rough dwarf virus (mrdv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijivirus maize rough dwarf virus maize rough dwarf disease 玉米粗缩病（欧洲株系）"
+    "category": "Viruses",
+    "keywords": "maize rough dwarf viruseses (mrdv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijiviruses maize rough dwarf viruseses maize rough dwarf disease 玉米粗缩病（欧洲株系）"
   },
   {
     "species": "Maize rayado fino virus (MRFV)",
@@ -514,8 +514,8 @@
     "family": "芜菁黄花叶病毒科 Tymoviridae",
     "genus": "Marafivirus",
     "taxid": "59749",
-    "category": "Virus",
-    "keywords": "maize rayado fino virus (mrfv) orthornavirae kitrinoviricota alsuviricetes tymovirales 芜菁黄花叶病毒科 tymoviridae marafivirus maize rayado fino virus maize rayado fino 玉米雷亚多菲诺病毒病"
+    "category": "Viruses",
+    "keywords": "maize rayado fino viruseses (mrfv) orthornavirae kitrinoviricota alsuviricetes tymovirales 芜菁黄花叶病毒科 tymoviridae marafiviruses maize rayado fino viruseses maize rayado fino 玉米雷亚多菲诺病毒病"
   },
   {
     "species": "Maize chlorotic dwarf virus (MCDV)",
@@ -528,8 +528,8 @@
     "family": "伴生病毒科 Secoviridae",
     "genus": "Waikavirus",
     "taxid": "51354",
-    "category": "Virus",
-    "keywords": "maize chlorotic dwarf virus (mcdv) orthornavirae pisuviricota pisoniviricetes picornavirales 伴生病毒科 secoviridae waikavirus maize chlorotic dwarf virus maize chlorotic dwarf 玉米褪绿矮缩病"
+    "category": "Viruses",
+    "keywords": "maize chlorotic dwarf viruseses (mcdv) orthornavirae pisuviricota pisoniviricetes picornavirales 伴生病毒科 secoviridae waikaviruses maize chlorotic dwarf viruseses maize chlorotic dwarf 玉米褪绿矮缩病"
   },
   {
     "species": "Wheat streak mosaic virus (WSMV)",
@@ -542,8 +542,8 @@
     "family": "马铃薯Y病毒科 Potyviridae",
     "genus": "Tritimovirus",
     "taxid": "31741",
-    "category": "Virus",
-    "keywords": "wheat streak mosaic virus (wsmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae tritimovirus wheat streak mosaic virus wheat streak mosaic (infects maize) 小麦条斑花叶病（侵染玉米）"
+    "category": "Viruses",
+    "keywords": "wheat streak mosaic viruseses (wsmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae tritimoviruses wheat streak mosaic viruseses wheat streak mosaic (infects maize) 小麦条斑花叶病（侵染玉米）"
   },
   {
     "species": "Rice black streaked dwarf virus (RBSDV) ★",
@@ -556,8 +556,8 @@
     "family": "刺突呼肠孤病毒科 Spinareoviridae",
     "genus": "Fijivirus",
     "taxid": "10990",
-    "category": "Virus",
-    "keywords": "rice black streaked dwarf virus (rbsdv) ★ orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijivirus rice black streaked dwarf virus maize rough dwarf disease (china strain) 水稻黑条矮缩病毒（中国玉米粗缩病主要病原）★"
+    "category": "Viruses",
+    "keywords": "rice black streaked dwarf viruseses (rbsdv) ★ orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijiviruses rice black streaked dwarf viruseses maize rough dwarf disease (china strain) 水稻黑条矮缩病毒（中国玉米粗缩病主要病原）★"
   },
   {
     "species": "Maize stripe virus (MSpV)",
@@ -570,8 +570,8 @@
     "family": "白纤病毒科 Phenuiviridae",
     "genus": "Tenuivirus",
     "taxid": "3052767",
-    "category": "Virus",
-    "keywords": "maize stripe virus (mspv) orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuivirus maize stripe virus maize stripe disease 玉米条纹叶枯病"
+    "category": "Viruses",
+    "keywords": "maize stripe viruseses (mspv) orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuiviruses maize stripe viruseses maize stripe disease 玉米条纹叶枯病"
   },
   {
     "species": "High Plains wheat mosaic virus (HPWMoV)",
@@ -584,8 +584,8 @@
     "family": "无花果花叶病毒科 Fimoviridae",
     "genus": "Emaravirus",
     "taxid": "1980428",
-    "category": "Virus",
-    "keywords": "high plains wheat mosaic virus (hpwmov) orthornavirae negarnaviricota bunyaviricetes elliovirales 无花果花叶病毒科 fimoviridae emaravirus high plains wheat mosaic virus high plains disease 高原病"
+    "category": "Viruses",
+    "keywords": "high plains wheat mosaic viruseses (hpwmov) orthornavirae negarnaviricota bunyaviricetes elliovirales 无花果花叶病毒科 fimoviridae emaraviruses high plains wheat mosaic viruseses high plains disease 高原病"
   },
   {
     "species": "Johnsongrass mosaic virus (JGMV)",
@@ -598,8 +598,8 @@
     "family": "马铃薯Y病毒科 Potyviridae",
     "genus": "Potyvirus",
     "taxid": "31742",
-    "category": "Virus",
-    "keywords": "johnsongrass mosaic virus (jgmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus johnsongrass mosaic virus johnsongrass mosaic (infects maize) 约翰逊草花叶病"
+    "category": "Viruses",
+    "keywords": "johnsongrass mosaic viruseses (jgmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses johnsongrass mosaic viruseses johnsongrass mosaic (infects maize) 约翰逊草花叶病"
   },
   {
     "species": "Southern rice black streaked dwarf virus (SRBSDV)",
@@ -612,8 +612,8 @@
     "family": "刺突呼肠孤病毒科 Spinareoviridae",
     "genus": "Fijivirus",
     "taxid": "519497",
-    "category": "Virus",
-    "keywords": "southern rice black streaked dwarf virus (srbsdv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijivirus southern rice black streaked dwarf virus southern rice black streaked dwarf (infects maize) 南方水稻黑条矮缩病毒（侵染玉米）"
+    "category": "Viruses",
+    "keywords": "southern rice black streaked dwarf viruseses (srbsdv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijiviruses southern rice black streaked dwarf viruseses southern rice black streaked dwarf (infects maize) 南方水稻黑条矮缩病毒（侵染玉米）"
   },
   {
     "species": "Mal de Rio Cuarto virus (MRCV)",
@@ -626,8 +626,8 @@
     "family": "刺突呼肠孤病毒科 Spinareoviridae",
     "genus": "Fijivirus",
     "taxid": "185954",
-    "category": "Virus",
-    "keywords": "mal de rio cuarto virus (mrcv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijivirus mal de rio cuarto virus mal de rio cuarto disease (maize rough dwarf) 里奥夸尔托病毒病（阿根廷玉米粗缩病）"
+    "category": "Viruses",
+    "keywords": "mal de rio cuarto viruseses (mrcv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijiviruses mal de rio cuarto viruseses mal de rio cuarto disease (maize rough dwarf) 里奥夸尔托病毒病（阿根廷玉米粗缩病）"
   },
   {
     "species": "Maize yellow dwarf virus-RMV (MYDV-RMV)",
@@ -640,8 +640,8 @@
     "family": "南方菜豆花叶病毒科 Solemoviridae",
     "genus": "Polerovirus",
     "taxid": "2170101",
-    "category": "Virus",
-    "keywords": "maize yellow dwarf virus-rmv (mydv-rmv) orthornavirae pisuviricota pisoniviricetes sobelivirales 南方菜豆花叶病毒科 solemoviridae polerovirus maize yellow dwarf virus-rmv maize yellow dwarf 玉米黄矮病"
+    "category": "Viruses",
+    "keywords": "maize yellow dwarf viruses-rmv (mydv-rmv) orthornavirae pisuviricota pisoniviricetes sobelivirales 南方菜豆花叶病毒科 solemoviridae poleroviruses maize yellow dwarf viruses-rmv maize yellow dwarf 玉米黄矮病"
   },
   {
     "species": "Barley yellow dwarf virus-MAV (BYDV-MAV)  /  Maize leaf fleck virus",
@@ -654,8 +654,8 @@
     "family": "番茄丛矮病毒科 Tombusviridae",
     "genus": "Luteovirus",
     "taxid": "2169984",
-    "category": "Virus",
-    "keywords": "barley yellow dwarf virus-mav (bydv-mav)  /  maize leaf fleck virus orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae luteovirus bydv-mav barley yellow dwarf (infects maize) 大麦黄矮病（侵染玉米）"
+    "category": "Viruses",
+    "keywords": "barley yellow dwarf viruses-mav (bydv-mav)  /  maize leaf fleck viruseses orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae luteoviruses bydv-mav barley yellow dwarf (infects maize) 大麦黄矮病（侵染玉米）"
   },
   {
     "species": "Maize yellow mosaic virus (MaYMV)",
@@ -668,8 +668,8 @@
     "family": "南方菜豆花叶病毒科 Solemoviridae",
     "genus": "Polerovirus",
     "taxid": "1856642",
-    "category": "Virus",
-    "keywords": "maize yellow mosaic virus (maymv) orthornavirae pisuviricota pisoniviricetes sobelivirales 南方菜豆花叶病毒科 solemoviridae polerovirus maize yellow mosaic virus maize yellow mosaic 玉米黄花叶病"
+    "category": "Viruses",
+    "keywords": "maize yellow mosaic viruseses (maymv) orthornavirae pisuviricota pisoniviricetes sobelivirales 南方菜豆花叶病毒科 solemoviridae poleroviruses maize yellow mosaic viruseses maize yellow mosaic 玉米黄花叶病"
   },
   {
     "species": "Maize necrotic streak virus (MNeSV)",
@@ -682,8 +682,8 @@
     "family": "番茄丛矮病毒科 Tombusviridae",
     "genus": "Zeavirus",
     "taxid": "137556",
-    "category": "Virus",
-    "keywords": "maize necrotic streak virus (mnesv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae zeavirus maize necrotic streak virus maize necrotic streak 玉米坏死条纹病"
+    "category": "Viruses",
+    "keywords": "maize necrotic streak viruseses (mnesv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae zeaviruses maize necrotic streak viruseses maize necrotic streak 玉米坏死条纹病"
   },
   {
     "species": "Maize white line mosaic virus (MWLMV)",
@@ -696,8 +696,8 @@
     "family": "番茄丛矮病毒科 Tombusviridae",
     "genus": "Aureusvirus",
     "taxid": "445227",
-    "category": "Virus",
-    "keywords": "maize white line mosaic virus (mwlmv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae aureusvirus maize white line mosaic virus maize white line mosaic 玉米白线花叶病"
+    "category": "Viruses",
+    "keywords": "maize white line mosaic viruseses (mwlmv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae aureusviruses maize white line mosaic viruseses maize white line mosaic 玉米白线花叶病"
   },
   {
     "species": "Maize Iranian mosaic virus (MIMV)",
@@ -710,8 +710,8 @@
     "family": "弹状病毒科 Rhabdoviridae",
     "genus": "Alphanucleorhabdovirus",
     "taxid": "348823",
-    "category": "Virus",
-    "keywords": "maize iranian mosaic virus (mimv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae alphanucleorhabdovirus maize iranian mosaic virus maize iranian mosaic 玉米伊朗花叶病"
+    "category": "Viruses",
+    "keywords": "maize iranian mosaic viruseses (mimv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae alphanucleorhabdoviruses maize iranian mosaic viruseses maize iranian mosaic 玉米伊朗花叶病"
   },
   {
     "species": "Maize sterile stunt virus (MSSV)/Barley yellow striate \nmosaic virus",
@@ -724,8 +724,8 @@
     "family": "弹状病毒科 Rhabdoviridae",
     "genus": "Betacytorhabdovirus",
     "taxid": "2545470",
-    "category": "Virus",
-    "keywords": "maize sterile stunt virus (mssv)/barley yellow striate \nmosaic virus orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae betacytorhabdovirus maize sterile stunt virus maize sterile stunt 玉米不育矮化病"
+    "category": "Viruses",
+    "keywords": "maize sterile stunt viruseses (mssv)/barley yellow striate \nmosaic viruseses orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae betacytorhabdoviruses maize sterile stunt viruseses maize sterile stunt 玉米不育矮化病"
   },
   {
     "species": "Sorghum mosaic virus (SrMV)",
@@ -738,8 +738,8 @@
     "family": "马铃薯Y病毒科 Potyviridae",
     "genus": "Potyvirus",
     "taxid": "32619",
-    "category": "Virus",
-    "keywords": "sorghum mosaic virus (srmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus sorghum mosaic virus sorghum mosaic (may infect maize) 高粱花叶病毒（偶侵染玉米）"
+    "category": "Viruses",
+    "keywords": "sorghum mosaic viruseses (srmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses sorghum mosaic viruseses sorghum mosaic (may infect maize) 高粱花叶病毒（偶侵染玉米）"
   },
   {
     "species": "Maize streak dwarfing virus",
@@ -752,8 +752,8 @@
     "family": "双生病毒科 Geminiviridae",
     "genus": "Mastrevirus",
     "taxid": "2557970",
-    "category": "Virus",
-    "keywords": "maize streak dwarfing virus shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastrevirus maize streak dwarfing virus maize stripe dwarf virus 玉米条纹矮缩病"
+    "category": "Viruses",
+    "keywords": "maize streak dwarfing viruseses shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastreviruses maize streak dwarfing viruseses maize stripe dwarf viruseses 玉米条纹矮缩病"
   },
   {
     "species": "Pennisetum Mosaic Virus",
@@ -766,8 +766,8 @@
     "family": "马铃薯Y病毒科 Potyviridae",
     "genus": "Potyvirus",
     "taxid": "221262",
-    "category": "Virus",
-    "keywords": "pennisetum mosaic virus orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus pennisetum mosaic virus maize dwarf mosaic viruses 玉米矮花叶病"
+    "category": "Viruses",
+    "keywords": "pennisetum mosaic viruseses orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses pennisetum mosaic viruseses maize dwarf mosaic viruseses 玉米矮花叶病"
   },
   {
     "species": "Barley stripe mosaic virus",
@@ -780,8 +780,8 @@
     "family": "棒状病毒科 Virgaviridae",
     "genus": "Hordeivirus",
     "taxid": "12327",
-    "category": "Virus",
-    "keywords": "barley stripe mosaic virus orthornavirae kitrinoviricota alsuviricetes martellivirales 棒状病毒科 virgaviridae hordeivirus barley stripe mosaic virus barley stripe mosaic 玉米矮缩病毒病"
+    "category": "Viruses",
+    "keywords": "barley stripe mosaic viruseses orthornavirae kitrinoviricota alsuviricetes martellivirales 棒状病毒科 virgaviridae hordeiviruses barley stripe mosaic viruseses barley stripe mosaic 玉米矮缩病毒病"
   },
   {
     "species": "Brome mosaic virus",
@@ -794,8 +794,8 @@
     "family": "雀麦花叶病毒科 Bromoviridae",
     "genus": "Bromovirus",
     "taxid": "12302",
-    "category": "Virus",
-    "keywords": "brome mosaic virus orthornavirae kitrinoviricota alsuviricetes martellivirales 雀麦花叶病毒科 bromoviridae bromovirus brome mosaic virus brome mosaic 玉米病毒性白斑病"
+    "category": "Viruses",
+    "keywords": "brome mosaic viruseses orthornavirae kitrinoviricota alsuviricetes martellivirales 雀麦花叶病毒科 bromoviridae bromoviruses brome mosaic viruseses brome mosaic 玉米病毒性白斑病"
   },
   {
     "species": "Cereal chlorotic mottle virus",
@@ -808,8 +808,8 @@
     "family": "弹状病毒科 Rhabdoviridae",
     "genus": "Gammanucleorhabdovirus",
     "taxid": "2964312",
-    "category": "Virus",
-    "keywords": "cereal chlorotic mottle virus orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae gammanucleorhabdovirus cereal chlorotic mottle virus cereal chlorotic mottle 玉米禾谷褪绿斑驳病"
+    "category": "Viruses",
+    "keywords": "cereal chlorotic mottle viruseses orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae gammanucleorhabdoviruses cereal chlorotic mottle viruseses cereal chlorotic mottle 玉米禾谷褪绿斑驳病"
   },
   {
     "species": "Cucumber mosaic virus",
@@ -822,8 +822,8 @@
     "family": "雀麦花叶病毒科 Bromoviridae",
     "genus": "Cucumovirus",
     "taxid": "12305",
-    "category": "Virus",
-    "keywords": "cucumber mosaic virus orthornavirae kitrinoviricota alsuviricetes martellivirales 雀麦花叶病毒科 bromoviridae cucumovirus cucumber mosaic virus cucumber mosaic 玉米条纹花叶病"
+    "category": "Viruses",
+    "keywords": "cucumber mosaic viruseses orthornavirae kitrinoviricota alsuviricetes martellivirales 雀麦花叶病毒科 bromoviridae cucumoviruses cucumber mosaic viruseses cucumber mosaic 玉米条纹花叶病"
   },
   {
     "species": "Zea mosaic virus",
@@ -836,8 +836,8 @@
     "family": "马铃薯Y病毒科 Potyviridae",
     "genus": "Potyvirus",
     "taxid": "115232",
-    "category": "Virus",
-    "keywords": "zea mosaic virus orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus zea mosaic virus maize dwarf mosaic 玉米矮花叶病"
+    "category": "Viruses",
+    "keywords": "zea mosaic viruseses orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses zea mosaic viruseses maize dwarf mosaic 玉米矮花叶病"
   },
   {
     "species": "Maize yellow stripe virus",
@@ -850,8 +850,8 @@
     "family": "白纤病毒科 Phenuiviridae",
     "genus": "Tenuivirus",
     "taxid": "328622",
-    "category": "Virus",
-    "keywords": "maize yellow stripe virus orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuivirus maize yellow stripe virus maize yellow stripe 玉米黄条病毒病"
+    "category": "Viruses",
+    "keywords": "maize yellow stripe viruseses orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuiviruses maize yellow stripe viruseses maize yellow stripe 玉米黄条病毒病"
   },
   {
     "species": "Maize streak Reunion virus",
@@ -864,8 +864,8 @@
     "family": "双生病毒科 Geminiviridae",
     "genus": "Mastrevirus",
     "taxid": "1182518",
-    "category": "Virus",
-    "keywords": "maize streak reunion virus shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastrevirus maize streak reunion virus wheat streak mosaic 玉米条斑花叶病"
+    "category": "Viruses",
+    "keywords": "maize streak reunion viruseses shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastreviruses maize streak reunion viruseses wheat streak mosaic 玉米条斑花叶病"
   },
   {
     "species": "Rice stripe virus / Tenuivirus oryzaclavatae",
@@ -878,8 +878,8 @@
     "family": "白纤病毒科 Phenuiviridae",
     "genus": "Tenuivirus",
     "taxid": "3052763",
-    "category": "Virus",
-    "keywords": "rice stripe virus / tenuivirus oryzaclavatae orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuivirus rice stripe virus / tenuivirus oryzaclavatae rice stripe 玉米褪绿条纹病"
+    "category": "Viruses",
+    "keywords": "rice stripe viruseses / tenuiviruses oryzaclavatae orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuiviruses rice stripe viruseses / tenuiviruses oryzaclavatae rice stripe 玉米褪绿条纹病"
   },
   {
     "species": "Maize-associated totivirus",
@@ -892,8 +892,8 @@
     "family": "正整体病毒科 Orthototiviridae",
     "genus": "Totivirus",
     "taxid": "1756285",
-    "category": "Virus",
-    "keywords": "maize-associated totivirus orthornavirae duplornaviricota chrymotiviricetes ghabrivirales 正整体病毒科 orthototiviridae totivirus maize associated totivirus persistent/latent infection (no clear disease) 持续性/潜伏感染（无明显病害症状）"
+    "category": "Viruses",
+    "keywords": "maize-associated totiviruses orthornavirae duplornaviricota chrymotiviricetes ghabrivirales 正整体病毒科 orthototiviridae totiviruses maize associated totiviruses persistent/latent infection (no clear disease) 持续性/潜伏感染（无明显病害症状）"
   },
   {
     "species": "Fusarium verticillioides (Gibberella moniliformis)",
