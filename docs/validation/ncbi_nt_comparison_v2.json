@@ -1,0 +1,1832 @@
+{
+  "bacteria": {
+    "n": 23,
+    "db_correct": 23,
+    "ncbi_correct": 22,
+    "db_accuracy": 100.0,
+    "ncbi_accuracy": 95.7
+  },
+  "viruses": {
+    "n": 32,
+    "db_correct": 32,
+    "ncbi_correct": 28,
+    "db_accuracy": 100.0,
+    "ncbi_accuracy": 87.5
+  },
+  "fungi": {
+    "n": 145,
+    "db_correct": 143,
+    "ncbi_correct": 120,
+    "db_accuracy": 98.6,
+    "ncbi_accuracy": 82.8
+  },
+  "overall": {
+    "n": 200,
+    "db_correct": 198,
+    "ncbi_correct": 170,
+    "db_accuracy": 99.0,
+    "ncbi_accuracy": 85.0
+  },
+  "results": [
+    {
+      "species": "Bacillus megaterium (Priestia megaterium)",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Priestia megaterium strain _AGCM2409RS0433_2502050303Q.seq.Contig1 16S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pseudomonas syringae pv. syringae",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.79716024340772,
+      "ncbi_top": "Pseudomonas amygdali pv. mellea strain NCSU_AHP148 chromosome, complete genome"
+    },
+    {
+      "species": "Pantoea stewartii subsp. stewartii",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pantoea stewartii LYT12-5 gene for 16S rRNA, partial sequence"
+    },
+    {
+      "species": "Pantoea agglomerans",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pantoea agglomerans IS2/Ishigaki/2003 gene for 16S rRNA, partial sequence"
+    },
+    {
+      "species": "Candidatus Phytoplasma asteris (Aster yellows)",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Candidatus Phytoplasma asteris PSU-ROL1 gene for 16S rRNA, partial sequence"
+    },
+    {
+      "species": "Bacillus subtilis",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Bacillus subtilis strain DSM 23521 chromosome, complete genome"
+    },
+    {
+      "species": "Burkholderia gladioli",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Burkholderia gladioli strain BG-GF5 chromosome 2, complete sequence"
+    },
+    {
+      "species": "Bacillus cereus",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Bacillus sp. (in: firmicutes) strain wp10 16S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Paracidovorax avenae/Acidovorax avenae",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Paracidovorax avenae gene for 16S rRNA, strain: ATCC 19307"
+    },
+    {
+      "species": "Stenotrophomonas maltophilia",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Stenotrophomonas maltophilia SF9 gene for 16S rRNA, partial sequence >gi|3342168388|gb|PZ501741.1| Stenotrophomonas maltophilia strain TRB07 16S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Curtobacterium flaccumfaciens pv. flaccumfaciens",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curtobacterium flaccumfaciens partial 16S rRNA gene, strain B0910-55A6 >gi|1332982345|gb|MG819183.1| Curtobacterium flaccumfaciens strain AL85 16S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Robbsia andropogonis/Pseudomonas andropogonis",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Robbsia andropogonis strain BLB1 chromosome 1, complete sequence"
+    },
+    {
+      "species": "Clavibacter michiganensis subsp. nebraskensis",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Clavibacter nebraskensis strain DSM 7483 16S ribosomal RNA, partial sequence >gi|117644179|emb|AM410697.1| Clavibacter michiganensis subsp. nebraskensis partial 16S rRNA gene, type strain DSM 7483 >gi|836877|gb|U09763.1|CMU09763 Clavibacter michiganensis nebraskensis LMG 5627 16S rRNA"
+    },
+    {
+      "species": "Enterobacter cloacae",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Enterobacter cloacae strain 19MO06SH04 chromosome, complete genome"
+    },
+    {
+      "species": "Serratia marcescens",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Serratia marcescens HKA3 gene for 16S rRNA, partial sequence"
+    },
+    {
+      "species": "Pseudomonas fluorescens",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pseudomonas fluorescens partial 16S rRNA gene"
+    },
+    {
+      "species": "Pseudomonas fuscovaginae / Pseudomonas asplenii",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.86693280106454,
+      "ncbi_top": "Pseudomonas asplenii strain B21-058 chromosome, complete genome"
+    },
+    {
+      "species": "Pantoea ananatis",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pantoea ananatis partial 16S rRNA gene, strain HPM-1"
+    },
+    {
+      "species": "Dickeya zeae",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Dickeya oryzae strain ZYY5 16S ribosomal RNA, partial sequence >gi|1616233977|gb|MK791744.1| Dickeya oryzae strain ZYY5 16S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Dickeya dadantii",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Dickeya dadantii gene for 16S rRNA, partial sequence, strain: SUPP2162"
+    },
+    {
+      "species": "Bacillus pumilus",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Bacillus pumilus Cq-22 gene for 16S rRNA, partial sequence"
+    },
+    {
+      "species": "Erwinia rhapontici",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Erwinia rhapontici partial 16S rRNA gene"
+    },
+    {
+      "species": "Pectobacterium carotovorum/Erwinia carotovora",
+      "category": "bacteria",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pectobacterium carotovorum subsp. carotovorum partial 16S rRNA gene, isolate Pcc1K"
+    },
+    {
+      "species": "Maize rayado fino virus (MRFV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize rayado fino virus isolate US, complete genome"
+    },
+    {
+      "species": "Maize streak dwarfing virus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize streak dwarfing virus isolate MSDV-MV-1, complete genome >gi|1595181391|gb|MK329300.1| Maize streak dwarfing virus isolate MSDV-MV-1, complete genome"
+    },
+    {
+      "species": "Maize fine streak virus (MFSV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize fine streak virus, complete genome >gi|49487503|gb|AY618417.1| Maize fine streak virus, complete genome"
+    },
+    {
+      "species": "Barley yellow dwarf virus-MAV (BYDV-MAV)  /  Maize leaf fleck virus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Barley yellow dwarf virus MAV isolate WWH3-CS3, complete genome"
+    },
+    {
+      "species": "Wheat streak mosaic virus (WSMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Wheat streak mosaic virus isolate TX-H3460, complete genome"
+    },
+    {
+      "species": "Barley stripe mosaic virus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Barley stripe mosaic virus isolate DSMZ PV-0330 segment RNA 2 coat protein (CP), triple gene block 1 protein (TGB1), triple gene block 2' protein (TGB2'), triple gene block 2 protein (TGB2), and triple gene block 3 protein (TGB3) genes, complete cds"
+    },
+    {
+      "species": "Maize white line mosaic virus (MWLMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize white line mosaic virus, complete genome >gi|148469639|gb|EF589670.1| Maize white line mosaic virus, complete genome"
+    },
+    {
+      "species": "Maize necrotic streak virus (MNeSV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize necrotic streak virus isolate Arizona, complete genome >gi|85541065|gb|AF266518.2| Maize necrotic streak virus isolate Arizona, complete genome"
+    },
+    {
+      "species": "Maize stripe virus (MSpV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Tenuivirus zeae isolate MSpV21 segment RNA2, complete sequence"
+    },
+    {
+      "species": "Maize yellow mosaic virus (MaYMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize yellow mosaic virus isolate UGM014, complete genome"
+    },
+    {
+      "species": "Maize rough dwarf virus (MRDV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize rough dwarf virus isolate VEN-2016 segment 10, complete sequence"
+    },
+    {
+      "species": "Maize sterile stunt virus (MSSV)/Barley yellow striate mosaic virus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize sterile stunt virus, complete genome"
+    },
+    {
+      "species": "Sugarcane mosaic virus (SCMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Sugarcane mosaic virus isolate UGM048, complete genome"
+    },
+    {
+      "species": "Maize dwarf mosaic virus (MDMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize dwarf mosaic virus isolate TR34, complete genome"
+    },
+    {
+      "species": "Maize-associated totivirus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize associated totivirus isolate MATV.19P-149b, complete genome"
+    },
+    {
+      "species": "Cucumber mosaic virus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 98.65814696485623,
+      "ncbi_top": "Cucumber mosaic virus isolate Rom segment RNA2, complete sequence"
+    },
+    {
+      "species": "Maize Iranian mosaic virus (MIMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize Iranian mosaic nucleorhabdovirus, complete genome >gi|1280184111|gb|MF102281.1| Maize Iranian mosaic virus, complete genome"
+    },
+    {
+      "species": "Cereal chlorotic mottle virus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Cereal chlorotic mottle virus isolate M, complete genome >gi|2273712881|gb|MW731536.1| Cereal chlorotic mottle virus isolate M, complete genome"
+    },
+    {
+      "species": "Maize chlorotic mottle virus (MCMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize chlorotic mottle virus isolate UGM024, complete genome"
+    },
+    {
+      "species": "Sorghum mosaic virus (SrMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Sorghum mosaic virus isolate GX-YG35, complete genome"
+    },
+    {
+      "species": "Maize mosaic virus (MMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize mosaic virus, complete genome"
+    },
+    {
+      "species": "Maize yellow dwarf virus-RMV (MYDV-RMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize yellow dwarf virus-RMV, complete genome >gi|510787472|gb|KC921392.1| Maize yellow dwarf virus-RMV, complete genome"
+    },
+    {
+      "species": "Rice black streaked dwarf virus (RBSDV) _",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Rice black streaked dwarf virus YCPC genomic RNA, segment S8, complete sequence"
+    },
+    {
+      "species": "Maize streak Reunion virus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize streak Reunion virus isolate 17BM12w, complete genome >gi|2815761475|gb|PQ424983.1| Maize streak Reunion virus isolate 17SZ07w, complete genome"
+    },
+    {
+      "species": "Maize yellow stripe virus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 94.231,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize yellow stripe virus segment 5, complete sequence, genomic RNA"
+    },
+    {
+      "species": "Pennisetum Mosaic Virus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pennisetum mosaic virus isolate CD9, complete genome"
+    },
+    {
+      "species": "Maize chlorotic dwarf virus (MCDV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize chlorotic dwarf virus isolate MK1, complete genome"
+    },
+    {
+      "species": "Brome mosaic virus",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Brome mosaic virus strain KU5 segment RNA3, complete sequence"
+    },
+    {
+      "species": "High Plains wheat mosaic virus (HPWMoV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Emaravirus tritici isolate Kouhrang segment RNA 7, complete sequence"
+    },
+    {
+      "species": "Rice stripe virus / Tenuivirus oryzaclavatae",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Tenuivirus oryzaclavatae isolate TT2025-5 segment RNA4, complete sequence"
+    },
+    {
+      "species": "Maize streak virus (MSV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Maize streak virus - [Raw], complete genome"
+    },
+    {
+      "species": "Johnsongrass mosaic virus (JGMV)",
+      "category": "viruses",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Johnsongrass mosaic virus isolate Brazilian, complete genome"
+    },
+    {
+      "species": "Phaeosphaeria herpotricha / Ophiosphaerella herpotricha",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Ophiosphaerella herpotricha strain CBS 620.86 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Penicillium verrucosum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Penicillium verrucosum strain CBS 190.72 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium inflatum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pythium inflatum isolate CP1936 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence >gi|2526437654|gb|OR194797.1| Pythium inflatum isolate CP1934 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Gonatobotrys simplex",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Melanospora simplex isolate CN008I7 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Exserohilum prolatum / Setosphaeria prolata",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Setosphaeria prolata genomic DNA sequence contains ITS1, 5.8S rRNA gene, ITS2, strain CBS 572.73 >gi|1386591685|emb|LT837832.1| Setosphaeria prolata genomic DNA sequence contains 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2, strain CBS 572.73"
+    },
+    {
+      "species": "Botryosphaeria dothidea",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Botryosphaeria dothidea strain L2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Curvularia eragrostidis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia eragrostidis strain CBS 536.70 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium sylvaticum / Globisporangium sylvaticum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Globisporangium sylvaticum isolate H22-39 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Fusarium meridionale",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium meridionale isolate EPAGRI58 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Fusarium equiseti",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium equiseti isolate B14 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Phaeocytostroma ambiguum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Phaeocytostroma ambiguum strain CBS 128561 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Penicillium viridicatum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Penicillium sp. isolate 56478C small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2733157324|gb|PP804377.1| Penicillium sp. isolate 56391A small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Puccinia sorghi",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Puccinia sorghi strain DTX1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809375|gb|PX955815.1| Puccinia sorghi strain DTX2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809377|gb|PX955816.1| Puccinia sorghi strain HLX1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809379|gb|PX955817.1| Puccinia sorghi strain HLX1(2) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809381|gb|PX955818.1| Puccinia sorghi strain HLX2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809383|gb|PX955819.1| Puccinia sorghi strain HLX2(2) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809385|gb|PX955820.1| Puccinia sorghi strain HLX3 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809387|gb|PX955821.1| Puccinia sorghi strain HLX4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809389|gb|PX955822.1| Puccinia sorghi strain HLX5 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809391|gb|PX955823.1| Puccinia sorghi strain HLX5(2) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809393|gb|PX955824.1| Puccinia sorghi strain HYX1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809395|gb|PX955825.1| Puccinia sorghi strain HYX2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809397|gb|PX955826.1| Puccinia sorghi strain HZX1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809401|gb|PX955828.1| Puccinia sorghi strain HZX2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809403|gb|PX955829.1| Puccinia sorghi strain HZX2(2) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809405|gb|PX955830.1| Puccinia sorghi strain HZX2(3) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809407|gb|PX955831.1| Puccinia sorghi strain HZX2(4) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809409|gb|PX955832.1| Puccinia sorghi strain HZX3 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809411|gb|PX955833.1| Puccinia sorghi strain HZX3(2) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809413|gb|PX955834.1| Puccinia sorghi strain HZX3(3) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809415|gb|PX955835.1| Puccinia sorghi strain HZX3(4) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809417|gb|PX955836.1| Puccinia sorghi strain HZX4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809419|gb|PX955837.1| Puccinia sorghi strain HZX4(2) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809421|gb|PX955838.1| Puccinia sorghi strain HZX4(3) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809423|gb|PX955839.1| Puccinia sorghi strain HZX5 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809425|gb|PX955840.1| Puccinia sorghi strain HZX6 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809427|gb|PX955841.1| Puccinia sorghi strain LDX1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809429|gb|PX955842.1| Puccinia sorghi strain LDX2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809431|gb|PX955843.1| Puccinia sorghi strain LDX2(2) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809433|gb|PX955844.1| Puccinia sorghi strain MHX1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809435|gb|PX955845.1| Puccinia sorghi strain MHX1(2) small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809437|gb|PX955846.1| Puccinia sorghi strain MHX2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809439|gb|PX955847.1| Puccinia sorghi strain MHX3 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809443|gb|PX955849.1| Puccinia sorghi strain MHX5 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809445|gb|PX955850.1| Puccinia sorghi strain MHX6 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809447|gb|PX955851.1| Puccinia sorghi strain SYX small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809449|gb|PX955852.1| Puccinia sorghi strain XHX2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809451|gb|PX955853.1| Puccinia sorghi strain ZX1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809453|gb|PX955854.1| Puccinia sorghi strain ZX2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809455|gb|PX955855.1| Puccinia sorghi strain ZX3 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3168809457|gb|PX955856.1| Puccinia sorghi strain ZX4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Exserohilum turcicum (Setosphaeria turcica)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Setosphaeria turcica genomic DNA containing 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene, strain CBS 330.64 >gi|1386591093|emb|LT631335.1| Setosphaeria turcica genomic DNA sequence contains ITS1, 5.8S rRNA gene, ITS2, strain CBS 330.64 >gi|1386591556|emb|LT837484.1| Setosphaeria turcica genomic DNA sequence contains 18S rRNA gene, ITS1, 5.8S rRNA gene and ITS2, strain CBS 330.64 >gi|1386591559|emb|LT837487.1| Setosphaeria turcica genomic DNA sequence contains 18S rRNA gene, ITS1, 5.8S rRNA gene and ITS2, strain CBS 690.71 >gi|3341886681|gb|PZ501535.1| Exserohilum turcicum isolate WFH202410026 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Physoderma maydis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Physoderma maydis DUKE DUH0007932 ITS region; from reference material >gi|62866678|gb|AY997072.1| Physoderma maydis isolate AFTOL-ID 19 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium avenaceum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.63302752293578,
+      "ncbi_top": "Fusarium citricola isolate TR-PH-L-24-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium acuminatum",
+      "category": "fungi",
+      "db_correct": false,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium sp. strain ZSH-8 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia spicifera strain CBS 126197 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Macrophomina phaseolina",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Macrophomina phaseolina isolate SBH-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Trichoderma koningii",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Trichoderma longibrachiatum isolate T16 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Trichoderma hamatum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Trichoderma harzianum strain Cold_034-G8 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium concentricum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium oxysporum isolate BIS 5 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Globisporangium rostratum _Pythium rostratum _",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Globisporangium rostratum genes for ITS1, 5.8S rRNA, ITS2, complete sequence, strain: OPU1441"
+    },
+    {
+      "species": "Fusarium proliferatum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 92.88256227758008,
+      "ncbi_top": "Fusarium proliferatum strain CBS 131574 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Cladosporium herbarum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Cladosporium herbarum 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence >gi|3355812279|gb|PZ627261.1| Cladosporium herbarum strain S2CC4FR07 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Setophoma terrestris _Phoma terrestris/Pyrenochaeta terrestris _",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.78354978354979,
+      "ncbi_top": "Setophoma terrestris isolate GLBRC1855 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium splendens/Globisporangium splendens",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Globisporangium splendens isolate RT4 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Fusarium pseudonygamai",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium pseudonygamai isolate SP B internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium poae",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.39393939393939,
+      "ncbi_top": "Fusarium poae isolate E01 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium pseudograminearum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium pseudograminearum isolate Fp small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Penicillium oxalicum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Penicillium oxalicum strain JCP4 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence >gi|3353901497|gb|PZ623864.1| Penicillium oxalicum strain S1CC1FR10 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3353904119|gb|PZ623900.1| Penicillium oxalicum strain S3CC3FR04 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3353904144|gb|PZ623922.1| Penicillium oxalicum strain S3CC4FR12 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3355812246|gb|PZ627228.1| Penicillium oxalicum strain S2CC1FR14 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Diaporthe phaseolorum (Phomopsis)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Diaporthe phaseolorum isolate FEC-5L small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium verticillioides (Gibberella moniliformis)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 99.62476547842401,
+      "ncbi_top": "Gibberella moniliformis culture-collection NRRL:20956 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium vexans/Phytopythium vexans",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Phytopythium vexans strain HNJC90 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Peronosclerospora sacchari",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 89.64,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Peronosclerospora sacchari internal transcribed spacer 2, complete sequence"
+    },
+    {
+      "species": "Fusarium sacchari",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium verticillioides isolate SX4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium graminicola",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pythium graminicola isolate Reverse side05 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Sordaria fimicola",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Sordaria fimicola genomic DNA sequence contains 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2, 28S rRNA gene"
+    },
+    {
+      "species": "Talaromyces radicus",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Talaromyces radicus internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Sporisorium reilianum (Sphacelotheca reiliana)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Sporisorium reilianum strain CBS 113.17 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium camptoceras",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium camptoceras isolate P_Guney1NA_3 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Bipolaris maydis (Cochliobolus heterostrophus)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Bipolaris maydis isolate 414-120 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Gloeocercospora sorghi / Microdochium sorghi",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Microdochium sorghi strain JWB1-3 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2574698513|gb|OR527951.1| Microdochium sorghi strain JWB6 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2574698515|gb|OR527953.1| Microdochium sorghi strain WB3-5 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2574698516|gb|OR527954.1| Microdochium sorghi strain 5-1-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2574698517|gb|OR527955.1| Microdochium sorghi strain 4-1-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2574698518|gb|OR527956.1| Microdochium sorghi strain WBD1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2574698520|gb|OR527957.1| Microdochium sorghi strain 4-4-4 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Eutiarosporella dactylidis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Eutiarosporella dactylidis isolate LDLC-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium culmorum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.8003992015968,
+      "ncbi_top": "Fusarium meridionale isolate 86b internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Curvularia tuberculata  / Cochliobolus tuberculatus",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia tuberculata isolate 18-WP835 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Alternaria tenuissima",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.44547134935306,
+      "ncbi_top": "Alternaria tenuissima isolate TM-LS-ST2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Aspergillus parasiticus",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Aspergillus sp. isolate 4F-8B-2-M5 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Trichoderma afroharzianum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Trichoderma afroharzianum isolate IT04 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Rhizoctonia solani (Thanatephorus cucumeris)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Thanatephorus cucumeris isolate SR61 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Aspergillus niger",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Aspergillus niger isolate AN1_from_Papaya small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Epicoccum nigrum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.79508196721312,
+      "ncbi_top": "Epicoccum sp. isolate DF99 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Ustilaginoidea virens",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.33665008291874,
+      "ncbi_top": "Ustilaginoidea virens isolate HH1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Penicillium cyclopium",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Penicillium atramentosum genomic DNA sequence contains 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2, 28S rRNA gene"
+    },
+    {
+      "species": "Rhizopus arrhizus",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.4199535962877,
+      "ncbi_top": "Rhizopus arrhizus strain DTO 475-A9 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2848893441|gb|PQ573496.1| Rhizopus arrhizus strain DTO 475-B2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2848893444|gb|PQ573499.1| Rhizopus arrhizus strain DTO 475-B5 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2848893452|gb|PQ573507.1| Rhizopus arrhizus strain DTO 475-C5 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Curvularia aeria / Curvularia lunata var. aeria",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia aeria strain CBS 533.70 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Sclerotinia sclerotiorum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.12472647702407,
+      "ncbi_top": "Sclerotinia sclerotiorum isolate SSC_Mar_ITS_4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Fusarium boothii",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium graminearum strain Z3639 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Trichoderma harzianum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 86.119,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Trichoderma harzianum strain PRT-THLi06 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Curvularia lunata (Cochliobolus lunatus)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.78768577494692,
+      "ncbi_top": "Curvularia caricae-papayae isolate L-2868/2012 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium adhaerens",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pythium adhaerens isolate 17E91 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Pythium aristosporum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pythium aristosporum strain BRIP 75628a small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Bipolaris zeicola (Cochliobolus carbonum)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Bipolaris sp. strain HFS2-15-MA small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Rhizopus stolonifer",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Rhizopus stolonifer clone 6 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence >gi|3352497267|gb|PZ593665.1| Rhizopus stolonifer strain GIEPF10 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Fusarium napiforme",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium napiforme isolate AC2-2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Graphium penicillioides",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Graphium penicillioides strain HRF244 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Stenocarpella macrospora",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Stenocarpella macrospora strain 68H2E internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3172961388|gb|PX965530.1| Stenocarpella macrospora strain 26P1A internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3172961392|gb|PX965534.1| Stenocarpella macrospora strain 35V2A internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Helminthosporium pedicellatum/Exserohilum pedicellatum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Exserohilum pedicellatum isolate CEp2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Peronosclerospora philippinensis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 90.09,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Peronosclerospora philippinensis internal transcribed spacer 2, complete sequence"
+    },
+    {
+      "species": "Claviceps gigantea",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Claviceps gigantea isolate onesi2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium paroecandrum/ Globisporangium paroecandrum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Globisporangium paroecandrum isolate A.S.N12026 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Pythium helicoides / Phytopythium helicoides",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Phytopythium helicoides isolate SN144 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Nigrospora oryzae (Khuskia oryzae)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Nigrospora oryzae isolate FEC-3L small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Marasmius graminum var. brevispora / Marasmius graminum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Marasmius graminum strain NN005953 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Myrothecium gramineum /Xepiculopsis graminea",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Myrothecium gramineum isolate F-70 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium kyushuense",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium kyushuense isolate ML4-1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3282997451|gb|PZ336321.1| Fusarium kyushuense isolate ML4-2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|3282997453|gb|PZ336322.1| Fusarium kyushuense isolate ML4-3 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium ultimum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Globisporangium ultimum var. sporangiiferum isolate H22-208 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Waitea zeae _Rhizoctonia zeae_",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Waitea zeae isolate CoPTY13.4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Mycosarcoma maydis (Ustilago maydis)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Mycosarcoma maydis strain CBS 445.63 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium chlamydosporum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium chlamydosporum isolate FRWW10 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Microdochium seminicola",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Microdochium seminicola isolate HMB-XYQ-3 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium asiaticum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.63031423290202,
+      "ncbi_top": "Fusarium acuminatum strain DHF6 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Kabatiella zeae (Aureobasidium zeae)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Coniochaeta mutabilis isolate UTHSCSA DI21-169 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Curvularia australiensis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia australiensis strain CBS 126974 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Curvularia pallescens",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia coatesiae strain PPRI:26373 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium tricinctum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium tricinctum isolate WZ1-4-2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium incarnatum (F. semitectum)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium sp. isolate 1501023 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Curvularia inaequalis / Helminthosporium inaequale",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia sp. strain KMM 5849 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Ceratocystis paradoxa/Thielaviopsis paradoxa",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Thielaviopsis paradoxa strain CBS 128.32 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Phoma sorghina (Epicoccum sorghinum)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Epicoccum sp. strain Cmu-bg23 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Cercospora zeae-maydis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Cercospora zeae-maydis isolate LD835-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Phyllachora maydis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Phyllachora maydis isolate ITS-4-RCK2-56-D01-04 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Trichoderma ovalisporum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Trichoderma ovalisporum isolate BSU_11 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Gibberella fujikuroi (Fusarium fujikuroi)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium fujikuroi isolate HCJZ1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium torulosum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pythium torulosum isolate CP1940 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence >gi|2526437663|gb|OR194801.1| Pythium torulosum isolate CP1938 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Fusarium graminearum (Gibberella zeae)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium graminearum strain Z3639 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Trichoderma koningiopsis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 88.889,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Trichoderma koningiopsis strain SI-18 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Helminthosporium hawaiiensis / Curvularia hawaiiensis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia hawaiiensis strain CBS 127091 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Gaeumannomyces graminis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Gaeumannomyces graminis clone 076 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium cerealis  / Fusarium crookwellense",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium cerealis strain TH11-2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Penicillium expansum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Penicillium fimorum isolate gastrodia elata internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium angustatum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pythium angustatum isolate JM12 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Pythium acanthicum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pythium acanthicum strain P40 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence >gi|2589263084|gb|OR643515.1| Pythium acanthicum strain P109 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence >gi|2589263089|gb|OR643520.1| Pythium acanthicum strain P44 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Trichoderma roseum /Trichothecium roseum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Trichothecium roseum strain CBS 567.50 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium globosum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium globosum strain L3 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium subglutinans",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.8046875,
+      "ncbi_top": "Fusarium sp. TN186032 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Cercospora zeina",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Cercospora zeina isolate LN-BXSTZ-4 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2863598372|gb|PQ664968.1| Cercospora zeina isolate LN-BXSTZ internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium solani (Neocosmospora solani)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium sp. FSSC_5 strain GJS 09-1469 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Microdochium bolleyi",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Microdochium bolleyi strain CNUFC-RD214 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Penicillium chrysogenum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Penicillium chrysogenum isolate E25 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Cercospora sorghi var. maydis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Cercospora ipomoeae strain ICMP 21145 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium aphanidermatum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pythium aphanidermatum strain GSS-Pa33 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence >gi|3342224007|gb|PZ501945.1| Pythium aphanidermatum isolate DT9 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Aspergillus tamarii",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Aspergillus tamarii isolate B2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Didymella maydis (Phyllosticta maydis)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Didymella maydis isolate XJAU GL323-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Globisporangium irregulare _Pythium irregulare_",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.51573849878935,
+      "ncbi_top": "Globisporangium irregulare isolate H22-114 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Aspergillus glaucus",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Aspergillus sp. isolate E161 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium arrhenomanes",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pythium arrhenomanes strain 24/123 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Alternaria burnsii",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Alternaria sp. isolate LLC3012 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium sporotrichioides",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Fusarium sp. isolate GLBRC1595 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Marasmiellus inoderma",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Marasmiellus inoderma isolate PDD 102193 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Bipolaris sorokiniana (Cochliobolus sativus)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Bipolaris sorokiniana isolate L-4- internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Fusarium oxysporum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 86.57487091222032,
+      "ncbi_top": "Aspergillus flavus isolate BL3A small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Agroathelia rolfsii isolate f1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Aspergillus oryzae",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.45945945945947,
+      "ncbi_top": "Aspergillus oryzae strain DQ19 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Cochliobolus geniculatus (Curvularia geniculata)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia geniculata strain CBS 333.64 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Trichoderma viride",
+      "category": "fungi",
+      "db_correct": false,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Trichoderma asperellum strain Zt113 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Phytophthora cinnamomi",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Phytophthora cinnamomi isolate CM-01 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062241|gb|PV582073.1| Phytophthora cinnamomi isolate CM-03 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062245|gb|PV582074.1| Phytophthora cinnamomi isolate CM-04 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062249|gb|PV582075.1| Phytophthora cinnamomi isolate CM-05 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062253|gb|PV582076.1| Phytophthora cinnamomi isolate CM-06 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062257|gb|PV582077.1| Phytophthora cinnamomi isolate CM-07 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062261|gb|PV582078.1| Phytophthora cinnamomi isolate CM-08 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062265|gb|PV582079.1| Phytophthora cinnamomi isolate CM-09 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062269|gb|PV582080.1| Phytophthora cinnamomi isolate CM-10 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062273|gb|PV582081.1| Phytophthora cinnamomi isolate CM-11 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062277|gb|PV582082.1| Phytophthora cinnamomi isolate CM-12 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062281|gb|PV582083.1| Phytophthora cinnamomi isolate CM-13 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062285|gb|PV582084.1| Phytophthora cinnamomi isolate CM-14 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062289|gb|PV582085.1| Phytophthora cinnamomi isolate CM-15 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062293|gb|PV582086.1| Phytophthora cinnamomi isolate CM-16 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062297|gb|PV582087.1| Phytophthora cinnamomi isolate CM-17 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062301|gb|PV582088.1| Phytophthora cinnamomi isolate CM-18 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062305|gb|PV582089.1| Phytophthora cinnamomi isolate CM-19 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062309|gb|PV582090.1| Phytophthora cinnamomi isolate CM-20 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062313|gb|PV582091.1| Phytophthora cinnamomi isolate CM-21 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062317|gb|PV582092.1| Phytophthora cinnamomi isolate CM-22 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062321|gb|PV582093.1| Phytophthora cinnamomi isolate CM-23 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062325|gb|PV582094.1| Phytophthora cinnamomi isolate CM-24 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062329|gb|PV582095.1| Phytophthora cinnamomi isolate CM-25 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062333|gb|PV582096.1| Phytophthora cinnamomi isolate CM-26 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062337|gb|PV582097.1| Phytophthora cinnamomi isolate CM-27 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062341|gb|PV582098.1| Phytophthora cinnamomi isolate CM-28 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062345|gb|PV582099.1| Phytophthora cinnamomi isolate CM-29 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062349|gb|PV582100.1| Phytophthora cinnamomi isolate CM-30 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062353|gb|PV582101.1| Phytophthora cinnamomi isolate CM-31 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062357|gb|PV582102.1| Phytophthora cinnamomi isolate CM-32 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062361|gb|PV582103.1| Phytophthora cinnamomi isolate CM-34 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062365|gb|PV582104.1| Phytophthora cinnamomi isolate CM-36 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062369|gb|PV582105.1| Phytophthora cinnamomi isolate CM-37 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062373|gb|PV582106.1| Phytophthora cinnamomi isolate CM-38 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062377|gb|PV582107.1| Phytophthora cinnamomi isolate NC-01 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062381|gb|PV582108.1| Phytophthora cinnamomi isolate NC-02 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062385|gb|PV582109.1| Phytophthora cinnamomi isolate NC-03 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062389|gb|PV582110.1| Phytophthora cinnamomi isolate NC-04 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062393|gb|PV582111.1| Phytophthora cinnamomi isolate NC-05 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062397|gb|PV582112.1| Phytophthora cinnamomi isolate NC-06 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062401|gb|PV582113.1| Phytophthora cinnamomi isolate NC-07 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062405|gb|PV582114.1| Phytophthora cinnamomi isolate NC-08 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062409|gb|PV582115.1| Phytophthora cinnamomi isolate NC-09 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062413|gb|PV582116.1| Phytophthora cinnamomi isolate NC-10 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062417|gb|PV582117.1| Phytophthora cinnamomi isolate NC-11 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062421|gb|PV582118.1| Phytophthora cinnamomi isolate NC-12 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062425|gb|PV582119.1| Phytophthora cinnamomi isolate NC-13 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062429|gb|PV582120.1| Phytophthora cinnamomi isolate NC-14 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062433|gb|PV582121.1| Phytophthora cinnamomi isolate NC-15 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062437|gb|PV582122.1| Phytophthora cinnamomi isolate NC-16 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062441|gb|PV582123.1| Phytophthora cinnamomi isolate NC-17 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062445|gb|PV582124.1| Phytophthora cinnamomi isolate NC-18 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062449|gb|PV582125.1| Phytophthora cinnamomi isolate NC-19 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062453|gb|PV582126.1| Phytophthora cinnamomi isolate NC-20 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062457|gb|PV582127.1| Phytophthora cinnamomi isolate NC-21 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062461|gb|PV582128.1| Phytophthora cinnamomi isolate NC-22 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062465|gb|PV582129.1| Phytophthora cinnamomi isolate NC-23 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062469|gb|PV582130.1| Phytophthora cinnamomi isolate NC-24 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2966062473|gb|PV582131.1| Phytophthora cinnamomi isolate NC-25 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Ceratobasidium cereale _Rhizoctonia cerealis_",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Ceratobasidium cereale isolate HB-R108 clone C4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pyricularia oryzae (Magnaporthe oryzae)",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Pyricularia oryzae isolate AYA010801 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium spinosum /Globisporangium spinosum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Globisporangium spinosum isolate SAAS-ZO-P7 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Curvularia senegalensis / Brachysporium senegalense",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia senegalensis isolate C62 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Sarocladium zeae/Acremonium zeae",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Sarocladium zeae clone HSRSZ14 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2720893616|gb|PP721207.1| Sarocladium zeae isolate HSRSZ29 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Botrytis cinerea",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Botrytis cinerea isolate CMML23-BC55 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2867781713|gb|PQ734199.1| Botrytis cinerea isolate CMML23-BC75 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Trichoderma asperellum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Trichoderma asperellum strain SAGBF0005 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Curvularia clavata",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia clavata strain NCCPF 640110 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Paraphaeosphaeria michotii / Sphaeria michotii",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Paraphaeosphaeria michotii strain CBS 591.73 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Lasiodiplodia theobromae / Botryodiplodia tubericola",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 99.79757085020243,
+      "ncbi_top": "Lasiodiplodia sp. strain GMBCC1841 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Mucor circinelloides",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Mucor circinelloides genomic DNA sequence contains 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2, 28S rRNA gene"
+    },
+    {
+      "species": "Pythium debaryanum /Globisporangium debaryanum",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Globisporangium debaryanum isolate SN120 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    },
+    {
+      "species": "Curvularia intermedia / Cochliobolus intermedius",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Curvularia intermedia strain m208 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Leptosphaerulina australis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Leptosphaerulina trifolii strain CN046I2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Didymella exitialis / Neoascochyta exitialis",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Neoascochyta exitialis strain CBS 389.86 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Puccinia polysora",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": true,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Puccinia polysora voucher KSNUH2286 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence >gi|2967900151|gb|PV593812.1| Puccinia polysora voucher KSNUH2287 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Penicillium funiculosum / Talaromyces funiculosus",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Talaromyces funiculosus strain CBS 129801 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+    },
+    {
+      "species": "Pythium schmitthenneri / Globisporangium schmitthenneri",
+      "category": "fungi",
+      "db_correct": true,
+      "db_pident": 100.0,
+      "ncbi_correct": false,
+      "ncbi_pident": 100.0,
+      "ncbi_top": "Globisporangium schmitthenneri isolate F-PH5 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+    }
+  ]
+}

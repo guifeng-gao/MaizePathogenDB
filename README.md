@@ -79,7 +79,7 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 | File | Description |
 |---|---|
 | `validation/validation_summary.json` | Multi-method validation results |
-| `validation/ncbi_nt_comparison_v2.json` | MaizePathogenDB vs NCBI-nt benchmark (101 queries) |
+| `validation/ncbi_nt_comparison_v2.json` | MaizePathogenDB vs NCBI-nt benchmark (200 queries) |
 | `validation/external/external_validation_final.json` | External validation on 2025-2026 NCBI sequences |
 
 ### Web Platform
@@ -193,7 +193,7 @@ The complete NCBI lineage (kingdom → phylum → class → order → family →
 | Internal self-hit | 100% (63/63) | 100% (70/70) | 99.5% (190/191) | 99.8% (323/324) |
 | External (2025-2026) | 100% (10/10) | 100% (5/5) | 93.4% (57/61) | 94.7% (72/76) |
 | SILVA/UNITE cross-val | 95.0% (19/20) | N/A | 90.6% (58/64) | 91.7% (77/84) |
-| vs NCBI-nt (n=101) | 100% (20/20) | 100% (23/23) | 100% (58/58) | 100% (101/101) |
+| vs NCBI-nt (n=200) | 100% (23/23) | 100% (32/32) | 98.6% (143/145) | 99.0% (198/200) |
 | Genus-level (external) | 100% | 100% | 95.1% | 96.1% |
 | Genus-level (SILVA/UNITE) | 95.0% | N/A | 96.9% | — |
 
@@ -220,7 +220,7 @@ All scripts used for database construction and validation are available in the `
 |---|---|
 | `download_sequences_v2.py` | NCBI marker gene sequence download via Entrez API |
 | `build_database.py` | BLAST database construction and SINTAX formatting |
-| `ncbi_nt_comparison_v2.py` | Stratified benchmark against NCBI-nt database (101 queries) |
+| `ncbi_nt_comparison_v2.py` | Stratified benchmark against NCBI-nt database (200 queries) |
 | `external_validation.py` | External validation using 2025–2026 NCBI sequences |
 | `refseq_validation.py` | RefSeq cross-validation |
 
