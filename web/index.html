@@ -54,10 +54,10 @@ footer a{color:#2F5496;text-decoration:none}
 
 <div class="container">
 <div class="tabs">
-<button class="tab active" onclick="switchTab('info')">📊 Database Info</button>
-<button class="tab" onclick="switchTab('taxonomy')">🔍 Species Search</button>
-<button class="tab" onclick="switchTab('sequence')">🧬 Sequence Search</button>
-<button class="tab" onclick="switchTab('submit')">📝 Submit Pathogen</button>
+<button class="tab active" data-tab="info" onclick="switchTab('info')">📊 Database Info</button>
+<button class="tab" data-tab="taxonomy" onclick="switchTab('taxonomy')">🔍 Species Search</button>
+<button class="tab" data-tab="sequence" onclick="switchTab('sequence')">🧬 Sequence Search</button>
+<button class="tab" data-tab="submit" onclick="switchTab('submit')">📝 Submit Pathogen</button>
 </div>
 
 <div id="tab-taxonomy" class="tab-content">
