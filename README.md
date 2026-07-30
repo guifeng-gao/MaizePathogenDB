@@ -11,8 +11,8 @@ A manually curated, multi-kingdom reference database of 245 maize-associated pat
 | Attribute | Count |
 |---|---|
 | Total pathogen species | 245 |
-| Marker gene sequences | 324 |
-| Species with sequences | 111 |
+| Marker gene sequences | 624 |
+| Species with sequences | 214/228 |
 | Sequence coverage | 91.0% (111/122) |
 | BLAST nucleotide databases | 4 (all, bacteria, viruses, fungi) |
 | Taxonomic groups covered | 4 kingdoms (Bacteria, Fungi, Oomycota, Viruses) |

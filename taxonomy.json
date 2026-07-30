@@ -406,6 +406,20 @@
     "keywords": "bacillus subtilis 细菌界 bacteria (bacillati) 芽孢杆菌门 bacillota 芽孢杆菌纲 bacilli 核衣细菌目 caryophanales 芽孢杆菌科 bacillaceae 芽孢杆菌属 bacillus bacillus subtilis seed rot-seedling blight 种腐-苗枯病"
   },
   {
+    "species": "Pseudomonas aeruginosa",
+    "disease_en": "top rot",
+    "disease_cn": "顶腐病",
+    "kingdom": "细菌界 Bacteria (Bacillati)",
+    "phylum": "假单胞菌门 Pseudomonadota",
+    "class": "γ-变形菌纲 Gammaproteobacteria",
+    "order": "假单胞菌目 Pseudomonadales",
+    "family": "假单胞菌科 Pseudomonadaceae",
+    "genus": "假单胞菌属 Pseudomonas",
+    "taxid": "no_taxid_33",
+    "category": "Bacteria",
+    "keywords": "pseudomonas aeruginosa 细菌界 bacteria (bacillati) 假单胞菌门 pseudomonadota γ-变形菌纲 gammaproteobacteria 假单胞菌目 pseudomonadales 假单胞菌科 pseudomonadaceae 假单胞菌属 pseudomonas pseudomonas aeruginosa top rot 顶腐病"
+  },
+  {
     "species": "Maize streak virus (MSV)",
     "disease_en": "Maize streak disease",
     "disease_cn": "玉米条纹病",
@@ -417,7 +431,7 @@
     "genus": "Mastrevirus",
     "taxid": "10821",
     "category": "Viruses",
-    "keywords": "maize streak viruseses (msv) shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastreviruses maize streak viruseses maize streak disease 玉米条纹病"
+    "keywords": "maize streak virus (msv) shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastrevirus maize streak virus maize streak disease 玉米条纹病"
   },
   {
     "species": "Maize dwarf mosaic virus (MDMV)",
@@ -431,7 +445,7 @@
     "genus": "Potyvirus",
     "taxid": "12203",
     "category": "Viruses",
-    "keywords": "maize dwarf mosaic viruseses (mdmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses maize dwarf mosaic viruseses maize dwarf mosaic 玉米矮花叶病"
+    "keywords": "maize dwarf mosaic virus (mdmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus maize dwarf mosaic virus maize dwarf mosaic 玉米矮花叶病"
   },
   {
     "species": "Sugarcane mosaic virus (SCMV)",
@@ -445,7 +459,7 @@
     "genus": "Potyvirus",
     "taxid": "12224",
     "category": "Viruses",
-    "keywords": "sugarcane mosaic viruseses (scmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses sugarcane mosaic viruseses sugarcane mosaic (infects maize) 甘蔗花叶病（侵染玉米）"
+    "keywords": "sugarcane mosaic virus (scmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus sugarcane mosaic virus sugarcane mosaic (infects maize) 甘蔗花叶病（侵染玉米）"
   },
   {
     "species": "Maize chlorotic mottle virus (MCMV)",
@@ -459,7 +473,7 @@
     "genus": "Machlomovirus",
     "taxid": "12138",
     "category": "Viruses",
-    "keywords": "maize chlorotic mottle viruseses (mcmv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae machlomoviruses maize chlorotic mottle viruseses maize lethal necrosis (synergistic) 玉米致死性坏死病"
+    "keywords": "maize chlorotic mottle virus (mcmv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae machlomovirus maize chlorotic mottle virus maize lethal necrosis (synergistic) 玉米致死性坏死病"
   },
   {
     "species": "Maize mosaic virus (MMV)",
@@ -473,7 +487,7 @@
     "genus": "Alphanucleorhabdovirus",
     "taxid": "279896",
     "category": "Viruses",
-    "keywords": "maize mosaic viruseses (mmv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae alphanucleorhabdoviruses maize mosaic viruseses maize mosaic 玉米花叶病"
+    "keywords": "maize mosaic virus (mmv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae alphanucleorhabdovirus maize mosaic virus maize mosaic 玉米花叶病"
   },
   {
     "species": "Maize fine streak virus (MFSV)",
@@ -487,7 +501,7 @@
     "genus": "Gammanucleorhabdovirus",
     "taxid": "209854",
     "category": "Viruses",
-    "keywords": "maize fine streak viruseses (mfsv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae gammanucleorhabdoviruses maize fine streak viruseses maize fine streak 玉米细条斑病"
+    "keywords": "maize fine streak virus (mfsv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae gammanucleorhabdovirus maize fine streak virus maize fine streak 玉米细条斑病"
   },
   {
     "species": "Maize rough dwarf virus (MRDV)",
@@ -501,7 +515,7 @@
     "genus": "Fijivirus",
     "taxid": "10989",
     "category": "Viruses",
-    "keywords": "maize rough dwarf viruseses (mrdv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijiviruses maize rough dwarf viruseses maize rough dwarf disease 玉米粗缩病（欧洲株系）"
+    "keywords": "maize rough dwarf virus (mrdv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijivirus maize rough dwarf virus maize rough dwarf disease 玉米粗缩病（欧洲株系）"
   },
   {
     "species": "Maize rayado fino virus (MRFV)",
@@ -515,7 +529,7 @@
     "genus": "Marafivirus",
     "taxid": "59749",
     "category": "Viruses",
-    "keywords": "maize rayado fino viruseses (mrfv) orthornavirae kitrinoviricota alsuviricetes tymovirales 芜菁黄花叶病毒科 tymoviridae marafiviruses maize rayado fino viruseses maize rayado fino 玉米雷亚多菲诺病毒病"
+    "keywords": "maize rayado fino virus (mrfv) orthornavirae kitrinoviricota alsuviricetes tymovirales 芜菁黄花叶病毒科 tymoviridae marafivirus maize rayado fino virus maize rayado fino 玉米雷亚多菲诺病毒病"
   },
   {
     "species": "Maize chlorotic dwarf virus (MCDV)",
@@ -529,7 +543,7 @@
     "genus": "Waikavirus",
     "taxid": "51354",
     "category": "Viruses",
-    "keywords": "maize chlorotic dwarf viruseses (mcdv) orthornavirae pisuviricota pisoniviricetes picornavirales 伴生病毒科 secoviridae waikaviruses maize chlorotic dwarf viruseses maize chlorotic dwarf 玉米褪绿矮缩病"
+    "keywords": "maize chlorotic dwarf virus (mcdv) orthornavirae pisuviricota pisoniviricetes picornavirales 伴生病毒科 secoviridae waikavirus maize chlorotic dwarf virus maize chlorotic dwarf 玉米褪绿矮缩病"
   },
   {
     "species": "Wheat streak mosaic virus (WSMV)",
@@ -543,7 +557,7 @@
     "genus": "Tritimovirus",
     "taxid": "31741",
     "category": "Viruses",
-    "keywords": "wheat streak mosaic viruseses (wsmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae tritimoviruses wheat streak mosaic viruseses wheat streak mosaic (infects maize) 小麦条斑花叶病（侵染玉米）"
+    "keywords": "wheat streak mosaic virus (wsmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae tritimovirus wheat streak mosaic virus wheat streak mosaic (infects maize) 小麦条斑花叶病（侵染玉米）"
   },
   {
     "species": "Rice black streaked dwarf virus (RBSDV) ★",
@@ -557,7 +571,7 @@
     "genus": "Fijivirus",
     "taxid": "10990",
     "category": "Viruses",
-    "keywords": "rice black streaked dwarf viruseses (rbsdv) ★ orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijiviruses rice black streaked dwarf viruseses maize rough dwarf disease (china strain) 水稻黑条矮缩病毒（中国玉米粗缩病主要病原）★"
+    "keywords": "rice black streaked dwarf virus (rbsdv) ★ orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijivirus rice black streaked dwarf virus maize rough dwarf disease (china strain) 水稻黑条矮缩病毒（中国玉米粗缩病主要病原）★"
   },
   {
     "species": "Maize stripe virus (MSpV)",
@@ -571,7 +585,7 @@
     "genus": "Tenuivirus",
     "taxid": "3052767",
     "category": "Viruses",
-    "keywords": "maize stripe viruseses (mspv) orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuiviruses maize stripe viruseses maize stripe disease 玉米条纹叶枯病"
+    "keywords": "maize stripe virus (mspv) orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuivirus maize stripe virus maize stripe disease 玉米条纹叶枯病"
   },
   {
     "species": "High Plains wheat mosaic virus (HPWMoV)",
@@ -585,7 +599,7 @@
     "genus": "Emaravirus",
     "taxid": "1980428",
     "category": "Viruses",
-    "keywords": "high plains wheat mosaic viruseses (hpwmov) orthornavirae negarnaviricota bunyaviricetes elliovirales 无花果花叶病毒科 fimoviridae emaraviruses high plains wheat mosaic viruseses high plains disease 高原病"
+    "keywords": "high plains wheat mosaic virus (hpwmov) orthornavirae negarnaviricota bunyaviricetes elliovirales 无花果花叶病毒科 fimoviridae emaravirus high plains wheat mosaic virus high plains disease 高原病"
   },
   {
     "species": "Johnsongrass mosaic virus (JGMV)",
@@ -599,7 +613,7 @@
     "genus": "Potyvirus",
     "taxid": "31742",
     "category": "Viruses",
-    "keywords": "johnsongrass mosaic viruseses (jgmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses johnsongrass mosaic viruseses johnsongrass mosaic (infects maize) 约翰逊草花叶病"
+    "keywords": "johnsongrass mosaic virus (jgmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus johnsongrass mosaic virus johnsongrass mosaic (infects maize) 约翰逊草花叶病"
   },
   {
     "species": "Southern rice black streaked dwarf virus (SRBSDV)",
@@ -613,7 +627,7 @@
     "genus": "Fijivirus",
     "taxid": "519497",
     "category": "Viruses",
-    "keywords": "southern rice black streaked dwarf viruseses (srbsdv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijiviruses southern rice black streaked dwarf viruseses southern rice black streaked dwarf (infects maize) 南方水稻黑条矮缩病毒（侵染玉米）"
+    "keywords": "southern rice black streaked dwarf virus (srbsdv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijivirus southern rice black streaked dwarf virus southern rice black streaked dwarf (infects maize) 南方水稻黑条矮缩病毒（侵染玉米）"
   },
   {
     "species": "Mal de Rio Cuarto virus (MRCV)",
@@ -627,7 +641,7 @@
     "genus": "Fijivirus",
     "taxid": "185954",
     "category": "Viruses",
-    "keywords": "mal de rio cuarto viruseses (mrcv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijiviruses mal de rio cuarto viruseses mal de rio cuarto disease (maize rough dwarf) 里奥夸尔托病毒病（阿根廷玉米粗缩病）"
+    "keywords": "mal de rio cuarto virus (mrcv) orthornavirae duplornaviricota resentoviricetes reovirales 刺突呼肠孤病毒科 spinareoviridae fijivirus mal de rio cuarto virus mal de rio cuarto disease (maize rough dwarf) 里奥夸尔托病毒病（阿根廷玉米粗缩病）"
   },
   {
     "species": "Maize yellow dwarf virus-RMV (MYDV-RMV)",
@@ -641,7 +655,7 @@
     "genus": "Polerovirus",
     "taxid": "2170101",
     "category": "Viruses",
-    "keywords": "maize yellow dwarf viruses-rmv (mydv-rmv) orthornavirae pisuviricota pisoniviricetes sobelivirales 南方菜豆花叶病毒科 solemoviridae poleroviruses maize yellow dwarf viruses-rmv maize yellow dwarf 玉米黄矮病"
+    "keywords": "maize yellow dwarf virus-rmv (mydv-rmv) orthornavirae pisuviricota pisoniviricetes sobelivirales 南方菜豆花叶病毒科 solemoviridae polerovirus maize yellow dwarf virus-rmv maize yellow dwarf 玉米黄矮病"
   },
   {
     "species": "Barley yellow dwarf virus-MAV (BYDV-MAV)  /  Maize leaf fleck virus",
@@ -655,7 +669,7 @@
     "genus": "Luteovirus",
     "taxid": "2169984",
     "category": "Viruses",
-    "keywords": "barley yellow dwarf viruses-mav (bydv-mav)  /  maize leaf fleck viruseses orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae luteoviruses bydv-mav barley yellow dwarf (infects maize) 大麦黄矮病（侵染玉米）"
+    "keywords": "barley yellow dwarf virus-mav (bydv-mav)  /  maize leaf fleck virus orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae luteovirus bydv-mav barley yellow dwarf (infects maize) 大麦黄矮病（侵染玉米）"
   },
   {
     "species": "Maize yellow mosaic virus (MaYMV)",
@@ -669,7 +683,7 @@
     "genus": "Polerovirus",
     "taxid": "1856642",
     "category": "Viruses",
-    "keywords": "maize yellow mosaic viruseses (maymv) orthornavirae pisuviricota pisoniviricetes sobelivirales 南方菜豆花叶病毒科 solemoviridae poleroviruses maize yellow mosaic viruseses maize yellow mosaic 玉米黄花叶病"
+    "keywords": "maize yellow mosaic virus (maymv) orthornavirae pisuviricota pisoniviricetes sobelivirales 南方菜豆花叶病毒科 solemoviridae polerovirus maize yellow mosaic virus maize yellow mosaic 玉米黄花叶病"
   },
   {
     "species": "Maize necrotic streak virus (MNeSV)",
@@ -683,7 +697,7 @@
     "genus": "Zeavirus",
     "taxid": "137556",
     "category": "Viruses",
-    "keywords": "maize necrotic streak viruseses (mnesv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae zeaviruses maize necrotic streak viruseses maize necrotic streak 玉米坏死条纹病"
+    "keywords": "maize necrotic streak virus (mnesv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae zeavirus maize necrotic streak virus maize necrotic streak 玉米坏死条纹病"
   },
   {
     "species": "Maize white line mosaic virus (MWLMV)",
@@ -697,7 +711,7 @@
     "genus": "Aureusvirus",
     "taxid": "445227",
     "category": "Viruses",
-    "keywords": "maize white line mosaic viruseses (mwlmv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae aureusviruses maize white line mosaic viruseses maize white line mosaic 玉米白线花叶病"
+    "keywords": "maize white line mosaic virus (mwlmv) orthornavirae kitrinoviricota tolucaviricetes tolivirales 番茄丛矮病毒科 tombusviridae aureusvirus maize white line mosaic virus maize white line mosaic 玉米白线花叶病"
   },
   {
     "species": "Maize Iranian mosaic virus (MIMV)",
@@ -711,7 +725,7 @@
     "genus": "Alphanucleorhabdovirus",
     "taxid": "348823",
     "category": "Viruses",
-    "keywords": "maize iranian mosaic viruseses (mimv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae alphanucleorhabdoviruses maize iranian mosaic viruseses maize iranian mosaic 玉米伊朗花叶病"
+    "keywords": "maize iranian mosaic virus (mimv) orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae alphanucleorhabdovirus maize iranian mosaic virus maize iranian mosaic 玉米伊朗花叶病"
   },
   {
     "species": "Maize sterile stunt virus (MSSV)/Barley yellow striate \nmosaic virus",
@@ -725,7 +739,7 @@
     "genus": "Betacytorhabdovirus",
     "taxid": "2545470",
     "category": "Viruses",
-    "keywords": "maize sterile stunt viruseses (mssv)/barley yellow striate \nmosaic viruseses orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae betacytorhabdoviruses maize sterile stunt viruseses maize sterile stunt 玉米不育矮化病"
+    "keywords": "maize sterile stunt virus (mssv)/barley yellow striate \nmosaic virus orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae betacytorhabdovirus maize sterile stunt virus maize sterile stunt 玉米不育矮化病"
   },
   {
     "species": "Sorghum mosaic virus (SrMV)",
@@ -739,7 +753,7 @@
     "genus": "Potyvirus",
     "taxid": "32619",
     "category": "Viruses",
-    "keywords": "sorghum mosaic viruseses (srmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses sorghum mosaic viruseses sorghum mosaic (may infect maize) 高粱花叶病毒（偶侵染玉米）"
+    "keywords": "sorghum mosaic virus (srmv) orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus sorghum mosaic virus sorghum mosaic (may infect maize) 高粱花叶病毒（偶侵染玉米）"
   },
   {
     "species": "Maize streak dwarfing virus",
@@ -753,7 +767,7 @@
     "genus": "Mastrevirus",
     "taxid": "2557970",
     "category": "Viruses",
-    "keywords": "maize streak dwarfing viruseses shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastreviruses maize streak dwarfing viruseses maize stripe dwarf viruseses 玉米条纹矮缩病"
+    "keywords": "maize streak dwarfing virus shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastrevirus maize streak dwarfing virus maize stripe dwarf virus 玉米条纹矮缩病"
   },
   {
     "species": "Pennisetum Mosaic Virus",
@@ -767,7 +781,21 @@
     "genus": "Potyvirus",
     "taxid": "221262",
     "category": "Viruses",
-    "keywords": "pennisetum mosaic viruseses orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses pennisetum mosaic viruseses maize dwarf mosaic viruseses 玉米矮花叶病"
+    "keywords": "pennisetum mosaic virus orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus pennisetum mosaic virus maize dwarf mosaic viruses 玉米矮花叶病"
+  },
+  {
+    "species": "American wheat striate mosaic virus / Wheat American \nstriate mosaic virus",
+    "disease_en": "wheat striate mosaic",
+    "disease_cn": "玉米条点花叶病",
+    "kingdom": "Orthornavirae",
+    "phylum": "Negarnaviricota",
+    "class": "Monjiviricetes",
+    "order": "Mononegavirales",
+    "family": "弹状病毒科 Rhabdoviridae",
+    "genus": "Cytorhabdovirus",
+    "taxid": "no_taxid_30",
+    "category": "Viruses",
+    "keywords": "american wheat striate mosaic virus / wheat american \nstriate mosaic virus orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae cytorhabdovirus american wheat striate mosaic virus / wheat american \nstriate mosaic virus wheat striate mosaic 玉米条点花叶病"
   },
   {
     "species": "Barley stripe mosaic virus",
@@ -781,7 +809,7 @@
     "genus": "Hordeivirus",
     "taxid": "12327",
     "category": "Viruses",
-    "keywords": "barley stripe mosaic viruseses orthornavirae kitrinoviricota alsuviricetes martellivirales 棒状病毒科 virgaviridae hordeiviruses barley stripe mosaic viruseses barley stripe mosaic 玉米矮缩病毒病"
+    "keywords": "barley stripe mosaic virus orthornavirae kitrinoviricota alsuviricetes martellivirales 棒状病毒科 virgaviridae hordeivirus barley stripe mosaic virus barley stripe mosaic 玉米矮缩病毒病"
   },
   {
     "species": "Brome mosaic virus",
@@ -795,7 +823,7 @@
     "genus": "Bromovirus",
     "taxid": "12302",
     "category": "Viruses",
-    "keywords": "brome mosaic viruseses orthornavirae kitrinoviricota alsuviricetes martellivirales 雀麦花叶病毒科 bromoviridae bromoviruses brome mosaic viruseses brome mosaic 玉米病毒性白斑病"
+    "keywords": "brome mosaic virus orthornavirae kitrinoviricota alsuviricetes martellivirales 雀麦花叶病毒科 bromoviridae bromovirus brome mosaic virus brome mosaic 玉米病毒性白斑病"
   },
   {
     "species": "Cereal chlorotic mottle virus",
@@ -809,7 +837,7 @@
     "genus": "Gammanucleorhabdovirus",
     "taxid": "2964312",
     "category": "Viruses",
-    "keywords": "cereal chlorotic mottle viruseses orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae gammanucleorhabdoviruses cereal chlorotic mottle viruseses cereal chlorotic mottle 玉米禾谷褪绿斑驳病"
+    "keywords": "cereal chlorotic mottle virus orthornavirae negarnaviricota monjiviricetes mononegavirales 弹状病毒科 rhabdoviridae gammanucleorhabdovirus cereal chlorotic mottle virus cereal chlorotic mottle 玉米禾谷褪绿斑驳病"
   },
   {
     "species": "Cucumber mosaic virus",
@@ -823,7 +851,7 @@
     "genus": "Cucumovirus",
     "taxid": "12305",
     "category": "Viruses",
-    "keywords": "cucumber mosaic viruseses orthornavirae kitrinoviricota alsuviricetes martellivirales 雀麦花叶病毒科 bromoviridae cucumoviruses cucumber mosaic viruseses cucumber mosaic 玉米条纹花叶病"
+    "keywords": "cucumber mosaic virus orthornavirae kitrinoviricota alsuviricetes martellivirales 雀麦花叶病毒科 bromoviridae cucumovirus cucumber mosaic virus cucumber mosaic 玉米条纹花叶病"
   },
   {
     "species": "Zea mosaic virus",
@@ -837,7 +865,7 @@
     "genus": "Potyvirus",
     "taxid": "115232",
     "category": "Viruses",
-    "keywords": "zea mosaic viruseses orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyviruses zea mosaic viruseses maize dwarf mosaic 玉米矮花叶病"
+    "keywords": "zea mosaic virus orthornavirae pisuviricota stelpaviricetes patatavirales 马铃薯y病毒科 potyviridae potyvirus zea mosaic virus maize dwarf mosaic 玉米矮花叶病"
   },
   {
     "species": "Maize yellow stripe virus",
@@ -851,7 +879,7 @@
     "genus": "Tenuivirus",
     "taxid": "328622",
     "category": "Viruses",
-    "keywords": "maize yellow stripe viruseses orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuiviruses maize yellow stripe viruseses maize yellow stripe 玉米黄条病毒病"
+    "keywords": "maize yellow stripe virus orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuivirus maize yellow stripe virus maize yellow stripe 玉米黄条病毒病"
   },
   {
     "species": "Maize streak Reunion virus",
@@ -865,7 +893,7 @@
     "genus": "Mastrevirus",
     "taxid": "1182518",
     "category": "Viruses",
-    "keywords": "maize streak reunion viruseses shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastreviruses maize streak reunion viruseses wheat streak mosaic 玉米条斑花叶病"
+    "keywords": "maize streak reunion virus shotokuvirae cressdnaviricota repensiviricetes geplafuvirales 双生病毒科 geminiviridae mastrevirus maize streak reunion virus wheat streak mosaic 玉米条斑花叶病"
   },
   {
     "species": "Rice stripe virus / Tenuivirus oryzaclavatae",
@@ -879,7 +907,7 @@
     "genus": "Tenuivirus",
     "taxid": "3052763",
     "category": "Viruses",
-    "keywords": "rice stripe viruseses / tenuiviruses oryzaclavatae orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuiviruses rice stripe viruseses / tenuiviruses oryzaclavatae rice stripe 玉米褪绿条纹病"
+    "keywords": "rice stripe virus / tenuivirus oryzaclavatae orthornavirae negarnaviricota bunyaviricetes hareavirales 白纤病毒科 phenuiviridae tenuivirus rice stripe virus / tenuivirus oryzaclavatae rice stripe 玉米褪绿条纹病"
   },
   {
     "species": "Maize-associated totivirus",
@@ -893,7 +921,7 @@
     "genus": "Totivirus",
     "taxid": "1756285",
     "category": "Viruses",
-    "keywords": "maize-associated totiviruses orthornavirae duplornaviricota chrymotiviricetes ghabrivirales 正整体病毒科 orthototiviridae totiviruses maize associated totiviruses persistent/latent infection (no clear disease) 持续性/潜伏感染（无明显病害症状）"
+    "keywords": "maize-associated totivirus orthornavirae duplornaviricota chrymotiviricetes ghabrivirales 正整体病毒科 orthototiviridae totivirus maize associated totivirus persistent/latent infection (no clear disease) 持续性/潜伏感染（无明显病害症状）"
   },
   {
     "species": "Fusarium verticillioides (Gibberella moniliformis)",
@@ -1034,6 +1062,20 @@
     "taxid": "335854",
     "category": "Fungi",
     "keywords": "nigrospora oryzae (khuskia oryzae) 真菌界 fungi 子囊菌门 ascomycota 粪壳菌纲 sordariomycetes 圆孔壳目 amphisphaeriales 梨孢假壳科 apiosporaceae 黑孢霉属 nigrospora nigrospora oryzae (khuskia oryzae) nigrospora ear rot, cob rot 黑孢霉穗腐病"
+  },
+  {
+    "species": "Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis \nmaydis)",
+    "disease_en": "Late wilt (black bundle disease)",
+    "disease_cn": "晚枯病/黑束病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 Ascomycota",
+    "class": "粪壳菌纲 Sordariomycetes",
+    "order": "巨座壳目 Magnaporthales",
+    "family": "Pyriculariaceae",
+    "genus": "Harpophora",
+    "taxid": "no_taxid_14",
+    "category": "Fungi",
+    "keywords": "harpophora maydis (cephalosporium maydis/magnaporthiopsis \nmaydis) 真菌界 fungi 子囊菌门 ascomycota 粪壳菌纲 sordariomycetes 巨座壳目 magnaporthales pyriculariaceae harpophora harpophora maydis (cephalosporium maydis/magnaporthiopsis \nmaydis) late wilt (black bundle disease) 晚枯病/黑束病"
   },
   {
     "species": "Sarocladium strictum (Acremonium strictum)",
@@ -2366,6 +2408,20 @@
     "keywords": "trichoderma koningii 真菌界 fungi 子囊菌门 (ascomycota) 粪壳菌纲 hypocreomycetidae 肉座菌目 hypocreales 肉座菌科 (hypocreaceae) 木霉属 (trichoderma) trichoderma koningii first-internode lesions 第一节间病斑"
   },
   {
+    "species": "Ascochyta zeae",
+    "disease_en": "leaf spot",
+    "disease_cn": "叶斑病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 (Ascomycota)",
+    "class": "座囊菌纲（Dothideomycetes）",
+    "order": "格孢菌目（Pleosporales）",
+    "family": "小双腔菌科（Didymellaceae）",
+    "genus": "壳二孢属 Ascochyta",
+    "taxid": "no_taxid_110",
+    "category": "Fungi",
+    "keywords": "ascochyta zeae 真菌界 fungi 子囊菌门 (ascomycota) 座囊菌纲（dothideomycetes） 格孢菌目（pleosporales） 小双腔菌科（didymellaceae） 壳二孢属 ascochyta ascochyta zeae leaf spot 叶斑病"
+  },
+  {
     "species": "Curvularia aeria / Curvularia lunata var. aeria",
     "disease_en": "Curvularia leaf spot",
     "disease_cn": "弯孢叶斑病",
@@ -2520,6 +2576,20 @@
     "keywords": "exserohilum prolatum / setosphaeria prolata 真菌界 fungi 子囊菌门 (ascomycota) 座囊菌纲 (dothideomycetes) 格孢菌目 (pleosporales) 格孢菌科 (pleosporaceae) 凸脐蠕孢属 exserohilum exserohilum prolatum / setosphaeria prolata leaf spot 叶斑病"
   },
   {
+    "species": "Hyalothyridium maydis / Orphanocoela maydis",
+    "disease_en": "leaf spot",
+    "disease_cn": "叶斑病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 Ascomycota",
+    "class": "unclassified",
+    "order": "unclassified",
+    "family": "unclassified",
+    "genus": "unclassified",
+    "taxid": "no_taxid_122",
+    "category": "Fungi",
+    "keywords": "hyalothyridium maydis / orphanocoela maydis 真菌界 fungi 子囊菌门 ascomycota unclassified unclassified unclassified unclassified hyalothyridium maydis / orphanocoela maydis leaf spot 叶斑病"
+  },
+  {
     "species": "Leptosphaerulina australis",
     "disease_en": "leaf spot",
     "disease_cn": "叶斑病",
@@ -2534,6 +2604,34 @@
     "keywords": "leptosphaerulina australis 真菌界 fungi 子囊菌门 (ascomycota) 座囊菌纲 (dothideomycetes) 格孢菌目 (pleosporales) 双足囊菌科 didymellaceae 小光壳属 leptosphaerulina leptosphaerulina australis leaf spot 叶斑病"
   },
   {
+    "species": "Physopella pallescens / Phakopsora pallescens",
+    "disease_en": "Tropic rust",
+    "disease_cn": "热带锈病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "担子菌门 Basidiomycota",
+    "class": "锈菌纲 Pucciniomycetes",
+    "order": "锈菌目 Pucciniales",
+    "family": "拟夏孢锈菌科 Phakopsoraceae",
+    "genus": "拟夏孢锈菌属 Phakopsora",
+    "taxid": "no_taxid_124",
+    "category": "Fungi",
+    "keywords": "physopella pallescens / phakopsora pallescens 真菌界 fungi 担子菌门 basidiomycota 锈菌纲 pucciniomycetes 锈菌目 pucciniales 拟夏孢锈菌科 phakopsoraceae 拟夏孢锈菌属 phakopsora physopella pallescens / phakopsora pallescens tropic rust 热带锈病"
+  },
+  {
+    "species": "Physopella zeae",
+    "disease_en": "Tropic rust",
+    "disease_cn": "热带锈病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "担子菌门 Basidiomycota",
+    "class": "锈菌纲 Pucciniomycetes",
+    "order": "锈菌目 Pucciniales",
+    "family": "拟夏孢锈菌科 Phakopsoraceae",
+    "genus": "拟夏孢锈菌属 Phakopsora",
+    "taxid": "no_taxid_125",
+    "category": "Fungi",
+    "keywords": "physopella zeae 真菌界 fungi 担子菌门 basidiomycota 锈菌纲 pucciniomycetes 锈菌目 pucciniales 拟夏孢锈菌科 phakopsoraceae 拟夏孢锈菌属 phakopsora physopella zeae tropic rust 热带锈病"
+  },
+  {
     "species": "Gloeocercospora sorghi / Microdochium sorghi",
     "disease_en": "Zonate leaf spot",
     "disease_cn": "豹纹病",
@@ -2546,6 +2644,20 @@
     "taxid": "1682391",
     "category": "Fungi",
     "keywords": "gloeocercospora sorghi / microdochium sorghi 真菌界 fungi 子囊菌门 (ascomycota) 粪壳菌纲 sordariomycetes 炭角菌目 xylariales 微座孢科 microdochiaceae 微座孢属 microdochium gloeocercospora sorghi / microdochium sorghi zonate leaf spot 豹纹病"
+  },
+  {
+    "species": "Sclerophthora rayssiae / Sclerophthora rayssiae var. zeae",
+    "disease_en": "Brown stripe downy mildew",
+    "disease_cn": "褐条霜霉病",
+    "kingdom": "色藻界 Chromista (Stramenopiles)",
+    "phylum": "卵菌门 Oomycota",
+    "class": "霜霉纲 Peronosporomycetes",
+    "order": "霜霉目 Peronosporales",
+    "family": "霜霉科 Peronosporaceae",
+    "genus": "指疫霉属 Sclerophthora",
+    "taxid": "no_taxid_127",
+    "category": "Oomycetes",
+    "keywords": "sclerophthora rayssiae / sclerophthora rayssiae var. zeae 色藻界 chromista (stramenopiles) 卵菌门 oomycota 霜霉纲 peronosporomycetes 霜霉目 peronosporales 霜霉科 peronosporaceae 指疫霉属 sclerophthora sclerophthora rayssiae / sclerophthora rayssiae var. zeae brown stripe downy mildew 褐条霜霉病"
   },
   {
     "species": "Peronosclerospora miscanthi",
@@ -2574,6 +2686,20 @@
     "taxid": "467162",
     "category": "Oomycetes",
     "keywords": "peronosclerospora heteropogonis 色藻界 chromista (stramenopiles) 卵菌门 oomycota 霜霉纲 peronosporomycetes 霜霉目 peronosporales 霜霉科 peronosporaceae 轴霜霉属 peronosclerospora peronosclerospora heteropogonis rajasthan downy mildew 拉贾斯坦霜霉病"
+  },
+  {
+    "species": "Peronosclerospora spontanea",
+    "disease_en": "Spontaneum downy mildew",
+    "disease_cn": "自发霜霉病",
+    "kingdom": "色藻界 Chromista (Stramenopiles)",
+    "phylum": "卵菌门 Oomycota",
+    "class": "霜霉纲 Peronosporomycetes",
+    "order": "霜霉目 Peronosporales",
+    "family": "霜霉科 Peronosporaceae",
+    "genus": "轴霜霉属 Peronosclerospora",
+    "taxid": "no_taxid_130",
+    "category": "Oomycetes",
+    "keywords": "peronosclerospora spontanea 色藻界 chromista (stramenopiles) 卵菌门 oomycota 霜霉纲 peronosporomycetes 霜霉目 peronosporales 霜霉科 peronosporaceae 轴霜霉属 peronosclerospora peronosclerospora spontanea spontaneum downy mildew 自发霜霉病"
   },
   {
     "species": "Peronosclerospora sacchari",
@@ -2742,6 +2868,20 @@
     "taxid": "56641",
     "category": "Fungi",
     "keywords": "fusarium cerealis  / fusarium crookwellense 真菌界 fungi 子囊菌门 ascomycota 粪壳菌纲 sordariomycetes 肉座菌目 hypocreales 丛赤壳科 nectriaceae 镰刀菌属 fusarium fusarium cerealis  / fusarium crookwellense ear rot/stalk rot 穗腐病/茎腐病"
+  },
+  {
+    "species": "Botryosphaeria zeae",
+    "disease_en": "Gray ear rot",
+    "disease_cn": "穗灰腐病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 Ascomycota",
+    "class": "座囊菌纲 Dothideomycetes",
+    "order": "葡萄座腔菌目 Botryosphaeriales",
+    "family": "葡萄座腔菌科 Botryosphaeriaceae",
+    "genus": "葡萄座腔菌属 Botryosphaeria",
+    "taxid": "no_taxid_143",
+    "category": "Fungi",
+    "keywords": "botryosphaeria zeae 真菌界 fungi 子囊菌门 ascomycota 座囊菌纲 dothideomycetes 葡萄座腔菌目 botryosphaeriales 葡萄座腔菌科 botryosphaeriaceae 葡萄座腔菌属 botryosphaeria botryosphaeria zeae gray ear rot 穗灰腐病"
   },
   {
     "species": "Penicillium cyclopium",
@@ -3010,6 +3150,48 @@
     "keywords": "aspergillus oryzae 真菌界 fungi 子囊菌门 (ascomycota) 散囊菌纲 eurotiomycetes 散囊菌目 eurotiales 曲霉科 aspergillaceae 曲霉属 aspergillus aspergillus oryzae aspergillus ear rot 曲霉穗腐病"
   },
   {
+    "species": "Leptosphaeria variiseptata / Phaeosphaeria variiseptata",
+    "disease_en": "leaf spot",
+    "disease_cn": "叶斑病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 (Ascomycota)",
+    "class": "座囊菌纲 (Dothideomycetes)",
+    "order": "格孢菌目 (Pleosporales)",
+    "family": "暗球腔菌科 Phaeosphaeriaceae",
+    "genus": "暗球腔菌属 Phaeosphaeria",
+    "taxid": "no_taxid_163",
+    "category": "Fungi",
+    "keywords": "leptosphaeria variiseptata / phaeosphaeria variiseptata 真菌界 fungi 子囊菌门 (ascomycota) 座囊菌纲 (dothideomycetes) 格孢菌目 (pleosporales) 暗球腔菌科 phaeosphaeriaceae 暗球腔菌属 phaeosphaeria leptosphaeria variiseptata / phaeosphaeria variiseptata leaf spot 叶斑病"
+  },
+  {
+    "species": "Septoria maydis",
+    "disease_en": "leaf blotch",
+    "disease_cn": "斑点病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 (Ascomycota)",
+    "class": "座囊菌纲 (Dothideomycetes)",
+    "order": "球腔菌目 (Mycosphaerellales)",
+    "family": "球腔菌科 Mycosphaerellaceae",
+    "genus": "壳针孢属 Septoria",
+    "taxid": "no_taxid_164",
+    "category": "Fungi",
+    "keywords": "septoria maydis 真菌界 fungi 子囊菌门 (ascomycota) 座囊菌纲 (dothideomycetes) 球腔菌目 (mycosphaerellales) 球腔菌科 mycosphaerellaceae 壳针孢属 septoria septoria maydis leaf blotch 斑点病"
+  },
+  {
+    "species": "Septoria zeina/Septoria zeae",
+    "disease_en": "leaf blotch",
+    "disease_cn": "斑点病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 (Ascomycota)",
+    "class": "座囊菌纲 (Dothideomycetes)",
+    "order": "球腔菌目 (Mycosphaerellales)",
+    "family": "球腔菌科 Mycosphaerellaceae",
+    "genus": "壳针孢属 Septoria",
+    "taxid": "no_taxid_165",
+    "category": "Fungi",
+    "keywords": "septoria zeina/septoria zeae 真菌界 fungi 子囊菌门 (ascomycota) 座囊菌纲 (dothideomycetes) 球腔菌目 (mycosphaerellales) 球腔菌科 mycosphaerellaceae 壳针孢属 septoria septoria zeina/septoria zeae leaf blotch 斑点病"
+  },
+  {
     "species": "Didymella exitialis / Neoascochyta exitialis",
     "disease_en": "leaf spot",
     "disease_cn": "叶斑病",
@@ -3052,6 +3234,20 @@
     "keywords": "paraphaeosphaeria michotii / sphaeria michotii 真菌界 fungi 子囊菌门 (ascomycota) 座囊菌纲 (dothideomycetes) 格孢菌目 (pleosporales) 双球腔菌科 didymosphaeriaceae 拟暗球腔菌属 paraphaeosphaeria paraphaeosphaeria michotii / sphaeria michotii tar spot 焦斑病"
   },
   {
+    "species": "Leptosphaeria multiseptata / Entodesmium multiseptatum",
+    "disease_en": "leaf spot",
+    "disease_cn": "叶斑病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 (Ascomycota)",
+    "class": "座囊菌纲 (Dothideomycetes)",
+    "order": "格孢菌目 (Pleosporales)",
+    "family": "小球腔菌科 Leptosphaeriaceae",
+    "genus": "小球腔菌属 Leptosphaeria",
+    "taxid": "no_taxid_169",
+    "category": "Fungi",
+    "keywords": "leptosphaeria multiseptata / entodesmium multiseptatum 真菌界 fungi 子囊菌门 (ascomycota) 座囊菌纲 (dothideomycetes) 格孢菌目 (pleosporales) 小球腔菌科 leptosphaeriaceae 小球腔菌属 leptosphaeria leptosphaeria multiseptata / entodesmium multiseptatum leaf spot 叶斑病"
+  },
+  {
     "species": "Helminthosporium hawaiiensis / Curvularia hawaiiensis",
     "disease_en": "Curvularia leaf spot",
     "disease_cn": "弯孢叶斑病",
@@ -3078,6 +3274,20 @@
     "taxid": "13001",
     "category": "Fungi",
     "keywords": "ceratocystis paradoxa/thielaviopsis paradoxa 真菌界 fungi 子囊菌门 (ascomycota) 粪壳菌纲 hypocreomycetidae 微囊菌目 microascales 长喙壳科 ceratostomataceae 根串珠霉属 thielaviopsis ceratocystis paradoxa/thielaviopsis paradoxa ceratocystis paradoxa leaf spot 长喙壳叶斑病"
+  },
+  {
+    "species": "Ascochyta maydis",
+    "disease_en": "leaf spot",
+    "disease_cn": "叶斑病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 (Ascomycota)",
+    "class": "座囊菌纲（Dothideomycetes）",
+    "order": "格孢菌目（Pleosporales）",
+    "family": "小双腔菌科（Didymellaceae）",
+    "genus": "壳二孢属 Ascochyta",
+    "taxid": "no_taxid_172",
+    "category": "Fungi",
+    "keywords": "ascochyta maydis 真菌界 fungi 子囊菌门 (ascomycota) 座囊菌纲（dothideomycetes） 格孢菌目（pleosporales） 小双腔菌科（didymellaceae） 壳二孢属 ascochyta ascochyta maydis leaf spot 叶斑病"
   },
   {
     "species": "Pythium vexans/Phytopythium vexans",
@@ -3136,6 +3346,20 @@
     "keywords": "aspergillus tamarii 真菌界 fungi 子囊菌门 (ascomycota) 散囊菌纲 (eurotiomycetes) 散囊菌目 (eurotiales) 曲霉科  aspergillaceae 曲霉属 aspergillus aspergillus tamarii seed rot 种腐病"
   },
   {
+    "species": "Phaeosphaeria maydis",
+    "disease_en": "White Spot",
+    "disease_cn": "白斑病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 (Ascomycota)",
+    "class": "座囊菌纲 (Dothideomycetes)",
+    "order": "格孢菌目 (Pleosporales)",
+    "family": "暗球腔菌科 Phaeosphaeriaceae",
+    "genus": "暗球腔菌属 Phaeosphaeria",
+    "taxid": "no_taxid_177",
+    "category": "Fungi",
+    "keywords": "phaeosphaeria maydis 真菌界 fungi 子囊菌门 (ascomycota) 座囊菌纲 (dothideomycetes) 格孢菌目 (pleosporales) 暗球腔菌科 phaeosphaeriaceae 暗球腔菌属 phaeosphaeria phaeosphaeria maydis white spot 白斑病"
+  },
+  {
     "species": "Botryosphaeria dothidea",
     "disease_en": "Botryosphaeria ear rot, stalk canker",
     "disease_cn": "葡萄座腔菌穗腐病/茎溃疡病",
@@ -3176,6 +3400,20 @@
     "taxid": "4785",
     "category": "Oomycetes",
     "keywords": "phytophthora cinnamomi 色藻界 chromista (stramenopiles) 卵菌门 oomycota 霜霉纲 peronosporomycetes 霜霉目 peronosporales 霜霉科 peronosporaceae 疫霉属 phytophthora phytophthora cinnamomi phytophthora root rot (rare) 疫霉根腐病"
+  },
+  {
+    "species": "Monographella maydis/Microdochium maydis",
+    "disease_en": "Tar spot complex",
+    "disease_cn": "靶斑病",
+    "kingdom": "真菌界 Fungi",
+    "phylum": "子囊菌门 (Ascomycota)",
+    "class": "粪壳菌纲 Sordariomycetes",
+    "order": "炭角菌目Xylariales",
+    "family": "微座孢科 Microdochiaceae",
+    "genus": "微座孢属 Microdochium",
+    "taxid": "no_taxid_181",
+    "category": "Fungi",
+    "keywords": "monographella maydis/microdochium maydis 真菌界 fungi 子囊菌门 (ascomycota) 粪壳菌纲 sordariomycetes 炭角菌目xylariales 微座孢科 microdochiaceae 微座孢属 microdochium monographella maydis/microdochium maydis tar spot complex 靶斑病"
   },
   {
     "species": "Trichoderma koningiopsis",
