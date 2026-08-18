@@ -131,19 +131,6 @@ All entries were manually verified against the [NCBI Taxonomy database](https://
 
 ---
 
-## Code Availability
-
-| Script | Function |
-|---|---|
-| `download_sequences_v2.py` | NCBI marker gene sequence download via Entrez API |
-| `build_database.py` | BLAST database construction and SINTAX formatting |
-| `ncbi_nt_comparison_v2.py` | Stratified benchmark against NCBI-nt database |
-| `external_validation.py` | External validation using newly submitted NCBI sequences |
-| `refseq_validation.py` | RefSeq cross-validation |
-| `generate_figures.py` | Publication-quality figure generation |
-| `generate_ncbi_figure.py` | NCBI-nt comparison figure generation |
-| `update_database.py` | Full database update pipeline (Excel → sequences → BLAST DB → web) |
-
 **Dependencies:** Python 3.8+ · Biopython · openpyxl · requests · matplotlib · numpy · BLAST+ 2.17.0
 
 ---
