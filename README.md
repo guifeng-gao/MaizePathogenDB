@@ -131,9 +131,6 @@ All entries were manually verified against the [NCBI Taxonomy database](https://
 
 ---
 
-**Dependencies:** Python 3.8+ · Biopython · openpyxl · requests · matplotlib · numpy · BLAST+ 2.17.0
-
----
 
 ## License
 
