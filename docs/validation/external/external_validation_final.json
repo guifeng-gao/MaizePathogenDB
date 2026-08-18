@@ -1,0 +1,27 @@
+{
+  "validation_type": "external",
+  "total_external_queries": 152,
+  "total_taxa_with_new_seqs": 152,
+  "results": {
+    "bacteria": {
+      "n_queries": 11,
+      "n_correct": 10,
+      "accuracy": 90.9
+    },
+    "viruses": {
+      "n_queries": 8,
+      "n_correct": 8,
+      "accuracy": 100.0
+    },
+    "fungi": {
+      "n_queries": 114,
+      "n_correct": 107,
+      "accuracy": 93.9
+    },
+    "oomycetes": {
+      "n_queries": 19,
+      "n_correct": 18,
+      "accuracy": 94.7
+    }
+  }
+}

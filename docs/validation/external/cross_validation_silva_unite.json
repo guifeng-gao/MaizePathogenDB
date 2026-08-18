@@ -1,0 +1,16 @@
+{
+  "validation_type": "cross_validation_silva_unite",
+  "description": "Cross-validation against SILVA and UNITE reference databases",
+  "results": {
+    "bacteria": {
+      "n_queries": 20,
+      "n_correct": 17,
+      "accuracy": 85.0
+    },
+    "fungi": {
+      "n_queries": 64,
+      "n_correct": 53,
+      "accuracy": 82.8
+    }
+  }
+}

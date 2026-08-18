@@ -1,0 +1,26 @@
+{
+  "external_2025_2026": {
+    "Bacteria": {
+      "sp": 100.0,
+      "gn": 100.0
+    },
+    "Viruses": {
+      "sp": 100.0,
+      "gn": 100.0
+    },
+    "Fungi": {
+      "sp": 93.4,
+      "gn": 95.1
+    }
+  },
+  "cross_validation_silva_unite": {
+    "Bacteria": {
+      "sp": 95.0,
+      "gn": 95.0
+    },
+    "Fungi": {
+      "sp": 90.6,
+      "gn": 96.875
+    }
+  }
+}

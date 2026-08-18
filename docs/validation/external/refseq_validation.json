@@ -1,0 +1,10 @@
+{
+  "validation_type": "refseq",
+  "results": {
+    "viruses": {
+      "n_queries": 32,
+      "n_correct": 0,
+      "accuracy_pct": 0.0
+    }
+  }
+}

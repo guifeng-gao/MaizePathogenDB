@@ -25,7 +25,7 @@ os.makedirs(OUT_DIR, exist_ok=True)
 RESULTS_FILE = os.path.join(OUT_DIR, "ncbi_nt_comparison_v2.json")
 FIGURE_FILE   = os.path.join(OUT_DIR, "Fig_NCBI_nt_Comparison_v2.pdf")
 
-SAMPLE_N      = 100
+SAMPLE_N      = 200
 RANDOM_SEED   = 42
 NCBI_DELAY    = 3.5          # seconds between NCBI web BLAST requests
 NCBI_TIMEOUT  = 600          # max seconds to wait for a single BLAST job

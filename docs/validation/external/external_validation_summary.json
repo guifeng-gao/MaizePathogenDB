@@ -1,0 +1,26 @@
+{
+  "validation_type": "external",
+  "description": "Sequences submitted to NCBI in 2025-2026, not present in MaizePathogenDB v1.0",
+  "total_external_queries": 426,
+  "total_taxa_with_new_seqs": 153,
+  "results": {
+    "bacteria": {
+      "n_queries": 0,
+      "n_correct": 0,
+      "accuracy": 0,
+      "mean_pident": 0
+    },
+    "viruses": {
+      "n_queries": 0,
+      "n_correct": 0,
+      "accuracy": 0,
+      "mean_pident": 0
+    },
+    "fungi": {
+      "n_queries": 0,
+      "n_correct": 0,
+      "accuracy": 0,
+      "mean_pident": 0
+    }
+  }
+}

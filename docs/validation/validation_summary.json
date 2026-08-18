@@ -1,0 +1,67 @@
+{
+  "database_version": "1.0",
+  "validation_date": "2026-07-24",
+  "sequence_stats": {
+    "bacteria": {
+      "n": 63,
+      "taxa": 22,
+      "avg": 1338.2698412698412,
+      "std": 133.00211316488173,
+      "min": 1021,
+      "max": 1531
+    },
+    "viruses": {
+      "n": 70,
+      "taxa": 25,
+      "avg": 6470.128571428571,
+      "std": 3837.534937659213,
+      "min": 1341,
+      "max": 13782
+    },
+    "fungi": {
+      "n": 191,
+      "taxa": 64,
+      "avg": 598.2722513089005,
+      "std": 162.407280723816,
+      "min": 400,
+      "max": 1698
+    }
+  },
+  "taxonomic_accuracy": {
+    "bacteria": {
+      "correct": 63,
+      "total": 63,
+      "pct": 100.0
+    },
+    "viruses": {
+      "correct": 70,
+      "total": 70,
+      "pct": 100.0
+    },
+    "fungi": {
+      "correct": 190,
+      "total": 191,
+      "pct": 99.47643979057592
+    }
+  },
+  "self_hit_summary": {
+    "bacteria": {
+      "total_hits": 326,
+      "n_queries": 63,
+      "n_self": 168,
+      "n_exact": 64
+    },
+    "viruses": {
+      "total_hits": 273,
+      "n_queries": 70,
+      "n_self": 210,
+      "n_exact": 80
+    },
+    "fungi": {
+      "total_hits": 954,
+      "n_queries": 191,
+      "n_self": 499,
+      "n_exact": 192
+    }
+  }
+}
