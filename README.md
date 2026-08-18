@@ -72,15 +72,6 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 |---|---|
 | `Maize Pathogen.xlsx` | Curated pathogen catalog with three sheets (bacteria, virus, fungi and Oomycota), taxonomy, and literature references |
 
-### Validation Results
-
-| File | Description |
-|---|---|
-| `docs/validation/ncbi_nt_comparison_v2.json` | MaizePathogenDB vs NCBI-nt benchmark |
-| `docs/validation/validation_summary.json` | Multi-method validation results |
-| `docs/validation/genus_accuracy_full.json` | Species-level vs genus-level accuracy |
-| `docs/validation/Fig*.pdf` | Publication figures |
-
 ### Web Platform
 
 | File | Description |
