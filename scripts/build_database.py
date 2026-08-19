@@ -43,7 +43,7 @@ except:
 if makeblastdb:
     blast_out = os.path.join(BLAST_DIR, "maize_pathogens")
     cmd = [makeblastdb, "-in", fasta, "-dbtype", "nucl", "-out", blast_out, 
-           "-title", "Maize Pathogen Reference Database v1.0"]
+           "-title", "Maize Pathogen Reference Database"]
     result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
     if result.returncode == 0:
         print(f"   ✓ BLAST database built: {blast_out}")
@@ -108,7 +108,7 @@ with open(fasta) as f:
                 categories[cat] += 1
 
 stats_report = []
-stats_report.append(f"Maize Pathogen Reference Database v1.0 - Statistics")
+stats_report.append(f"Maize Pathogen Reference Database - Statistics")
 stats_report.append(f"{'='*60}")
 stats_report.append(f"Total sequences: {seq_count}")
 stats_report.append(f"")
@@ -129,7 +129,7 @@ print(stats_text)
 
 # Save JSON stats
 json_stats = {
-    "database_version": "1.0",
+    "database_version": "2026-08-19",
     "creation_date": "2026-07-24",
     "total_sequences": seq_count,
     "categories": {cat: {"sequences": categories[cat], "species": len(species_set[cat]),

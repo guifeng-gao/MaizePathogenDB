@@ -78,7 +78,7 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 |---|---|
 | `docs/validation/self_validation_current.json` | Internal self-hit validation (573 sequences) |
 | `docs/validation/cross_validation_current.json` | SILVA/UNITE cross-validation |
-| `docs/validation/ncbi_nt_comparison_v2.json` | MaizePathogenDB vs NCBI-nt benchmark |
+| `docs/validation/ncbi_nt_comparison.json` | MaizePathogenDB vs NCBI-nt benchmark |
 | `docs/validation/ncbi_nt_comparison_150_summary.md` | NCBI-nt 150-query comparison summary |
 | `docs/validation/external/external_validation_final.json` | External validation full results |
 | `docs/validation/external/external_validation_2020_2026_summary.md` | 2020-2026 external validation summary |
@@ -162,13 +162,13 @@ All entries were manually verified against the [NCBI Taxonomy database](https://
 
 | Script | Function |
 |---|---|
-| `download_sequences_v2.py` | NCBI marker gene sequence download via Entrez API |
+| `download_sequences.py` | NCBI marker gene sequence download via Entrez API |
 | `build_database.py` | BLAST database construction and SINTAX formatting |
 | `run_self_validation.py` | Internal self-hit validation |
 | `run_silva_unite_validation.py` | SILVA/UNITE cross-validation |
-| `ncbi_nt_comparison_v2.py` | Stratified benchmark against NCBI-nt database |
+| `ncbi_nt_comparison.py` | Stratified benchmark against NCBI-nt database |
 | `ncbi_nt_comparison_retry.py` | Retry timed-out NCBI-nt queries |
-| `external_validation_v2.py` | External validation using 2020-2026 NCBI sequences |
+| `external_validation.py` | External validation using 2020-2026 NCBI sequences |
 | `refseq_validation.py` | RefSeq cross-validation (legacy, not current) |
 | `update_database.py` | Full database update pipeline (Excel → sequences → BLAST DB → web) |
 

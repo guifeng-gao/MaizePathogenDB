@@ -19,6 +19,5 @@ Notes:
 - Most NCBI-nt errors are synonyms or nomenclature differences at 100% identity (e.g. Tenuivirus zeae vs Maize stripe virus, Myrothecium gramineum vs Xepiculopsis graminea), rather than true mismatches.
 
 Files:
-- `ncbi_nt_comparison_v2.json` (full per-query results)
-- `Fig_NCBI_nt_Comparison_Final_v2.pdf` (summary figure)
+- `ncbi_nt_comparison.json` (full per-query results)
 - `Fig_NCBI_nt_Comparison.pdf` / `Fig_NCBI_nt_Comparison_Final.pdf` (copies of the summary figure)

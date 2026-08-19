@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""External validation v2: BLAST 2025-2026 NCBI submissions against MaizePathogenDB."""
+"""External validation: BLAST 2020-2026 NCBI submissions against MaizePathogenDB."""
 
 import json
 import os

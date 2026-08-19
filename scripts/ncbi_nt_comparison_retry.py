@@ -12,7 +12,7 @@ import requests
 
 BASE = "/Users/gfgao/Desktop/blacksoil_metaG/maize_pathogen_db"
 FASTA = os.path.join(BASE, "sequences", "maize_pathogens_all.fasta")
-RESULTS_FILE = os.path.join(BASE, "docs", "validation", "ncbi_nt_comparison_v2.json")
+RESULTS_FILE = os.path.join(BASE, "docs", "validation", "ncbi_nt_comparison.json")
 
 SAMPLE_N = 150
 RANDOM_SEED = 42

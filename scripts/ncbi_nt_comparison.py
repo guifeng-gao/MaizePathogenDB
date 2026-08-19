@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-MaizePathogenDB vs NCBI-nt comparison (v2).
+MaizePathogenDB vs NCBI-nt comparison.
 Scale from 15 to ~100 sequences with stratified random sampling.
 """
 
@@ -16,7 +16,7 @@ BLAST_BIN = "/Users/gfgao/Desktop/blacksoil_metaG/tools/ncbi-blast-2.17.0+/bin/b
 OUT_DIR  = os.path.join(BASE, "docs", "validation")
 os.makedirs(OUT_DIR, exist_ok=True)
 
-RESULTS_FILE = os.path.join(OUT_DIR, "ncbi_nt_comparison_v2.json")
+RESULTS_FILE = os.path.join(OUT_DIR, "ncbi_nt_comparison.json")
 
 SAMPLE_N      = 150
 RANDOM_SEED   = 42
@@ -148,7 +148,7 @@ def check_ncbi_species(description, expected_species):
 
 # ═══════════════════════════════════════════════════════════════════
 print("=" * 60)
-print("MaizePathogenDB vs NCBI-nt Comparison  v2")
+print("MaizePathogenDB vs NCBI-nt Comparison")
 print("=" * 60)
 
 # ── Step 1: Parse & Sample ──────────────────────────────────────────

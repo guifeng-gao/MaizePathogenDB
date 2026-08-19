@@ -1,6 +1,6 @@
 {
   "validation_type": "external",
-  "description": "Sequences submitted to NCBI in 2025-2026, not present in MaizePathogenDB v1.0",
+  "description": "Sequences submitted to NCBI in 2025-2026, not present in MaizePathogenDB",
   "total_external_queries": 426,
   "total_taxa_with_new_seqs": 153,
   "results": {
