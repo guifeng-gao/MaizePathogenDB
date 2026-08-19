@@ -1,26 +1,12 @@
 {
-  "external_2025_2026": {
-    "Bacteria": {
-      "sp": 100.0,
-      "gn": 100.0
-    },
-    "Viruses": {
-      "sp": 100.0,
-      "gn": 100.0
-    },
-    "Fungi": {
-      "sp": 93.4,
-      "gn": 95.1
-    }
+  "external_2020_2026": {
+    "Bacteria": {"sp": 70.0, "gn": 90.0},
+    "Viruses": {"sp": 100.0, "gn": 100.0},
+    "Fungi": {"sp": 77.4, "gn": 91.5},
+    "Oomycetes": {"sp": 16.7, "gn": 50.0}
   },
   "cross_validation_silva_unite": {
-    "Bacteria": {
-      "sp": 95.0,
-      "gn": 95.0
-    },
-    "Fungi": {
-      "sp": 90.6,
-      "gn": 96.875
-    }
+    "Bacteria": {"sp": 91.7, "gn": 91.7},
+    "Fungi": {"sp": 72.9, "gn": 89.8}
   }
 }
