@@ -82,8 +82,22 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 | `docs/validation/ncbi_nt_comparison_150_summary.md` | NCBI-nt 150-query comparison summary |
 | `docs/validation/external/external_validation_final.json` | External validation full results |
 | `docs/validation/external/external_validation_2020_2026_summary.md` | 2020-2026 external validation summary |
-| `docs/validation/validation_summary.json` | Multi-method validation results |
+| `docs/validation/validation_summary.json` | Current multi-method validation results |
 | `docs/validation/genus_accuracy_full.json` | Species-level vs genus-level accuracy |
+
+### Validation Summary (2026-08-19)
+
+| Method | Bacteria | Viruses | True Fungi | Oomycetes | Overall |
+|---|---:|---:|---:|---:|---:|
+| Internal Self-hit | 100% (51/51) | 100% (96/96) | 99.2% (358/361) | 100% (65/65) | 99.5% (570/573) |
+| SILVA/UNITE Cross-val | 91.7% (11/12) | N/A | 72.7% (40/55) | 75.0% (3/4) | 76.1% (54/71) |
+| NCBI-nt 150 (Our DB) | 100% (14/14) | 100% (26/26) | 100% (94/94) | 100% (16/16) | 100% (150/150) |
+| NCBI-nt 150 (NCBI-nt) | 100% (14/14) | 88.5% (23/26) | 90.4% (85/94) | 93.8% (15/16) | 91.3% (137/150) |
+| External 2020-2026 | 70.0% (7/10) | 100% (3/3) | 77.4% (82/106) | 16.7% (1/6) | 74.4% (93/125) |
+| External 2020-2026 genus-level | 90.0% (9/10) | 100% (3/3) | 91.5% (97/106) | 50.0% (3/6) | 89.6% (112/125) |
+| SILVA/UNITE genus-level | 91.7% (11/12) | N/A | 89.1% (49/55) | 100% (4/4) | 90.1% (64/71) |
+
+True Fungi excludes Oomycetes; Oomycetes are separated by NCBI Taxonomy.
 
 ### Web Platform
 
