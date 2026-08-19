@@ -7,12 +7,6 @@ Scale from 15 to ~100 sequences with stratified random sampling.
 import os, json, sys, time, subprocess, random, re, tempfile
 from collections import defaultdict
 import requests
-from Bio.Blast import NCBIWWW
-import matplotlib
-matplotlib.use('Agg')
-from Bio.Blast import NCBIWWW
-import matplotlib.pyplot as plt
-import numpy as np
 
 # ── Config ──────────────────────────────────────────────────────────
 BASE     = "/Users/gfgao/Desktop/blacksoil_metaG/maize_pathogen_db"
@@ -23,7 +17,6 @@ OUT_DIR  = os.path.join(BASE, "docs", "validation")
 os.makedirs(OUT_DIR, exist_ok=True)
 
 RESULTS_FILE = os.path.join(OUT_DIR, "ncbi_nt_comparison_v2.json")
-FIGURE_FILE   = os.path.join(OUT_DIR, "Fig_NCBI_nt_Comparison_v2.pdf")
 
 SAMPLE_N      = 150
 RANDOM_SEED   = 42
@@ -34,7 +27,6 @@ NCBI_EMAIL    = "maize_pathogen_db@example.com"
 
 CAT_ORDER = ["bacteria", "viruses", "fungi"]
 CAT_LABELS = {"bacteria": "Bacteria (16S)", "viruses": "Viruses (Genome)", "fungi": "Fungi (ITS)"}
-CAT_COLORS = {"bacteria": "#2F5496", "viruses": "#C00000", "fungi": "#548235"}
 
 # ── Parse FASTA ─────────────────────────────────────────────────────
 def parse_fasta(fpath):
@@ -223,13 +215,13 @@ print("=" * 60)
 # Load cached results
 done_headers = set()
 cached = {"config": {"sample_n": total, "seed": RANDOM_SEED}, "results": []}
-    if os.path.exists(RESULTS_FILE):
-        with open(RESULTS_FILE) as f:
-            cached_data = json.load(f)
-        if "results" in cached_data:
-            done_headers = {c["header"] for c in cached_data["results"]}
-            cached = cached_data
-        print(f"  Loaded {len(done_headers)} cached results from {RESULTS_FILE}")
+if os.path.exists(RESULTS_FILE):
+    with open(RESULTS_FILE) as f:
+        cached_data = json.load(f)
+    if "results" in cached_data:
+        done_headers = {c["header"] for c in cached_data["results"]}
+        cached = cached_data
+    print(f"  Loaded {len(done_headers)} cached results from {RESULTS_FILE}")
 
     cached_by_header = {c["header"]: c for c in cached.get("results", []) if "header" in c}
 
@@ -324,108 +316,10 @@ with open(RESULTS_FILE, "w") as f:
     json.dump(summary, f, indent=2, ensure_ascii=False)
 print(f"\nResults saved to: {RESULTS_FILE}")
 
-# ── Step 5: Generate Figure ─────────────────────────────────────────
-print(f"\n{'=' * 60}")
-print("Generating comparison figure...")
-print("=" * 60)
-
-plt.rcParams.update({
-    'font.family': 'sans-serif', 'font.sans-serif': ['Arial', 'Helvetica', 'DejaVu Sans'],
-    'font.size': 10, 'axes.titlesize': 12, 'axes.labelsize': 10,
-    'xtick.labelsize': 9, 'ytick.labelsize': 9, 'legend.fontsize': 9,
-    'figure.dpi': 150, 'savefig.dpi': 300,
-    'savefig.bbox': 'tight', 'savefig.pad_inches': 0.1,
-})
-
-fig = plt.figure(figsize=(14, 8))
-
-# Panel A: Grouped bar chart
-ax1 = fig.add_subplot(2, 1, 1)
-categories = [CAT_LABELS[c] for c in CAT_ORDER]
-db_accs = [summary[c]["db_accuracy"] for c in CAT_ORDER]
-ncbi_accs = [summary[c]["ncbi_accuracy"] for c in CAT_ORDER]
-
-x = np.arange(len(categories))
-width = 0.32
-
-bars1 = ax1.bar(x - width/2, db_accs, width, label='MaizePathogenDB',
-                color='#2F5496', edgecolor='white', linewidth=1.5)
-bars2 = ax1.bar(x + width/2, ncbi_accs, width, label='NCBI-nt',
-                color='#C00000', edgecolor='white', linewidth=1.5)
-
-for bar, v in zip(bars1, db_accs):
-    ax1.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.8,
-             f'{v:.1f}%', ha='center', fontsize=10, fontweight='bold', color='#2F5496')
-for bar, v in zip(bars2, ncbi_accs):
-    ax1.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.8,
-             f'{v:.1f}%', ha='center', fontsize=10, fontweight='bold', color='#C00000')
-
-for i, cat in enumerate(CAT_ORDER):
-    n = summary[cat]["n"]
-    ax1.text(i, 2, f'n={n}', ha='center', fontsize=8, color='gray')
-
-ax1.set_xticks(x)
-ax1.set_xticklabels(categories, fontsize=10)
-ax1.set_ylabel('Top-1 Accuracy (%)', fontweight='bold')
-ax1.set_ylim(0, 108)
-ax1.set_title('A. MaizePathogenDB vs NCBI-nt: Classification Accuracy', fontweight='bold', loc='left')
-ax1.legend(loc='lower right', frameon=True, fancybox=True, framealpha=0.9)
-ax1.grid(axis='y', alpha=0.3, linestyle='--')
-ax1.spines[['right', 'top']].set_visible(False)
-
-# Panel B: Key findings summary table
-ax2 = fig.add_subplot(2, 1, 2)
-ax2.axis('off')
-
-detail_data = [
-    ['Category', 'Queries', 'MaizePathogenDB', 'NCBI-nt', 'Key Finding'],
-]
-for cat in CAT_ORDER:
-    s = summary[cat]
-    n = s["n"]
-    db_a = s["db_accuracy"]
-    ncbi_a = s["ncbi_accuracy"]
-    detail_data.append([
-        CAT_LABELS[cat], str(n), f'{db_a:.1f}%', f'{ncbi_a:.1f}%',
-        f'MaizePathogenDB {db_a:.0f}% vs NCBI-nt {ncbi_a:.0f}%'
-    ])
-detail_data.append([
-    'OVERALL', str(summary['overall']['n']),
-    f'{summary["overall"]["db_accuracy"]:.1f}%',
-    f'{summary["overall"]["ncbi_accuracy"]:.1f}%',
-    f'MaizePathogenDB {summary["overall"]["db_accuracy"]:.0f}% vs NCBI-nt {summary["overall"]["ncbi_accuracy"]:.0f}%'
-])
-
-table = ax2.table(cellText=detail_data, cellLoc='center', loc='center',
-                  colWidths=[0.18, 0.10, 0.20, 0.20, 0.32])
-table.auto_set_font_size(False)
-table.set_fontsize(10)
-for i in range(len(detail_data)):
-    for j in range(5):
-        cell = table[i, j]
-        if i == 0:
-            cell.set_facecolor('#333333')
-            cell.set_text_props(color='white', fontweight='bold')
-        elif i == len(detail_data) - 1:
-            cell.set_facecolor('#E8E8E8')
-            cell.set_text_props(fontweight='bold')
-
-ax2.set_title(f'B. Summary Comparison (n={summary["overall"]["n"]} queries, '
-              f'NCBI-nt wrong: {ncbi_total}/{n_total}, MaizePathogenDB wrong: {db_total}/{n_total})',
-              fontweight='bold', loc='left', fontsize=10)
-
-fig.suptitle('MaizePathogenDB v1.0 vs NCBI-nt Database: Sequence Classification Accuracy',
-             fontsize=14, fontweight='bold', y=1.01)
-plt.tight_layout()
-fig.savefig(FIGURE_FILE, facecolor='white', edgecolor='none')
-plt.close()
-print(f"  ✓ {FIGURE_FILE}")
-
 print(f"\n{'=' * 60}")
 print("DONE")
 print(f"{'=' * 60}")
 print(f"Results: {RESULTS_FILE}")
-print(f"Figure:  {FIGURE_FILE}")
 print(f"\nKey numbers:")
 print(f"  MaizePathogenDB: {summary['overall']['db_accuracy']:.1f}% ({db_total}/{n_total})")
 print(f"  NCBI-nt:         {summary['overall']['ncbi_accuracy']:.1f}% ({ncbi_total}/{n_total})")
