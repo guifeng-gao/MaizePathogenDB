@@ -18,14 +18,14 @@ import numpy as np
 BASE     = "/Users/gfgao/Desktop/blacksoil_metaG/maize_pathogen_db"
 FASTA    = os.path.join(BASE, "sequences", "maize_pathogens_all.fasta")
 BLAST_DB = os.path.join(BASE, "blast_db", "maize_pathogens_all")
-BLAST_BIN = "/tmp/ncbi-blast-2.17.0+/bin/blastn"
+BLAST_BIN = "/Users/gfgao/Desktop/blacksoil_metaG/tools/ncbi-blast-2.17.0+/bin/blastn"
 OUT_DIR  = os.path.join(BASE, "docs", "validation")
 os.makedirs(OUT_DIR, exist_ok=True)
 
 RESULTS_FILE = os.path.join(OUT_DIR, "ncbi_nt_comparison_v2.json")
 FIGURE_FILE   = os.path.join(OUT_DIR, "Fig_NCBI_nt_Comparison_v2.pdf")
 
-SAMPLE_N      = 200
+SAMPLE_N      = 150
 RANDOM_SEED   = 42
 NCBI_DELAY    = 3.5          # seconds between NCBI web BLAST requests
 NCBI_TIMEOUT  = 600          # max seconds to wait for a single BLAST job
@@ -178,7 +178,7 @@ total_species = sum(len([k for k in by_cat_species if k[0] == cat]) for cat in C
 sample = {}
 for cat in CAT_ORDER:
     cat_species = [k for k in by_cat_species if k[0] == cat]
-    prop = max(15, int(round(len(cat_species) / total_species * SAMPLE_N)))
+    prop = int(round(len(cat_species) / total_species * SAMPLE_N))
     chosen = random.sample(cat_species, min(prop, len(cat_species)))
     for k in chosen:
         sample[by_cat_species[k][0]["header"]] = random.choice(by_cat_species[k])
@@ -223,20 +223,27 @@ print("=" * 60)
 # Load cached results
 done_headers = set()
 cached = {"config": {"sample_n": total, "seed": RANDOM_SEED}, "results": []}
-if os.path.exists(RESULTS_FILE):
-    with open(RESULTS_FILE) as f:
-        cached_data = json.load(f)
-    if "results" in cached_data:
-        done_headers = {c["header"] for c in cached_data["results"]}
-        cached = cached_data
-    print(f"  Loaded {len(done_headers)} cached results from {RESULTS_FILE}")
+    if os.path.exists(RESULTS_FILE):
+        with open(RESULTS_FILE) as f:
+            cached_data = json.load(f)
+        if "results" in cached_data:
+            done_headers = {c["header"] for c in cached_data["results"]}
+            cached = cached_data
+        print(f"  Loaded {len(done_headers)} cached results from {RESULTS_FILE}")
 
-idx = 0
-for rec in sample_list:
-    idx += 1
-    if rec["header"] in done_headers:
-        print(f"  [{idx}/{total}] Skipped (cached): {rec['species'][:40]}")
-        continue
+    cached_by_header = {c["header"]: c for c in cached.get("results", []) if "header" in c}
+
+    idx = 0
+    for rec in sample_list:
+        idx += 1
+        if rec["header"] in done_headers:
+            cached_rec = cached_by_header.get(rec["header"])
+            if cached_rec is not None:
+                rec["ncbi_correct"] = cached_rec.get("ncbi_correct")
+                rec["ncbi_pident"] = cached_rec.get("ncbi_pident", 0)
+                rec["ncbi_description"] = cached_rec.get("ncbi_description", "")
+            print(f"  [{idx}/{total}] Skipped (cached): {rec['species'][:40]}")
+            continue
 
     print(f"  [{idx}/{total}] BLASTing: {rec['species'][:50]} ({rec['category']}) ...", end=" ", flush=True)
 

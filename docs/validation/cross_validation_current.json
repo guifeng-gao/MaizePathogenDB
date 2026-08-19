@@ -1,0 +1,523 @@
+{
+  "validation_type": "cross_validation_silva_unite",
+  "date": "2026-08-18",
+  "queries": 71,
+  "results": {
+    "bacteria": {
+      "n": 12,
+      "correct": 11,
+      "accuracy": 91.7,
+      "details": [
+        {
+          "query_taxid": "66269",
+          "query_species": "Pantoea stewartii subsp. stewartii",
+          "hit_taxid": "66269",
+          "pident": 99.928,
+          "correct": true
+        },
+        {
+          "query_taxid": "321",
+          "query_species": "Pseudomonas syringae pv. syringae",
+          "hit_taxid": "321",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "28095",
+          "query_species": "Burkholderia gladioli",
+          "hit_taxid": "28095",
+          "pident": 99.856,
+          "correct": true
+        },
+        {
+          "query_taxid": "204042",
+          "query_species": "Dickeya zeae",
+          "hit_taxid": "204042",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "204038",
+          "query_species": "Dickeya dadantii",
+          "hit_taxid": "204038",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "549",
+          "query_species": "Pantoea agglomerans",
+          "hit_taxid": "549",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "554",
+          "query_species": "Pectobacterium carotovorum",
+          "hit_taxid": "615",
+          "pident": 84.586,
+          "correct": false
+        },
+        {
+          "query_taxid": "553",
+          "query_species": "Pantoea ananatis",
+          "hit_taxid": "553",
+          "pident": 98.875,
+          "correct": true
+        },
+        {
+          "query_taxid": "615",
+          "query_species": "Serratia marcescens",
+          "hit_taxid": "615",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "573",
+          "query_species": "Klebsiella pneumoniae",
+          "hit_taxid": "573",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1408",
+          "query_species": "Bacillus pumilus",
+          "hit_taxid": "1408",
+          "pident": 99.488,
+          "correct": true
+        },
+        {
+          "query_taxid": "40324",
+          "query_species": "Stenotrophomonas maltophilia",
+          "hit_taxid": "40324",
+          "pident": 100.0,
+          "correct": true
+        }
+      ]
+    },
+    "fungi": {
+      "n": 59,
+      "correct": 43,
+      "accuracy": 72.9,
+      "details": [
+        {
+          "query_taxid": "117187",
+          "query_species": "Fusarium verticillioides (Gibberella moniliformis)",
+          "hit_taxid": "42672",
+          "pident": 99.089,
+          "correct": false
+        },
+        {
+          "query_taxid": "5518",
+          "query_species": "Fusarium graminearum (Gibberella zeae)",
+          "hit_taxid": "56641",
+          "pident": 99.816,
+          "correct": false
+        },
+        {
+          "query_taxid": "948311",
+          "query_species": "Fusarium proliferatum",
+          "hit_taxid": "42672",
+          "pident": 99.344,
+          "correct": false
+        },
+        {
+          "query_taxid": "42677",
+          "query_species": "Fusarium subglutinans",
+          "hit_taxid": "117187",
+          "pident": 98.364,
+          "correct": false
+        },
+        {
+          "query_taxid": "5127",
+          "query_species": "Gibberella fujikuroi (Fusarium fujikuroi)",
+          "hit_taxid": "5127",
+          "pident": 96.774,
+          "correct": true
+        },
+        {
+          "query_taxid": "31870",
+          "query_species": "Colletotrichum graminicola",
+          "hit_taxid": "31870",
+          "pident": 99.638,
+          "correct": true
+        },
+        {
+          "query_taxid": "238245",
+          "query_species": "Stenocarpella maydis (Diplodia maydis)",
+          "hit_taxid": "238245",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "371126",
+          "query_species": "Stenocarpella macrospora",
+          "hit_taxid": "371126",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "335854",
+          "query_species": "Nigrospora oryzae (Khuskia oryzae)",
+          "hit_taxid": "335854",
+          "pident": 98.413,
+          "correct": true
+        },
+        {
+          "query_taxid": "5046",
+          "query_species": "Sarocladium strictum (Acremonium strictum)",
+          "hit_taxid": "5046",
+          "pident": 99.563,
+          "correct": true
+        },
+        {
+          "query_taxid": "89175",
+          "query_species": "Claviceps gigantea",
+          "hit_taxid": "89175",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "318829",
+          "query_species": "Pyricularia oryzae (Magnaporthe oryzae)",
+          "hit_taxid": "318829",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "93612",
+          "query_species": "Exserohilum turcicum (Setosphaeria turcica)",
+          "hit_taxid": "93612",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5016",
+          "query_species": "Bipolaris maydis (Cochliobolus heterostrophus)",
+          "hit_taxid": "5016",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5017",
+          "query_species": "Bipolaris zeicola (Cochliobolus carbonum)",
+          "hit_taxid": "5017",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "135779",
+          "query_species": "Cercospora zeae-maydis",
+          "hit_taxid": "135779",
+          "pident": 99.698,
+          "correct": true
+        },
+        {
+          "query_taxid": "35725",
+          "query_species": "Macrophomina phaseolina",
+          "hit_taxid": "35725",
+          "pident": 99.097,
+          "correct": true
+        },
+        {
+          "query_taxid": "259522",
+          "query_species": "Didymella maydis (Phaeosphaeria maydis, Phyllostic",
+          "hit_taxid": "259522",
+          "pident": 99.791,
+          "correct": true
+        },
+        {
+          "query_taxid": "5059",
+          "query_species": "Aspergillus flavus",
+          "hit_taxid": "41984",
+          "pident": 97.232,
+          "correct": false
+        },
+        {
+          "query_taxid": "5061",
+          "query_species": "Aspergillus niger",
+          "hit_taxid": "5061",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "69781",
+          "query_species": "Penicillium oxalicum",
+          "hit_taxid": "69781",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5270",
+          "query_species": "Mycosarcoma maydis (Ustilago maydis)",
+          "hit_taxid": "5270",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "72558",
+          "query_species": "Sporisorium reilianum (Sphacelotheca reiliana)",
+          "hit_taxid": "72558",
+          "pident": 98.974,
+          "correct": true
+        },
+        {
+          "query_taxid": "27349",
+          "query_species": "Puccinia sorghi",
+          "hit_taxid": "27349",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "684837",
+          "query_species": "Puccinia polysora",
+          "hit_taxid": "684837",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "456999",
+          "query_species": "Rhizoctonia solani (Thanatephorus cucumeris)",
+          "hit_taxid": null,
+          "pident": 0,
+          "correct": false
+        },
+        {
+          "query_taxid": "39291",
+          "query_species": "Agroathelia rolfsii (Sclerotium rolfsii, Athelia r",
+          "hit_taxid": "39291",
+          "pident": 96.667,
+          "correct": true
+        },
+        {
+          "query_taxid": "1592451",
+          "query_species": "Kabatiella zeae (Aureobasidium zeae)",
+          "hit_taxid": "1592451",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "29918",
+          "query_species": "Cladosporium herbarum",
+          "hit_taxid": "29918",
+          "pident": 97.321,
+          "correct": true
+        },
+        {
+          "query_taxid": "67620",
+          "query_species": "Graphium penicillioides",
+          "hit_taxid": "67620",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1825666",
+          "query_species": "Phyllachora maydis",
+          "hit_taxid": "1825666",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "65070",
+          "query_species": "Pythium aphanidermatum",
+          "hit_taxid": "65070",
+          "pident": 98.824,
+          "correct": true
+        },
+        {
+          "query_taxid": "82937",
+          "query_species": "Pythium graminicola",
+          "hit_taxid": "140044",
+          "pident": 100.0,
+          "correct": false
+        },
+        {
+          "query_taxid": "82932",
+          "query_species": "Pythium arrhenomanes",
+          "hit_taxid": "82932",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "61235",
+          "query_species": "Fusarium equiseti",
+          "hit_taxid": "298378",
+          "pident": 98.951,
+          "correct": false
+        },
+        {
+          "query_taxid": "5514",
+          "query_species": "Fusarium sporotrichioides",
+          "hit_taxid": "5514",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36050",
+          "query_species": "Fusarium poae",
+          "hit_taxid": "36050",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5516",
+          "query_species": "Fusarium culmorum",
+          "hit_taxid": "5516",
+          "pident": 99.8,
+          "correct": true
+        },
+        {
+          "query_taxid": "40199",
+          "query_species": "Fusarium avenaceum",
+          "hit_taxid": "5515",
+          "pident": 99.421,
+          "correct": false
+        },
+        {
+          "query_taxid": "5515",
+          "query_species": "Fusarium acuminatum",
+          "hit_taxid": "5515",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5503",
+          "query_species": "Curvularia lunata (Cochliobolus lunatus)",
+          "hit_taxid": "1203437",
+          "pident": 99.153,
+          "correct": false
+        },
+        {
+          "query_taxid": "45130",
+          "query_species": "Bipolaris sorokiniana (Cochliobolus sativus)",
+          "hit_taxid": "5017",
+          "pident": 98.305,
+          "correct": false
+        },
+        {
+          "query_taxid": "1659837",
+          "query_species": "Exserohilum rostratum (Setosphaeria rostrata)",
+          "hit_taxid": "1659837",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5599",
+          "query_species": "Alternaria alternata",
+          "hit_taxid": "119927",
+          "pident": 99.43,
+          "correct": false
+        },
+        {
+          "query_taxid": "47278",
+          "query_species": "Trichothecium roseum",
+          "hit_taxid": "47278",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "4846",
+          "query_species": "Rhizopus stolonifer",
+          "hit_taxid": "4846",
+          "pident": 95.477,
+          "correct": true
+        },
+        {
+          "query_taxid": "105696",
+          "query_species": "Epicoccum nigrum",
+          "hit_taxid": "105696",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1036732",
+          "query_species": "Sarocladium zeae",
+          "hit_taxid": "1036732",
+          "pident": 94.987,
+          "correct": true
+        },
+        {
+          "query_taxid": "418126",
+          "query_species": "Cochliobolus geniculatus (Curvularia geniculata)",
+          "hit_taxid": "418126",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36080",
+          "query_species": "Mucor circinelloides",
+          "hit_taxid": "36080",
+          "pident": 98.72,
+          "correct": true
+        },
+        {
+          "query_taxid": "298378",
+          "query_species": "Fusarium incarnatum (F. semitectum)",
+          "hit_taxid": "57143",
+          "pident": 99.776,
+          "correct": false
+        },
+        {
+          "query_taxid": "169388",
+          "query_species": "Fusarium solani (Neocosmospora solani)",
+          "hit_taxid": "5076",
+          "pident": 84.699,
+          "correct": false
+        },
+        {
+          "query_taxid": "520446",
+          "query_species": "Fusarium andiyazi",
+          "hit_taxid": "520446",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "282267",
+          "query_species": "Fusarium asiaticum",
+          "hit_taxid": "56641",
+          "pident": 100.0,
+          "correct": false
+        },
+        {
+          "query_taxid": "101028",
+          "query_species": "Fusarium pseudograminearum",
+          "hit_taxid": "101028",
+          "pident": 99.206,
+          "correct": true
+        },
+        {
+          "query_taxid": "282269",
+          "query_species": "Fusarium meridionale",
+          "hit_taxid": "56641",
+          "pident": 100.0,
+          "correct": false
+        },
+        {
+          "query_taxid": "749593",
+          "query_species": "Phoma sorghina (Epicoccum sorghinum)",
+          "hit_taxid": "749593",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "40559",
+          "query_species": "Botrytis cinerea",
+          "hit_taxid": "40559",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2052682",
+          "query_species": "Pythium ultimum",
+          "hit_taxid": "2052682",
+          "pident": 100.0,
+          "correct": true
+        }
+      ]
+    },
+    "overall": {
+      "n": 71,
+      "correct": 54,
+      "accuracy": 76.1
+    }
+  }
+}

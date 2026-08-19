@@ -1,0 +1,3471 @@
+{
+  "validation_type": "internal_self_hit",
+  "date": "2026-08-18",
+  "sequences": 573,
+  "results": {
+    "bacteria": {
+      "n": 51,
+      "correct": 51,
+      "accuracy": 100.0,
+      "details": [
+        {
+          "query_taxid": "66269",
+          "hit_taxid": "66269",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "66269",
+          "hit_taxid": "66269",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "66269",
+          "hit_taxid": "66269",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "31963",
+          "hit_taxid": "31963",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "31963",
+          "hit_taxid": "31963",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "80867",
+          "hit_taxid": "80867",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "80867",
+          "hit_taxid": "80867",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "321",
+          "hit_taxid": "321",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "321",
+          "hit_taxid": "321",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "28095",
+          "hit_taxid": "28095",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "28095",
+          "hit_taxid": "28095",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "28095",
+          "hit_taxid": "28095",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "204042",
+          "hit_taxid": "204042",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "204042",
+          "hit_taxid": "204042",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "204042",
+          "hit_taxid": "204042",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "204038",
+          "hit_taxid": "204038",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "204038",
+          "hit_taxid": "204038",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "204038",
+          "hit_taxid": "204038",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "549",
+          "hit_taxid": "549",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "549",
+          "hit_taxid": "549",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "549",
+          "hit_taxid": "549",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "554",
+          "hit_taxid": "554",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "554",
+          "hit_taxid": "554",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "554",
+          "hit_taxid": "554",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "553",
+          "hit_taxid": "553",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "553",
+          "hit_taxid": "553",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "553",
+          "hit_taxid": "553",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "615",
+          "hit_taxid": "615",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "615",
+          "hit_taxid": "615",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "615",
+          "hit_taxid": "615",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "573",
+          "hit_taxid": "573",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "573",
+          "hit_taxid": "573",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "573",
+          "hit_taxid": "573",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "40324",
+          "hit_taxid": "40324",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "40324",
+          "hit_taxid": "40324",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "40324",
+          "hit_taxid": "40324",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "28092",
+          "hit_taxid": "28092",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "28092",
+          "hit_taxid": "28092",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "28092",
+          "hit_taxid": "28092",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "53407",
+          "hit_taxid": "53407",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "53407",
+          "hit_taxid": "53407",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "53407",
+          "hit_taxid": "53407",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1408",
+          "hit_taxid": "1408",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1408",
+          "hit_taxid": "1408",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1408",
+          "hit_taxid": "1408",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "287",
+          "hit_taxid": "287",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "287",
+          "hit_taxid": "287",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "287",
+          "hit_taxid": "287",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "169669",
+          "hit_taxid": "169669",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "69219",
+          "hit_taxid": "69219",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "69219",
+          "hit_taxid": "69219",
+          "pident": 100.0,
+          "correct": true
+        }
+      ]
+    },
+    "viruses": {
+      "n": 96,
+      "correct": 96,
+      "accuracy": 100.0,
+      "details": [
+        {
+          "query_taxid": "10821",
+          "hit_taxid": "10821",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "10821",
+          "hit_taxid": "10821",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "10821",
+          "hit_taxid": "10821",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12203",
+          "hit_taxid": "12203",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12203",
+          "hit_taxid": "12203",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12203",
+          "hit_taxid": "12203",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12224",
+          "hit_taxid": "12224",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12224",
+          "hit_taxid": "12224",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12224",
+          "hit_taxid": "12224",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12138",
+          "hit_taxid": "12138",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12138",
+          "hit_taxid": "12138",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12138",
+          "hit_taxid": "12138",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "279896",
+          "hit_taxid": "279896",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "279896",
+          "hit_taxid": "279896",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "279896",
+          "hit_taxid": "279896",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "209854",
+          "hit_taxid": "209854",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "209854",
+          "hit_taxid": "209854",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "10989",
+          "hit_taxid": "10989",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "10989",
+          "hit_taxid": "10989",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "10989",
+          "hit_taxid": "10989",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "59749",
+          "hit_taxid": "59749",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "59749",
+          "hit_taxid": "59749",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "59749",
+          "hit_taxid": "59749",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "51354",
+          "hit_taxid": "51354",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "51354",
+          "hit_taxid": "51354",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "51354",
+          "hit_taxid": "51354",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "31741",
+          "hit_taxid": "31741",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "31741",
+          "hit_taxid": "31741",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "31741",
+          "hit_taxid": "31741",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "10990",
+          "hit_taxid": "10990",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "10990",
+          "hit_taxid": "10990",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "10990",
+          "hit_taxid": "10990",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "3052767",
+          "hit_taxid": "3052767",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "3052767",
+          "hit_taxid": "3052767",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "3052767",
+          "hit_taxid": "3052767",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1980428",
+          "hit_taxid": "1980428",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1980428",
+          "hit_taxid": "1980428",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1980428",
+          "hit_taxid": "1980428",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "31742",
+          "hit_taxid": "31742",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "31742",
+          "hit_taxid": "31742",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "31742",
+          "hit_taxid": "31742",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "519497",
+          "hit_taxid": "519497",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "519497",
+          "hit_taxid": "519497",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "519497",
+          "hit_taxid": "519497",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "185954",
+          "hit_taxid": "185954",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "185954",
+          "hit_taxid": "185954",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "185954",
+          "hit_taxid": "185954",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2170101",
+          "hit_taxid": "2170101",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2170101",
+          "hit_taxid": "2170101",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2170101",
+          "hit_taxid": "2170101",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2169984",
+          "hit_taxid": "2169984",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2169984",
+          "hit_taxid": "2169984",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2169984",
+          "hit_taxid": "2169984",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1856642",
+          "hit_taxid": "1856642",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1856642",
+          "hit_taxid": "1856642",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1856642",
+          "hit_taxid": "1856642",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "137556",
+          "hit_taxid": "137556",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "137556",
+          "hit_taxid": "137556",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "445227",
+          "hit_taxid": "445227",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "445227",
+          "hit_taxid": "445227",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "348823",
+          "hit_taxid": "348823",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "348823",
+          "hit_taxid": "348823",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "348823",
+          "hit_taxid": "348823",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2545470",
+          "hit_taxid": "2545470",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "32619",
+          "hit_taxid": "32619",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "32619",
+          "hit_taxid": "32619",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "32619",
+          "hit_taxid": "32619",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2557970",
+          "hit_taxid": "2557970",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2557970",
+          "hit_taxid": "2557970",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2557970",
+          "hit_taxid": "2557970",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "221262",
+          "hit_taxid": "221262",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "221262",
+          "hit_taxid": "221262",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "221262",
+          "hit_taxid": "221262",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12327",
+          "hit_taxid": "12327",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12327",
+          "hit_taxid": "12327",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12327",
+          "hit_taxid": "12327",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12302",
+          "hit_taxid": "12302",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12302",
+          "hit_taxid": "12302",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12302",
+          "hit_taxid": "12302",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2964312",
+          "hit_taxid": "2964312",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2964312",
+          "hit_taxid": "2964312",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12305",
+          "hit_taxid": "12305",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12305",
+          "hit_taxid": "12305",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "12305",
+          "hit_taxid": "12305",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "328622",
+          "hit_taxid": "328622",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "328622",
+          "hit_taxid": "328622",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "328622",
+          "hit_taxid": "328622",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1182518",
+          "hit_taxid": "1182518",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1182518",
+          "hit_taxid": "1182518",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1182518",
+          "hit_taxid": "1182518",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "3052763",
+          "hit_taxid": "3052763",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "3052763",
+          "hit_taxid": "3052763",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "3052763",
+          "hit_taxid": "3052763",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1756285",
+          "hit_taxid": "1756285",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1756285",
+          "hit_taxid": "1756285",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1756285",
+          "hit_taxid": "1756285",
+          "pident": 100.0,
+          "correct": true
+        }
+      ]
+    },
+    "fungi": {
+      "n": 426,
+      "correct": 423,
+      "accuracy": 99.3,
+      "details": [
+        {
+          "query_taxid": "298378",
+          "hit_taxid": "298378",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "298378",
+          "hit_taxid": "298378",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "298378",
+          "hit_taxid": "298378",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "117187",
+          "hit_taxid": "117187",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "117187",
+          "hit_taxid": "117187",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "117187",
+          "hit_taxid": "117187",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5518",
+          "hit_taxid": "5518",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5518",
+          "hit_taxid": "5518",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5518",
+          "hit_taxid": "5518",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "948311",
+          "hit_taxid": "948311",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "948311",
+          "hit_taxid": "948311",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "948311",
+          "hit_taxid": "948311",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "42677",
+          "hit_taxid": "42677",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "42677",
+          "hit_taxid": "42677",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "42677",
+          "hit_taxid": "42677",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5127",
+          "hit_taxid": "5127",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5127",
+          "hit_taxid": "5127",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5127",
+          "hit_taxid": "42672",
+          "pident": 100.0,
+          "correct": false
+        },
+        {
+          "query_taxid": "31870",
+          "hit_taxid": "31870",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "31870",
+          "hit_taxid": "31870",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "31870",
+          "hit_taxid": "31870",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "238245",
+          "hit_taxid": "238245",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "238245",
+          "hit_taxid": "238245",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "238245",
+          "hit_taxid": "238245",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "371126",
+          "hit_taxid": "371126",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "371126",
+          "hit_taxid": "371126",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "371126",
+          "hit_taxid": "371126",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "335854",
+          "hit_taxid": "335854",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "335854",
+          "hit_taxid": "335854",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "335854",
+          "hit_taxid": "335854",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "80373",
+          "hit_taxid": "80373",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "80373",
+          "hit_taxid": "80373",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "80373",
+          "hit_taxid": "80373",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5046",
+          "hit_taxid": "5046",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5046",
+          "hit_taxid": "5046",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5046",
+          "hit_taxid": "5046",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "89175",
+          "hit_taxid": "89175",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "89175",
+          "hit_taxid": "89175",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "89175",
+          "hit_taxid": "89175",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "318829",
+          "hit_taxid": "318829",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "318829",
+          "hit_taxid": "318829",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "318829",
+          "hit_taxid": "318829",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "93612",
+          "hit_taxid": "93612",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "93612",
+          "hit_taxid": "93612",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "93612",
+          "hit_taxid": "93612",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5016",
+          "hit_taxid": "5016",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5016",
+          "hit_taxid": "5016",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5016",
+          "hit_taxid": "5016",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5017",
+          "hit_taxid": "5017",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5017",
+          "hit_taxid": "5017",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5017",
+          "hit_taxid": "5017",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "135779",
+          "hit_taxid": "135779",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "135779",
+          "hit_taxid": "135779",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "135779",
+          "hit_taxid": "135779",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "35725",
+          "hit_taxid": "35725",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "35725",
+          "hit_taxid": "35725",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "35725",
+          "hit_taxid": "35725",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "259522",
+          "hit_taxid": "259522",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "259522",
+          "hit_taxid": "259522",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "259522",
+          "hit_taxid": "259522",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5059",
+          "hit_taxid": "5059",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5059",
+          "hit_taxid": "5059",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5059",
+          "hit_taxid": "5059",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5061",
+          "hit_taxid": "5061",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5061",
+          "hit_taxid": "5061",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5061",
+          "hit_taxid": "5061",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "69781",
+          "hit_taxid": "69781",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "69781",
+          "hit_taxid": "69781",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "69781",
+          "hit_taxid": "69781",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5270",
+          "hit_taxid": "5270",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5270",
+          "hit_taxid": "5270",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5270",
+          "hit_taxid": "5270",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "72558",
+          "hit_taxid": "72558",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "72558",
+          "hit_taxid": "72558",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "72558",
+          "hit_taxid": "72558",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "27349",
+          "hit_taxid": "27349",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "27349",
+          "hit_taxid": "27349",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "27349",
+          "hit_taxid": "27349",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "684837",
+          "hit_taxid": "684837",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "684837",
+          "hit_taxid": "684837",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "684837",
+          "hit_taxid": "684837",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "456999",
+          "hit_taxid": "456999",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "456999",
+          "hit_taxid": "456999",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "456999",
+          "hit_taxid": "456999",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "39291",
+          "hit_taxid": "39291",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "39291",
+          "hit_taxid": "39291",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "39291",
+          "hit_taxid": "39291",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1592451",
+          "hit_taxid": "1592451",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1592451",
+          "hit_taxid": "1592451",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1592451",
+          "hit_taxid": "1592451",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "276838",
+          "hit_taxid": "276838",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "276838",
+          "hit_taxid": "276838",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "29918",
+          "hit_taxid": "29918",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "29918",
+          "hit_taxid": "29918",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "29918",
+          "hit_taxid": "29918",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "67620",
+          "hit_taxid": "67620",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "67620",
+          "hit_taxid": "67620",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "67620",
+          "hit_taxid": "67620",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1825666",
+          "hit_taxid": "1825666",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1825666",
+          "hit_taxid": "1825666",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1825666",
+          "hit_taxid": "1825666",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "65070",
+          "hit_taxid": "65070",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "65070",
+          "hit_taxid": "65070",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "65070",
+          "hit_taxid": "65070",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82937",
+          "hit_taxid": "82937",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82937",
+          "hit_taxid": "82937",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82937",
+          "hit_taxid": "82937",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82932",
+          "hit_taxid": "82932",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82932",
+          "hit_taxid": "82932",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82932",
+          "hit_taxid": "82932",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "61235",
+          "hit_taxid": "61235",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "61235",
+          "hit_taxid": "61235",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "61235",
+          "hit_taxid": "61235",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5514",
+          "hit_taxid": "5514",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5514",
+          "hit_taxid": "5514",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5514",
+          "hit_taxid": "5514",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36050",
+          "hit_taxid": "36050",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36050",
+          "hit_taxid": "36050",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36050",
+          "hit_taxid": "36050",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5516",
+          "hit_taxid": "5516",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5516",
+          "hit_taxid": "5516",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5516",
+          "hit_taxid": "5516",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "40199",
+          "hit_taxid": "40199",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "40199",
+          "hit_taxid": "40199",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "40199",
+          "hit_taxid": "40199",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5515",
+          "hit_taxid": "5515",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5515",
+          "hit_taxid": "5515",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5515",
+          "hit_taxid": "5515",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5503",
+          "hit_taxid": "5503",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5503",
+          "hit_taxid": "5503",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5503",
+          "hit_taxid": "5503",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "45130",
+          "hit_taxid": "45130",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "45130",
+          "hit_taxid": "45130",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "45130",
+          "hit_taxid": "45130",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1659837",
+          "hit_taxid": "1659837",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1659837",
+          "hit_taxid": "1659837",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1659837",
+          "hit_taxid": "1659837",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5599",
+          "hit_taxid": "5599",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5599",
+          "hit_taxid": "5599",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5599",
+          "hit_taxid": "5599",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "47278",
+          "hit_taxid": "47278",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "47278",
+          "hit_taxid": "47278",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "47278",
+          "hit_taxid": "47278",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "4846",
+          "hit_taxid": "4846",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "4846",
+          "hit_taxid": "4846",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "4846",
+          "hit_taxid": "4846",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "105696",
+          "hit_taxid": "105696",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "105696",
+          "hit_taxid": "105696",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "105696",
+          "hit_taxid": "105696",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1036732",
+          "hit_taxid": "1036732",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1036732",
+          "hit_taxid": "1036732",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1036732",
+          "hit_taxid": "1036732",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "418126",
+          "hit_taxid": "418126",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "418126",
+          "hit_taxid": "418126",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "418126",
+          "hit_taxid": "418126",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36080",
+          "hit_taxid": "36080",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36080",
+          "hit_taxid": "36080",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36080",
+          "hit_taxid": "36080",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "169388",
+          "hit_taxid": "169388",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "169388",
+          "hit_taxid": "169388",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "169388",
+          "hit_taxid": "169388",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "520446",
+          "hit_taxid": "520446",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "520446",
+          "hit_taxid": "520446",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "520446",
+          "hit_taxid": "520446",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "282267",
+          "hit_taxid": "282267",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "282267",
+          "hit_taxid": "282267",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "282267",
+          "hit_taxid": "282267",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "101028",
+          "hit_taxid": "101028",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "101028",
+          "hit_taxid": "101028",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "101028",
+          "hit_taxid": "101028",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "282269",
+          "hit_taxid": "56641",
+          "pident": 100.0,
+          "correct": false
+        },
+        {
+          "query_taxid": "282269",
+          "hit_taxid": "282269",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "282269",
+          "hit_taxid": "282269",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "749593",
+          "hit_taxid": "749593",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "749593",
+          "hit_taxid": "749593",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "749593",
+          "hit_taxid": "749593",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "40559",
+          "hit_taxid": "40559",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "40559",
+          "hit_taxid": "40559",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "40559",
+          "hit_taxid": "40559",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2052682",
+          "hit_taxid": "2052682",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2052682",
+          "hit_taxid": "2052682",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2052682",
+          "hit_taxid": "2052682",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "65069",
+          "hit_taxid": "65069",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "65069",
+          "hit_taxid": "65069",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "65069",
+          "hit_taxid": "65069",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "289596",
+          "hit_taxid": "289596",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "289596",
+          "hit_taxid": "289596",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "289596",
+          "hit_taxid": "289596",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36331",
+          "hit_taxid": "36331",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36331",
+          "hit_taxid": "36331",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "36331",
+          "hit_taxid": "36331",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2711123",
+          "hit_taxid": "2711123",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2711123",
+          "hit_taxid": "2711123",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2711123",
+          "hit_taxid": "2711123",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5507",
+          "hit_taxid": "5507",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5507",
+          "hit_taxid": "5507",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5507",
+          "hit_taxid": "5507",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82938",
+          "hit_taxid": "82938",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82938",
+          "hit_taxid": "82938",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82938",
+          "hit_taxid": "82938",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "798162",
+          "hit_taxid": "798162",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "798162",
+          "hit_taxid": "798162",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "798162",
+          "hit_taxid": "798162",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "64495",
+          "hit_taxid": "64495",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "64495",
+          "hit_taxid": "64495",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "64495",
+          "hit_taxid": "64495",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "49569",
+          "hit_taxid": "49569",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "49569",
+          "hit_taxid": "49569",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "49569",
+          "hit_taxid": "49569",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "76351",
+          "hit_taxid": "76351",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "76351",
+          "hit_taxid": "76351",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "76351",
+          "hit_taxid": "76351",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "886948",
+          "hit_taxid": "886948",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "348901",
+          "hit_taxid": "348901",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "348901",
+          "hit_taxid": "348901",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "348901",
+          "hit_taxid": "348901",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "161743",
+          "hit_taxid": "161743",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "161743",
+          "hit_taxid": "161743",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5547",
+          "hit_taxid": "49224",
+          "pident": 100.0,
+          "correct": false
+        },
+        {
+          "query_taxid": "5547",
+          "hit_taxid": "5547",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5547",
+          "hit_taxid": "5547",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5544",
+          "hit_taxid": "5544",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5544",
+          "hit_taxid": "5544",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5544",
+          "hit_taxid": "5544",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1567482",
+          "hit_taxid": "1567482",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1567482",
+          "hit_taxid": "1567482",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1567482",
+          "hit_taxid": "1567482",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5076",
+          "hit_taxid": "5076",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5076",
+          "hit_taxid": "5076",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5076",
+          "hit_taxid": "5076",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "29917",
+          "hit_taxid": "29917",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "29917",
+          "hit_taxid": "29917",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "29917",
+          "hit_taxid": "29917",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1608309",
+          "hit_taxid": "1608309",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1608309",
+          "hit_taxid": "1608309",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1608309",
+          "hit_taxid": "1608309",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "119927",
+          "hit_taxid": "119927",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "119927",
+          "hit_taxid": "119927",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "119927",
+          "hit_taxid": "119927",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1187904",
+          "hit_taxid": "1187904",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1187904",
+          "hit_taxid": "1187904",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1187904",
+          "hit_taxid": "1187904",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "29850",
+          "hit_taxid": "29850",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "29850",
+          "hit_taxid": "29850",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "29850",
+          "hit_taxid": "29850",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "231958",
+          "hit_taxid": "231958",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "231958",
+          "hit_taxid": "231958",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "231958",
+          "hit_taxid": "231958",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2125995",
+          "hit_taxid": "2125995",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2125995",
+          "hit_taxid": "2125995",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2125995",
+          "hit_taxid": "2125995",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2125998",
+          "hit_taxid": "2125998",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2125998",
+          "hit_taxid": "2125998",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2125998",
+          "hit_taxid": "2125998",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82926",
+          "hit_taxid": "82926",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82926",
+          "hit_taxid": "82926",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82926",
+          "hit_taxid": "82926",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1277646",
+          "hit_taxid": "1277646",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1277646",
+          "hit_taxid": "1277646",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1277646",
+          "hit_taxid": "1277646",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "119929",
+          "hit_taxid": "119929",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "119929",
+          "hit_taxid": "119929",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "119929",
+          "hit_taxid": "119929",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "61284",
+          "hit_taxid": "61284",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "61284",
+          "hit_taxid": "61284",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "61284",
+          "hit_taxid": "61284",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1577605",
+          "hit_taxid": "1577605",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1577605",
+          "hit_taxid": "1577605",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1577605",
+          "hit_taxid": "1577605",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82950",
+          "hit_taxid": "82950",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82950",
+          "hit_taxid": "82950",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "82950",
+          "hit_taxid": "82950",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "196109",
+          "hit_taxid": "196109",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "196109",
+          "hit_taxid": "196109",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "196109",
+          "hit_taxid": "196109",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "126844",
+          "hit_taxid": "126844",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "126844",
+          "hit_taxid": "126844",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "126844",
+          "hit_taxid": "126844",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "289618",
+          "hit_taxid": "289618",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "289618",
+          "hit_taxid": "289618",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "289618",
+          "hit_taxid": "289618",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "4799",
+          "hit_taxid": "4799",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "4799",
+          "hit_taxid": "4799",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "4799",
+          "hit_taxid": "4799",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "49224",
+          "hit_taxid": "49224",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "49224",
+          "hit_taxid": "49224",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "49224",
+          "hit_taxid": "49224",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "97093",
+          "hit_taxid": "97093",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "97093",
+          "hit_taxid": "97093",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "97093",
+          "hit_taxid": "97093",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1203437",
+          "hit_taxid": "1203437",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1203437",
+          "hit_taxid": "1203437",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1203437",
+          "hit_taxid": "1203437",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "91365",
+          "hit_taxid": "91365",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "91365",
+          "hit_taxid": "91365",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "91365",
+          "hit_taxid": "91365",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "95742",
+          "hit_taxid": "95742",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "95742",
+          "hit_taxid": "95742",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "95742",
+          "hit_taxid": "95742",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "418125",
+          "hit_taxid": "418125",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "418125",
+          "hit_taxid": "418125",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "418125",
+          "hit_taxid": "418125",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "38902",
+          "hit_taxid": "38902",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "38902",
+          "hit_taxid": "38902",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "38902",
+          "hit_taxid": "38902",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "95735",
+          "hit_taxid": "95735",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "95735",
+          "hit_taxid": "95735",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "95735",
+          "hit_taxid": "95735",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "318706",
+          "hit_taxid": "318706",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "318706",
+          "hit_taxid": "318706",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "318706",
+          "hit_taxid": "318706",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "215132",
+          "hit_taxid": "215132",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "215132",
+          "hit_taxid": "215132",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "215132",
+          "hit_taxid": "215132",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1056642",
+          "hit_taxid": "1056642",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1056642",
+          "hit_taxid": "1056642",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1056642",
+          "hit_taxid": "1056642",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "145392",
+          "hit_taxid": "145392",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "145392",
+          "hit_taxid": "145392",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "145392",
+          "hit_taxid": "145392",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "318710",
+          "hit_taxid": "318710",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "318710",
+          "hit_taxid": "318710",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "318710",
+          "hit_taxid": "318710",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1682391",
+          "hit_taxid": "1682391",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1682391",
+          "hit_taxid": "1682391",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1682391",
+          "hit_taxid": "1682391",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "467161",
+          "hit_taxid": "467161",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "41413",
+          "hit_taxid": "41413",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "41413",
+          "hit_taxid": "41413",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "41413",
+          "hit_taxid": "41413",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5067",
+          "hit_taxid": "5067",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5067",
+          "hit_taxid": "5067",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "5067",
+          "hit_taxid": "5067",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "45133",
+          "hit_taxid": "45133",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "45133",
+          "hit_taxid": "45133",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "45133",
+          "hit_taxid": "45133",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1159556",
+          "hit_taxid": "1159556",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1159556",
+          "hit_taxid": "1159556",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1159556",
+          "hit_taxid": "1159556",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "57143",
+          "hit_taxid": "57143",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "57143",
+          "hit_taxid": "57143",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "57143",
+          "hit_taxid": "57143",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "86545",
+          "hit_taxid": "86545",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "86545",
+          "hit_taxid": "86545",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "86545",
+          "hit_taxid": "86545",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "48491",
+          "hit_taxid": "48491",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "48491",
+          "hit_taxid": "48491",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "48491",
+          "hit_taxid": "48491",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "56665",
+          "hit_taxid": "56665",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "56665",
+          "hit_taxid": "56665",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "56665",
+          "hit_taxid": "56665",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "42676",
+          "hit_taxid": "42676",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "42676",
+          "hit_taxid": "42676",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "42676",
+          "hit_taxid": "42676",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "282271",
+          "hit_taxid": "282271",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "282271",
+          "hit_taxid": "282271",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "282271",
+          "hit_taxid": "282271",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "56641",
+          "hit_taxid": "56641",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "56641",
+          "hit_taxid": "56641",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "56641",
+          "hit_taxid": "56641",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "60167",
+          "hit_taxid": "60167",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "60167",
+          "hit_taxid": "60167",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "60167",
+          "hit_taxid": "60167",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "28572",
+          "hit_taxid": "28572",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "28572",
+          "hit_taxid": "28572",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "28572",
+          "hit_taxid": "28572",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "101201",
+          "hit_taxid": "101201",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "101201",
+          "hit_taxid": "101201",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "101201",
+          "hit_taxid": "101201",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "3021703",
+          "hit_taxid": "3021703",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "160937",
+          "hit_taxid": "160937",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "160937",
+          "hit_taxid": "160937",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "160937",
+          "hit_taxid": "160937",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "935936",
+          "hit_taxid": "935936",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "935936",
+          "hit_taxid": "935936",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "935936",
+          "hit_taxid": "935936",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "140044",
+          "hit_taxid": "140044",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "140044",
+          "hit_taxid": "140044",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "140044",
+          "hit_taxid": "140044",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "228353",
+          "hit_taxid": "228353",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "228353",
+          "hit_taxid": "228353",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "228353",
+          "hit_taxid": "228353",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1682390",
+          "hit_taxid": "1682390",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1682390",
+          "hit_taxid": "1682390",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1682390",
+          "hit_taxid": "1682390",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "226117",
+          "hit_taxid": "226117",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "226117",
+          "hit_taxid": "226117",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "226117",
+          "hit_taxid": "226117",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "60171",
+          "hit_taxid": "60171",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "60171",
+          "hit_taxid": "60171",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "60171",
+          "hit_taxid": "60171",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "78864",
+          "hit_taxid": "78864",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "78864",
+          "hit_taxid": "78864",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "78864",
+          "hit_taxid": "78864",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "42672",
+          "hit_taxid": "42672",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "42672",
+          "hit_taxid": "42672",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "42672",
+          "hit_taxid": "42672",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "47755",
+          "hit_taxid": "47755",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "47755",
+          "hit_taxid": "47755",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "47755",
+          "hit_taxid": "47755",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "487631",
+          "hit_taxid": "487631",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "487631",
+          "hit_taxid": "487631",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "487631",
+          "hit_taxid": "487631",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "33175",
+          "hit_taxid": "33175",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "33175",
+          "hit_taxid": "33175",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "33175",
+          "hit_taxid": "33175",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "125373",
+          "hit_taxid": "125373",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "125373",
+          "hit_taxid": "125373",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "125373",
+          "hit_taxid": "125373",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1230527",
+          "hit_taxid": "1230527",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1230527",
+          "hit_taxid": "1230527",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "1230527",
+          "hit_taxid": "1230527",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "13001",
+          "hit_taxid": "13001",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "13001",
+          "hit_taxid": "13001",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "13001",
+          "hit_taxid": "13001",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "907947",
+          "hit_taxid": "907947",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "907947",
+          "hit_taxid": "907947",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "907947",
+          "hit_taxid": "907947",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "289598",
+          "hit_taxid": "289598",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "289598",
+          "hit_taxid": "289598",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "289598",
+          "hit_taxid": "289598",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2713053",
+          "hit_taxid": "2713053",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "2713053",
+          "hit_taxid": "2713053",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "41984",
+          "hit_taxid": "41984",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "41984",
+          "hit_taxid": "41984",
+          "pident": 100.0,
+          "correct": true
+        },
+        {
+          "query_taxid": "41984",
+          "hit_taxid": "41984",
+          "pident": 100.0,
+          "correct": true
+        }
+      ]
+    },
+    "overall": {
+      "n": 573,
+      "correct": 570,
+      "accuracy": 99.5
+    }
+  }
+}

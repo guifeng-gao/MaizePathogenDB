@@ -72,6 +72,21 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 |---|---|
 | `Maize Pathogen.xlsx` | Curated pathogen catalog with three sheets (bacteria, virus, fungi and Oomycota), taxonomy, and literature references |
 
+### Validation Results
+
+| File | Description |
+|---|---|
+| `docs/validation/self_validation_current.json` | Internal self-hit validation (573 sequences) |
+| `docs/validation/cross_validation_current.json` | SILVA/UNITE cross-validation |
+| `docs/validation/ncbi_nt_comparison_v2.json` | MaizePathogenDB vs NCBI-nt benchmark |
+| `docs/validation/ncbi_nt_comparison_150_summary.md` | NCBI-nt 150-query comparison summary |
+| `docs/validation/Fig_NCBI_nt_Comparison_Final_v2.pdf` | NCBI-nt comparison figure (n=150) |
+| `docs/validation/external/external_validation_final.json` | External validation full results |
+| `docs/validation/external/external_validation_2020_2026_summary.md` | 2020-2026 external validation summary |
+| `docs/validation/validation_summary.json` | Multi-method validation results |
+| `docs/validation/genus_accuracy_full.json` | Species-level vs genus-level accuracy |
+| `docs/validation/Fig*.pdf` | Publication figures |
+
 ### Web Platform
 
 | File | Description |
@@ -131,6 +146,25 @@ All entries were manually verified against the [NCBI Taxonomy database](https://
 
 ---
 
+## Code Availability
+
+| Script | Function |
+|---|---|
+| `download_sequences_v2.py` | NCBI marker gene sequence download via Entrez API |
+| `build_database.py` | BLAST database construction and SINTAX formatting |
+| `run_self_validation.py` | Internal self-hit validation |
+| `run_silva_unite_validation.py` | SILVA/UNITE cross-validation |
+| `ncbi_nt_comparison_v2.py` | Stratified benchmark against NCBI-nt database |
+| `ncbi_nt_comparison_retry.py` | Retry timed-out NCBI-nt queries |
+| `external_validation_v2.py` | External validation using 2020-2026 NCBI sequences |
+| `refseq_validation.py` | RefSeq cross-validation (legacy, not current) |
+| `generate_figures.py` | Publication-quality figure generation |
+| `generate_ncbi_figure.py` | NCBI-nt comparison figure generation |
+| `update_database.py` | Full database update pipeline (Excel → sequences → BLAST DB → web) |
+
+**Dependencies:** Python 3.8+ · Biopython · openpyxl · requests · matplotlib · numpy · BLAST+ 2.17.0
+
+---
 
 ## License
 
