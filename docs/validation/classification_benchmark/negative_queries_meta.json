@@ -1,0 +1,4002 @@
+[
+  {
+    "qid": "n0001|100226|bacteria",
+    "taxid": "100226",
+    "species": "Streptomyces coelicolor A3(2)",
+    "category": "bacteria",
+    "accession": "AF230487.1",
+    "title": "AF230487.1 Streptomyces coelicolor A3(2) 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0002|100226|bacteria",
+    "taxid": "100226",
+    "species": "Streptomyces coelicolor A3(2)",
+    "category": "bacteria",
+    "accession": "U72176.1",
+    "title": "U72176.1 Streptomyces coelicolor 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0003|1200984|bacteria",
+    "taxid": "1200984",
+    "species": "Streptomyces lividans 1326",
+    "category": "bacteria",
+    "accession": "GU383136.1",
+    "title": "GU383136.1 Streptomyces lividans 1326 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0004|227882|bacteria",
+    "taxid": "227882",
+    "species": "Streptomyces avermitilis MA-4680 = NBRC 14893",
+    "category": "bacteria",
+    "accession": "KY052628.1",
+    "title": "KY052628.1 Streptomyces avermitilis MA-4680 = NBRC 14893 strain PD747 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0005|227882|bacteria",
+    "taxid": "227882",
+    "species": "Streptomyces avermitilis MA-4680 = NBRC 14893",
+    "category": "bacteria",
+    "accession": "KY052392.1",
+    "title": "KY052392.1 Streptomyces avermitilis MA-4680 = NBRC 14893 strain PD387 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0006|227882|bacteria",
+    "taxid": "227882",
+    "species": "Streptomyces avermitilis MA-4680 = NBRC 14893",
+    "category": "bacteria",
+    "accession": "KY052225.1",
+    "title": "KY052225.1 Streptomyces avermitilis MA-4680 = NBRC 14893 strain PD70 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0007|227882|bacteria",
+    "taxid": "227882",
+    "species": "Streptomyces avermitilis MA-4680 = NBRC 14893",
+    "category": "bacteria",
+    "accession": "AB078897.2",
+    "title": "AB078897.2 Streptomyces avermitilis (Streptomyces avermectinius) gene for 16S rRNA, partial sequence"
+  },
+  {
+    "qid": "n0008|953739|bacteria",
+    "taxid": "953739",
+    "species": "Streptomyces venezuelae ATCC 10712",
+    "category": "bacteria",
+    "accession": "PV264848.1",
+    "title": "PV264848.1 Streptomyces venezuelae ATCC 10712 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0009|953739|bacteria",
+    "taxid": "953739",
+    "species": "Streptomyces venezuelae ATCC 10712",
+    "category": "bacteria",
+    "accession": "AY999739.1",
+    "title": "AY999739.1 Streptomyces venezuelae ATCC 10712 strain ISP 5230 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0010|882800|bacteria",
+    "taxid": "882800",
+    "species": "Methylorubrum extorquens DSM 13060",
+    "category": "bacteria",
+    "accession": "AF267912.1",
+    "title": "AF267912.1 Methylobacterium extorquens 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0011|211586|bacteria",
+    "taxid": "211586",
+    "species": "Shewanella oneidensis MR-1",
+    "category": "bacteria",
+    "accession": "AF005251.1",
+    "title": "AF005251.1 Shewanella oneidensis MR-1 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0012|3436925|bacteria",
+    "taxid": "3436925",
+    "species": "Bifidobacterium longum LL6991",
+    "category": "bacteria",
+    "accession": "PV770940.1",
+    "title": "PV770940.1 Bifidobacterium longum LL6991 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0013|1423732|bacteria",
+    "taxid": "1423732",
+    "species": "Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393",
+    "category": "bacteria",
+    "accession": "AF429587.1",
+    "title": "AF429587.1 Lactobacillus zeae strain ATCC 393 16S ribosomal RNA gene, partial sequence; 16S-23S intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0014|1423732|bacteria",
+    "taxid": "1423732",
+    "species": "Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393",
+    "category": "bacteria",
+    "accession": "AF429500.1",
+    "title": "AF429500.1 Lactobacillus zeae ATCC 393 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0015|1423732|bacteria",
+    "taxid": "1423732",
+    "species": "Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393",
+    "category": "bacteria",
+    "accession": "AY196978.1",
+    "title": "AY196978.1 Lactobacillus casei subsp. casei ATCC 393 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0016|1423732|bacteria",
+    "taxid": "1423732",
+    "species": "Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393",
+    "category": "bacteria",
+    "accession": "AF469172.1",
+    "title": "AF469172.1 Lactobacillus casei strain ATCC 393 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0017|1423732|bacteria",
+    "taxid": "1423732",
+    "species": "Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393",
+    "category": "bacteria",
+    "accession": "AB289057.1",
+    "title": "AB289057.1 Lactobacillus casei gene for 16S rRNA, partial sequence, strain: JCM 1134"
+  },
+  {
+    "qid": "n0018|1423732|bacteria",
+    "taxid": "1423732",
+    "species": "Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393",
+    "category": "bacteria",
+    "accession": "AB237517.1",
+    "title": "AB237517.1 Lactobacillus casei genes for 16S rRNA, 16S-23S internal transcribed spacer, 23S rRNA, partial sequence, strain:JCM 1134"
+  },
+  {
+    "qid": "n0019|1423732|bacteria",
+    "taxid": "1423732",
+    "species": "Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393",
+    "category": "bacteria",
+    "accession": "AB237516.1",
+    "title": "AB237516.1 Lactobacillus casei genes for 16S rRNA, 16S-23S internal transcribed spacer, tRNA-Ile, tRNA-Ala, 23S rRNA, partial and complete sequence, strain:JCM 1134"
+  },
+  {
+    "qid": "n0020|1423732|bacteria",
+    "taxid": "1423732",
+    "species": "Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393",
+    "category": "bacteria",
+    "accession": "D16551.1",
+    "title": "D16551.1 Lactobacillus casei gene for 16S rRNA"
+  },
+  {
+    "qid": "n0021|1423732|bacteria",
+    "taxid": "1423732",
+    "species": "Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393",
+    "category": "bacteria",
+    "accession": "X61135.1",
+    "title": "X61135.1 L.casei 16S rRNA gene"
+  },
+  {
+    "qid": "n0022|1537158|bacteria",
+    "taxid": "1537158",
+    "species": "Lactobacillus delbrueckii subsp. jakobsenii",
+    "category": "bacteria",
+    "accession": "PV797360.1",
+    "title": "PV797360.1 Lactobacillus delbrueckii subsp. jakobsenii strain NJ-M3 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0023|1537158|bacteria",
+    "taxid": "1537158",
+    "species": "Lactobacillus delbrueckii subsp. jakobsenii",
+    "category": "bacteria",
+    "accession": "OQ439799.1",
+    "title": "OQ439799.1 Lactobacillus delbrueckii subsp. jakobsenii strain MYZI-O1 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0024|1537158|bacteria",
+    "taxid": "1537158",
+    "species": "Lactobacillus delbrueckii subsp. jakobsenii",
+    "category": "bacteria",
+    "accession": "LC685621.1",
+    "title": "LC685621.1 Lactobacillus delbrueckii subsp. jakobsenii JCM30917 gene for 16S rRNA, partial sequence"
+  },
+  {
+    "qid": "n0025|1537158|bacteria",
+    "taxid": "1537158",
+    "species": "Lactobacillus delbrueckii subsp. jakobsenii",
+    "category": "bacteria",
+    "accession": "MZ066817.1",
+    "title": "MZ066817.1 Lactobacillus delbrueckii subsp. jakobsenii strain Br 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0026|1537158|bacteria",
+    "taxid": "1537158",
+    "species": "Lactobacillus delbrueckii subsp. jakobsenii",
+    "category": "bacteria",
+    "accession": "JQ801728.1",
+    "title": "JQ801728.1 Lactobacillus delbrueckii subsp. jakobsenii ZN7a-9 = DSM 26046 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0027|2026657|bacteria",
+    "taxid": "2026657",
+    "species": "Leuconostoc mesenteroides subsp. jonggajibkimchii",
+    "category": "bacteria",
+    "accession": "PZ810760.1",
+    "title": "PZ810760.1 Leuconostoc mesenteroides subsp. jonggajibkimchii strain GM7 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0028|2026657|bacteria",
+    "taxid": "2026657",
+    "species": "Leuconostoc mesenteroides subsp. jonggajibkimchii",
+    "category": "bacteria",
+    "accession": "PZ557640.1",
+    "title": "PZ557640.1 Leuconostoc mesenteroides subsp. jonggajibkimchii strain 31616 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0029|2026657|bacteria",
+    "taxid": "2026657",
+    "species": "Leuconostoc mesenteroides subsp. jonggajibkimchii",
+    "category": "bacteria",
+    "accession": "PZ557637.1",
+    "title": "PZ557637.1 Leuconostoc mesenteroides subsp. jonggajibkimchii strain 31613 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0030|2026657|bacteria",
+    "taxid": "2026657",
+    "species": "Leuconostoc mesenteroides subsp. jonggajibkimchii",
+    "category": "bacteria",
+    "accession": "PZ389843.1",
+    "title": "PZ389843.1 Leuconostoc mesenteroides subsp. jonggajibkimchii strain BS3 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0031|2026657|bacteria",
+    "taxid": "2026657",
+    "species": "Leuconostoc mesenteroides subsp. jonggajibkimchii",
+    "category": "bacteria",
+    "accession": "PZ327070.1",
+    "title": "PZ327070.1 Leuconostoc mesenteroides subsp. jonggajibkimchii strain 2-96 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0032|2026657|bacteria",
+    "taxid": "2026657",
+    "species": "Leuconostoc mesenteroides subsp. jonggajibkimchii",
+    "category": "bacteria",
+    "accession": "PZ327069.1",
+    "title": "PZ327069.1 Leuconostoc mesenteroides subsp. jonggajibkimchii strain 2-94 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0033|2026657|bacteria",
+    "taxid": "2026657",
+    "species": "Leuconostoc mesenteroides subsp. jonggajibkimchii",
+    "category": "bacteria",
+    "accession": "PZ327067.1",
+    "title": "PZ327067.1 Leuconostoc mesenteroides subsp. jonggajibkimchii strain 2-91 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0034|2026657|bacteria",
+    "taxid": "2026657",
+    "species": "Leuconostoc mesenteroides subsp. jonggajibkimchii",
+    "category": "bacteria",
+    "accession": "PZ327066.1",
+    "title": "PZ327066.1 Leuconostoc mesenteroides subsp. jonggajibkimchii strain 2-90 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0035|2026657|bacteria",
+    "taxid": "2026657",
+    "species": "Leuconostoc mesenteroides subsp. jonggajibkimchii",
+    "category": "bacteria",
+    "accession": "PZ327064.1",
+    "title": "PZ327064.1 Leuconostoc mesenteroides subsp. jonggajibkimchii strain 2-87 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0036|2026657|bacteria",
+    "taxid": "2026657",
+    "species": "Leuconostoc mesenteroides subsp. jonggajibkimchii",
+    "category": "bacteria",
+    "accession": "PZ327063.1",
+    "title": "PZ327063.1 Leuconostoc mesenteroides subsp. jonggajibkimchii strain 2-85 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0037|991791|bacteria",
+    "taxid": "991791",
+    "species": "Clostridium acetobutylicum DSM 1731",
+    "category": "bacteria",
+    "accession": "X78071.1",
+    "title": "X78071.1 C.acetobutylicum (DSM 1731) 16S rRNA"
+  },
+  {
+    "qid": "n0038|394503|bacteria",
+    "taxid": "394503",
+    "species": "Ruminiclostridium cellulolyticum H10",
+    "category": "bacteria",
+    "accession": "OK626620.1",
+    "title": "OK626620.1 Ruminiclostridium cellulolyticum H10 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0039|394503|bacteria",
+    "taxid": "394503",
+    "species": "Ruminiclostridium cellulolyticum H10",
+    "category": "bacteria",
+    "accession": "NG_041947.1",
+    "title": "NG_041947.1 Ruminiclostridium cellulolyticum H10 16S ribosomal RNA gene, complete sequence"
+  },
+  {
+    "qid": "n0040|706585|bacteria",
+    "taxid": "706585",
+    "species": "Fibrobacter succinogenes subsp. elongatus",
+    "category": "bacteria",
+    "accession": "GU269553.1",
+    "title": "GU269553.1 Fibrobacter succinogenes subsp. elongatus strain HM2 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0041|1437612|bacteria",
+    "taxid": "1437612",
+    "species": "Bifidobacterium adolescentis JCM 15918",
+    "category": "bacteria",
+    "accession": "MW692755.1",
+    "title": "MW692755.1 Bifidobacterium adolescentis JCM 15918 strain 20271 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0042|1437612|bacteria",
+    "taxid": "1437612",
+    "species": "Bifidobacterium adolescentis JCM 15918",
+    "category": "bacteria",
+    "accession": "MW692745.1",
+    "title": "MW692745.1 Bifidobacterium adolescentis JCM 15918 strain 20259 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0043|1437612|bacteria",
+    "taxid": "1437612",
+    "species": "Bifidobacterium adolescentis JCM 15918",
+    "category": "bacteria",
+    "accession": "MW692744.1",
+    "title": "MW692744.1 Bifidobacterium adolescentis JCM 15918 strain 20258 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0044|1437612|bacteria",
+    "taxid": "1437612",
+    "species": "Bifidobacterium adolescentis JCM 15918",
+    "category": "bacteria",
+    "accession": "MW692742.1",
+    "title": "MW692742.1 Bifidobacterium adolescentis JCM 15918 strain 20256 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0045|1437612|bacteria",
+    "taxid": "1437612",
+    "species": "Bifidobacterium adolescentis JCM 15918",
+    "category": "bacteria",
+    "accession": "MW692506.1",
+    "title": "MW692506.1 Bifidobacterium adolescentis JCM 15918 strain 20272 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0046|1437612|bacteria",
+    "taxid": "1437612",
+    "species": "Bifidobacterium adolescentis JCM 15918",
+    "category": "bacteria",
+    "accession": "MW674428.1",
+    "title": "MW674428.1 Bifidobacterium adolescentis JCM 15918 strain 19274 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0047|1437612|bacteria",
+    "taxid": "1437612",
+    "species": "Bifidobacterium adolescentis JCM 15918",
+    "category": "bacteria",
+    "accession": "MW674425.1",
+    "title": "MW674425.1 Bifidobacterium adolescentis JCM 15918 strain 19271 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0048|1437612|bacteria",
+    "taxid": "1437612",
+    "species": "Bifidobacterium adolescentis JCM 15918",
+    "category": "bacteria",
+    "accession": "MW664657.1",
+    "title": "MW664657.1 Bifidobacterium adolescentis JCM 15918 strain 18989 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0049|1437612|bacteria",
+    "taxid": "1437612",
+    "species": "Bifidobacterium adolescentis JCM 15918",
+    "category": "bacteria",
+    "accession": "MW664656.1",
+    "title": "MW664656.1 Bifidobacterium adolescentis JCM 15918 strain 18988 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0050|1437612|bacteria",
+    "taxid": "1437612",
+    "species": "Bifidobacterium adolescentis JCM 15918",
+    "category": "bacteria",
+    "accession": "MW658993.1",
+    "title": "MW658993.1 Bifidobacterium adolescentis JCM 15918 strain 18006 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0051|1224744|bacteria",
+    "taxid": "1224744",
+    "species": "Methylococcus capsulatus str. Texas = ATCC 19069",
+    "category": "bacteria",
+    "accession": "AJ563935.1",
+    "title": "AJ563935.1 Methylococcus capsulatus partial 16S rRNA gene, strain Texas"
+  },
+  {
+    "qid": "n0052|1224744|bacteria",
+    "taxid": "1224744",
+    "species": "Methylococcus capsulatus str. Texas = ATCC 19069",
+    "category": "bacteria",
+    "accession": "X72770.1",
+    "title": "X72770.1 M.capsulatus gene for 16S rRNA (ACM 1292)"
+  },
+  {
+    "qid": "n0053|595536|bacteria",
+    "taxid": "595536",
+    "species": "Methylosinus trichosporium OB3b",
+    "category": "bacteria",
+    "accession": "AB008108.1",
+    "title": "AB008108.1 Methylosinus trichosporium gene for 16S rRNA, partial sequence"
+  },
+  {
+    "qid": "n0054|595536|bacteria",
+    "taxid": "595536",
+    "species": "Methylosinus trichosporium OB3b",
+    "category": "bacteria",
+    "accession": "Y18947.1",
+    "title": "Y18947.1 Methylosinus trichosporium 16S rRNA gene"
+  },
+  {
+    "qid": "n0055|323848|bacteria",
+    "taxid": "323848",
+    "species": "Nitrosospira multiformis ATCC 25196",
+    "category": "bacteria",
+    "accession": "AY123807.1",
+    "title": "AY123807.1 Nitrosospira multiformis 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0056|323848|bacteria",
+    "taxid": "323848",
+    "species": "Nitrosospira multiformis ATCC 25196",
+    "category": "bacteria",
+    "accession": "AB070984.1",
+    "title": "AB070984.1 Nitrosospira multiformis gene for 16S rRNA, partial sequence"
+  },
+  {
+    "qid": "n0057|473788|bacteria",
+    "taxid": "473788",
+    "species": "Nitrosococcus oceani AFC27",
+    "category": "bacteria",
+    "accession": "AF508988.1",
+    "title": "AF508988.1 Nitrosococcus oceani strain AFC27 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0058|330214|bacteria",
+    "taxid": "330214",
+    "species": "Nitrospira defluvii",
+    "category": "bacteria",
+    "accession": "KM052506.1",
+    "title": "KM052506.1 Candidatus Nitrospira defluvii clone S3-44 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0059|330214|bacteria",
+    "taxid": "330214",
+    "species": "Nitrospira defluvii",
+    "category": "bacteria",
+    "accession": "GQ249372.1",
+    "title": "GQ249372.1 Candidatus Nitrospira defluvii clone B14 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0060|330214|bacteria",
+    "taxid": "330214",
+    "species": "Nitrospira defluvii",
+    "category": "bacteria",
+    "accession": "DQ059545.1",
+    "title": "DQ059545.1 Candidatus Nitrospira defluvii 16S ribosomal RNA gene, complete sequence"
+  },
+  {
+    "qid": "n0061|42253|bacteria",
+    "taxid": "42253",
+    "species": "Nitrospira moscoviensis",
+    "category": "bacteria",
+    "accession": "PP504949.1",
+    "title": "PP504949.1 Nitrospira moscoviensis strain SUNNGM18 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0062|42253|bacteria",
+    "taxid": "42253",
+    "species": "Nitrospira moscoviensis",
+    "category": "bacteria",
+    "accession": "ON136803.1",
+    "title": "ON136803.1 Nitrospira moscoviensis isolate Otu1051 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0063|42253|bacteria",
+    "taxid": "42253",
+    "species": "Nitrospira moscoviensis",
+    "category": "bacteria",
+    "accession": "KU258274.1",
+    "title": "KU258274.1 Nitrospira moscoviensis strain BL23 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0064|42253|bacteria",
+    "taxid": "42253",
+    "species": "Nitrospira moscoviensis",
+    "category": "bacteria",
+    "accession": "JQ073807.1",
+    "title": "JQ073807.1 Nitrospira moscoviensis strain SDT4S15 16S ribosomal RNA gene, complete sequence"
+  },
+  {
+    "qid": "n0065|42253|bacteria",
+    "taxid": "42253",
+    "species": "Nitrospira moscoviensis",
+    "category": "bacteria",
+    "accession": "X82558.1",
+    "title": "X82558.1 N.moscoviensis 16S rRNA gene"
+  },
+  {
+    "qid": "n0066|879212|bacteria",
+    "taxid": "879212",
+    "species": "Desulfobacter postgatei 2ac9",
+    "category": "bacteria",
+    "accession": "AF418180.1",
+    "title": "AF418180.1 Desulfobacter postgatei DSM 2034 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0067|349161|bacteria",
+    "taxid": "349161",
+    "species": "Desulforamulus reducens MI-1",
+    "category": "bacteria",
+    "accession": "NG_042071.1",
+    "title": "NG_042071.1 Desulforamulus reducens MI-1 16S ribosomal RNA gene, complete sequence"
+  },
+  {
+    "qid": "n0068|349161|bacteria",
+    "taxid": "349161",
+    "species": "Desulforamulus reducens MI-1",
+    "category": "bacteria",
+    "accession": "U95951.1",
+    "title": "U95951.1 Desulfotomaculum reducens 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0069|335543|bacteria",
+    "taxid": "335543",
+    "species": "Syntrophobacter fumaroxidans MPOB",
+    "category": "bacteria",
+    "accession": "JQ346744.1",
+    "title": "JQ346744.1 Syntrophobacter fumaroxidans MPOB culture DSM:10017 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0070|335543|bacteria",
+    "taxid": "335543",
+    "species": "Syntrophobacter fumaroxidans MPOB",
+    "category": "bacteria",
+    "accession": "X82874.1",
+    "title": "X82874.1 Syntrophobacter fumaroxidans 16S rRNA gene, strain MPOB"
+  },
+  {
+    "qid": "n0071|351605|bacteria",
+    "taxid": "351605",
+    "species": "Geotalea uraniireducens Rf4",
+    "category": "bacteria",
+    "accession": "EF527427.1",
+    "title": "EF527427.1 Geobacter uraniireducens Rf4 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0072|455488|bacteria",
+    "taxid": "455488",
+    "species": "Anaeromyxobacter dehalogenans 2CP-1",
+    "category": "bacteria",
+    "accession": "AF382396.1",
+    "title": "AF382396.1 Anaeromyxobacter dehalogenans strain 2CP-1 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0073|675526|bacteria",
+    "taxid": "675526",
+    "species": "Allostigmatella aurantiaca Sg a15",
+    "category": "bacteria",
+    "accession": "AJ233936.1",
+    "title": "AJ233936.1 Stigmatella aurantiaca 16S rRNA gene, strain Sg a15"
+  },
+  {
+    "qid": "n0074|1254432|bacteria",
+    "taxid": "1254432",
+    "species": "Sorangium cellulosum So0157-2",
+    "category": "bacteria",
+    "accession": "DQ256394.1",
+    "title": "DQ256394.1 Polyangium cellulosum strain So0157-2 16S ribosomal RNA gene, complete sequence"
+  },
+  {
+    "qid": "n0075|52|bacteria",
+    "taxid": "52",
+    "species": "Chondromyces crocatus",
+    "category": "bacteria",
+    "accession": "MW182274.1",
+    "title": "MW182274.1 Chondromyces crocatus strain 61MSO 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0076|52|bacteria",
+    "taxid": "52",
+    "species": "Chondromyces crocatus",
+    "category": "bacteria",
+    "accession": "GU207874.1",
+    "title": "GU207874.1 Chondromyces crocatus strain Cm c5 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0077|52|bacteria",
+    "taxid": "52",
+    "species": "Chondromyces crocatus",
+    "category": "bacteria",
+    "accession": "FJ176773.1",
+    "title": "FJ176773.1 Chondromyces crocatus strain KYC2712 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0078|52|bacteria",
+    "taxid": "52",
+    "species": "Chondromyces crocatus",
+    "category": "bacteria",
+    "accession": "FJ176772.1",
+    "title": "FJ176772.1 Chondromyces crocatus strain KYC2823 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0079|52|bacteria",
+    "taxid": "52",
+    "species": "Chondromyces crocatus",
+    "category": "bacteria",
+    "accession": "M94275.1",
+    "title": "M94275.1 Chondromyces crocatus 16S ribosomal RNA gene, complete sequence"
+  },
+  {
+    "qid": "n0080|383372|bacteria",
+    "taxid": "383372",
+    "species": "Roseiflexus castenholzii DSM 13941",
+    "category": "bacteria",
+    "accession": "AB041226.1",
+    "title": "AB041226.1 Roseiflexus castenholzii gene for 16S rRNA, partial sequence"
+  },
+  {
+    "qid": "n0081|103690|bacteria",
+    "taxid": "103690",
+    "species": "Nostoc sp. PCC 7120 = FACHB-418",
+    "category": "bacteria",
+    "accession": "KM019921.1",
+    "title": "KM019921.1 Nostoc sp. PCC 7120 = FACHB-418 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0082|103690|bacteria",
+    "taxid": "103690",
+    "species": "Nostoc sp. PCC 7120 = FACHB-418",
+    "category": "bacteria",
+    "accession": "KF417636.1",
+    "title": "KF417636.1 Nostoc sp. PCC 7120 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0083|103690|bacteria",
+    "taxid": "103690",
+    "species": "Nostoc sp. PCC 7120 = FACHB-418",
+    "category": "bacteria",
+    "accession": "HM573458.1",
+    "title": "HM573458.1 Nostoc sp. PCC 7120 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0084|103690|bacteria",
+    "taxid": "103690",
+    "species": "Nostoc sp. PCC 7120 = FACHB-418",
+    "category": "bacteria",
+    "accession": "GU563896.1",
+    "title": "GU563896.1 Nostoc sp. PCC 7120 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0085|103690|bacteria",
+    "taxid": "103690",
+    "species": "Nostoc sp. PCC 7120 = FACHB-418",
+    "category": "bacteria",
+    "accession": "EU155887.1",
+    "title": "EU155887.1 Nostoc sp. PCC 7120 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0086|103690|bacteria",
+    "taxid": "103690",
+    "species": "Nostoc sp. PCC 7120 = FACHB-418",
+    "category": "bacteria",
+    "accession": "AY768390.1",
+    "title": "AY768390.1 Nostoc sp. PCC 7120 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0087|103690|bacteria",
+    "taxid": "103690",
+    "species": "Nostoc sp. PCC 7120 = FACHB-418",
+    "category": "bacteria",
+    "accession": "X59559.1",
+    "title": "X59559.1 Anabaena sp. 16S rRNA gene"
+  },
+  {
+    "qid": "n0088|103690|bacteria",
+    "taxid": "103690",
+    "species": "Nostoc sp. PCC 7120 = FACHB-418",
+    "category": "bacteria",
+    "accession": "AF317631.1",
+    "title": "AF317631.1 Nostoc sp. PCC 7120 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0089|3739520|bacteria",
+    "taxid": "3739520",
+    "species": "Microcystis aeruginosa JAFRI",
+    "category": "bacteria",
+    "accession": "PZ692389.1",
+    "title": "PZ692389.1 Microcystis aeruginosa JAFRI 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0090|2082108|fungi",
+    "taxid": "2082108",
+    "species": "Chaetomium globosum var. rectum",
+    "category": "fungi",
+    "accession": "MH861824.1",
+    "title": "MH861824.1 Chaetomium globosum var. rectum strain CBS 724.84 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0091|2082108|fungi",
+    "taxid": "2082108",
+    "species": "Chaetomium globosum var. rectum",
+    "category": "fungi",
+    "accession": "MH861537.1",
+    "title": "MH861537.1 Chaetomium globosum var. rectum strain CBS 666.82 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0092|2082108|fungi",
+    "taxid": "2082108",
+    "species": "Chaetomium globosum var. rectum",
+    "category": "fungi",
+    "accession": "MZ474664.1",
+    "title": "MZ474664.1 Chaetomium globosum var. rectum strain ZHX8 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0093|2567926|fungi",
+    "taxid": "2567926",
+    "species": "Trichocladium griseum",
+    "category": "fungi",
+    "accession": "MH860993.1",
+    "title": "MH860993.1 Trichocladium griseum strain CBS 459.76 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0094|2567926|fungi",
+    "taxid": "2567926",
+    "species": "Trichocladium griseum",
+    "category": "fungi",
+    "accession": "MH856152.1",
+    "title": "MH856152.1 Trichocladium griseum strain CBS 164.46 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0095|2567926|fungi",
+    "taxid": "2567926",
+    "species": "Trichocladium griseum",
+    "category": "fungi",
+    "accession": "MH855491.1",
+    "title": "MH855491.1 Trichocladium griseum strain CBS 217.34 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0096|2567926|fungi",
+    "taxid": "2567926",
+    "species": "Trichocladium griseum",
+    "category": "fungi",
+    "accession": "MH854632.1",
+    "title": "MH854632.1 Trichocladium griseum strain CBS 119.14 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0097|2567926|fungi",
+    "taxid": "2567926",
+    "species": "Trichocladium griseum",
+    "category": "fungi",
+    "accession": "MH854607.1",
+    "title": "MH854607.1 Trichocladium griseum strain CBS 112.12 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0098|2567926|fungi",
+    "taxid": "2567926",
+    "species": "Trichocladium griseum",
+    "category": "fungi",
+    "accession": "PZ134993.1",
+    "title": "PZ134993.1 Trichocladium griseum isolate UWR_1018 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0099|2567926|fungi",
+    "taxid": "2567926",
+    "species": "Trichocladium griseum",
+    "category": "fungi",
+    "accession": "PZ134992.1",
+    "title": "PZ134992.1 Trichocladium griseum isolate UWR_1017 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0100|2567926|fungi",
+    "taxid": "2567926",
+    "species": "Trichocladium griseum",
+    "category": "fungi",
+    "accession": "PX795244.1",
+    "title": "PX795244.1 Trichocladium griseum isolate RZSN-10 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0101|2567926|fungi",
+    "taxid": "2567926",
+    "species": "Trichocladium griseum",
+    "category": "fungi",
+    "accession": "PX571029.1",
+    "title": "PX571029.1 Trichocladium griseum clone New.CleanUp.ReferenceOTU2639 internal transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0102|2567926|fungi",
+    "taxid": "2567926",
+    "species": "Trichocladium griseum",
+    "category": "fungi",
+    "accession": "PX387382.1",
+    "title": "PX387382.1 Trichocladium griseum clone SH1615601.08FU internal transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0103|2082133|fungi",
+    "taxid": "2082133",
+    "species": "Humicola fuscoatra var. longispora",
+    "category": "fungi",
+    "accession": "MH870711.1",
+    "title": "MH870711.1 Humicola fuscoatra var. longispora culture CBS:403.67 strain CBS 403.67 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0104|2082133|fungi",
+    "taxid": "2082133",
+    "species": "Humicola fuscoatra var. longispora",
+    "category": "fungi",
+    "accession": "MH859009.1",
+    "title": "MH859009.1 Humicola fuscoatra var. longispora strain CBS 403.67 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0105|2587412|fungi",
+    "taxid": "2587412",
+    "species": "Podospora anserina",
+    "category": "fungi",
+    "accession": "PV108110.1",
+    "title": "PV108110.1 Podospora anserina strain CIRM-BRFM 976 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0106|2587412|fungi",
+    "taxid": "2587412",
+    "species": "Podospora anserina",
+    "category": "fungi",
+    "accession": "PQ415891.1",
+    "title": "PQ415891.1 Podospora anserina strain NY-21 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0107|2587412|fungi",
+    "taxid": "2587412",
+    "species": "Podospora anserina",
+    "category": "fungi",
+    "accession": "OQ980076.1",
+    "title": "OQ980076.1 Podospora anserina isolate CCESR10240 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0108|2587412|fungi",
+    "taxid": "2587412",
+    "species": "Podospora anserina",
+    "category": "fungi",
+    "accession": "OQ979953.1",
+    "title": "OQ979953.1 Podospora anserina isolate CCESR60150 internal transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0109|2587412|fungi",
+    "taxid": "2587412",
+    "species": "Podospora anserina",
+    "category": "fungi",
+    "accession": "OQ979923.1",
+    "title": "OQ979923.1 Podospora anserina isolate CCESR60052 internal transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0110|2587412|fungi",
+    "taxid": "2587412",
+    "species": "Podospora anserina",
+    "category": "fungi",
+    "accession": "OQ979803.1",
+    "title": "OQ979803.1 Podospora anserina isolate 4906 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0111|2587412|fungi",
+    "taxid": "2587412",
+    "species": "Podospora anserina",
+    "category": "fungi",
+    "accession": "OQ979773.1",
+    "title": "OQ979773.1 Podospora anserina isolate 4752 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0112|2587412|fungi",
+    "taxid": "2587412",
+    "species": "Podospora anserina",
+    "category": "fungi",
+    "accession": "MK926864.1",
+    "title": "MK926864.1 Podospora anserina strain CBS 433.50 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0113|2587412|fungi",
+    "taxid": "2587412",
+    "species": "Podospora anserina",
+    "category": "fungi",
+    "accession": "MF161103.1",
+    "title": "MF161103.1 Podospora anserina strain UT-Po internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0114|2587412|fungi",
+    "taxid": "2587412",
+    "species": "Podospora anserina",
+    "category": "fungi",
+    "accession": "MF380264.1",
+    "title": "MF380264.1 Podospora anserina strain R internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0115|40126|fungi",
+    "taxid": "40126",
+    "species": "Neurospora sitophila",
+    "category": "fungi",
+    "accession": "MH854676.1",
+    "title": "MH854676.1 Neurospora sitophila strain CBS 112.19 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0116|40126|fungi",
+    "taxid": "40126",
+    "species": "Neurospora sitophila",
+    "category": "fungi",
+    "accession": "PX057623.1",
+    "title": "PX057623.1 Neurospora sitophila strain SK5 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0117|40126|fungi",
+    "taxid": "40126",
+    "species": "Neurospora sitophila",
+    "category": "fungi",
+    "accession": "PV485226.1",
+    "title": "PV485226.1 Neurospora sitophila isolate AFHP_243 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0118|40126|fungi",
+    "taxid": "40126",
+    "species": "Neurospora sitophila",
+    "category": "fungi",
+    "accession": "ON712141.1",
+    "title": "ON712141.1 UNVERIFIED: Neurospora sitophila isolate 53AUG internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0119|40126|fungi",
+    "taxid": "40126",
+    "species": "Neurospora sitophila",
+    "category": "fungi",
+    "accession": "ON712132.1",
+    "title": "ON712132.1 UNVERIFIED: Neurospora sitophila isolate 44AUG internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0120|40126|fungi",
+    "taxid": "40126",
+    "species": "Neurospora sitophila",
+    "category": "fungi",
+    "accession": "ON712125.1",
+    "title": "ON712125.1 UNVERIFIED: Neurospora sitophila isolate 37AUG internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0121|40126|fungi",
+    "taxid": "40126",
+    "species": "Neurospora sitophila",
+    "category": "fungi",
+    "accession": "ON712099.1",
+    "title": "ON712099.1 UNVERIFIED: Neurospora sitophila isolate 11AUG internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0122|40126|fungi",
+    "taxid": "40126",
+    "species": "Neurospora sitophila",
+    "category": "fungi",
+    "accession": "ON712089.1",
+    "title": "ON712089.1 UNVERIFIED: Neurospora sitophila isolate 1AUG internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0123|40126|fungi",
+    "taxid": "40126",
+    "species": "Neurospora sitophila",
+    "category": "fungi",
+    "accession": "ON712082.1",
+    "title": "ON712082.1 UNVERIFIED: Neurospora sitophila isolate 54JULY internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0124|40126|fungi",
+    "taxid": "40126",
+    "species": "Neurospora sitophila",
+    "category": "fungi",
+    "accession": "OR898904.1",
+    "title": "OR898904.1 Neurospora sitophila isolate MB-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0125|1545466|fungi",
+    "taxid": "1545466",
+    "species": "Aspergillus oryzae var. pseudoflavus",
+    "category": "fungi",
+    "accession": "KJ999734.1",
+    "title": "KJ999734.1 Aspergillus oryzae var. pseudoflavus culture-collection FCBP:1366 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0126|1108849|fungi",
+    "taxid": "1108849",
+    "species": "Penicillium rubens",
+    "category": "fungi",
+    "accession": "PZ692143.1",
+    "title": "PZ692143.1 Penicillium rubens clone 843 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0127|1108849|fungi",
+    "taxid": "1108849",
+    "species": "Penicillium rubens",
+    "category": "fungi",
+    "accession": "PZ683564.1",
+    "title": "PZ683564.1 Penicillium rubens isolate R1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0128|1108849|fungi",
+    "taxid": "1108849",
+    "species": "Penicillium rubens",
+    "category": "fungi",
+    "accession": "PZ668829.1",
+    "title": "PZ668829.1 Penicillium rubens isolate MDL8 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0129|1108849|fungi",
+    "taxid": "1108849",
+    "species": "Penicillium rubens",
+    "category": "fungi",
+    "accession": "MH865992.1",
+    "title": "MH865992.1 Penicillium rubens strain CBS 132210 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0130|1108849|fungi",
+    "taxid": "1108849",
+    "species": "Penicillium rubens",
+    "category": "fungi",
+    "accession": "MH865989.1",
+    "title": "MH865989.1 Penicillium rubens strain CBS 132206 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0131|1108849|fungi",
+    "taxid": "1108849",
+    "species": "Penicillium rubens",
+    "category": "fungi",
+    "accession": "MH865987.1",
+    "title": "MH865987.1 Penicillium rubens strain CBS 132204 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0132|1108849|fungi",
+    "taxid": "1108849",
+    "species": "Penicillium rubens",
+    "category": "fungi",
+    "accession": "MH857874.1",
+    "title": "MH857874.1 Penicillium rubens strain CBS 319.59 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0133|1108849|fungi",
+    "taxid": "1108849",
+    "species": "Penicillium rubens",
+    "category": "fungi",
+    "accession": "MH857698.1",
+    "title": "MH857698.1 Penicillium rubens strain CBS 205.57 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0134|1108849|fungi",
+    "taxid": "1108849",
+    "species": "Penicillium rubens",
+    "category": "fungi",
+    "accession": "MH857069.1",
+    "title": "MH857069.1 Penicillium rubens strain CBS 339.52 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0135|1108849|fungi",
+    "taxid": "1108849",
+    "species": "Penicillium rubens",
+    "category": "fungi",
+    "accession": "PZ573863.1",
+    "title": "PZ573863.1 Penicillium rubens isolate H53_ITS4 5.8S ribosomal RNA gene and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0136|5077|fungi",
+    "taxid": "5077",
+    "species": "Penicillium citrinum",
+    "category": "fungi",
+    "accession": "PZ805040.1",
+    "title": "PZ805040.1 Penicillium citrinum isolate YT01 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0137|5077|fungi",
+    "taxid": "5077",
+    "species": "Penicillium citrinum",
+    "category": "fungi",
+    "accession": "PZ796586.1",
+    "title": "PZ796586.1 Penicillium citrinum isolate YYC06 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0138|5077|fungi",
+    "taxid": "5077",
+    "species": "Penicillium citrinum",
+    "category": "fungi",
+    "accession": "PZ794752.1",
+    "title": "PZ794752.1 Penicillium citrinum strain US48 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0139|5077|fungi",
+    "taxid": "5077",
+    "species": "Penicillium citrinum",
+    "category": "fungi",
+    "accession": "PZ779817.1",
+    "title": "PZ779817.1 Penicillium citrinum isolate AHHR1 5.8S ribosomal RNA gene and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0140|5077|fungi",
+    "taxid": "5077",
+    "species": "Penicillium citrinum",
+    "category": "fungi",
+    "accession": "PZ779470.1",
+    "title": "PZ779470.1 Penicillium citrinum isolate LZC-b internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0141|5077|fungi",
+    "taxid": "5077",
+    "species": "Penicillium citrinum",
+    "category": "fungi",
+    "accession": "PZ748920.1",
+    "title": "PZ748920.1 Penicillium citrinum isolate EL-MP-F2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0142|5077|fungi",
+    "taxid": "5077",
+    "species": "Penicillium citrinum",
+    "category": "fungi",
+    "accession": "PZ744783.1",
+    "title": "PZ744783.1 Penicillium citrinum isolate PRIM internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0143|5077|fungi",
+    "taxid": "5077",
+    "species": "Penicillium citrinum",
+    "category": "fungi",
+    "accession": "PZ744782.1",
+    "title": "PZ744782.1 Penicillium citrinum isolate OP1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0144|5077|fungi",
+    "taxid": "5077",
+    "species": "Penicillium citrinum",
+    "category": "fungi",
+    "accession": "PZ742434.1",
+    "title": "PZ742434.1 Penicillium citrinum isolate S2-01 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0145|5077|fungi",
+    "taxid": "5077",
+    "species": "Penicillium citrinum",
+    "category": "fungi",
+    "accession": "OR257637.1",
+    "title": "OR257637.1 Penicillium citrinum voucher L176 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0146|2587410|fungi",
+    "taxid": "2587410",
+    "species": "Thermothielavioides terrestris",
+    "category": "fungi",
+    "accession": "PZ692013.1",
+    "title": "PZ692013.1 Thermothielavioides terrestris clone 713 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0147|2587410|fungi",
+    "taxid": "2587410",
+    "species": "Thermothielavioides terrestris",
+    "category": "fungi",
+    "accession": "PZ691934.1",
+    "title": "PZ691934.1 Thermothielavioides terrestris clone 634 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0148|2587410|fungi",
+    "taxid": "2587410",
+    "species": "Thermothielavioides terrestris",
+    "category": "fungi",
+    "accession": "MH860938.1",
+    "title": "MH860938.1 Thermothielavioides terrestris strain CBS 455.75 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0149|2587410|fungi",
+    "taxid": "2587410",
+    "species": "Thermothielavioides terrestris",
+    "category": "fungi",
+    "accession": "PX461119.1",
+    "title": "PX461119.1 Thermothielavioides terrestris strain _DCL-C5-7 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0150|2587410|fungi",
+    "taxid": "2587410",
+    "species": "Thermothielavioides terrestris",
+    "category": "fungi",
+    "accession": "PX461113.1",
+    "title": "PX461113.1 Thermothielavioides terrestris strain _DCL-C2-10 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0151|2587410|fungi",
+    "taxid": "2587410",
+    "species": "Thermothielavioides terrestris",
+    "category": "fungi",
+    "accession": "PX461079.1",
+    "title": "PX461079.1 Thermothielavioides terrestris strain _DCL-C2-2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0152|2587410|fungi",
+    "taxid": "2587410",
+    "species": "Thermothielavioides terrestris",
+    "category": "fungi",
+    "accession": "PX461078.1",
+    "title": "PX461078.1 Thermothielavioides terrestris strain _DCL-C2-1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0153|2587410|fungi",
+    "taxid": "2587410",
+    "species": "Thermothielavioides terrestris",
+    "category": "fungi",
+    "accession": "OP392563.1",
+    "title": "OP392563.1 Thermothielavioides terrestris strain PSRF48 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0154|2587410|fungi",
+    "taxid": "2587410",
+    "species": "Thermothielavioides terrestris",
+    "category": "fungi",
+    "accession": "OR577028.1",
+    "title": "OR577028.1 Thermothielavioides terrestris isolate TG3_60 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0155|2587410|fungi",
+    "taxid": "2587410",
+    "species": "Thermothielavioides terrestris",
+    "category": "fungi",
+    "accession": "OR577027.1",
+    "title": "OR577027.1 Thermothielavioides terrestris isolate TG3_57 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0156|573729|fungi",
+    "taxid": "573729",
+    "species": "Thermothelomyces thermophilus ATCC 42464",
+    "category": "fungi",
+    "accession": "HQ871769.1",
+    "title": "HQ871769.1 Thermothelomyces thermophilus ATCC 42464 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0157|573729|fungi",
+    "taxid": "573729",
+    "species": "Thermothelomyces thermophilus ATCC 42464",
+    "category": "fungi",
+    "accession": "JF412003.1",
+    "title": "JF412003.1 Thielavia heterothallica strain ATCC 42464 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0158|3399221|fungi",
+    "taxid": "3399221",
+    "species": "Aspergillus terreus var. globosus",
+    "category": "fungi",
+    "accession": "PV107995.1",
+    "title": "PV107995.1 Aspergillus terreus var. globosus strain CIRM-BRFM 677 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0159|36653|fungi",
+    "taxid": "36653",
+    "species": "Penicillium commune",
+    "category": "fungi",
+    "accession": "PZ818893.1",
+    "title": "PZ818893.1 Penicillium commune isolate TUPc2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0160|36653|fungi",
+    "taxid": "36653",
+    "species": "Penicillium commune",
+    "category": "fungi",
+    "accession": "PZ770551.1",
+    "title": "PZ770551.1 Penicillium commune isolate UWR_1181 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0161|36653|fungi",
+    "taxid": "36653",
+    "species": "Penicillium commune",
+    "category": "fungi",
+    "accession": "PP231863.1",
+    "title": "PP231863.1 Penicillium commune isolate XL-0473 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0162|36653|fungi",
+    "taxid": "36653",
+    "species": "Penicillium commune",
+    "category": "fungi",
+    "accession": "PZ652710.1",
+    "title": "PZ652710.1 Penicillium commune strain IGPEB 118 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0163|36653|fungi",
+    "taxid": "36653",
+    "species": "Penicillium commune",
+    "category": "fungi",
+    "accession": "MH857884.1",
+    "title": "MH857884.1 Penicillium commune strain CBS 341.59 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0164|36653|fungi",
+    "taxid": "36653",
+    "species": "Penicillium commune",
+    "category": "fungi",
+    "accession": "MH856890.1",
+    "title": "MH856890.1 Penicillium commune strain CBS 343.51 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0165|36653|fungi",
+    "taxid": "36653",
+    "species": "Penicillium commune",
+    "category": "fungi",
+    "accession": "MH856359.1",
+    "title": "MH856359.1 Penicillium commune strain CBS 311.48 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0166|36653|fungi",
+    "taxid": "36653",
+    "species": "Penicillium commune",
+    "category": "fungi",
+    "accession": "MH856352.1",
+    "title": "MH856352.1 Penicillium commune strain CBS 297.48 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0167|36653|fungi",
+    "taxid": "36653",
+    "species": "Penicillium commune",
+    "category": "fungi",
+    "accession": "MH855308.1",
+    "title": "MH855308.1 Penicillium commune strain CBS 247.32 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0168|36653|fungi",
+    "taxid": "36653",
+    "species": "Penicillium commune",
+    "category": "fungi",
+    "accession": "MH855122.1",
+    "title": "MH855122.1 Penicillium commune strain CBS 216.30 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0169|796027|fungi",
+    "taxid": "796027",
+    "species": "Sugiyamaella lignohabitans",
+    "category": "fungi",
+    "accession": "OK052039.1",
+    "title": "OK052039.1 Sugiyamaella lignohabitans isolate yHQL402 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0170|796027|fungi",
+    "taxid": "796027",
+    "species": "Sugiyamaella lignohabitans",
+    "category": "fungi",
+    "accession": "OK051361.1",
+    "title": "OK051361.1 Sugiyamaella lignohabitans isolate yHKS617 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0171|796027|fungi",
+    "taxid": "796027",
+    "species": "Sugiyamaella lignohabitans",
+    "category": "fungi",
+    "accession": "DQ911444.1",
+    "title": "DQ911444.1 Sugiyamaella lignohabitans strain NRRL YB-1473 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0172|796027|fungi",
+    "taxid": "796027",
+    "species": "Sugiyamaella lignohabitans",
+    "category": "fungi",
+    "accession": "KF468208.1",
+    "title": "KF468208.1 Sugiyamaella lignohabitans strain E214 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0173|796027|fungi",
+    "taxid": "796027",
+    "species": "Sugiyamaella lignohabitans",
+    "category": "fungi",
+    "accession": "JQ713963.1",
+    "title": "JQ713963.1 Sugiyamaella lignohabitans strain R6A4 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0174|796027|fungi",
+    "taxid": "796027",
+    "species": "Sugiyamaella lignohabitans",
+    "category": "fungi",
+    "accession": "JQ713962.1",
+    "title": "JQ713962.1 Sugiyamaella lignohabitans strain R6A2 internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0175|796027|fungi",
+    "taxid": "796027",
+    "species": "Sugiyamaella lignohabitans",
+    "category": "fungi",
+    "accession": "JQ713961.1",
+    "title": "JQ713961.1 Sugiyamaella lignohabitans strain R5M4 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0176|796027|fungi",
+    "taxid": "796027",
+    "species": "Sugiyamaella lignohabitans",
+    "category": "fungi",
+    "accession": "JQ713960.1",
+    "title": "JQ713960.1 Sugiyamaella lignohabitans strain R5F5 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0177|796027|fungi",
+    "taxid": "796027",
+    "species": "Sugiyamaella lignohabitans",
+    "category": "fungi",
+    "accession": "JQ713959.1",
+    "title": "JQ713959.1 Sugiyamaella lignohabitans strain R5F2 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0178|796027|fungi",
+    "taxid": "796027",
+    "species": "Sugiyamaella lignohabitans",
+    "category": "fungi",
+    "accession": "JQ713958.1",
+    "title": "JQ713958.1 Sugiyamaella lignohabitans strain R5F1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0179|879819|fungi",
+    "taxid": "879819",
+    "species": "Cutaneotrichosporon oleaginosum",
+    "category": "fungi",
+    "accession": "OM337550.1",
+    "title": "OM337550.1 Cutaneotrichosporon oleaginosum strain IBC0246 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0180|879819|fungi",
+    "taxid": "879819",
+    "species": "Cutaneotrichosporon oleaginosum",
+    "category": "fungi",
+    "accession": "OL898497.1",
+    "title": "OL898497.1 Cutaneotrichosporon oleaginosum strain ATCC 20509 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0181|879819|fungi",
+    "taxid": "879819",
+    "species": "Cutaneotrichosporon oleaginosum",
+    "category": "fungi",
+    "accession": "MK268120.1",
+    "title": "MK268120.1 Cutaneotrichosporon oleaginosum isolate R97187_ITS small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0182|879819|fungi",
+    "taxid": "879819",
+    "species": "Cutaneotrichosporon oleaginosum",
+    "category": "fungi",
+    "accession": "MK268119.1",
+    "title": "MK268119.1 Cutaneotrichosporon oleaginosum isolate R97186_ITS small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0183|879819|fungi",
+    "taxid": "879819",
+    "species": "Cutaneotrichosporon oleaginosum",
+    "category": "fungi",
+    "accession": "KM821406.1",
+    "title": "KM821406.1 Trichosporon oleaginosus strain IBC0246 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0184|879819|fungi",
+    "taxid": "879819",
+    "species": "Cutaneotrichosporon oleaginosum",
+    "category": "fungi",
+    "accession": "HM802135.1",
+    "title": "HM802135.1 Trichosporon oleaginosus strain ATCC 20509 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0185|879819|fungi",
+    "taxid": "879819",
+    "species": "Cutaneotrichosporon oleaginosum",
+    "category": "fungi",
+    "accession": "HM802132.1",
+    "title": "HM802132.1 Trichosporon oleaginosus strain ATCC 20508 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0186|879819|fungi",
+    "taxid": "879819",
+    "species": "Cutaneotrichosporon oleaginosum",
+    "category": "fungi",
+    "accession": "AB520685.1",
+    "title": "AB520685.1 Cryptococcus curvatus genes for ITS1, 5.8S rRNA, ITS2, strain: ATCC 20509"
+  },
+  {
+    "qid": "n0187|105984|fungi",
+    "taxid": "105984",
+    "species": "Apiotrichum porosum",
+    "category": "fungi",
+    "accession": "PZ412312.1",
+    "title": "PZ412312.1 Apiotrichum porosum strain UCDFST 67-224 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0188|105984|fungi",
+    "taxid": "105984",
+    "species": "Apiotrichum porosum",
+    "category": "fungi",
+    "accession": "PX593689.1",
+    "title": "PX593689.1 Apiotrichum porosum isolate HN-C-R9-9 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0189|105984|fungi",
+    "taxid": "105984",
+    "species": "Apiotrichum porosum",
+    "category": "fungi",
+    "accession": "PX593688.1",
+    "title": "PX593688.1 Apiotrichum porosum isolate HN-C-R9-8 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0190|105984|fungi",
+    "taxid": "105984",
+    "species": "Apiotrichum porosum",
+    "category": "fungi",
+    "accession": "PX593687.1",
+    "title": "PX593687.1 Apiotrichum porosum isolate HN-C-R9-7 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0191|105984|fungi",
+    "taxid": "105984",
+    "species": "Apiotrichum porosum",
+    "category": "fungi",
+    "accession": "PX593686.1",
+    "title": "PX593686.1 Apiotrichum porosum isolate HN-C-R9-6 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0192|105984|fungi",
+    "taxid": "105984",
+    "species": "Apiotrichum porosum",
+    "category": "fungi",
+    "accession": "PX593685.1",
+    "title": "PX593685.1 Apiotrichum porosum isolate HN-C-R9-5 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0193|105984|fungi",
+    "taxid": "105984",
+    "species": "Apiotrichum porosum",
+    "category": "fungi",
+    "accession": "PX593684.1",
+    "title": "PX593684.1 Apiotrichum porosum isolate HN-C-R9-4 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0194|105984|fungi",
+    "taxid": "105984",
+    "species": "Apiotrichum porosum",
+    "category": "fungi",
+    "accession": "PX593683.1",
+    "title": "PX593683.1 Apiotrichum porosum isolate HN-C-R9-3 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0195|105984|fungi",
+    "taxid": "105984",
+    "species": "Apiotrichum porosum",
+    "category": "fungi",
+    "accession": "PX593682.1",
+    "title": "PX593682.1 Apiotrichum porosum isolate HN-C-R9-2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0196|2082098|fungi",
+    "taxid": "2082098",
+    "species": "Agaricus bisporus var. avellaneus",
+    "category": "fungi",
+    "accession": "MH856493.1",
+    "title": "MH856493.1 Agaricus bisporus var. avellaneus strain CBS 204.49 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0197|2082098|fungi",
+    "taxid": "2082098",
+    "species": "Agaricus bisporus var. avellaneus",
+    "category": "fungi",
+    "accession": "MK967423.1",
+    "title": "MK967423.1 Agaricus bisporus var. avellaneus clone RZJ11 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0198|1545404|fungi",
+    "taxid": "1545404",
+    "species": "Trametes versicolor f. antarctica",
+    "category": "fungi",
+    "accession": "PP906272.1",
+    "title": "PP906272.1 Trametes versicolor f. antarctica isolate M72 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0199|1545404|fungi",
+    "taxid": "1545404",
+    "species": "Trametes versicolor f. antarctica",
+    "category": "fungi",
+    "accession": "KJ995921.1",
+    "title": "KJ995921.1 Trametes versicolor f. antarctica culture-collection CFMR:BAFC-285 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0200|2822231|fungi",
+    "taxid": "2822231",
+    "species": "Phanerodontia chrysosporium",
+    "category": "fungi",
+    "accession": "MH860750.1",
+    "title": "MH860750.1 Phanerodontia chrysosporium strain CBS 481.73 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0201|2822231|fungi",
+    "taxid": "2822231",
+    "species": "Phanerodontia chrysosporium",
+    "category": "fungi",
+    "accession": "MH858610.1",
+    "title": "MH858610.1 Phanerodontia chrysosporium strain CBS 363.65 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0202|2822231|fungi",
+    "taxid": "2822231",
+    "species": "Phanerodontia chrysosporium",
+    "category": "fungi",
+    "accession": "MH854905.1",
+    "title": "MH854905.1 Phanerodontia chrysosporium strain CBS 129.27 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0203|2822231|fungi",
+    "taxid": "2822231",
+    "species": "Phanerodontia chrysosporium",
+    "category": "fungi",
+    "accession": "PZ556958.1",
+    "title": "PZ556958.1 Phanerodontia chrysosporium isolate BFM small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0204|2822231|fungi",
+    "taxid": "2822231",
+    "species": "Phanerodontia chrysosporium",
+    "category": "fungi",
+    "accession": "PV392727.1",
+    "title": "PV392727.1 Phanerodontia chrysosporium strain CBS 246.84 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0205|2822231|fungi",
+    "taxid": "2822231",
+    "species": "Phanerodontia chrysosporium",
+    "category": "fungi",
+    "accession": "LC933355.1",
+    "title": "LC933355.1 Phanerodontia chrysosporium BAFCcult 4415 DNA, similar region of 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA"
+  },
+  {
+    "qid": "n0206|2822231|fungi",
+    "taxid": "2822231",
+    "species": "Phanerodontia chrysosporium",
+    "category": "fungi",
+    "accession": "PZ429273.1",
+    "title": "PZ429273.1 Phanerodontia chrysosporium isolate A2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0207|2822231|fungi",
+    "taxid": "2822231",
+    "species": "Phanerodontia chrysosporium",
+    "category": "fungi",
+    "accession": "PZ380091.1",
+    "title": "PZ380091.1 Phanerodontia chrysosporium strain PC internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0208|2822231|fungi",
+    "taxid": "2822231",
+    "species": "Phanerodontia chrysosporium",
+    "category": "fungi",
+    "accession": "PZ194276.1",
+    "title": "PZ194276.1 Phanerodontia chrysosporium strain TU-Orga22 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0209|2822231|fungi",
+    "taxid": "2822231",
+    "species": "Phanerodontia chrysosporium",
+    "category": "fungi",
+    "accession": "PV109434.1",
+    "title": "PV109434.1 Phanerodontia chrysosporium strain CIRM-BRFM 3148 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0210|759272|fungi",
+    "taxid": "759272",
+    "species": "Thermochaetoides thermophila DSM 1495",
+    "category": "fungi",
+    "accession": "pdb|7OLD|4",
+    "title": "pdb|7OLD|4 Chain 4, 5.8S rRNA"
+  },
+  {
+    "qid": "n0211|759272|fungi",
+    "taxid": "759272",
+    "species": "Thermochaetoides thermophila DSM 1495",
+    "category": "fungi",
+    "accession": "pdb|7OLC|4",
+    "title": "pdb|7OLC|4 Chain 4, 5.8S rRNA"
+  },
+  {
+    "qid": "n0212|759272|fungi",
+    "taxid": "759272",
+    "species": "Thermochaetoides thermophila DSM 1495",
+    "category": "fungi",
+    "accession": "pdb|9I1W|4",
+    "title": "pdb|9I1W|4 Chain 4, 5.8S RNA"
+  },
+  {
+    "qid": "n0213|759272|fungi",
+    "taxid": "759272",
+    "species": "Thermochaetoides thermophila DSM 1495",
+    "category": "fungi",
+    "accession": "pdb|9I78|L2",
+    "title": "pdb|9I78|L2 Chain L2, 5.8S rRNA"
+  },
+  {
+    "qid": "n0214|759272|fungi",
+    "taxid": "759272",
+    "species": "Thermochaetoides thermophila DSM 1495",
+    "category": "fungi",
+    "accession": "XR_002966751.1",
+    "title": "XR_002966751.1 Thermochaetoides thermophila DSM 1495 internal transcribed spacer 2 (CTHT_0000040), miscRNA"
+  },
+  {
+    "qid": "n0215|759272|fungi",
+    "taxid": "759272",
+    "species": "Thermochaetoides thermophila DSM 1495",
+    "category": "fungi",
+    "accession": "XR_002966750.1",
+    "title": "XR_002966750.1 Thermochaetoides thermophila DSM 1495 5.8S ribosomal RNA (CTHT_0000030), rRNA"
+  },
+  {
+    "qid": "n0216|759272|fungi",
+    "taxid": "759272",
+    "species": "Thermochaetoides thermophila DSM 1495",
+    "category": "fungi",
+    "accession": "pdb|8OO0|4",
+    "title": "pdb|8OO0|4 Chain 4, 5.8S rRNA"
+  },
+  {
+    "qid": "n0217|759272|fungi",
+    "taxid": "759272",
+    "species": "Thermochaetoides thermophila DSM 1495",
+    "category": "fungi",
+    "accession": "pdb|8ONZ|2",
+    "title": "pdb|8ONZ|2 Chain 2, 5.8S rRNA"
+  },
+  {
+    "qid": "n0218|759272|fungi",
+    "taxid": "759272",
+    "species": "Thermochaetoides thermophila DSM 1495",
+    "category": "fungi",
+    "accession": "pdb|8PV8|C2",
+    "title": "pdb|8PV8|C2 Chain C2, 5.8S rRNA"
+  },
+  {
+    "qid": "n0219|759272|fungi",
+    "taxid": "759272",
+    "species": "Thermochaetoides thermophila DSM 1495",
+    "category": "fungi",
+    "accession": "pdb|8PVL|C3",
+    "title": "pdb|8PVL|C3 Chain C3, ITS2"
+  },
+  {
+    "qid": "n0220|48157|fungi",
+    "taxid": "48157",
+    "species": "Pseudoechria curvicolla",
+    "category": "fungi",
+    "accession": "MH859327.1",
+    "title": "MH859327.1 Pseudoechria curvicolla strain CBS 368.69 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0221|48157|fungi",
+    "taxid": "48157",
+    "species": "Pseudoechria curvicolla",
+    "category": "fungi",
+    "accession": "MH859302.1",
+    "title": "MH859302.1 Pseudoechria curvicolla strain CBS 259.69 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0222|48157|fungi",
+    "taxid": "48157",
+    "species": "Pseudoechria curvicolla",
+    "category": "fungi",
+    "accession": "MT242284.1",
+    "title": "MT242284.1 Pseudoechria curvicolla isolate GpS19 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0223|48157|fungi",
+    "taxid": "48157",
+    "species": "Pseudoechria curvicolla",
+    "category": "fungi",
+    "accession": "MT595762.1",
+    "title": "MT595762.1 Pseudoechria curvicolla strain OTU2965 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0224|48157|fungi",
+    "taxid": "48157",
+    "species": "Pseudoechria curvicolla",
+    "category": "fungi",
+    "accession": "MK247565.1",
+    "title": "MK247565.1 Pseudoechria curvicolla isolate A621 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0225|48157|fungi",
+    "taxid": "48157",
+    "species": "Pseudoechria curvicolla",
+    "category": "fungi",
+    "accession": "LS484077.1",
+    "title": "LS484077.1 Podospora curvicolla genomic DNA sequence contains ITS2"
+  },
+  {
+    "qid": "n0226|48157|fungi",
+    "taxid": "48157",
+    "species": "Pseudoechria curvicolla",
+    "category": "fungi",
+    "accession": "MG098296.1",
+    "title": "MG098296.1 Pseudoechria curvicolla strain NW-FVA2462 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0227|48157|fungi",
+    "taxid": "48157",
+    "species": "Pseudoechria curvicolla",
+    "category": "fungi",
+    "accession": "KR869760.1",
+    "title": "KR869760.1 Podospora curvicolla strain TEP21a 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0228|48157|fungi",
+    "taxid": "48157",
+    "species": "Pseudoechria curvicolla",
+    "category": "fungi",
+    "accession": "GQ922552.1",
+    "title": "GQ922552.1 Podospora curvicolla isolate d43 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0229|48157|fungi",
+    "taxid": "48157",
+    "species": "Pseudoechria curvicolla",
+    "category": "fungi",
+    "accession": "GQ922551.1",
+    "title": "GQ922551.1 Podospora curvicolla isolate d42 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0230|205924|fungi",
+    "taxid": "205924",
+    "species": "Entomortierella parvispora",
+    "category": "fungi",
+    "accession": "MH865964.1",
+    "title": "MH865964.1 Entomortierella parvispora strain CBS 132239 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0231|205924|fungi",
+    "taxid": "205924",
+    "species": "Entomortierella parvispora",
+    "category": "fungi",
+    "accession": "MH865145.1",
+    "title": "MH865145.1 Entomortierella parvispora strain CBS 128896 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0232|205924|fungi",
+    "taxid": "205924",
+    "species": "Entomortierella parvispora",
+    "category": "fungi",
+    "accession": "MH864578.1",
+    "title": "MH864578.1 Entomortierella parvispora strain CBS 127404 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0233|205924|fungi",
+    "taxid": "205924",
+    "species": "Entomortierella parvispora",
+    "category": "fungi",
+    "accession": "MH858819.1",
+    "title": "MH858819.1 Entomortierella parvispora strain CBS 345.66 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0234|205924|fungi",
+    "taxid": "205924",
+    "species": "Entomortierella parvispora",
+    "category": "fungi",
+    "accession": "PV234060.1",
+    "title": "PV234060.1 Entomortierella parvispora strain NNIBRFG57793_ITS small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0235|205924|fungi",
+    "taxid": "205924",
+    "species": "Entomortierella parvispora",
+    "category": "fungi",
+    "accession": "PZ144626.1",
+    "title": "PZ144626.1 Entomortierella parvispora isolate SODG02 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0236|205924|fungi",
+    "taxid": "205924",
+    "species": "Entomortierella parvispora",
+    "category": "fungi",
+    "accession": "PX396516.1",
+    "title": "PX396516.1 Entomortierella parvispora strain XG10166-9-1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0237|205924|fungi",
+    "taxid": "205924",
+    "species": "Entomortierella parvispora",
+    "category": "fungi",
+    "accession": "PQ411574.1",
+    "title": "PQ411574.1 Entomortierella parvispora isolate sourth side250 internal transcribed spacer region, partial sequence"
+  },
+  {
+    "qid": "n0238|205924|fungi",
+    "taxid": "205924",
+    "species": "Entomortierella parvispora",
+    "category": "fungi",
+    "accession": "OQ344521.1",
+    "title": "OQ344521.1 Entomortierella parvispora isolate PWRJ2.10 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0239|205924|fungi",
+    "taxid": "205924",
+    "species": "Entomortierella parvispora",
+    "category": "fungi",
+    "accession": "OQ344520.1",
+    "title": "OQ344520.1 Entomortierella parvispora isolate PWRJ2.8 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0240|64524|fungi",
+    "taxid": "64524",
+    "species": "Linnemannia hyalina",
+    "category": "fungi",
+    "accession": "PZ691586.1",
+    "title": "PZ691586.1 Linnemannia hyalina clone 286 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0241|64524|fungi",
+    "taxid": "64524",
+    "species": "Linnemannia hyalina",
+    "category": "fungi",
+    "accession": "PZ690609.1",
+    "title": "PZ690609.1 Linnemannia hyalina isolate OTU1542 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0242|64524|fungi",
+    "taxid": "64524",
+    "species": "Linnemannia hyalina",
+    "category": "fungi",
+    "accession": "PZ645941.1",
+    "title": "PZ645941.1 Linnemannia hyalina isolate AY-16 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0243|64524|fungi",
+    "taxid": "64524",
+    "species": "Linnemannia hyalina",
+    "category": "fungi",
+    "accession": "MH855655.1",
+    "title": "MH855655.1 Linnemannia hyalina strain CBS 223.35 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0244|64524|fungi",
+    "taxid": "64524",
+    "species": "Linnemannia hyalina",
+    "category": "fungi",
+    "accession": "MH855527.1",
+    "title": "MH855527.1 Linnemannia hyalina strain CBS 293.34 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0245|64524|fungi",
+    "taxid": "64524",
+    "species": "Linnemannia hyalina",
+    "category": "fungi",
+    "accession": "MH854834.1",
+    "title": "MH854834.1 Linnemannia hyalina strain CBS 167.25 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0246|64524|fungi",
+    "taxid": "64524",
+    "species": "Linnemannia hyalina",
+    "category": "fungi",
+    "accession": "MH854833.1",
+    "title": "MH854833.1 Linnemannia hyalina strain CBS 166.25 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0247|64524|fungi",
+    "taxid": "64524",
+    "species": "Linnemannia hyalina",
+    "category": "fungi",
+    "accession": "PZ478042.1",
+    "title": "PZ478042.1 Linnemannia hyalina strain S2FR19 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0248|64524|fungi",
+    "taxid": "64524",
+    "species": "Linnemannia hyalina",
+    "category": "fungi",
+    "accession": "PV234063.1",
+    "title": "PV234063.1 Linnemannia hyalina strain NNIBRFG32795_ITS internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0249|64524|fungi",
+    "taxid": "64524",
+    "species": "Linnemannia hyalina",
+    "category": "fungi",
+    "accession": "PZ144633.1",
+    "title": "PZ144633.1 Linnemannia hyalina isolate SODG03 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0250|234845|fungi",
+    "taxid": "234845",
+    "species": "Mucor hiemalis f. corticola",
+    "category": "fungi",
+    "accession": "MH859159.1",
+    "title": "MH859159.1 Mucor hiemalis f. corticola strain CBS 366.68 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0251|234845|fungi",
+    "taxid": "234845",
+    "species": "Mucor hiemalis f. corticola",
+    "category": "fungi",
+    "accession": "PP994786.1",
+    "title": "PP994786.1 Mucor hiemalis f. corticola voucher HH1_TT internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0252|234845|fungi",
+    "taxid": "234845",
+    "species": "Mucor hiemalis f. corticola",
+    "category": "fungi",
+    "accession": "MW850536.1",
+    "title": "MW850536.1 Mucor hiemalis f. corticola clone MX18-2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0253|234845|fungi",
+    "taxid": "234845",
+    "species": "Mucor hiemalis f. corticola",
+    "category": "fungi",
+    "accession": "LC535362.1",
+    "title": "LC535362.1 Mucor hiemalis f. corticola F-9 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence"
+  },
+  {
+    "qid": "n0254|234845|fungi",
+    "taxid": "234845",
+    "species": "Mucor hiemalis f. corticola",
+    "category": "fungi",
+    "accession": "LC535361.1",
+    "title": "LC535361.1 Mucor hiemalis f. corticola F-8 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence"
+  },
+  {
+    "qid": "n0255|234845|fungi",
+    "taxid": "234845",
+    "species": "Mucor hiemalis f. corticola",
+    "category": "fungi",
+    "accession": "LC535360.1",
+    "title": "LC535360.1 Mucor hiemalis f. corticola F-7 genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence"
+  },
+  {
+    "qid": "n0256|234845|fungi",
+    "taxid": "234845",
+    "species": "Mucor hiemalis f. corticola",
+    "category": "fungi",
+    "accession": "KM668148.1",
+    "title": "KM668148.1 Mucor hiemalis f. corticola culture-collection MUT<ITA_:1181 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0257|234845|fungi",
+    "taxid": "234845",
+    "species": "Mucor hiemalis f. corticola",
+    "category": "fungi",
+    "accession": "KM668147.1",
+    "title": "KM668147.1 Mucor hiemalis f. corticola culture-collection MUT<ITA_:1163 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0258|234845|fungi",
+    "taxid": "234845",
+    "species": "Mucor hiemalis f. corticola",
+    "category": "fungi",
+    "accession": "KM668146.1",
+    "title": "KM668146.1 Mucor hiemalis f. corticola culture-collection MUT<ITA_:1006 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0259|234845|fungi",
+    "taxid": "234845",
+    "species": "Mucor hiemalis f. corticola",
+    "category": "fungi",
+    "accession": "KM668135.1",
+    "title": "KM668135.1 Mucor hiemalis f. corticola culture-collection MUT<ITA_:3254 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0260|1006471|fungi",
+    "taxid": "1006471",
+    "species": "Absidia glauca var. paradoxa",
+    "category": "fungi",
+    "accession": "HQ285606.1",
+    "title": "HQ285606.1 Absidia glauca var. paradoxa strain KCCM60018 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0261|297347|fungi",
+    "taxid": "297347",
+    "species": "Actinomucor elegans var. kuwaitensis",
+    "category": "fungi",
+    "accession": "PZ256109.1",
+    "title": "PZ256109.1 Actinomucor elegans var. kuwaitensis isolate LRS83 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0262|297347|fungi",
+    "taxid": "297347",
+    "species": "Actinomucor elegans var. kuwaitensis",
+    "category": "fungi",
+    "accession": "JN205823.1",
+    "title": "JN205823.1 Actinomucor elegans var. kuwaitiensis strain CBS 117697 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0263|297347|fungi",
+    "taxid": "297347",
+    "species": "Actinomucor elegans var. kuwaitensis",
+    "category": "fungi",
+    "accession": "FJ896015.1",
+    "title": "FJ896015.1 Actinomucor elegans var. kuwaitiensis strain 07-831 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0264|297347|fungi",
+    "taxid": "297347",
+    "species": "Actinomucor elegans var. kuwaitensis",
+    "category": "fungi",
+    "accession": "AJ849551.1",
+    "title": "AJ849551.1 Actinomucor kuwaitiensis partial 18S rRNA gene, ITS1, 5.8S rRNA gene, ITS2 and partial 26S rRNA gene"
+  },
+  {
+    "qid": "n0265|64646|fungi",
+    "taxid": "64646",
+    "species": "Pirella circinans",
+    "category": "fungi",
+    "accession": "PV636591.1",
+    "title": "PV636591.1 Pirella circinans strain DI-251 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0266|64646|fungi",
+    "taxid": "64646",
+    "species": "Pirella circinans",
+    "category": "fungi",
+    "accession": "PQ345434.1",
+    "title": "PQ345434.1 Pirella circinans isolate P. circinans Isolate_1A internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0267|64646|fungi",
+    "taxid": "64646",
+    "species": "Pirella circinans",
+    "category": "fungi",
+    "accession": "JN206102.1",
+    "title": "JN206102.1 Pirella circinans strain CBS 962.68 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0268|64646|fungi",
+    "taxid": "64646",
+    "species": "Pirella circinans",
+    "category": "fungi",
+    "accession": "JN206071.1",
+    "title": "JN206071.1 Pirella circinans strain CBS 588.88 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0269|64646|fungi",
+    "taxid": "64646",
+    "species": "Pirella circinans",
+    "category": "fungi",
+    "accession": "JQ319047.1",
+    "title": "JQ319047.1 Pirella circinans 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0270|64646|fungi",
+    "taxid": "64646",
+    "species": "Pirella circinans",
+    "category": "fungi",
+    "accession": "AM778602.1",
+    "title": "AM778602.1 Pirella circinans 18S rRNA gene (partial), ITS1, 5.8S rRNA gene, ITS2 and 28S rRNA gene (partial), strain Kh-BI-O"
+  },
+  {
+    "qid": "n0271|101142|fungi",
+    "taxid": "101142",
+    "species": "Thamnidium elegans",
+    "category": "fungi",
+    "accession": "MH859391.1",
+    "title": "MH859391.1 Thamnidium elegans strain CBS 642.69 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0272|101142|fungi",
+    "taxid": "101142",
+    "species": "Thamnidium elegans",
+    "category": "fungi",
+    "accession": "MH857505.1",
+    "title": "MH857505.1 Thamnidium elegans strain CBS 341.55 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0273|101142|fungi",
+    "taxid": "101142",
+    "species": "Thamnidium elegans",
+    "category": "fungi",
+    "accession": "MH857102.1",
+    "title": "MH857102.1 Thamnidium elegans strain CBS 411.52 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0274|101142|fungi",
+    "taxid": "101142",
+    "species": "Thamnidium elegans",
+    "category": "fungi",
+    "accession": "PV016741.1",
+    "title": "PV016741.1 Thamnidium elegans isolate UWR_471 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0275|101142|fungi",
+    "taxid": "101142",
+    "species": "Thamnidium elegans",
+    "category": "fungi",
+    "accession": "OP169568.1",
+    "title": "OP169568.1 Thamnidium elegans strain 5 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0276|101142|fungi",
+    "taxid": "101142",
+    "species": "Thamnidium elegans",
+    "category": "fungi",
+    "accession": "OP060209.1",
+    "title": "OP060209.1 Thamnidium elegans isolate WA 110622 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0277|101142|fungi",
+    "taxid": "101142",
+    "species": "Thamnidium elegans",
+    "category": "fungi",
+    "accession": "OP060196.1",
+    "title": "OP060196.1 Thamnidium elegans isolate WA 74550 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0278|101142|fungi",
+    "taxid": "101142",
+    "species": "Thamnidium elegans",
+    "category": "fungi",
+    "accession": "OP060176.1",
+    "title": "OP060176.1 Thamnidium elegans isolate WA 74559 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0279|101142|fungi",
+    "taxid": "101142",
+    "species": "Thamnidium elegans",
+    "category": "fungi",
+    "accession": "OP060167.1",
+    "title": "OP060167.1 Thamnidium elegans isolate WA 71813 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0280|101142|fungi",
+    "taxid": "101142",
+    "species": "Thamnidium elegans",
+    "category": "fungi",
+    "accession": "OP060166.1",
+    "title": "OP060166.1 Thamnidium elegans isolate WA 71814 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0281|1171613|fungi",
+    "taxid": "1171613",
+    "species": "Circinella muscae",
+    "category": "fungi",
+    "accession": "MH856473.1",
+    "title": "MH856473.1 Circinella muscae strain CBS 159.49 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0282|1171613|fungi",
+    "taxid": "1171613",
+    "species": "Circinella muscae",
+    "category": "fungi",
+    "accession": "MH855023.1",
+    "title": "MH855023.1 Circinella muscae strain CBS 128.29 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0283|1171613|fungi",
+    "taxid": "1171613",
+    "species": "Circinella muscae",
+    "category": "fungi",
+    "accession": "MH854957.1",
+    "title": "MH854957.1 Circinella muscae strain CBS 142.28 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0284|1171613|fungi",
+    "taxid": "1171613",
+    "species": "Circinella muscae",
+    "category": "fungi",
+    "accession": "MH854956.1",
+    "title": "MH854956.1 Circinella muscae strain CBS 141.28 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0285|1171613|fungi",
+    "taxid": "1171613",
+    "species": "Circinella muscae",
+    "category": "fungi",
+    "accession": "MH854617.1",
+    "title": "MH854617.1 Circinella muscae strain CBS 107.13 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0286|1171613|fungi",
+    "taxid": "1171613",
+    "species": "Circinella muscae",
+    "category": "fungi",
+    "accession": "PX630675.1",
+    "title": "PX630675.1 Circinella muscae culture VKM:F-1801 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0287|1171613|fungi",
+    "taxid": "1171613",
+    "species": "Circinella muscae",
+    "category": "fungi",
+    "accession": "PQ166526.1",
+    "title": "PQ166526.1 Circinella muscae isolate CHMC-002 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0288|1171613|fungi",
+    "taxid": "1171613",
+    "species": "Circinella muscae",
+    "category": "fungi",
+    "accession": "PQ839014.1",
+    "title": "PQ839014.1 Circinella muscae strain SH1725179.08FU internal transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0289|1171613|fungi",
+    "taxid": "1171613",
+    "species": "Circinella muscae",
+    "category": "fungi",
+    "accession": "LC761028.1",
+    "title": "LC761028.1 Circinella muscae FS198 genes for ITS1, 5.8S rRNA, ITS2, 28S rRNA"
+  },
+  {
+    "qid": "n0290|1171613|fungi",
+    "taxid": "1171613",
+    "species": "Circinella muscae",
+    "category": "fungi",
+    "accession": "LC761011.1",
+    "title": "LC761011.1 Circinella muscae FS083 genes for ITS1, 5.8S rRNA, ITS2, 28S rRNA"
+  },
+  {
+    "qid": "n0291|101105|fungi",
+    "taxid": "101105",
+    "species": "Gongronella butleri",
+    "category": "fungi",
+    "accession": "PZ766339.1",
+    "title": "PZ766339.1 Gongronella butleri isolate NAC302 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0292|101105|fungi",
+    "taxid": "101105",
+    "species": "Gongronella butleri",
+    "category": "fungi",
+    "accession": "MH864866.1",
+    "title": "MH864866.1 Gongronella butleri strain CBS 128261 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0293|101105|fungi",
+    "taxid": "101105",
+    "species": "Gongronella butleri",
+    "category": "fungi",
+    "accession": "MH859014.1",
+    "title": "MH859014.1 Gongronella butleri strain CBS 415.67 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0294|101105|fungi",
+    "taxid": "101105",
+    "species": "Gongronella butleri",
+    "category": "fungi",
+    "accession": "MH857761.1",
+    "title": "MH857761.1 Gongronella butleri strain CBS 216.58 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0295|101105|fungi",
+    "taxid": "101105",
+    "species": "Gongronella butleri",
+    "category": "fungi",
+    "accession": "MH857024.1",
+    "title": "MH857024.1 Gongronella butleri strain CBS 259.52 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0296|101105|fungi",
+    "taxid": "101105",
+    "species": "Gongronella butleri",
+    "category": "fungi",
+    "accession": "MH855782.1",
+    "title": "MH855782.1 Gongronella butleri strain CBS 228.36 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0297|101105|fungi",
+    "taxid": "101105",
+    "species": "Gongronella butleri",
+    "category": "fungi",
+    "accession": "PZ478012.1",
+    "title": "PZ478012.1 Gongronella butleri strain S1FRS05 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0298|101105|fungi",
+    "taxid": "101105",
+    "species": "Gongronella butleri",
+    "category": "fungi",
+    "accession": "PZ299390.1",
+    "title": "PZ299390.1 Gongronella butleri isolate HAASZB004F small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0299|101105|fungi",
+    "taxid": "101105",
+    "species": "Gongronella butleri",
+    "category": "fungi",
+    "accession": "PZ242109.1",
+    "title": "PZ242109.1 Gongronella butleri isolate GZUIFR_26.106 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0300|101105|fungi",
+    "taxid": "101105",
+    "species": "Gongronella butleri",
+    "category": "fungi",
+    "accession": "PZ098723.1",
+    "title": "PZ098723.1 Gongronella butleri isolate GE-14 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0301|33203|fungi",
+    "taxid": "33203",
+    "species": "Purpureocillium lilacinum",
+    "category": "fungi",
+    "accession": "PZ791521.1",
+    "title": "PZ791521.1 Purpureocillium lilacinum isolate PL1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0302|33203|fungi",
+    "taxid": "33203",
+    "species": "Purpureocillium lilacinum",
+    "category": "fungi",
+    "accession": "PZ786492.1",
+    "title": "PZ786492.1 Purpureocillium lilacinum isolate SHM1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0303|33203|fungi",
+    "taxid": "33203",
+    "species": "Purpureocillium lilacinum",
+    "category": "fungi",
+    "accession": "PZ779471.1",
+    "title": "PZ779471.1 Purpureocillium lilacinum isolate SCCL26 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0304|33203|fungi",
+    "taxid": "33203",
+    "species": "Purpureocillium lilacinum",
+    "category": "fungi",
+    "accession": "PZ742438.1",
+    "title": "PZ742438.1 Purpureocillium lilacinum isolate S2-15 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0305|33203|fungi",
+    "taxid": "33203",
+    "species": "Purpureocillium lilacinum",
+    "category": "fungi",
+    "accession": "PZ730067.1",
+    "title": "PZ730067.1 Purpureocillium lilacinum isolate CAF17 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0306|33203|fungi",
+    "taxid": "33203",
+    "species": "Purpureocillium lilacinum",
+    "category": "fungi",
+    "accession": "PZ730056.1",
+    "title": "PZ730056.1 Purpureocillium lilacinum isolate CAF6 5.8S ribosomal RNA gene, partial sequence; internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0307|33203|fungi",
+    "taxid": "33203",
+    "species": "Purpureocillium lilacinum",
+    "category": "fungi",
+    "accession": "PZ716392.1",
+    "title": "PZ716392.1 Purpureocillium lilacinum isolate VP-8 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0308|33203|fungi",
+    "taxid": "33203",
+    "species": "Purpureocillium lilacinum",
+    "category": "fungi",
+    "accession": "PZ691544.1",
+    "title": "PZ691544.1 Purpureocillium lilacinum clone 244 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0309|33203|fungi",
+    "taxid": "33203",
+    "species": "Purpureocillium lilacinum",
+    "category": "fungi",
+    "accession": "PZ673690.1",
+    "title": "PZ673690.1 Purpureocillium lilacinum isolate VNMKV-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0310|33203|fungi",
+    "taxid": "33203",
+    "species": "Purpureocillium lilacinum",
+    "category": "fungi",
+    "accession": "PP844388.1",
+    "title": "PP844388.1 Purpureocillium lilacinum isolate 537 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0311|2714763|fungi",
+    "taxid": "2714763",
+    "species": "Akanthomyces lecanii",
+    "category": "fungi",
+    "accession": "MH862778.1",
+    "title": "MH862778.1 Akanthomyces lecanii strain CBS 102067 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0312|2714763|fungi",
+    "taxid": "2714763",
+    "species": "Akanthomyces lecanii",
+    "category": "fungi",
+    "accession": "MH859689.1",
+    "title": "MH859689.1 Akanthomyces lecanii strain CBS 318.70F small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0313|2714763|fungi",
+    "taxid": "2714763",
+    "species": "Akanthomyces lecanii",
+    "category": "fungi",
+    "accession": "MH854850.1",
+    "title": "MH854850.1 Akanthomyces lecanii strain CBS 221.25 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0314|2714763|fungi",
+    "taxid": "2714763",
+    "species": "Akanthomyces lecanii",
+    "category": "fungi",
+    "accession": "MH854805.1",
+    "title": "MH854805.1 Akanthomyces lecanii strain CBS 115.25 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0315|2714763|fungi",
+    "taxid": "2714763",
+    "species": "Akanthomyces lecanii",
+    "category": "fungi",
+    "accession": "PZ542790.1",
+    "title": "PZ542790.1 Akanthomyces lecanii isolate VRM-FO28 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0316|2714763|fungi",
+    "taxid": "2714763",
+    "species": "Akanthomyces lecanii",
+    "category": "fungi",
+    "accession": "PX462497.1",
+    "title": "PX462497.1 Akanthomyces lecanii isolate Ll small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0317|2714763|fungi",
+    "taxid": "2714763",
+    "species": "Akanthomyces lecanii",
+    "category": "fungi",
+    "accession": "PZ406418.1",
+    "title": "PZ406418.1 Akanthomyces lecanii isolate SR1207V43 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0318|2714763|fungi",
+    "taxid": "2714763",
+    "species": "Akanthomyces lecanii",
+    "category": "fungi",
+    "accession": "PZ274754.1",
+    "title": "PZ274754.1 Akanthomyces lecanii isolate K221553 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0319|2714763|fungi",
+    "taxid": "2714763",
+    "species": "Akanthomyces lecanii",
+    "category": "fungi",
+    "accession": "PV407400.1",
+    "title": "PV407400.1 Akanthomyces lecanii strain CBS 221.25 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0320|2714763|fungi",
+    "taxid": "2714763",
+    "species": "Akanthomyces lecanii",
+    "category": "fungi",
+    "accession": "PV407399.1",
+    "title": "PV407399.1 Akanthomyces lecanii strain CBS 114.25 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0321|132112|fungi",
+    "taxid": "132112",
+    "species": "Simplicillium lanosoniveum",
+    "category": "fungi",
+    "accession": "MH860557.1",
+    "title": "MH860557.1 Simplicillium lanosoniveum strain CBS 531.72 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0322|132112|fungi",
+    "taxid": "132112",
+    "species": "Simplicillium lanosoniveum",
+    "category": "fungi",
+    "accession": "MH860488.1",
+    "title": "MH860488.1 Simplicillium lanosoniveum strain CBS 321.72 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0323|132112|fungi",
+    "taxid": "132112",
+    "species": "Simplicillium lanosoniveum",
+    "category": "fungi",
+    "accession": "MH856100.1",
+    "title": "MH856100.1 Simplicillium lanosoniveum strain CBS 123.42 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0324|132112|fungi",
+    "taxid": "132112",
+    "species": "Simplicillium lanosoniveum",
+    "category": "fungi",
+    "accession": "PV407382.1",
+    "title": "PV407382.1 Simplicillium lanosoniveum strain CBS 123.42 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0325|132112|fungi",
+    "taxid": "132112",
+    "species": "Simplicillium lanosoniveum",
+    "category": "fungi",
+    "accession": "PV407381.1",
+    "title": "PV407381.1 Simplicillium lanosoniveum strain CBS 413.70C internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0326|132112|fungi",
+    "taxid": "132112",
+    "species": "Simplicillium lanosoniveum",
+    "category": "fungi",
+    "accession": "PQ590470.1",
+    "title": "PQ590470.1 Simplicillium lanosoniveum isolate SNP3 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0327|132112|fungi",
+    "taxid": "132112",
+    "species": "Simplicillium lanosoniveum",
+    "category": "fungi",
+    "accession": "PX645597.1",
+    "title": "PX645597.1 Simplicillium lanosoniveum voucher CHE-CNRCB 1284 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0328|132112|fungi",
+    "taxid": "132112",
+    "species": "Simplicillium lanosoniveum",
+    "category": "fungi",
+    "accession": "PX113198.1",
+    "title": "PX113198.1 Simplicillium lanosoniveum isolate 3rep-1 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0329|132112|fungi",
+    "taxid": "132112",
+    "species": "Simplicillium lanosoniveum",
+    "category": "fungi",
+    "accession": "PX238601.1",
+    "title": "PX238601.1 Simplicillium lanosoniveum voucher CHE-CNRCB 1288 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0330|132112|fungi",
+    "taxid": "132112",
+    "species": "Simplicillium lanosoniveum",
+    "category": "fungi",
+    "accession": "PX238597.1",
+    "title": "PX238597.1 Simplicillium lanosoniveum voucher CHE-CNRCB 1287 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0331|37998|fungi",
+    "taxid": "37998",
+    "species": "Parengyodontium album",
+    "category": "fungi",
+    "accession": "MH860502.1",
+    "title": "MH860502.1 Parengyodontium album strain CBS 368.72 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0332|37998|fungi",
+    "taxid": "37998",
+    "species": "Parengyodontium album",
+    "category": "fungi",
+    "accession": "MH860372.1",
+    "title": "MH860372.1 Parengyodontium album strain CBS 836.71 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0333|37998|fungi",
+    "taxid": "37998",
+    "species": "Parengyodontium album",
+    "category": "fungi",
+    "accession": "PZ620015.1",
+    "title": "PZ620015.1 Parengyodontium album strain HD005 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0334|37998|fungi",
+    "taxid": "37998",
+    "species": "Parengyodontium album",
+    "category": "fungi",
+    "accession": "PV931338.1",
+    "title": "PV931338.1 Parengyodontium album isolate DJB09 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0335|37998|fungi",
+    "taxid": "37998",
+    "species": "Parengyodontium album",
+    "category": "fungi",
+    "accession": "PZ407642.1",
+    "title": "PZ407642.1 Parengyodontium album strain C009 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0336|37998|fungi",
+    "taxid": "37998",
+    "species": "Parengyodontium album",
+    "category": "fungi",
+    "accession": "PZ384162.1",
+    "title": "PZ384162.1 Parengyodontium album isolate DS-34 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0337|37998|fungi",
+    "taxid": "37998",
+    "species": "Parengyodontium album",
+    "category": "fungi",
+    "accession": "PZ347076.1",
+    "title": "PZ347076.1 Parengyodontium album isolate RYS0016c internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0338|37998|fungi",
+    "taxid": "37998",
+    "species": "Parengyodontium album",
+    "category": "fungi",
+    "accession": "PZ347059.1",
+    "title": "PZ347059.1 Parengyodontium album isolate RYS0013c-3 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0339|37998|fungi",
+    "taxid": "37998",
+    "species": "Parengyodontium album",
+    "category": "fungi",
+    "accession": "PZ347048.1",
+    "title": "PZ347048.1 Parengyodontium album isolate RYS0016b internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0340|4766|oomycetes",
+    "taxid": "4766",
+    "species": "Achlya bisexualis",
+    "category": "oomycetes",
+    "accession": "PZ587758.1",
+    "title": "PZ587758.1 Achlya bisexualis isolate FTMJU107 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0341|4766|oomycetes",
+    "taxid": "4766",
+    "species": "Achlya bisexualis",
+    "category": "oomycetes",
+    "accession": "PZ587757.1",
+    "title": "PZ587757.1 Achlya bisexualis isolate FTMJU106 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0342|4766|oomycetes",
+    "taxid": "4766",
+    "species": "Achlya bisexualis",
+    "category": "oomycetes",
+    "accession": "PX397425.1",
+    "title": "PX397425.1 Achlya bisexualis isolate USTCMS1816 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0343|4766|oomycetes",
+    "taxid": "4766",
+    "species": "Achlya bisexualis",
+    "category": "oomycetes",
+    "accession": "PV488523.1",
+    "title": "PV488523.1 Achlya bisexualis isolate USTCMS1827 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0344|4766|oomycetes",
+    "taxid": "4766",
+    "species": "Achlya bisexualis",
+    "category": "oomycetes",
+    "accession": "PV488522.1",
+    "title": "PV488522.1 Achlya bisexualis isolate USTCMS1826 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0345|4766|oomycetes",
+    "taxid": "4766",
+    "species": "Achlya bisexualis",
+    "category": "oomycetes",
+    "accession": "MG309758.1",
+    "title": "MG309758.1 Achlya bisexualis internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0346|4766|oomycetes",
+    "taxid": "4766",
+    "species": "Achlya bisexualis",
+    "category": "oomycetes",
+    "accession": "KP663632.1",
+    "title": "KP663632.1 Achlya bisexualis strain 331_AH internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0347|4766|oomycetes",
+    "taxid": "4766",
+    "species": "Achlya bisexualis",
+    "category": "oomycetes",
+    "accession": "KP663631.1",
+    "title": "KP663631.1 Achlya bisexualis strain 324_AH 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0348|4766|oomycetes",
+    "taxid": "4766",
+    "species": "Achlya bisexualis",
+    "category": "oomycetes",
+    "accession": "MT904024.1",
+    "title": "MT904024.1 UNVERIFIED_ORG: Achlya bisexualis isolate RT2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0349|4766|oomycetes",
+    "taxid": "4766",
+    "species": "Achlya bisexualis",
+    "category": "oomycetes",
+    "accession": "MT903457.1",
+    "title": "MT903457.1 UNVERIFIED_ORG: Achlya bisexualis isolate RT internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0350|4767|oomycetes",
+    "taxid": "4767",
+    "species": "Achlya klebsiana",
+    "category": "oomycetes",
+    "accession": "PV488526.1",
+    "title": "PV488526.1 Achlya klebsiana isolate USTCMS1831 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0351|4767|oomycetes",
+    "taxid": "4767",
+    "species": "Achlya klebsiana",
+    "category": "oomycetes",
+    "accession": "PV488525.1",
+    "title": "PV488525.1 Achlya klebsiana isolate USTCMS1829 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0352|4767|oomycetes",
+    "taxid": "4767",
+    "species": "Achlya klebsiana",
+    "category": "oomycetes",
+    "accession": "PV488524.1",
+    "title": "PV488524.1 Achlya klebsiana isolate USTCMS1828 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0353|4767|oomycetes",
+    "taxid": "4767",
+    "species": "Achlya klebsiana",
+    "category": "oomycetes",
+    "accession": "OK270986.1",
+    "title": "OK270986.1 Achlya klebsiana voucher CCIBt4421 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0354|4767|oomycetes",
+    "taxid": "4767",
+    "species": "Achlya klebsiana",
+    "category": "oomycetes",
+    "accession": "OK270985.1",
+    "title": "OK270985.1 Achlya klebsiana voucher CCIBt4357 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0355|4767|oomycetes",
+    "taxid": "4767",
+    "species": "Achlya klebsiana",
+    "category": "oomycetes",
+    "accession": "OK270984.1",
+    "title": "OK270984.1 Achlya klebsiana voucher CCIBt4333 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0356|4767|oomycetes",
+    "taxid": "4767",
+    "species": "Achlya klebsiana",
+    "category": "oomycetes",
+    "accession": "OK270983.1",
+    "title": "OK270983.1 Achlya klebsiana voucher CCIBt4339 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0357|4767|oomycetes",
+    "taxid": "4767",
+    "species": "Achlya klebsiana",
+    "category": "oomycetes",
+    "accession": "PP995783.1",
+    "title": "PP995783.1 Achlya klebsiana strain P2D04 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0358|4767|oomycetes",
+    "taxid": "4767",
+    "species": "Achlya klebsiana",
+    "category": "oomycetes",
+    "accession": "PP995782.1",
+    "title": "PP995782.1 Achlya klebsiana strain P2B01 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, complete sequence; and 5.8S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0359|4767|oomycetes",
+    "taxid": "4767",
+    "species": "Achlya klebsiana",
+    "category": "oomycetes",
+    "accession": "OP932959.1",
+    "title": "OP932959.1 Achlya klebsiana isolate 17E20 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0360|92984|oomycetes",
+    "taxid": "92984",
+    "species": "Leptolegnia chapmanii",
+    "category": "oomycetes",
+    "accession": "PQ998296.1",
+    "title": "PQ998296.1 Leptolegnia chapmanii isolate ARSEF 2682 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0361|92984|oomycetes",
+    "taxid": "92984",
+    "species": "Leptolegnia chapmanii",
+    "category": "oomycetes",
+    "accession": "PQ998295.1",
+    "title": "PQ998295.1 Leptolegnia chapmanii isolate ARSEF 2681 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0362|92984|oomycetes",
+    "taxid": "92984",
+    "species": "Leptolegnia chapmanii",
+    "category": "oomycetes",
+    "accession": "PQ998294.1",
+    "title": "PQ998294.1 Leptolegnia chapmanii isolate CEP 10 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0363|92984|oomycetes",
+    "taxid": "92984",
+    "species": "Leptolegnia chapmanii",
+    "category": "oomycetes",
+    "accession": "PQ998293.1",
+    "title": "PQ998293.1 Leptolegnia chapmanii isolate CEP 856 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0364|92984|oomycetes",
+    "taxid": "92984",
+    "species": "Leptolegnia chapmanii",
+    "category": "oomycetes",
+    "accession": "PQ998292.1",
+    "title": "PQ998292.1 Leptolegnia chapmanii isolate CEP 855 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0365|92984|oomycetes",
+    "taxid": "92984",
+    "species": "Leptolegnia chapmanii",
+    "category": "oomycetes",
+    "accession": "PQ998291.1",
+    "title": "PQ998291.1 Leptolegnia chapmanii isolate CEP 854 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0366|92984|oomycetes",
+    "taxid": "92984",
+    "species": "Leptolegnia chapmanii",
+    "category": "oomycetes",
+    "accession": "PQ998290.1",
+    "title": "PQ998290.1 Leptolegnia chapmanii isolate CEP 853 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0367|92984|oomycetes",
+    "taxid": "92984",
+    "species": "Leptolegnia chapmanii",
+    "category": "oomycetes",
+    "accession": "PQ998288.1",
+    "title": "PQ998288.1 Leptolegnia chapmanii isolate CEP 851 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0368|92984|oomycetes",
+    "taxid": "92984",
+    "species": "Leptolegnia chapmanii",
+    "category": "oomycetes",
+    "accession": "PQ998287.1",
+    "title": "PQ998287.1 Leptolegnia chapmanii isolate CEP 850 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0369|92984|oomycetes",
+    "taxid": "92984",
+    "species": "Leptolegnia chapmanii",
+    "category": "oomycetes",
+    "accession": "PQ998284.1",
+    "title": "PQ998284.1 Leptolegnia chapmanii isolate CEP 847 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0370|74557|oomycetes",
+    "taxid": "74557",
+    "species": "Thraustotheca clavata",
+    "category": "oomycetes",
+    "accession": "KX580960.1",
+    "title": "KX580960.1 Thraustotheca clavata voucher AVM2 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0371|74557|oomycetes",
+    "taxid": "74557",
+    "species": "Thraustotheca clavata",
+    "category": "oomycetes",
+    "accession": "KP098354.1",
+    "title": "KP098354.1 Thraustotheca clavata strain CBS 343.33 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0372|74557|oomycetes",
+    "taxid": "74557",
+    "species": "Thraustotheca clavata",
+    "category": "oomycetes",
+    "accession": "KP098353.1",
+    "title": "KP098353.1 Thraustotheca clavata strain CBS 557.67 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0373|74557|oomycetes",
+    "taxid": "74557",
+    "species": "Thraustotheca clavata",
+    "category": "oomycetes",
+    "accession": "HQ644018.1",
+    "title": "HQ644018.1 Thraustotheca clavata voucher CBS34333 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0374|74557|oomycetes",
+    "taxid": "74557",
+    "species": "Thraustotheca clavata",
+    "category": "oomycetes",
+    "accession": "HQ644017.1",
+    "title": "HQ644017.1 Thraustotheca clavata voucher CBS55767 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0375|74557|oomycetes",
+    "taxid": "74557",
+    "species": "Thraustotheca clavata",
+    "category": "oomycetes",
+    "accession": "AF036541.1",
+    "title": "AF036541.1 Thraustotheca clavata internal transcribed spacer 2, complete sequence"
+  },
+  {
+    "qid": "n0376|74557|oomycetes",
+    "taxid": "74557",
+    "species": "Thraustotheca clavata",
+    "category": "oomycetes",
+    "accession": "AF036540.1",
+    "title": "AF036540.1 Thraustotheca clavata internal transcribed spacer 1, complete sequence"
+  },
+  {
+    "qid": "n0377|112090|oomycetes",
+    "taxid": "112090",
+    "species": "Aphanomyces astaci",
+    "category": "oomycetes",
+    "accession": "PX602905.1",
+    "title": "PX602905.1 Aphanomyces astaci isolate CCRJB_66 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0378|112090|oomycetes",
+    "taxid": "112090",
+    "species": "Aphanomyces astaci",
+    "category": "oomycetes",
+    "accession": "PX602904.1",
+    "title": "PX602904.1 Aphanomyces astaci isolate CCRJB_55 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0379|112090|oomycetes",
+    "taxid": "112090",
+    "species": "Aphanomyces astaci",
+    "category": "oomycetes",
+    "accession": "PX602903.1",
+    "title": "PX602903.1 Aphanomyces astaci isolate CCRJB_49 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0380|112090|oomycetes",
+    "taxid": "112090",
+    "species": "Aphanomyces astaci",
+    "category": "oomycetes",
+    "accession": "PX602902.1",
+    "title": "PX602902.1 Aphanomyces astaci isolate CCRJB_79 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0381|112090|oomycetes",
+    "taxid": "112090",
+    "species": "Aphanomyces astaci",
+    "category": "oomycetes",
+    "accession": "PX602901.1",
+    "title": "PX602901.1 Aphanomyces astaci isolate CCRJB_62 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0382|112090|oomycetes",
+    "taxid": "112090",
+    "species": "Aphanomyces astaci",
+    "category": "oomycetes",
+    "accession": "PX602900.1",
+    "title": "PX602900.1 Aphanomyces astaci isolate CCRJB_50 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0383|112090|oomycetes",
+    "taxid": "112090",
+    "species": "Aphanomyces astaci",
+    "category": "oomycetes",
+    "accession": "PX602899.1",
+    "title": "PX602899.1 Aphanomyces astaci isolate CCRJB_31 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0384|112090|oomycetes",
+    "taxid": "112090",
+    "species": "Aphanomyces astaci",
+    "category": "oomycetes",
+    "accession": "PX602898.1",
+    "title": "PX602898.1 Aphanomyces astaci isolate CCRJB_53 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0385|112090|oomycetes",
+    "taxid": "112090",
+    "species": "Aphanomyces astaci",
+    "category": "oomycetes",
+    "accession": "PX602897.1",
+    "title": "PX602897.1 Aphanomyces astaci isolate CCRJB_60 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0386|112090|oomycetes",
+    "taxid": "112090",
+    "species": "Aphanomyces astaci",
+    "category": "oomycetes",
+    "accession": "PX602896.1",
+    "title": "PX602896.1 Aphanomyces astaci isolate CCRJB_74 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0387|157072|oomycetes",
+    "taxid": "157072",
+    "species": "Aphanomyces invadans",
+    "category": "oomycetes",
+    "accession": "PV400536.1",
+    "title": "PV400536.1 Aphanomyces invadans strain CIFRI.API-1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0388|157072|oomycetes",
+    "taxid": "157072",
+    "species": "Aphanomyces invadans",
+    "category": "oomycetes",
+    "accession": "OR482178.1",
+    "title": "OR482178.1 Aphanomyces invadans strain COF_AHE_F(01) internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0389|157072|oomycetes",
+    "taxid": "157072",
+    "species": "Aphanomyces invadans",
+    "category": "oomycetes",
+    "accession": "ON175891.2",
+    "title": "ON175891.2 Aphanomyces invadans isolate BW3 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence"
+  },
+  {
+    "qid": "n0390|2681611|viruses",
+    "taxid": "2681611",
+    "species": "Escherichia phage Lambda",
+    "category": "viruses",
+    "accession": "PV340536.1",
+    "title": "PV340536.1 Escherichia phage Lambda, complete genome"
+  },
+  {
+    "qid": "n0391|2681611|viruses",
+    "taxid": "2681611",
+    "species": "Escherichia phage Lambda",
+    "category": "viruses",
+    "accession": "PB158816.1",
+    "title": "PB158816.1 JP 2019525755-A/3: Genome Editing"
+  },
+  {
+    "qid": "n0392|2681611|viruses",
+    "taxid": "2681611",
+    "species": "Escherichia phage Lambda",
+    "category": "viruses",
+    "accession": "PB158815.1",
+    "title": "PB158815.1 JP 2019525755-A/2: Genome Editing"
+  },
+  {
+    "qid": "n0393|2681611|viruses",
+    "taxid": "2681611",
+    "species": "Escherichia phage Lambda",
+    "category": "viruses",
+    "accession": "PB158814.1",
+    "title": "PB158814.1 JP 2019525755-A/1: Genome Editing"
+  },
+  {
+    "qid": "n0394|2681611|viruses",
+    "taxid": "2681611",
+    "species": "Escherichia phage Lambda",
+    "category": "viruses",
+    "accession": "OR974325.1",
+    "title": "OR974325.1 Escherichia phage Lambda isolate P9/2022/SA, partial genome"
+  },
+  {
+    "qid": "n0395|2681611|viruses",
+    "taxid": "2681611",
+    "species": "Escherichia phage Lambda",
+    "category": "viruses",
+    "accession": "OR974324.1",
+    "title": "OR974324.1 Escherichia phage Lambda isolate P8/2022/SA, partial genome"
+  },
+  {
+    "qid": "n0396|2681611|viruses",
+    "taxid": "2681611",
+    "species": "Escherichia phage Lambda",
+    "category": "viruses",
+    "accession": "OR974323.1",
+    "title": "OR974323.1 Escherichia phage Lambda isolate P7/2022/SA, partial genome"
+  },
+  {
+    "qid": "n0397|2681611|viruses",
+    "taxid": "2681611",
+    "species": "Escherichia phage Lambda",
+    "category": "viruses",
+    "accession": "OR974322.1",
+    "title": "OR974322.1 Escherichia phage Lambda isolate P6/2022/SA, complete genome"
+  },
+  {
+    "qid": "n0398|2681598|viruses",
+    "taxid": "2681598",
+    "species": "Escherichia phage T4",
+    "category": "viruses",
+    "accession": "OZ209057.1",
+    "title": "OZ209057.1 Escherichia phage T4 genome assembly, complete genome: monopartite"
+  },
+  {
+    "qid": "n0399|2681598|viruses",
+    "taxid": "2681598",
+    "species": "Escherichia phage T4",
+    "category": "viruses",
+    "accession": "OZ209023.1",
+    "title": "OZ209023.1 Escherichia phage T4 genome assembly, complete genome: monopartite"
+  },
+  {
+    "qid": "n0400|2681598|viruses",
+    "taxid": "2681598",
+    "species": "Escherichia phage T4",
+    "category": "viruses",
+    "accession": "NC_000866.4",
+    "title": "NC_000866.4 Enterobacteria phage T4, complete genome"
+  },
+  {
+    "qid": "n0401|2681598|viruses",
+    "taxid": "2681598",
+    "species": "Escherichia phage T4",
+    "category": "viruses",
+    "accession": "OL964745.1",
+    "title": "OL964745.1 Mutant Escherichia phage T4 clone T4_7t1, complete genome"
+  },
+  {
+    "qid": "n0402|2681598|viruses",
+    "taxid": "2681598",
+    "species": "Escherichia phage T4",
+    "category": "viruses",
+    "accession": "OL964735.1",
+    "title": "OL964735.1 Mutant Escherichia phage T4 clone T4_3t3, complete genome"
+  },
+  {
+    "qid": "n0403|2681598|viruses",
+    "taxid": "2681598",
+    "species": "Escherichia phage T4",
+    "category": "viruses",
+    "accession": "MZ375356.1",
+    "title": "MZ375356.1 Mutant Escherichia phage T4 clone T4_583L, complete genome"
+  },
+  {
+    "qid": "n0404|2681598|viruses",
+    "taxid": "2681598",
+    "species": "Escherichia phage T4",
+    "category": "viruses",
+    "accession": "MT984581.1",
+    "title": "MT984581.1 Escherichia phage T4, complete genome"
+  },
+  {
+    "qid": "n0405|2681598|viruses",
+    "taxid": "2681598",
+    "species": "Escherichia phage T4",
+    "category": "viruses",
+    "accession": "AF158101.6",
+    "title": "AF158101.6 Escherichia phage T4, complete genome"
+  },
+  {
+    "qid": "n0406|2884424|viruses",
+    "taxid": "2884424",
+    "species": "Bacillus phage phi29",
+    "category": "viruses",
+    "accession": "NC_011048.1",
+    "title": "NC_011048.1 Bacillus phage phi29, complete genome"
+  },
+  {
+    "qid": "n0407|2884424|viruses",
+    "taxid": "2884424",
+    "species": "Bacillus phage phi29",
+    "category": "viruses",
+    "accession": "EU771092.1",
+    "title": "EU771092.1 Bacillus phage phi29, complete genome"
+  },
+  {
+    "qid": "n0408|2905674|viruses",
+    "taxid": "2905674",
+    "species": "Mycobacterium phage D29",
+    "category": "viruses",
+    "accession": "AF022214.2",
+    "title": "AF022214.2 Mycobacterium phage D29, complete genome"
+  },
+  {
+    "qid": "n0409|2905674|viruses",
+    "taxid": "2905674",
+    "species": "Mycobacterium phage D29",
+    "category": "viruses",
+    "accession": "NC_001900.2",
+    "title": "NC_001900.2 Mycobacterium virus D29, complete genome"
+  },
+  {
+    "qid": "n0410|238854|viruses",
+    "taxid": "238854",
+    "species": "Synechococcus phage S-PM2",
+    "category": "viruses",
+    "accession": "NC_006820.1",
+    "title": "NC_006820.1 Synechococcus phage S-PM2, complete genome"
+  },
+  {
+    "qid": "n0411|238854|viruses",
+    "taxid": "238854",
+    "species": "Synechococcus phage S-PM2",
+    "category": "viruses",
+    "accession": "LN828717.1",
+    "title": "LN828717.1 Synechococcus phage S-PM2 spontaneous deletion mutant, complete genome"
+  },
+  {
+    "qid": "n0412|238854|viruses",
+    "taxid": "238854",
+    "species": "Synechococcus phage S-PM2",
+    "category": "viruses",
+    "accession": "AJ630128.1",
+    "title": "AJ630128.1 Bacteriophage S-PM2 complete genome"
+  },
+  {
+    "qid": "n0413|268746|viruses",
+    "taxid": "268746",
+    "species": "Prochlorococcus phage P-SSM2",
+    "category": "viruses",
+    "accession": "NC_006883.2",
+    "title": "NC_006883.2 Prochlorococcus phage P-SSM2, complete genome"
+  },
+  {
+    "qid": "n0414|268746|viruses",
+    "taxid": "268746",
+    "species": "Prochlorococcus phage P-SSM2",
+    "category": "viruses",
+    "accession": "GU071092.1",
+    "title": "GU071092.1 Prochlorococcus phage P-SSM2, complete genome"
+  },
+  {
+    "qid": "n0415|268746|viruses",
+    "taxid": "268746",
+    "species": "Prochlorococcus phage P-SSM2",
+    "category": "viruses",
+    "accession": "AY939844.2",
+    "title": "AY939844.2 Prochlorococcus phage P-SSM2, complete genome"
+  },
+  {
+    "qid": "n0416|207597|viruses",
+    "taxid": "207597",
+    "species": "Vibrio phage VHML",
+    "category": "viruses",
+    "accession": "NC_004456.1",
+    "title": "NC_004456.1 Vibrio phage VHML, complete genome"
+  },
+  {
+    "qid": "n0417|207597|viruses",
+    "taxid": "207597",
+    "species": "Vibrio phage VHML",
+    "category": "viruses",
+    "accession": "AY133112.1",
+    "title": "AY133112.1 Vibrio harveyi bacteriophage VHML, complete genome"
+  },
+  {
+    "qid": "n0418|2681624|viruses",
+    "taxid": "2681624",
+    "species": "Lactococcus phage c2",
+    "category": "viruses",
+    "accession": "PP906169.1",
+    "title": "PP906169.1 Lactococcus phage c2, complete genome"
+  },
+  {
+    "qid": "n0419|2681624|viruses",
+    "taxid": "2681624",
+    "species": "Lactococcus phage c2",
+    "category": "viruses",
+    "accession": "NC_001706.1",
+    "title": "NC_001706.1 Lactobacillus phage c2, complete genome"
+  },
+  {
+    "qid": "n0420|2681624|viruses",
+    "taxid": "2681624",
+    "species": "Lactococcus phage c2",
+    "category": "viruses",
+    "accession": "L48605.1",
+    "title": "L48605.1 Lactococcus phage c2, complete genome"
+  },
+  {
+    "qid": "n0421|320836|viruses",
+    "taxid": "320836",
+    "species": "Staphylococcus phage 2638A",
+    "category": "viruses",
+    "accession": "NC_007051.1",
+    "title": "NC_007051.1 Staphylococcus phage 2638A, complete genome"
+  },
+  {
+    "qid": "n0422|320836|viruses",
+    "taxid": "320836",
+    "species": "Staphylococcus phage 2638A",
+    "category": "viruses",
+    "accession": "AY954954.1",
+    "title": "AY954954.1 Bacteriophage 2638A, complete genome"
+  },
+  {
+    "qid": "n0423|2908168|viruses",
+    "taxid": "2908168",
+    "species": "Salmonella phage P22",
+    "category": "viruses",
+    "accession": "NC_002371.2",
+    "title": "NC_002371.2 TPA: Salmonella phage P22, complete genome"
+  },
+  {
+    "qid": "n0424|2908168|viruses",
+    "taxid": "2908168",
+    "species": "Salmonella phage P22",
+    "category": "viruses",
+    "accession": "LC730322.1",
+    "title": "LC730322.1 Salmonella phage P22 P22_AGU DNA, complete genome"
+  },
+  {
+    "qid": "n0425|2908168|viruses",
+    "taxid": "2908168",
+    "species": "Salmonella phage P22",
+    "category": "viruses",
+    "accession": "BK000583.1",
+    "title": "BK000583.1 TPA_inf: Salmonella phage P22, complete genome"
+  },
+  {
+    "qid": "n0426|2908168|viruses",
+    "taxid": "2908168",
+    "species": "Salmonella phage P22",
+    "category": "viruses",
+    "accession": "AF217253.1",
+    "title": "AF217253.1 Bacteriophage P22 complete genome"
+  },
+  {
+    "qid": "n0427|2908168|viruses",
+    "taxid": "2908168",
+    "species": "Salmonella phage P22",
+    "category": "viruses",
+    "accession": "AB426868.1",
+    "title": "AB426868.1 Enterobacteria phage P22 DNA, complete genome, strain: ATCC 19585-B1"
+  },
+  {
+    "qid": "n0428|691318|viruses",
+    "taxid": "691318",
+    "species": "Acinetobacter phage phiAB1",
+    "category": "viruses",
+    "accession": "NC_028675.1",
+    "title": "NC_028675.1 Acinetobacter phage phiAB1, complete genome"
+  },
+  {
+    "qid": "n0429|691318|viruses",
+    "taxid": "691318",
+    "species": "Acinetobacter phage phiAB1",
+    "category": "viruses",
+    "accession": "HQ186308.1",
+    "title": "HQ186308.1 Acinetobacter phage phiAB1, complete genome"
+  },
+  {
+    "qid": "n0430|2883940|viruses",
+    "taxid": "2883940",
+    "species": "Burkholderia phage phiE125",
+    "category": "viruses",
+    "accession": "NC_003309.1",
+    "title": "NC_003309.1 Burkholderia phage phiE125, complete genome"
+  },
+  {
+    "qid": "n0431|2883940|viruses",
+    "taxid": "2883940",
+    "species": "Burkholderia phage phiE125",
+    "category": "viruses",
+    "accession": "AF447491.1",
+    "title": "AF447491.1 Burkholderia phage phiE125, complete genome"
+  },
+  {
+    "qid": "n0432|2927985|viruses",
+    "taxid": "2927985",
+    "species": "Caulobacter phage phiCbK",
+    "category": "viruses",
+    "accession": "NC_019405.1",
+    "title": "NC_019405.1 Caulobacter phage phiCbK, complete genome"
+  },
+  {
+    "qid": "n0433|2927985|viruses",
+    "taxid": "2927985",
+    "species": "Caulobacter phage phiCbK",
+    "category": "viruses",
+    "accession": "JX100813.1",
+    "title": "JX100813.1 Caulobacter phage phiCbK, complete genome"
+  },
+  {
+    "qid": "n0434|2927985|viruses",
+    "taxid": "2927985",
+    "species": "Caulobacter phage phiCbK",
+    "category": "viruses",
+    "accession": "JX163858.1",
+    "title": "JX163858.1 Caulobacter phage phiCbK, complete genome"
+  },
+  {
+    "qid": "n0435|1208064|viruses",
+    "taxid": "1208064",
+    "species": "Bombyx mandarina nucleopolyhedrovirus S2",
+    "category": "viruses",
+    "accession": "JQ071499.1",
+    "title": "JQ071499.1 Bombyx mandarina nucleopolyhedrovirus S2, complete genome"
+  },
+  {
+    "qid": "n0436|39640|viruses",
+    "taxid": "39640",
+    "species": "Bracoviriform congregatae",
+    "category": "viruses",
+    "accession": "NC_006633.1",
+    "title": "NC_006633.1 Cotesia congregata virus complete genome, segment Circle1"
+  },
+  {
+    "qid": "n0437|39640|viruses",
+    "taxid": "39640",
+    "species": "Bracoviriform congregatae",
+    "category": "viruses",
+    "accession": "NC_006634.1",
+    "title": "NC_006634.1 Cotesia congregata virus complete genome, segment Circle2"
+  },
+  {
+    "qid": "n0438|39640|viruses",
+    "taxid": "39640",
+    "species": "Bracoviriform congregatae",
+    "category": "viruses",
+    "accession": "NC_006635.1",
+    "title": "NC_006635.1 Cotesia congregata virus complete genome, segment Circle3"
+  },
+  {
+    "qid": "n0439|39640|viruses",
+    "taxid": "39640",
+    "species": "Bracoviriform congregatae",
+    "category": "viruses",
+    "accession": "NC_006638.1",
+    "title": "NC_006638.1 Cotesia congregata virus complete genome, segment Circle6"
+  },
+  {
+    "qid": "n0440|39640|viruses",
+    "taxid": "39640",
+    "species": "Bracoviriform congregatae",
+    "category": "viruses",
+    "accession": "NC_006639.1",
+    "title": "NC_006639.1 Cotesia congregata virus complete genome, segment Circle7"
+  },
+  {
+    "qid": "n0441|39640|viruses",
+    "taxid": "39640",
+    "species": "Bracoviriform congregatae",
+    "category": "viruses",
+    "accession": "NC_006640.1",
+    "title": "NC_006640.1 Cotesia congregata virus complete genome, segment Circle8"
+  },
+  {
+    "qid": "n0442|39640|viruses",
+    "taxid": "39640",
+    "species": "Bracoviriform congregatae",
+    "category": "viruses",
+    "accession": "NC_006642.1",
+    "title": "NC_006642.1 Cotesia congregata virus complete genome, segment Circle10"
+  },
+  {
+    "qid": "n0443|39640|viruses",
+    "taxid": "39640",
+    "species": "Bracoviriform congregatae",
+    "category": "viruses",
+    "accession": "NC_006644.1",
+    "title": "NC_006644.1 Cotesia congregata virus complete genome, segment Circle12"
+  },
+  {
+    "qid": "n0444|39640|viruses",
+    "taxid": "39640",
+    "species": "Bracoviriform congregatae",
+    "category": "viruses",
+    "accession": "NC_006646.1",
+    "title": "NC_006646.1 Cotesia congregata virus complete genome, segment Circle14"
+  },
+  {
+    "qid": "n0445|39640|viruses",
+    "taxid": "39640",
+    "species": "Bracoviriform congregatae",
+    "category": "viruses",
+    "accession": "NC_006649.1",
+    "title": "NC_006649.1 Cotesia congregata virus complete genome, segment Circle18"
+  },
+  {
+    "qid": "n0446|28321|viruses",
+    "taxid": "28321",
+    "species": "Betaentomopoxvirus amoorei",
+    "category": "viruses",
+    "accession": "NC_002520.1",
+    "title": "NC_002520.1 Amsacta moorei entomopoxvirus 'L', complete genome"
+  },
+  {
+    "qid": "n0447|28321|viruses",
+    "taxid": "28321",
+    "species": "Betaentomopoxvirus amoorei",
+    "category": "viruses",
+    "accession": "AF250284.1",
+    "title": "AF250284.1 Amsacta moorei entomopoxvirus, complete genome"
+  },
+  {
+    "qid": "n0448|2492962|viruses",
+    "taxid": "2492962",
+    "species": "Escherichia phage T1",
+    "category": "viruses",
+    "accession": "AY216660.1",
+    "title": "AY216660.1 Escherichia phage T1, complete genome"
+  },
+  {
+    "qid": "n0449|2492962|viruses",
+    "taxid": "2492962",
+    "species": "Escherichia phage T1",
+    "category": "viruses",
+    "accession": "NC_005833.1",
+    "title": "NC_005833.1 Escherichia phage T1, complete genome"
+  },
+  {
+    "qid": "n0450|2492962|viruses",
+    "taxid": "2492962",
+    "species": "Escherichia phage T1",
+    "category": "viruses",
+    "accession": "MK213796.1",
+    "title": "MK213796.1 Escherichia phage T1, complete genome"
+  },
+  {
+    "qid": "n0451|2695836|viruses",
+    "taxid": "2695836",
+    "species": "Escherichia phage T5",
+    "category": "viruses",
+    "accession": "NC_005859.1",
+    "title": "NC_005859.1 Enterobacteria phage T5, complete genome"
+  },
+  {
+    "qid": "n0452|2695836|viruses",
+    "taxid": "2695836",
+    "species": "Escherichia phage T5",
+    "category": "viruses",
+    "accession": "AY543070.1",
+    "title": "AY543070.1 Escherichia phage T5, complete genome"
+  },
+  {
+    "qid": "n0453|2695836|viruses",
+    "taxid": "2695836",
+    "species": "Escherichia phage T5",
+    "category": "viruses",
+    "accession": "AY509815.1",
+    "title": "AY509815.1 Bacteriophage T5 early C-region fragment, partial genome"
+  },
+  {
+    "qid": "n0454|2695836|viruses",
+    "taxid": "2695836",
+    "species": "Escherichia phage T5",
+    "category": "viruses",
+    "accession": "AY587007.1",
+    "title": "AY587007.1 Bacteriophage T5 strain ATCC 11303-B5, complete genome"
+  },
+  {
+    "qid": "n0455|2695836|viruses",
+    "taxid": "2695836",
+    "species": "Escherichia phage T5",
+    "category": "viruses",
+    "accession": "AY692264.1",
+    "title": "AY692264.1 Bacteriophage T5 strain st0 deletion mutant, complete genome"
+  },
+  {
+    "qid": "n0456|2886930|viruses",
+    "taxid": "2886930",
+    "species": "Escherichia phage phiX174",
+    "category": "viruses",
+    "accession": "NC_001422.1",
+    "title": "NC_001422.1 Escherichia phage phiX174, complete genome"
+  },
+  {
+    "qid": "n0457|2886930|viruses",
+    "taxid": "2886930",
+    "species": "Escherichia phage phiX174",
+    "category": "viruses",
+    "accession": "J02482.1",
+    "title": "J02482.1 Escherichia phage phiX174, complete genome"
+  },
+  {
+    "qid": "n0458|2886930|viruses",
+    "taxid": "2886930",
+    "species": "Escherichia phage phiX174",
+    "category": "viruses",
+    "accession": "CP004084.1",
+    "title": "CP004084.1 Enterobacteria phage phiX174, complete genome"
+  },
+  {
+    "qid": "n0459|2886930|viruses",
+    "taxid": "2886930",
+    "species": "Escherichia phage phiX174",
+    "category": "viruses",
+    "accession": "KJ997912.1",
+    "title": "KJ997912.1 Enterobacteria phage MED1, complete genome"
+  },
+  {
+    "qid": "n0460|2886930|viruses",
+    "taxid": "2886930",
+    "species": "Escherichia phage phiX174",
+    "category": "viruses",
+    "accession": "JQ764988.2",
+    "title": "JQ764988.2 Mutant Enterobacteria phage phiX174 isolate PhiX_10_3, complete genome"
+  },
+  {
+    "qid": "n0461|2886930|viruses",
+    "taxid": "2886930",
+    "species": "Escherichia phage phiX174",
+    "category": "viruses",
+    "accession": "JQ764990.1",
+    "title": "JQ764990.1 Mutant Enterobacteria phage phiX174 isolate PhiX_10_5, complete genome"
+  },
+  {
+    "qid": "n0462|2886930|viruses",
+    "taxid": "2886930",
+    "species": "Escherichia phage phiX174",
+    "category": "viruses",
+    "accession": "JQ764989.1",
+    "title": "JQ764989.1 Mutant Enterobacteria phage phiX174 isolate PhiX_10_4, complete genome"
+  },
+  {
+    "qid": "n0463|2886930|viruses",
+    "taxid": "2886930",
+    "species": "Escherichia phage phiX174",
+    "category": "viruses",
+    "accession": "JQ764987.1",
+    "title": "JQ764987.1 Mutant Enterobacteria phage phiX174 isolate PhiX_10_2, complete genome"
+  },
+  {
+    "qid": "n0464|2886930|viruses",
+    "taxid": "2886930",
+    "species": "Escherichia phage phiX174",
+    "category": "viruses",
+    "accession": "JQ764986.1",
+    "title": "JQ764986.1 Mutant Enterobacteria phage phiX174 isolate PhiX_10_1, complete genome"
+  },
+  {
+    "qid": "n0465|2886930|viruses",
+    "taxid": "2886930",
+    "species": "Escherichia phage phiX174",
+    "category": "viruses",
+    "accession": "JF719728.1",
+    "title": "JF719728.1 Enterobacteria phage phiX174 isolate phiX_3_FR, complete genome"
+  },
+  {
+    "qid": "n0466|12022|viruses",
+    "taxid": "12022",
+    "species": "Escherichia phage MS2",
+    "category": "viruses",
+    "accession": "LC710218.1",
+    "title": "LC710218.1 Escherichia phage MS2 GI_B RNA, complete genome"
+  },
+  {
+    "qid": "n0467|12022|viruses",
+    "taxid": "12022",
+    "species": "Escherichia phage MS2",
+    "category": "viruses",
+    "accession": "LC710217.1",
+    "title": "LC710217.1 Escherichia phage MS2 GI_A RNA, complete genome"
+  },
+  {
+    "qid": "n0468|12022|viruses",
+    "taxid": "12022",
+    "species": "Escherichia phage MS2",
+    "category": "viruses",
+    "accession": "NC_001417.2",
+    "title": "NC_001417.2 phage MS2 genome"
+  },
+  {
+    "qid": "n0469|12022|viruses",
+    "taxid": "12022",
+    "species": "Escherichia phage MS2",
+    "category": "viruses",
+    "accession": "MT830620.1",
+    "title": "MT830620.1 Escherichia phage MS2 isolate Hu-Sh-YMS-1704-01, complete genome"
+  },
+  {
+    "qid": "n0470|12022|viruses",
+    "taxid": "12022",
+    "species": "Escherichia phage MS2",
+    "category": "viruses",
+    "accession": "MK213795.1",
+    "title": "MK213795.1 Escherichia phage MS2, complete genome"
+  },
+  {
+    "qid": "n0471|12022|viruses",
+    "taxid": "12022",
+    "species": "Escherichia phage MS2",
+    "category": "viruses",
+    "accession": "JQ966308.1",
+    "title": "JQ966308.1 Enterobacterio phage MS2 isolate DL54, partial genome"
+  },
+  {
+    "qid": "n0472|12022|viruses",
+    "taxid": "12022",
+    "species": "Escherichia phage MS2",
+    "category": "viruses",
+    "accession": "JQ966307.1",
+    "title": "JQ966307.1 Enterobacterio phage MS2 isolate DL52, complete genome"
+  },
+  {
+    "qid": "n0473|12022|viruses",
+    "taxid": "12022",
+    "species": "Escherichia phage MS2",
+    "category": "viruses",
+    "accession": "M10565.1",
+    "title": "M10565.1 Bacteriophage MS2, 3' end of genome"
+  },
+  {
+    "qid": "n0474|2789016|viruses",
+    "taxid": "2789016",
+    "species": "Escherichia phage Qbeta",
+    "category": "viruses",
+    "accession": "LC710219.1",
+    "title": "LC710219.1 Escherichia phage Qbeta GIII_C RNA, complete genome"
+  },
+  {
+    "qid": "n0475|2789016|viruses",
+    "taxid": "2789016",
+    "species": "Escherichia phage Qbeta",
+    "category": "viruses",
+    "accession": "NC_001890.1",
+    "title": "NC_001890.1 Enterobacteria phage Qbeta, complete genome"
+  },
+  {
+    "qid": "n0476|2789016|viruses",
+    "taxid": "2789016",
+    "species": "Escherichia phage Qbeta",
+    "category": "viruses",
+    "accession": "AB971354.1",
+    "title": "AB971354.1 Enterobacteria phage Qbeta RNA, complete genome, isolate: Anc(P1)"
+  },
+  {
+    "qid": "n0477|2789016|viruses",
+    "taxid": "2789016",
+    "species": "Escherichia phage Qbeta",
+    "category": "viruses",
+    "accession": "JF719737.1",
+    "title": "JF719737.1 Enterobacteria phage Qbeta isolate Qbeta_3_FR, partial genome"
+  },
+  {
+    "qid": "n0478|2789016|viruses",
+    "taxid": "2789016",
+    "species": "Escherichia phage Qbeta",
+    "category": "viruses",
+    "accession": "JF719736.1",
+    "title": "JF719736.1 Enterobacteria phage Qbeta isolate Qbeta_2_FR, partial genome"
+  },
+  {
+    "qid": "n0479|2789016|viruses",
+    "taxid": "2789016",
+    "species": "Escherichia phage Qbeta",
+    "category": "viruses",
+    "accession": "JF719735.1",
+    "title": "JF719735.1 Enterobacteria phage Qbeta isolate Qbeta_1_FR, partial genome"
+  },
+  {
+    "qid": "n0480|2789016|viruses",
+    "taxid": "2789016",
+    "species": "Escherichia phage Qbeta",
+    "category": "viruses",
+    "accession": "FJ483844.1",
+    "title": "FJ483844.1 Enterobacteria phage Qbeta strain BZ1, complete genome"
+  },
+  {
+    "qid": "n0481|2789016|viruses",
+    "taxid": "2789016",
+    "species": "Escherichia phage Qbeta",
+    "category": "viruses",
+    "accession": "FJ483843.1",
+    "title": "FJ483843.1 Enterobacteria phage Qbeta strain VK, complete genome"
+  },
+  {
+    "qid": "n0482|2789016|viruses",
+    "taxid": "2789016",
+    "species": "Escherichia phage Qbeta",
+    "category": "viruses",
+    "accession": "FJ483842.1",
+    "title": "FJ483842.1 Enterobacteria phage Qbeta strain BR12, complete genome"
+  },
+  {
+    "qid": "n0483|2789016|viruses",
+    "taxid": "2789016",
+    "species": "Escherichia phage Qbeta",
+    "category": "viruses",
+    "accession": "FJ483840.1",
+    "title": "FJ483840.1 Enterobacteria phage Qbeta strain TW18, complete genome"
+  },
+  {
+    "qid": "n0484|10658|viruses",
+    "taxid": "10658",
+    "species": "Enterobacteria phage PRD1",
+    "category": "viruses",
+    "accession": "NC_001421.2",
+    "title": "NC_001421.2 Enterobacteria phage PRD1, complete genome"
+  },
+  {
+    "qid": "n0485|10658|viruses",
+    "taxid": "10658",
+    "species": "Enterobacteria phage PRD1",
+    "category": "viruses",
+    "accession": "AY848689.1",
+    "title": "AY848689.1 Enterobacteria phage PRD1, complete genome"
+  },
+  {
+    "qid": "n0486|10863|viruses",
+    "taxid": "10863",
+    "species": "Enterobacteria phage f1",
+    "category": "viruses",
+    "accession": "NC_075033.1",
+    "title": "NC_075033.1 Enterobacteria phage f1 isolate f1_3_FR, complete genome"
+  },
+  {
+    "qid": "n0487|10863|viruses",
+    "taxid": "10863",
+    "species": "Enterobacteria phage f1",
+    "category": "viruses",
+    "accession": "NC_075032.1",
+    "title": "NC_075032.1 Enterobacteria phage f1 isolate f1_2_FR, complete genome"
+  },
+  {
+    "qid": "n0488|10863|viruses",
+    "taxid": "10863",
+    "species": "Enterobacteria phage f1",
+    "category": "viruses",
+    "accession": "NC_075031.1",
+    "title": "NC_075031.1 Enterobacteria phage f1 isolate f1_1_FR, complete genome"
+  },
+  {
+    "qid": "n0489|10863|viruses",
+    "taxid": "10863",
+    "species": "Enterobacteria phage f1",
+    "category": "viruses",
+    "accession": "NC_075030.1",
+    "title": "NC_075030.1 Enterobacteria phage f1 isolate F1_ancestral, complete genome"
+  },
+  {
+    "qid": "n0490|3451307|bacteria",
+    "taxid": "3451307",
+    "species": "Lactobacillus gasseri LG126",
+    "category": "bacteria",
+    "accession": "PV972219.1",
+    "title": "PV972219.1 Lactobacillus gasseri LG126 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0491|1423736|bacteria",
+    "taxid": "1423736",
+    "species": "Lactobacillus crispatus DSM 20584 = JCM 1185 = ATCC 33820",
+    "category": "bacteria",
+    "accession": "AB289067.1",
+    "title": "AB289067.1 Lactobacillus crispatus gene for 16S rRNA, partial sequence, strain: JCM 1185"
+  },
+  {
+    "qid": "n0492|1901|bacteria",
+    "taxid": "1901",
+    "species": "Streptomyces clavuligerus",
+    "category": "bacteria",
+    "accession": "PZ501611.1",
+    "title": "PZ501611.1 Streptomyces clavuligerus strain TBE24 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0493|1901|bacteria",
+    "taxid": "1901",
+    "species": "Streptomyces clavuligerus",
+    "category": "bacteria",
+    "accession": "PZ476524.1",
+    "title": "PZ476524.1 Streptomyces clavuligerus strain YAS 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0494|1901|bacteria",
+    "taxid": "1901",
+    "species": "Streptomyces clavuligerus",
+    "category": "bacteria",
+    "accession": "PX884232.1",
+    "title": "PX884232.1 Streptomyces clavuligerus strain GDPO03 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0495|1901|bacteria",
+    "taxid": "1901",
+    "species": "Streptomyces clavuligerus",
+    "category": "bacteria",
+    "accession": "PV875918.1",
+    "title": "PV875918.1 Streptomyces clavuligerus strain GRS-7 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0496|1901|bacteria",
+    "taxid": "1901",
+    "species": "Streptomyces clavuligerus",
+    "category": "bacteria",
+    "accession": "PV412941.1",
+    "title": "PV412941.1 Streptomyces clavuligerus strain DR30 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0497|1901|bacteria",
+    "taxid": "1901",
+    "species": "Streptomyces clavuligerus",
+    "category": "bacteria",
+    "accession": "PV164807.1",
+    "title": "PV164807.1 Streptomyces clavuligerus strain TB2 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0498|1901|bacteria",
+    "taxid": "1901",
+    "species": "Streptomyces clavuligerus",
+    "category": "bacteria",
+    "accession": "PV097188.1",
+    "title": "PV097188.1 Streptomyces clavuligerus strain SMS 46 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0499|1901|bacteria",
+    "taxid": "1901",
+    "species": "Streptomyces clavuligerus",
+    "category": "bacteria",
+    "accession": "PQ120390.1",
+    "title": "PQ120390.1 Streptomyces clavuligerus strain RDA4 16S ribosomal RNA gene, partial sequence"
+  },
+  {
+    "qid": "n0500|1901|bacteria",
+    "taxid": "1901",
+    "species": "Streptomyces clavuligerus",
+    "category": "bacteria",
+    "accession": "PQ120343.1",
+    "title": "PQ120343.1 Streptomyces clavuligerus strain RDA2 16S ribosomal RNA gene, partial sequence"
+  }
+]

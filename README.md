@@ -83,6 +83,8 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 | `docs/validation/external/external_validation_final.json` | External validation full results |
 | `docs/validation/external/external_validation_2020_2026_summary.md` | 2020-2026 external validation summary |
 | `docs/validation/ncbi_nt_external_comparison_summary.md` | Fair Our DB vs NCBI-nt comparison on 125 external sequences |
+| `docs/validation/classification_benchmark_summary.md` | Classification benchmark summary (573 positives / 500 negatives) |
+| `docs/validation/classification_benchmark/benchmark_metrics.json` | Classification metrics by category |
 | `docs/validation/validation_summary.json` | Current multi-method validation results |
 | `docs/validation/genus_accuracy_full.json` | Species-level vs genus-level accuracy |
 
@@ -100,6 +102,30 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 | NCBI-nt 150 (NCBI-nt) | 78.6% (11/14) | 96.2% (25/26) | 69.1% (65/94) | 87.5% (14/16) | 76.7% (115/150) |
 
 True Fungi excludes Oomycetes; Oomycetes are separated by NCBI Taxonomy.
+
+### Maize-Pathogen Classification Benchmark (573 positives / 500 negatives)
+
+Classification rule: pident >= 97%; MaizePathogenDB also requires qcovs >= 90%; NCBI-nt requires hit TaxID in the maize-pathogen catalog.
+
+#### MaizePathogenDB
+
+| Category | Sensitivity | Specificity | F1 | Balanced Accuracy |
+|---|---:|---:|---:|---:|
+| Bacteria | 100.0% | 100.0% | 100.0% | 100.0% |
+| Viruses | 100.0% | 100.0% | 100.0% | 100.0% |
+| True Fungi | 100.0% | 89.6% | 96.5% | 94.8% |
+| Oomycetes | 100.0% | 100.0% | 100.0% | 100.0% |
+| **Overall** | **100.0%** | **94.8%** | **97.8%** | **97.4%** |
+
+#### NCBI-nt
+
+| Category | Sensitivity | Specificity | F1 | Balanced Accuracy |
+|---|---:|---:|---:|---:|
+| Bacteria | 78.4% | 100.0% | 87.9% | 89.2% |
+| Viruses | 96.9% | 100.0% | 98.4% | 98.4% |
+| True Fungi | 75.3% | 99.2% | 85.7% | 87.3% |
+| Oomycetes | 87.7% | 100.0% | 93.4% | 93.8% |
+| **Overall** | **80.6%** | **99.6%** | **89.1%** | **90.1%** |
 
 ### Web Platform
 
