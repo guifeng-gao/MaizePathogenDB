@@ -1,23 +1,22 @@
 # NCBI-nt 150-Query Comparison Summary
 
-Date: 2026-08-18
+Date: 2026-08-20
 
-Method: stratified random sampling of 150 marker sequences (seed 42, one sequence per species) from MaizePathogenDB, compared against NCBI-nt via web BLAST (top-1 hit, genus-level species check).
+Method: stratified random sampling of 150 marker sequences (seed 42, one sequence per species) from MaizePathogenDB, compared against NCBI-nt via web BLAST. Correctness is species-level: the top-1 NCBI hit TaxID must equal the query TaxID.
 
 | Category | n | MaizePathogenDB | NCBI-nt |
 |---|---:|---:|---:|
-| Bacteria (16S) | 14 | 14/14 (100.0%) | 14/14 (100.0%) |
-| Viruses (Genome) | 26 | 26/26 (100.0%) | 23/26 (88.5%) |
-| Fungi (ITS) | 110 | 110/110 (100.0%) | 100/110 (90.9%) |
-| **Overall** | **150** | **150/150 (100.0%)** | **137/150 (91.3%)** |
+| Bacteria (16S) | 14 | 14/14 (100.0%) | 11/14 (78.6%) |
+| Viruses (Genome) | 26 | 26/26 (100.0%) | 25/26 (96.2%) |
+| True Fungi (ITS) | 94 | 94/94 (100.0%) | 65/94 (69.1%) |
+| Oomycetes (ITS) | 16 | 16/16 (100.0%) | 14/16 (87.5%) |
+| **Overall** | **150** | **150/150 (100.0%)** | **115/150 (76.7%)** |
 
-NCBI-nt errors (13): High Plains wheat mosaic virus (HPWMoV), Maize stripe virus (MSpV), Maize-associated totivirus, Globisporangium irregulare/Pythium irregulare, Helminthosporium hawaiiensis/Curvularia hawaiiensis, Xepiculopsis graminea/Myrothecium gramineum, Epicoccum nigrum, Rhizoctonia cerealis/Ceratobasidium cereale, Curvularia lunata (Cochliobolus lunatus), Helminthosporium pedicellatum/Exserohilum pedicellatum, Fusarium sacchari, Trichoderma roseum/Trichothecium roseum, Neocosmospora solani/Fusarium solani.
+NCBI-nt errors: 35 (bacteria 3, viruses 1, true fungi 29, oomycetes 2). See `ncbi_nt_comparison.json` for per-query details.
 
 Notes:
-- 6 queries initially timed out at NCBI and were successfully retried with a longer wait; no timeout entries remain.
-- 4 cached results were recovered during the restart to avoid counting them as failures.
-- Most NCBI-nt errors are synonyms or nomenclature differences at 100% identity (e.g. Tenuivirus zeae vs Maize stripe virus, Myrothecium gramineum vs Xepiculopsis graminea), rather than true mismatches.
+- All validation methods now use species-level TaxID comparison for comparability.
+- Many NCBI-nt species-level differences reflect ITS species-level resolution and NCBI nomenclature updates.
 
 Files:
 - `ncbi_nt_comparison.json` (full per-query results)
-- `Fig_NCBI_nt_Comparison.pdf` / `Fig_NCBI_nt_Comparison_Final.pdf` (copies of the summary figure)

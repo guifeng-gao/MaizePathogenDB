@@ -40,10 +40,11 @@
       "overall": {"n": 71, "correct": 54, "accuracy": 76.1}
     },
     "ncbi_nt_comparison_150": {
-      "bacteria": {"n": 14, "db_correct": 14, "db_accuracy": 100.0, "ncbi_correct": 14, "ncbi_accuracy": 100.0},
-      "viruses": {"n": 26, "db_correct": 26, "db_accuracy": 100.0, "ncbi_correct": 23, "ncbi_accuracy": 88.5},
-      "fungi": {"n": 110, "db_correct": 110, "db_accuracy": 100.0, "ncbi_correct": 100, "ncbi_accuracy": 90.9},
-      "overall": {"n": 150, "db_correct": 150, "db_accuracy": 100.0, "ncbi_correct": 137, "ncbi_accuracy": 91.3}
+      "bacteria": {"n": 14, "db_correct": 14, "db_accuracy": 100.0, "ncbi_correct": 11, "ncbi_accuracy": 78.6},
+      "viruses": {"n": 26, "db_correct": 26, "db_accuracy": 100.0, "ncbi_correct": 25, "ncbi_accuracy": 96.2},
+      "fungi": {"n": 94, "db_correct": 94, "db_accuracy": 100.0, "ncbi_correct": 65, "ncbi_accuracy": 69.1},
+      "oomycetes": {"n": 16, "db_correct": 16, "db_accuracy": 100.0, "ncbi_correct": 14, "ncbi_accuracy": 87.5},
+      "overall": {"n": 150, "db_correct": 150, "db_accuracy": 100.0, "ncbi_correct": 115, "ncbi_accuracy": 76.7}
     },
     "external_2020_2026": {
       "bacteria": {"n": 10, "correct": 7, "accuracy": 70.0},

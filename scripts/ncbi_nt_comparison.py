@@ -24,6 +24,7 @@ NCBI_DELAY    = 3.5          # seconds between NCBI web BLAST requests
 NCBI_TIMEOUT  = 600          # max seconds to wait for a single BLAST job
 NCBI_POLL     = 5            # poll interval (seconds)
 NCBI_EMAIL    = "maize_pathogen_db@example.com"
+ENTREZ_BASE   = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 
 CAT_ORDER = ["bacteria", "viruses", "fungi"]
 CAT_LABELS = {"bacteria": "Bacteria (16S)", "viruses": "Viruses (Genome)", "fungi": "Fungi (ITS)"}
@@ -114,37 +115,51 @@ def submit_ncbi_blast(seq, seq_id="query"):
 def extract_top_hit(xml_data):
     """Parse top hit from NCBI BLAST XML."""
     if isinstance(xml_data, str) and (xml_data.startswith("BLAST_ERROR") or xml_data.startswith("NO_") or xml_data.startswith("TIMEOUT")):
-        return {"description": xml_data, "pident": 0.0}
+        return {"description": xml_data, "pident": 0.0, "accession": ""}
     import xml.etree.ElementTree as ET
     try:
         root = ET.fromstring(xml_data)
         hits = root.findall(".//Hit")
         if not hits:
-            return {"description": "NO_HITS", "pident": 0.0}
+            return {"description": "NO_HITS", "pident": 0.0, "accession": ""}
         top = hits[0]
         desc = top.findtext("Hit_def", "UNKNOWN")
+        accession = top.findtext("Hit_accession", "")
+        if not accession:
+            accession = desc.split()[0] if desc else ""
         hsps = top.findall(".//Hsp")
         if not hsps:
-            return {"description": desc, "pident": 0.0}
+            return {"description": desc, "pident": 0.0, "accession": accession}
         identity = int(hsps[0].findtext("Hsp_identity", "0"))
         align_len = int(hsps[0].findtext("Hsp_align-len", "1"))
         pident = identity / align_len * 100 if align_len else 0.0
-        return {"description": desc, "pident": pident}
+        return {"description": desc, "pident": pident, "accession": accession}
     except ET.ParseError as e:
-        return {"description": f"XML_PARSE_ERROR: {e}", "pident": 0.0}
+        return {"description": f"XML_PARSE_ERROR: {e}", "pident": 0.0, "accession": ""}
     except Exception as e:
-        return {"description": f"XML_ERROR: {e}", "pident": 0.0}
+        return {"description": f"XML_ERROR: {e}", "pident": 0.0, "accession": ""}
 
-def check_ncbi_species(description, expected_species):
-    """Genus-level match check."""
-    if not description or description.startswith("ERROR") or description.startswith("NO_"):
-        return False
-    expected_words = expected_species.split()
-    if not expected_words:
-        return False
-    expected_genus = expected_words[0].lower()
-    desc_lower = description.lower()
-    return expected_genus in desc_lower
+def fetch_ncbi_taxid(accession):
+    """Map a nucleotide accession to its NCBI TaxID via esummary."""
+    if not accession:
+        return ""
+    params = {
+        "db": "nucleotide", "id": accession, "retmode": "json",
+        "email": NCBI_EMAIL, "tool": "maize_pathogen_db",
+    }
+    try:
+        r = requests.get(f"{ENTREZ_BASE}/esummary.fcgi", params=params, timeout=30)
+        if r.status_code == 429:
+            time.sleep(3)
+            r = requests.get(f"{ENTREZ_BASE}/esummary.fcgi", params=params, timeout=30)
+        r.raise_for_status()
+        data = r.json().get("result", {})
+        uids = data.get("uids", [])
+        if uids:
+            return str(data[uids[0]].get("taxid", ""))
+    except Exception:
+        pass
+    return ""
 
 # ═══════════════════════════════════════════════════════════════════
 print("=" * 60)
@@ -219,23 +234,25 @@ if os.path.exists(RESULTS_FILE):
     with open(RESULTS_FILE) as f:
         cached_data = json.load(f)
     if "results" in cached_data:
-        done_headers = {c["header"] for c in cached_data["results"]}
+        done_headers = {c["header"] for c in cached_data["results"] if "header" in c}
         cached = cached_data
     print(f"  Loaded {len(done_headers)} cached results from {RESULTS_FILE}")
 
-    cached_by_header = {c["header"]: c for c in cached.get("results", []) if "header" in c}
+cached_by_header = {c["header"]: c for c in cached.get("results", []) if "header" in c}
 
-    idx = 0
-    for rec in sample_list:
-        idx += 1
-        if rec["header"] in done_headers:
-            cached_rec = cached_by_header.get(rec["header"])
-            if cached_rec is not None:
-                rec["ncbi_correct"] = cached_rec.get("ncbi_correct")
-                rec["ncbi_pident"] = cached_rec.get("ncbi_pident", 0)
-                rec["ncbi_description"] = cached_rec.get("ncbi_description", "")
-            print(f"  [{idx}/{total}] Skipped (cached): {rec['species'][:40]}")
-            continue
+idx = 0
+for rec in sample_list:
+    idx += 1
+    if rec["header"] in done_headers:
+        cached_rec = cached_by_header.get(rec["header"])
+        if cached_rec is not None:
+            rec["ncbi_correct"] = cached_rec.get("ncbi_correct")
+            rec["ncbi_pident"] = cached_rec.get("ncbi_pident", 0)
+            rec["ncbi_description"] = cached_rec.get("ncbi_description", "")
+            rec["ncbi_accession"] = cached_rec.get("ncbi_accession", "")
+            rec["ncbi_taxid"] = cached_rec.get("ncbi_taxid", "")
+        print(f"  [{idx}/{total}] Skipped (cached): {rec['species'][:40]}")
+        continue
 
     print(f"  [{idx}/{total}] BLASTing: {rec['species'][:50]} ({rec['category']}) ...", end=" ", flush=True)
 
@@ -252,7 +269,9 @@ if os.path.exists(RESULTS_FILE):
 
     rec["ncbi_description"] = hit["description"]
     rec["ncbi_pident"] = hit["pident"]
-    rec["ncbi_correct"] = check_ncbi_species(hit["description"], rec["species"])
+    rec["ncbi_accession"] = hit.get("accession", "")
+    rec["ncbi_taxid"] = fetch_ncbi_taxid(rec["ncbi_accession"])
+    rec["ncbi_correct"] = bool(rec["ncbi_taxid"]) and rec["ncbi_taxid"] == rec["taxid"]
 
     status = "✓" if rec["ncbi_correct"] else "✗"
     print(f"{status} (pident={hit['pident']:.1f}%)")
@@ -266,6 +285,8 @@ if os.path.exists(RESULTS_FILE):
         "ncbi_correct": rec.get("ncbi_correct"),
         "ncbi_pident": rec.get("ncbi_pident", 0),
         "ncbi_description": rec.get("ncbi_description", ""),
+        "ncbi_accession": rec.get("ncbi_accession", ""),
+        "ncbi_taxid": rec.get("ncbi_taxid", ""),
     })
     with open(RESULTS_FILE, "w") as f:
         json.dump(cached, f, indent=2, ensure_ascii=False)
@@ -309,7 +330,9 @@ summary["results"] = [
     {"species": r["species"], "category": r["category"],
      "db_correct": r.get("db_correct"), "db_pident": r.get("db_pident", 0),
      "ncbi_correct": r.get("ncbi_correct"), "ncbi_pident": r.get("ncbi_pident", 0),
-     "ncbi_top": r.get("ncbi_description", "")}
+     "ncbi_top": r.get("ncbi_description", ""),
+     "ncbi_accession": r.get("ncbi_accession", ""),
+     "ncbi_taxid": r.get("ncbi_taxid", "")}
     for r in sample_list
 ]
 with open(RESULTS_FILE, "w") as f:

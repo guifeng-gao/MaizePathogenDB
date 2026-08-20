@@ -95,7 +95,7 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 | SILVA/UNITE Cross-val | 91.7% (11/12) | N/A | 72.7% (40/55) | 75.0% (3/4) | 76.1% (54/71) |
 | SILVA/UNITE genus-level | 91.7% (11/12) | N/A | 89.1% (49/55) | 100% (4/4) | 90.1% (64/71) |
 | NCBI-nt 150 (Our DB) | 100% (14/14) | 100% (26/26) | 100% (94/94) | 100% (16/16) | 100% (150/150) |
-| NCBI-nt 150 (NCBI-nt) | 100% (14/14) | 88.5% (23/26) | 90.4% (85/94) | 93.8% (15/16) | 91.3% (137/150) |
+| NCBI-nt 150 (NCBI-nt) | 78.6% (11/14) | 96.2% (25/26) | 69.1% (65/94) | 87.5% (14/16) | 76.7% (115/150) |
 
 True Fungi excludes Oomycetes; Oomycetes are separated by NCBI Taxonomy.
 

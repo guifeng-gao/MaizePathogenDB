@@ -20,6 +20,8 @@ NCBI_DELAY = 3.5
 NCBI_TIMEOUT = 1800
 NCBI_POLL = 5
 MAX_ATTEMPTS = 5
+NCBI_EMAIL = "maize_pathogen_db@example.com"
+ENTREZ_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 
 CAT_ORDER = ["bacteria", "viruses", "fungi"]
 
@@ -108,35 +110,51 @@ def submit_ncbi_blast(seq, seq_id="query"):
 
 def extract_top_hit(xml_data):
     if isinstance(xml_data, str) and xml_data.startswith(("BLAST_ERROR", "NO_", "TIMEOUT", "SUBMIT_", "POLL_")):
-        return {"description": xml_data, "pident": 0.0}
+        return {"description": xml_data, "pident": 0.0, "accession": ""}
     import xml.etree.ElementTree as ET
     try:
         root = ET.fromstring(xml_data)
         hits = root.findall(".//Hit")
         if not hits:
-            return {"description": "NO_HITS", "pident": 0.0}
+            return {"description": "NO_HITS", "pident": 0.0, "accession": ""}
         top = hits[0]
         desc = top.findtext("Hit_def", "UNKNOWN")
+        accession = top.findtext("Hit_accession", "")
+        if not accession:
+            accession = desc.split()[0] if desc else ""
         hsps = top.findall(".//Hsp")
         if not hsps:
-            return {"description": desc, "pident": 0.0}
+            return {"description": desc, "pident": 0.0, "accession": accession}
         identity = int(hsps[0].findtext("Hsp_identity", "0"))
         align_len = int(hsps[0].findtext("Hsp_align-len", "1"))
         pident = identity / align_len * 100 if align_len else 0.0
-        return {"description": desc, "pident": pident}
+        return {"description": desc, "pident": pident, "accession": accession}
     except ET.ParseError as e:
-        return {"description": f"XML_PARSE_ERROR: {e}", "pident": 0.0}
+        return {"description": f"XML_PARSE_ERROR: {e}", "pident": 0.0, "accession": ""}
     except Exception as e:
-        return {"description": f"XML_ERROR: {e}", "pident": 0.0}
+        return {"description": f"XML_ERROR: {e}", "pident": 0.0, "accession": ""}
 
 
-def check_ncbi_species(description, expected_species):
-    if not description or description.startswith(("ERROR", "NO_", "TIMEOUT", "SUBMIT_", "POLL_")):
-        return False
-    expected_words = expected_species.split()
-    if not expected_words:
-        return False
-    return expected_words[0].lower() in description.lower()
+def fetch_ncbi_taxid(accession):
+    if not accession:
+        return ""
+    params = {
+        "db": "nucleotide", "id": accession, "retmode": "json",
+        "email": NCBI_EMAIL, "tool": "maize_pathogen_db",
+    }
+    try:
+        r = requests.get(f"{ENTREZ_BASE}/esummary.fcgi", params=params, timeout=30)
+        if r.status_code == 429:
+            time.sleep(3)
+            r = requests.get(f"{ENTREZ_BASE}/esummary.fcgi", params=params, timeout=30)
+        r.raise_for_status()
+        data = r.json().get("result", {})
+        uids = data.get("uids", [])
+        if uids:
+            return str(data[uids[0]].get("taxid", ""))
+    except Exception:
+        pass
+    return ""
 
 
 def main():
@@ -173,7 +191,9 @@ def main():
 
         result["ncbi_pident"] = hit["pident"]
         result["ncbi_top"] = hit["description"]
-        result["ncbi_correct"] = check_ncbi_species(hit["description"], result["species"])
+        result["ncbi_accession"] = hit.get("accession", "")
+        result["ncbi_taxid"] = fetch_ncbi_taxid(result["ncbi_accession"])
+        result["ncbi_correct"] = bool(result["ncbi_taxid"]) and result["ncbi_taxid"] == rec["taxid"]
         status = "OK" if result["ncbi_correct"] else "FAIL"
         print(f"{status} (pident={hit['pident']:.1f}%)", flush=True)
         retried += 1
