@@ -82,6 +82,7 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 | `docs/validation/ncbi_nt_comparison_150_summary.md` | NCBI-nt 150-query comparison summary |
 | `docs/validation/external/external_validation_final.json` | External validation full results |
 | `docs/validation/external/external_validation_2020_2026_summary.md` | 2020-2026 external validation summary |
+| `docs/validation/ncbi_nt_external_comparison_summary.md` | Fair Our DB vs NCBI-nt comparison on 125 external sequences |
 | `docs/validation/validation_summary.json` | Current multi-method validation results |
 | `docs/validation/genus_accuracy_full.json` | Species-level vs genus-level accuracy |
 
@@ -90,7 +91,8 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 | Method | Bacteria | Viruses | True Fungi | Oomycetes | Overall |
 |---|---:|---:|---:|---:|---:|
 | Internal Self-hit | 100% (51/51) | 100% (96/96) | 99.2% (358/361) | 100% (65/65) | 99.5% (570/573) |
-| External 2020-2026 | 70.0% (7/10) | 100% (3/3) | 77.4% (82/106) | 16.7% (1/6) | 74.4% (93/125) |
+| External 2020-2026 (Our DB) | 70.0% (7/10) | 100% (3/3) | 77.4% (82/106) | 16.7% (1/6) | 74.4% (93/125) |
+| External 2020-2026 (NCBI-nt) | 100.0% (10/10) | 100% (3/3) | 75.5% (80/106) | 83.3% (5/6) | 78.4% (98/125) |
 | External 2020-2026 genus-level | 90.0% (9/10) | 100% (3/3) | 91.5% (97/106) | 50.0% (3/6) | 89.6% (112/125) |
 | SILVA/UNITE Cross-val | 91.7% (11/12) | N/A | 72.7% (40/55) | 75.0% (3/4) | 76.1% (54/71) |
 | SILVA/UNITE genus-level | 91.7% (11/12) | N/A | 89.1% (49/55) | 100% (4/4) | 90.1% (64/71) |

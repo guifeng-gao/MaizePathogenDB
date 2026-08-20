@@ -53,6 +53,13 @@
       "oomycetes": {"n": 6, "correct": 1, "accuracy": 16.7},
       "overall": {"n": 125, "correct": 93, "accuracy": 74.4},
       "genus_overall": {"n": 125, "correct": 112, "accuracy": 89.6}
+    },
+    "external_2020_2026_ncbi_nt": {
+      "bacteria": {"n": 10, "db_correct": 7, "db_accuracy": 70.0, "ncbi_correct": 10, "ncbi_accuracy": 100.0},
+      "viruses": {"n": 3, "db_correct": 3, "db_accuracy": 100.0, "ncbi_correct": 3, "ncbi_accuracy": 100.0},
+      "fungi": {"n": 106, "db_correct": 82, "db_accuracy": 77.4, "ncbi_correct": 80, "ncbi_accuracy": 75.5},
+      "oomycetes": {"n": 6, "db_correct": 1, "db_accuracy": 16.7, "ncbi_correct": 5, "ncbi_accuracy": 83.3},
+      "overall": {"n": 125, "db_correct": 93, "db_accuracy": 74.4, "ncbi_correct": 98, "ncbi_accuracy": 78.4}
     }
   }
 }
