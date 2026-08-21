@@ -22,6 +22,8 @@ NEG_FASTA = os.path.join(OUT, "negative_queries.fasta")
 NEG_META = os.path.join(OUT, "negative_queries_meta.json")
 BLAST_DB = os.path.join(BASE, "blast_db", "maize_pathogens_all")
 BLAST_BIN = "/Users/gfgao/Desktop/blacksoil_metaG/tools/ncbi-blast-2.17.0+/bin/blastn"
+BACKGROUND_FASTA = os.path.join(OUT, "negative_queries.fasta")
+BACKGROUND_DB = os.path.join(OUT, "background_negatives")
 CATALOG = json.load(open("/Users/gfgao/Desktop/blacksoil_metaG/Figshare/taxonomy.json"))
 NCBI_150 = os.path.join(BASE, "docs", "validation", "ncbi_nt_comparison.json")
 
@@ -39,6 +41,10 @@ WORKERS = 6
 
 PID_THRESHOLD = 97.0
 QCOV_THRESHOLD = 90.0
+SPECIES_PID = 99.5
+SPECIES_QCOV = 99.0
+BACKGROUND_PID_GAP = 0.5
+BACKGROUND_QCOV = 90.0
 CAT_ORDER = ["bacteria", "viruses", "fungi", "oomycetes"]
 
 
@@ -116,13 +122,38 @@ def run_ourdb(queries):
                 "sseqid": parts[1], "pident": float(parts[2]),
                 "length": int(parts[3]), "qcovs": float(parts[4]),
             }
+    with tempfile.NamedTemporaryFile(mode="w", suffix=".fasta", delete=False) as f:
+        for q in queries:
+            f.write(f">{q['qid']}\n{q['seq']}\n")
+        bgfile = f.name
+    cmd_bg = (f'"{BLAST_BIN}" -query "{bgfile}" -db "{BACKGROUND_DB}" '
+              f'-outfmt "6 qseqid sseqid pident length qcovs bitscore evalue" '
+              f'-max_target_seqs 1 -num_threads 4')
+    proc_bg = subprocess.run(cmd_bg, shell=True, capture_output=True, text=True, timeout=1800)
+    os.unlink(bgfile)
+    bg_best = {}
+    for line in proc_bg.stdout.strip().splitlines():
+        parts = line.split("\t")
+        if len(parts) < 7:
+            continue
+        qid = parts[0]
+        if qid not in bg_best:
+            bg_best[qid] = {
+                "sseqid": parts[1], "pident": float(parts[2]),
+                "length": int(parts[3]), "qcovs": float(parts[4]),
+                "bitscore": float(parts[5]), "evalue": parts[6],
+            }
     results = []
     for q in queries:
         hit = best.get(q["qid"])
-        pred = bool(hit and hit["pident"] >= PID_THRESHOLD and hit["qcovs"] >= QCOV_THRESHOLD)
+        bg = bg_best.get(q["qid"])
+        candidate = bool(hit and hit["pident"] >= SPECIES_PID and hit["qcovs"] >= SPECIES_QCOV)
+        rejected = bool(bg and hit and bg["pident"] >= hit["pident"] - BACKGROUND_PID_GAP
+                        and bg["qcovs"] >= BACKGROUND_QCOV)
+        pred = candidate and not rejected
         results.append({
             "qid": q["qid"], "label": q["label"], "category": q["category"],
-            "predicted": pred, "hit": hit,
+            "predicted": pred, "hit": hit, "background_hit": bg,
         })
     with open(OURDB_FILE, "w") as f:
         json.dump({"results": results}, f, indent=2)
@@ -249,7 +280,7 @@ def classify_one(q, catalog_taxids, precomputed):
             time.sleep(10)
     accession = hit.get("accession", "")
     taxid = fetch_ncbi_taxid(accession)
-    predicted = bool(taxid) and hit["pident"] >= PID_THRESHOLD and taxid in catalog_taxids
+    predicted = bool(taxid) and hit["pident"] >= SPECIES_PID and taxid in catalog_taxids
     return {
         "qid": q["qid"], "label": q["label"], "category": q["category"],
         "predicted": predicted, "accession": accession, "taxid": taxid,
@@ -274,7 +305,7 @@ def run_ncbi(queries):
                 taxid = r.get("ncbi_taxid", "")
                 precomputed[q["qid"]] = {
                     "qid": q["qid"], "label": q["label"], "category": q["category"],
-                    "predicted": bool(taxid) and r.get("ncbi_pident", 0) >= PID_THRESHOLD and taxid in catalog_taxids,
+                    "predicted": bool(taxid) and r.get("ncbi_pident", 0) >= SPECIES_PID and taxid in catalog_taxids,
                     "accession": r.get("ncbi_accession", ""), "taxid": taxid,
                     "pident": r.get("ncbi_pident", 0), "top": r.get("ncbi_top", ""),
                 }
@@ -330,6 +361,9 @@ def metrics(predictions, label):
 def compute_metrics():
     ourdb = json.load(open(OURDB_FILE))["results"]
     ncbi = json.load(open(NCBI_FILE))["results"]
+    catalog_taxids = {str(r["taxid"]) for r in CATALOG}
+    for r in ncbi:
+        r["predicted"] = bool(r.get("taxid")) and r.get("pident", 0) >= SPECIES_PID and r.get("taxid") in catalog_taxids
     out = {"ourdb": {}, "ncbi_nt": {}}
     for name, rows in (("ourdb", ourdb), ("ncbi_nt", ncbi)):
         out[name]["overall"] = metrics(rows, name)

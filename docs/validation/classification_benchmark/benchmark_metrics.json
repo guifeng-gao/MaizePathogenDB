@@ -3,14 +3,14 @@
     "overall": {
       "n_pos": 573,
       "n_neg": 500,
-      "tp": 573,
-      "fn": 0,
-      "fp": 26,
-      "tn": 474,
-      "sensitivity": 100.0,
-      "specificity": 94.8,
-      "f1": 97.8,
-      "balanced_accuracy": 97.4
+      "tp": 570,
+      "fn": 3,
+      "fp": 0,
+      "tn": 500,
+      "sensitivity": 99.5,
+      "specificity": 100.0,
+      "f1": 99.7,
+      "balanced_accuracy": 99.7
     },
     "bacteria": {
       "n_pos": 51,
@@ -39,14 +39,14 @@
     "fungi": {
       "n_pos": 361,
       "n_neg": 250,
-      "tp": 361,
-      "fn": 0,
-      "fp": 26,
-      "tn": 224,
-      "sensitivity": 100.0,
-      "specificity": 89.6,
-      "f1": 96.5,
-      "balanced_accuracy": 94.8
+      "tp": 358,
+      "fn": 3,
+      "fp": 0,
+      "tn": 250,
+      "sensitivity": 99.2,
+      "specificity": 100.0,
+      "f1": 99.6,
+      "balanced_accuracy": 99.6
     },
     "oomycetes": {
       "n_pos": 65,
@@ -65,14 +65,14 @@
     "overall": {
       "n_pos": 573,
       "n_neg": 500,
-      "tp": 462,
-      "fn": 111,
+      "tp": 430,
+      "fn": 143,
       "fp": 2,
       "tn": 498,
-      "sensitivity": 80.6,
+      "sensitivity": 75.0,
       "specificity": 99.6,
-      "f1": 89.1,
-      "balanced_accuracy": 90.1
+      "f1": 85.6,
+      "balanced_accuracy": 87.3
     },
     "bacteria": {
       "n_pos": 51,
@@ -89,38 +89,38 @@
     "viruses": {
       "n_pos": 96,
       "n_neg": 100,
-      "tp": 93,
-      "fn": 3,
+      "tp": 89,
+      "fn": 7,
       "fp": 0,
       "tn": 100,
-      "sensitivity": 96.9,
+      "sensitivity": 92.7,
       "specificity": 100.0,
-      "f1": 98.4,
-      "balanced_accuracy": 98.4
+      "f1": 96.2,
+      "balanced_accuracy": 96.4
     },
     "fungi": {
       "n_pos": 361,
       "n_neg": 250,
-      "tp": 272,
-      "fn": 89,
+      "tp": 246,
+      "fn": 115,
       "fp": 2,
       "tn": 248,
-      "sensitivity": 75.3,
+      "sensitivity": 68.1,
       "specificity": 99.2,
-      "f1": 85.7,
-      "balanced_accuracy": 87.3
+      "f1": 80.8,
+      "balanced_accuracy": 83.7
     },
     "oomycetes": {
       "n_pos": 65,
       "n_neg": 50,
-      "tp": 57,
-      "fn": 8,
+      "tp": 55,
+      "fn": 10,
       "fp": 0,
       "tn": 50,
-      "sensitivity": 87.7,
+      "sensitivity": 84.6,
       "specificity": 100.0,
-      "f1": 93.4,
-      "balanced_accuracy": 93.8
+      "f1": 91.7,
+      "balanced_accuracy": 92.3
     }
   }
 }

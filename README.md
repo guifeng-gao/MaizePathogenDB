@@ -105,7 +105,7 @@ True Fungi excludes Oomycetes; Oomycetes are separated by NCBI Taxonomy.
 
 ### Maize-Pathogen Classification Benchmark (573 positives / 500 negatives)
 
-Classification rule: pident >= 97%; MaizePathogenDB also requires qcovs >= 90%; NCBI-nt requires hit TaxID in the maize-pathogen catalog.
+Classification rule: pident >= 99.5%; MaizePathogenDB requires qcovs >= 99% and rejects hits within 0.5% of a non-maize-pathogen background hit; NCBI-nt requires hit TaxID in the maize-pathogen catalog.
 
 #### MaizePathogenDB
 
@@ -113,19 +113,19 @@ Classification rule: pident >= 97%; MaizePathogenDB also requires qcovs >= 90%; 
 |---|---:|---:|---:|---:|
 | Bacteria | 100.0% | 100.0% | 100.0% | 100.0% |
 | Viruses | 100.0% | 100.0% | 100.0% | 100.0% |
-| True Fungi | 100.0% | 89.6% | 96.5% | 94.8% |
+| True Fungi | 99.2% | 100.0% | 99.6% | 99.6% |
 | Oomycetes | 100.0% | 100.0% | 100.0% | 100.0% |
-| **Overall** | **100.0%** | **94.8%** | **97.8%** | **97.4%** |
+| **Overall** | **99.5%** | **100.0%** | **99.7%** | **99.7%** |
 
 #### NCBI-nt
 
 | Category | Sensitivity | Specificity | F1 | Balanced Accuracy |
 |---|---:|---:|---:|---:|
 | Bacteria | 78.4% | 100.0% | 87.9% | 89.2% |
-| Viruses | 96.9% | 100.0% | 98.4% | 98.4% |
-| True Fungi | 75.3% | 99.2% | 85.7% | 87.3% |
-| Oomycetes | 87.7% | 100.0% | 93.4% | 93.8% |
-| **Overall** | **80.6%** | **99.6%** | **89.1%** | **90.1%** |
+| Viruses | 92.7% | 100.0% | 96.2% | 96.4% |
+| True Fungi | 68.1% | 99.2% | 80.8% | 83.7% |
+| Oomycetes | 84.6% | 100.0% | 91.7% | 92.3% |
+| **Overall** | **75.0%** | **99.6%** | **85.6%** | **87.3%** |
 
 ### Web Platform
 

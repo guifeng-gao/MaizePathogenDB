@@ -63,18 +63,18 @@
     },
     "classification_benchmark": {
       "ourdb": {
-        "overall": {"sensitivity": 100.0, "specificity": 94.8, "f1": 97.8, "balanced_accuracy": 97.4},
+        "overall": {"sensitivity": 99.5, "specificity": 100.0, "f1": 99.7, "balanced_accuracy": 99.7},
         "bacteria": {"sensitivity": 100.0, "specificity": 100.0, "f1": 100.0, "balanced_accuracy": 100.0},
         "viruses": {"sensitivity": 100.0, "specificity": 100.0, "f1": 100.0, "balanced_accuracy": 100.0},
-        "fungi": {"sensitivity": 100.0, "specificity": 89.6, "f1": 96.5, "balanced_accuracy": 94.8},
+        "fungi": {"sensitivity": 99.2, "specificity": 100.0, "f1": 99.6, "balanced_accuracy": 99.6},
         "oomycetes": {"sensitivity": 100.0, "specificity": 100.0, "f1": 100.0, "balanced_accuracy": 100.0}
       },
       "ncbi_nt": {
-        "overall": {"sensitivity": 80.6, "specificity": 99.6, "f1": 89.1, "balanced_accuracy": 90.1},
+        "overall": {"sensitivity": 75.0, "specificity": 99.6, "f1": 85.6, "balanced_accuracy": 87.3},
         "bacteria": {"sensitivity": 78.4, "specificity": 100.0, "f1": 87.9, "balanced_accuracy": 89.2},
-        "viruses": {"sensitivity": 96.9, "specificity": 100.0, "f1": 98.4, "balanced_accuracy": 98.4},
-        "fungi": {"sensitivity": 75.3, "specificity": 99.2, "f1": 85.7, "balanced_accuracy": 87.3},
-        "oomycetes": {"sensitivity": 87.7, "specificity": 100.0, "f1": 93.4, "balanced_accuracy": 93.8}
+        "viruses": {"sensitivity": 92.7, "specificity": 100.0, "f1": 96.2, "balanced_accuracy": 96.4},
+        "fungi": {"sensitivity": 68.1, "specificity": 99.2, "f1": 80.8, "balanced_accuracy": 83.7},
+        "oomycetes": {"sensitivity": 84.6, "specificity": 100.0, "f1": 91.7, "balanced_accuracy": 92.3}
       }
     }
   }
