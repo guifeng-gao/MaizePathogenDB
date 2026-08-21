@@ -30,9 +30,9 @@ Classification rules:
 | **Overall** | **573** | **500** | **75.0%** | **99.6%** | **85.6%** | **87.3%** |
 
 Notes:
-- With the stricter threshold and background rejection, MaizePathogenDB reaches 100% specificity on this negative set and higher F1/balanced accuracy than NCBI-nt.
-- Because the 573 positives are from MaizePathogenDB itself, its sensitivity remains favorable by design.
-- 70 NCBI-nt negative queries timed out or returned no TaxID and were treated as negative; all were negatives, so NCBI-nt specificity may be slightly optimistic.
+- With the stricter threshold and background rejection, MaizePathogenDB reached 100% specificity on this negative set and higher F1/balanced accuracy than NCBI-nt.
+- Because the 573 positives come from MaizePathogenDB itself, its sensitivity is expected to be high.
+- Some NCBI-nt negative queries timed out or returned no TaxID and were treated as negative. All were negatives, so NCBI-nt specificity may be slightly optimistic.
 
 Files:
 - `classification_benchmark/benchmark_metrics.json`

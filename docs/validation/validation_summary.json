@@ -1,6 +1,6 @@
 {
-  "database_version": "2026-08-19",
-  "validation_date": "2026-08-19",
+  "database_version": "2026-08-21",
+  "validation_date": "2026-08-21",
   "sequence_stats": {
     "bacteria": {
       "n": 51,
@@ -19,24 +19,34 @@
       "max": 13800
     },
     "fungi": {
-      "n": 426,
-      "taxa": 145,
-      "avg": 613.38,
-      "std": 174.93,
+      "n": 361,
+      "taxa": 122,
+      "avg": 581.81,
+      "std": 153.46,
       "min": 400,
       "max": 1811
+    },
+    "oomycetes": {
+      "n": 65,
+      "taxa": 23,
+      "avg": 788.74,
+      "std": 184.07,
+      "min": 469,
+      "max": 1574
     }
   },
   "validation_results": {
     "internal_self_hit": {
       "bacteria": {"n": 51, "correct": 51, "accuracy": 100.0},
       "viruses": {"n": 96, "correct": 96, "accuracy": 100.0},
-      "fungi": {"n": 426, "correct": 423, "accuracy": 99.3},
+      "fungi": {"n": 361, "correct": 358, "accuracy": 99.2},
+      "oomycetes": {"n": 65, "correct": 65, "accuracy": 100.0},
       "overall": {"n": 573, "correct": 570, "accuracy": 99.5}
     },
     "cross_validation_silva_unite": {
       "bacteria": {"n": 12, "correct": 11, "accuracy": 91.7},
-      "fungi": {"n": 59, "correct": 43, "accuracy": 72.9},
+      "fungi": {"n": 55, "correct": 40, "accuracy": 72.7},
+      "oomycetes": {"n": 4, "correct": 3, "accuracy": 75.0},
       "overall": {"n": 71, "correct": 54, "accuracy": 76.1}
     },
     "ncbi_nt_comparison_150": {

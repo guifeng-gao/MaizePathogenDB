@@ -15,7 +15,7 @@ A manually curated, multi-kingdom reference database of 225 maize-associated pat
 | Species with sequences | 198/225 |
 | Sequence coverage | 88.0% (198/225) |
 | BLAST nucleotide databases | 4 (all, bacteria, viruses, fungi) |
-| Taxonomic groups covered | 4 kingdoms (Bacteria, Fungi, Oomycota, Viruses) |
+| Taxonomic groups covered | 4 groups (Bacteria, Fungi, Oomycota, Viruses) |
 | Marker genes | 16S rRNA, ITS region, viral complete genomes |
 
 ### Breakdown by Taxonomic Group
@@ -24,14 +24,14 @@ A manually curated, multi-kingdom reference database of 225 maize-associated pat
 |---|---|---|---|---|
 | Bacteria | 21 | 51 | 16S rRNA | 90.5% (19/21) |
 | Viruses | 36 | 96 | Complete genome | 94.4% (34/36) |
-| True Fungi | 136 | 426 | ITS region | — |
-| Oomycetes | 32 | — | ITS region | — |
+| True Fungi | 136 | 361 | ITS region | 89.7% (122/136) |
+| Oomycetes | 32 | 65 | ITS region | 71.9% (23/32) |
 
 Note: True Fungi and Oomycetes are stored together in the fungi FASTA and BLAST database; 145 of 168 fungi/oomycete taxa have reference sequences.
 
 ### Species without Sequences (27)
 
-Fourteen taxa lack NCBI Taxonomy entries (kept in the catalog with TaxID `NOT_VERIFIED`) and an additional thirteen taxa lack publicly available marker gene sequences in NCBI GenBank at the time of database construction.
+Fourteen taxa lack an NCBI TaxID and are kept in the catalog with TaxID `NOT_VERIFIED`; an additional thirteen taxa lack publicly available marker gene sequences in NCBI GenBank at the time of database construction.
 
 ---
 
@@ -88,7 +88,7 @@ BLAST databases were built with NCBI BLAST+ 2.17.0 using `makeblastdb -dbtype nu
 | `docs/validation/validation_summary.json` | Current multi-method validation results |
 | `docs/validation/genus_accuracy_full.json` | Species-level vs genus-level accuracy |
 
-### Validation Summary (2026-08-19)
+### Validation Summary (2026-08-21)
 
 | Method | Bacteria | Viruses | True Fungi | Oomycetes | Overall |
 |---|---:|---:|---:|---:|---:|
@@ -182,7 +182,7 @@ Fields: TaxID (NCBI Taxonomy), Species (scientific name with synonym if applicab
 
 ## Taxonomy Reference
 
-All entries were manually verified against the [NCBI Taxonomy database](https://www.ncbi.nlm.nih.gov/taxonomy). Bacterial nomenclature follows ICNP. Viral taxonomy follows ICTV. Oomycetes are placed within Chromista (Stramenopiles) and annotated separately from true Fungi.
+Entries with an available TaxID were manually verified against the [NCBI Taxonomy database](https://www.ncbi.nlm.nih.gov/taxonomy); 14 entries remain without a TaxID. Bacterial nomenclature follows ICNP. Viral taxonomy follows ICTV. Oomycetes are placed within Chromista (Stramenopiles) and annotated separately from true Fungi.
 
 ---
 
@@ -198,7 +198,9 @@ All entries were manually verified against the [NCBI Taxonomy database](https://
 | `ncbi_nt_comparison_retry.py` | Retry timed-out NCBI-nt queries |
 | `external_validation.py` | External validation using 2020-2026 NCBI sequences |
 | `refseq_validation.py` | RefSeq cross-validation (legacy, not current) |
-| `update_database.py` | Full database update pipeline (Excel → sequences → BLAST DB → web) |
+| `build_classification_benchmark.py` | Build the classification benchmark query sets |
+| `classify_benchmark.py` | Run the MaizePathogenDB vs NCBI-nt classification benchmark |
+| `ncbi_nt_external_comparison.py` | Fair comparison on 125 external sequences |
 
 **Dependencies:** Python 3.8+ · Biopython · openpyxl · requests · matplotlib · numpy · BLAST+ 2.17.0
 
