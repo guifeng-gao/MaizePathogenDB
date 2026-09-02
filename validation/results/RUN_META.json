@@ -12,8 +12,13 @@
   "qc": "0 bad headers, 0 marker inconsistencies, 0 cross-category hits; removed 1 PDB-derived record",
   "blast_version": "BLAST+ 2.17.0",
   "ncbi_nt_snapshot": {
-    "status": "downloading",
+    "snapshot_date": "2026-08-23",
+    "source": "https://ftp.ncbi.nlm.nih.gov/blast/db/",
+    "volumes": 361,
+    "sequences": 130097750,
+    "total_bases": 4315573502030,
+    "status": "complete",
     "location": "external storage volume",
-    "session": "background download"
+    "manifest": "nt_snapshot_2026-08-23_manifest.md5"
   }
 }
