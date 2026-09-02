@@ -1,0 +1,301 @@
+{
+  "seed": 42,
+  "split": "by_taxid_stratified_by_category",
+  "thresholds": {
+    "species": [
+      99.0,
+      90.0
+    ],
+    "genus": [
+      95.0,
+      70.0
+    ]
+  },
+  "note": "fixed recommended thresholds; no threshold selection",
+  "categories": {
+    "bacteria": {
+      "category": "bacteria",
+      "n_pos_tune": 23,
+      "n_pos_val": 9,
+      "n_neg_tune": 60,
+      "n_neg_val": 40,
+      "levels": {
+        "species": {
+          "thresholds": {
+            "pident": 99.0,
+            "qcovs": 90.0
+          },
+          "tuning_metrics": {
+            "tp": 14,
+            "fp": 0,
+            "fn": 9,
+            "tn": 60,
+            "sensitivity": 60.9,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 75.7,
+            "balanced_accuracy": 80.4
+          },
+          "validation_metrics": {
+            "tp": 3,
+            "fp": 0,
+            "fn": 6,
+            "tn": 40,
+            "sensitivity": 33.3,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 50.0,
+            "balanced_accuracy": 66.7
+          }
+        },
+        "genus": {
+          "thresholds": {
+            "pident": 95.0,
+            "qcovs": 70.0
+          },
+          "tuning_metrics": {
+            "tp": 21,
+            "fp": 0,
+            "fn": 2,
+            "tn": 60,
+            "sensitivity": 91.3,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 95.5,
+            "balanced_accuracy": 95.7
+          },
+          "validation_metrics": {
+            "tp": 8,
+            "fp": 0,
+            "fn": 1,
+            "tn": 40,
+            "sensitivity": 88.9,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 94.1,
+            "balanced_accuracy": 94.4
+          }
+        }
+      }
+    },
+    "viruses": {
+      "category": "viruses",
+      "n_pos_tune": 14,
+      "n_pos_val": 16,
+      "n_neg_tune": 56,
+      "n_neg_val": 44,
+      "levels": {
+        "species": {
+          "thresholds": {
+            "pident": 99.0,
+            "qcovs": 90.0
+          },
+          "tuning_metrics": {
+            "tp": 10,
+            "fp": 0,
+            "fn": 4,
+            "tn": 56,
+            "sensitivity": 71.4,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 83.3,
+            "balanced_accuracy": 85.7
+          },
+          "validation_metrics": {
+            "tp": 8,
+            "fp": 0,
+            "fn": 8,
+            "tn": 44,
+            "sensitivity": 50.0,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 66.7,
+            "balanced_accuracy": 75.0
+          }
+        },
+        "genus": {
+          "thresholds": {
+            "pident": 95.0,
+            "qcovs": 70.0
+          },
+          "tuning_metrics": {
+            "tp": 13,
+            "fp": 0,
+            "fn": 1,
+            "tn": 56,
+            "sensitivity": 92.9,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 96.3,
+            "balanced_accuracy": 96.4
+          },
+          "validation_metrics": {
+            "tp": 14,
+            "fp": 0,
+            "fn": 2,
+            "tn": 44,
+            "sensitivity": 87.5,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 93.3,
+            "balanced_accuracy": 93.8
+          }
+        }
+      }
+    },
+    "fungi": {
+      "category": "fungi",
+      "n_pos_tune": 294,
+      "n_pos_val": 243,
+      "n_neg_tune": 136,
+      "n_neg_val": 114,
+      "levels": {
+        "species": {
+          "thresholds": {
+            "pident": 99.0,
+            "qcovs": 90.0
+          },
+          "tuning_metrics": {
+            "tp": 177,
+            "fp": 19,
+            "fn": 117,
+            "tn": 117,
+            "sensitivity": 60.2,
+            "specificity": 86.0,
+            "precision": 90.3,
+            "f1": 72.2,
+            "balanced_accuracy": 73.1
+          },
+          "validation_metrics": {
+            "tp": 141,
+            "fp": 12,
+            "fn": 102,
+            "tn": 102,
+            "sensitivity": 58.0,
+            "specificity": 89.5,
+            "precision": 92.2,
+            "f1": 71.2,
+            "balanced_accuracy": 73.7
+          }
+        },
+        "genus": {
+          "thresholds": {
+            "pident": 95.0,
+            "qcovs": 70.0
+          },
+          "tuning_metrics": {
+            "tp": 272,
+            "fp": 25,
+            "fn": 22,
+            "tn": 111,
+            "sensitivity": 92.5,
+            "specificity": 81.6,
+            "precision": 91.6,
+            "f1": 92.0,
+            "balanced_accuracy": 87.1
+          },
+          "validation_metrics": {
+            "tp": 221,
+            "fp": 18,
+            "fn": 22,
+            "tn": 96,
+            "sensitivity": 90.9,
+            "specificity": 84.2,
+            "precision": 92.5,
+            "f1": 91.7,
+            "balanced_accuracy": 87.6
+          }
+        }
+      }
+    },
+    "oomycetes": {
+      "category": "oomycetes",
+      "n_pos_tune": 45,
+      "n_pos_val": 31,
+      "n_neg_tune": 27,
+      "n_neg_val": 23,
+      "levels": {
+        "species": {
+          "thresholds": {
+            "pident": 99.0,
+            "qcovs": 90.0
+          },
+          "tuning_metrics": {
+            "tp": 36,
+            "fp": 0,
+            "fn": 9,
+            "tn": 27,
+            "sensitivity": 80.0,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 88.9,
+            "balanced_accuracy": 90.0
+          },
+          "validation_metrics": {
+            "tp": 22,
+            "fp": 0,
+            "fn": 9,
+            "tn": 23,
+            "sensitivity": 71.0,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 83.0,
+            "balanced_accuracy": 85.5
+          }
+        },
+        "genus": {
+          "thresholds": {
+            "pident": 95.0,
+            "qcovs": 70.0
+          },
+          "tuning_metrics": {
+            "tp": 44,
+            "fp": 1,
+            "fn": 1,
+            "tn": 26,
+            "sensitivity": 97.8,
+            "specificity": 96.3,
+            "precision": 97.8,
+            "f1": 97.8,
+            "balanced_accuracy": 97.0
+          },
+          "validation_metrics": {
+            "tp": 31,
+            "fp": 0,
+            "fn": 0,
+            "tn": 23,
+            "sensitivity": 100.0,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 100.0,
+            "balanced_accuracy": 100.0
+          }
+        }
+      }
+    }
+  },
+  "overall_validation": {
+    "species": {
+      "tp": 174,
+      "fp": 12,
+      "fn": 125,
+      "tn": 209,
+      "sensitivity": 58.2,
+      "specificity": 94.6,
+      "precision": 93.5,
+      "f1": 71.8,
+      "balanced_accuracy": 76.4
+    },
+    "genus": {
+      "tp": 274,
+      "fp": 18,
+      "fn": 25,
+      "tn": 203,
+      "sensitivity": 91.6,
+      "specificity": 91.9,
+      "precision": 93.8,
+      "f1": 92.7,
+      "balanced_accuracy": 91.7
+    }
+  }
+}

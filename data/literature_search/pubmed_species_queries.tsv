@@ -1,0 +1,226 @@
+species	taxid	category	search_string	hits	unique_pmids
+Acidovorax avenae subsp. avenae	80867	bacteria	"Acidovorax avenae subsp. avenae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Bacillus pumilus	1408	bacteria	"Bacillus pumilus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	27	27
+Burkholderia gladioli	28095	bacteria	"Burkholderia gladioli"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	18	18
+Clavibacter michiganensis subsp. nebraskensis	31963	bacteria	"Clavibacter michiganensis subsp. nebraskensis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Dickeya dadantii	204038	bacteria	"Dickeya dadantii"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Dickeya zeae	204042	bacteria	"Dickeya zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	12	12
+Enterobacter cloacae subsp. dissolvens	69219	bacteria	"Enterobacter cloacae subsp. dissolvens"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Klebsiella pneumoniae	573	bacteria	"Klebsiella pneumoniae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	50	50
+Pantoea agglomerans	549	bacteria	"Pantoea agglomerans"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	23	23
+Pantoea ananatis	553	bacteria	"Pantoea ananatis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	31	31
+Pantoea stewartii subsp. stewartii	66269	bacteria	"Pantoea stewartii subsp. stewartii"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	7	7
+Pectobacterium carotovorum	554	bacteria	"Pectobacterium carotovorum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	4	4
+Pseudomonas aeruginosa	287	bacteria	"Pseudomonas aeruginosa"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	103	103
+Pseudomonas asplenii	53407	bacteria	"Pseudomonas asplenii"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pseudomonas extremorientalis	169669	bacteria	"Pseudomonas extremorientalis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pseudomonas syringae pv. lapsa	199201	bacteria	"Pseudomonas syringae pv. lapsa"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pseudomonas syringae pv. syringae	321	bacteria	"Pseudomonas syringae pv. syringae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Robbsia andropogonis	28092	bacteria	"Robbsia andropogonis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	2	2
+Serratia marcescens	615	bacteria	"Serratia marcescens"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	27	27
+Stenotrophomonas maltophilia	40324	bacteria	"Stenotrophomonas maltophilia"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	12	12
+Xanthomonas vasicola pv. vasculorum	325776	bacteria	"Xanthomonas vasicola pv. vasculorum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	6	6
+Alphanucleorhabdovirus maydis	279896	viruses	"Alphanucleorhabdovirus maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Alphanucleorhabdovirus zeairanense	348823	viruses	"Alphanucleorhabdovirus zeairanense"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+American wheat striate mosaic virus	1985707	viruses	"American wheat striate mosaic virus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Aureusvirus zeae	445227	viruses	"Aureusvirus zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Betacytorhabdovirus hordei	2545470	viruses	"Betacytorhabdovirus hordei"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Bromovirus BMV	12302	viruses	"Bromovirus BMV"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Cucumovirus CMV	12305	viruses	"Cucumovirus CMV"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Emaravirus tritici	1980428	viruses	"Emaravirus tritici"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fijivirus alporyzae	10990	viruses	"Fijivirus alporyzae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fijivirus boryzae	519497	viruses	"Fijivirus boryzae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fijivirus cuartoense	185954	viruses	"Fijivirus cuartoense"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fijivirus zeae	10989	viruses	"Fijivirus zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Gammanucleorhabdovirus cerealis	2964312	viruses	"Gammanucleorhabdovirus cerealis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Gammanucleorhabdovirus maydis	209854	viruses	"Gammanucleorhabdovirus maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Hordeivirus hordei	12327	viruses	"Hordeivirus hordei"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Luteovirus mavhordei	2169984	viruses	"Luteovirus mavhordei"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Machlomovirus zeae	12138	viruses	"Machlomovirus zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Maize yellow stripe virus	328622	viruses	"Maize yellow stripe virus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Marafivirus maydis	59749	viruses	"Marafivirus maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Mastrevirus bourbonense	1182518	viruses	"Mastrevirus bourbonense"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Mastrevirus fulleri	2557970	viruses	"Mastrevirus fulleri"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Mastrevirus storeyi	10821	viruses	"Mastrevirus storeyi"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Polerovirus MAYMV	1856642	viruses	"Polerovirus MAYMV"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Polerovirus MYDVRMV	2170101	viruses	"Polerovirus MYDVRMV"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Potyvirus halapensis	31742	viruses	"Potyvirus halapensis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Potyvirus pennisseti	221262	viruses	"Potyvirus pennisseti"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Potyvirus sacchari	12224	viruses	"Potyvirus sacchari"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Potyvirus sorghitessellati	32619	viruses	"Potyvirus sorghitessellati"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Potyvirus zeananus	12203	viruses	"Potyvirus zeananus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Potyvirus zeatessellati	115232	viruses	"Potyvirus zeatessellati"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Tenuivirus oryzaclavatae	3052763	viruses	"Tenuivirus oryzaclavatae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Tenuivirus zeae	3052767	viruses	"Tenuivirus zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Totivirus jyukyu	1756285	viruses	"Totivirus jyukyu"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Tritimovirus tritici	31741	viruses	"Tritimovirus tritici"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Waikavirus zeae	51354	viruses	"Waikavirus zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Zeavirus zeae	137556	viruses	"Zeavirus zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)	39291	fungi	"Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Alternaria alternata	5599	fungi	"Alternaria alternata"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	55	55
+Alternaria burnsii	1187904	fungi	"Alternaria burnsii"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Alternaria tenuissima	119927	fungi	"Alternaria tenuissima"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	8	8
+Ascochyta maydis	NOT_VERIFIED	fungi	"Ascochyta maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Ascochyta zeae	NOT_VERIFIED	fungi	"Ascochyta zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Aspergillus flavus	5059	fungi	"Aspergillus flavus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	863	863
+Aspergillus glaucus	41413	fungi	"Aspergillus glaucus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	5	5
+Aspergillus niger	5061	fungi	"Aspergillus niger"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	298	298
+Aspergillus parasiticus	5067	fungi	"Aspergillus parasiticus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	120	120
+Aspergillus tamarii	41984	fungi	"Aspergillus tamarii"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	4	4
+Bipolaris maydis (Cochliobolus heterostrophus)	5016	fungi	"Bipolaris maydis (Cochliobolus heterostrophus)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Bipolaris sorokiniana (Cochliobolus sativus)	45130	fungi	"Bipolaris sorokiniana (Cochliobolus sativus)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Bipolaris zeicola (Cochliobolus carbonum)	5017	fungi	"Bipolaris zeicola (Cochliobolus carbonum)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Botryosphaeria zeae	NOT_VERIFIED	fungi	"Botryosphaeria zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Botrytis cinerea	40559	fungi	"Botrytis cinerea"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	43	43
+Ceratobasidium cereale (Rhizoctonia cerealis)	76351	fungi	"Ceratobasidium cereale (Rhizoctonia cerealis)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Ceratocystis paradoxa/Thielaviopsis paradoxa	13001	fungi	"Ceratocystis paradoxa/Thielaviopsis paradoxa"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Cercospora sorghi var. maydis	161743	fungi	"Cercospora sorghi var. maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Cercospora zeae-maydis	135779	fungi	"Cercospora zeae-maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	46	46
+Cercospora zeina	348901	fungi	"Cercospora zeina"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	31	31
+Cladosporium cladosporioides	29917	fungi	"Cladosporium cladosporioides"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	8	8
+Cladosporium herbarum	29918	fungi	"Cladosporium herbarum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Claviceps gigantea	89175	fungi	"Claviceps gigantea"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	2	2
+Colletotrichum graminicola /Glomerella graminicola	31870	fungi	"Colletotrichum graminicola /Glomerella graminicola"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Curvularia aeria / Curvularia lunata var. aeria	1203437	fungi	"Curvularia aeria / Curvularia lunata var. aeria"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Curvularia australiensis	91365	fungi	"Curvularia australiensis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Curvularia clavata	95742	fungi	"Curvularia clavata"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Curvularia eragrostidis	418125	fungi	"Curvularia eragrostidis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	2	2
+Curvularia geniculata(Cochliobolus geniculatus)	418126	fungi	"Curvularia geniculata(Cochliobolus geniculatus)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Curvularia inaequalis / Helminthosporium inaequale	38902	fungi	"Curvularia inaequalis / Helminthosporium inaequale"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Curvularia intermedia / Cochliobolus intermedius	95735	fungi	"Curvularia intermedia / Cochliobolus intermedius"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Curvularia lunata (Cochliobolus lunatus)	5503	fungi	"Curvularia lunata (Cochliobolus lunatus)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Curvularia pallescens	318706	fungi	"Curvularia pallescens"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Curvularia senegalensis / Brachysporium senegalense	215132	fungi	"Curvularia senegalensis / Brachysporium senegalense"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Curvularia tuberculata / Cochliobolus tuberculatus	1056642	fungi	"Curvularia tuberculata / Cochliobolus tuberculatus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Didymella exitialis / Neoascochyta exitialis	487631	fungi	"Didymella exitialis / Neoascochyta exitialis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Didymella maydis (Phyllosticta maydis)	259522	fungi	"Didymella maydis (Phyllosticta maydis)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Epicoccum nigrum	105696	fungi	"Epicoccum nigrum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	2	2
+Epicoccum sorghinum/Phoma sorghina	749593	fungi	"Epicoccum sorghinum/Phoma sorghina"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Eutiarosporella dactylidis	1608309	fungi	"Eutiarosporella dactylidis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Exserohilum rostratum (Setosphaeria rostrata)	1659837	fungi	"Exserohilum rostratum (Setosphaeria rostrata)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Exserohilum turcicum (Setosphaeria turcica)	93612	fungi	"Exserohilum turcicum (Setosphaeria turcica)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fusarium acuminatum	5515	fungi	"Fusarium acuminatum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	6	6
+Fusarium andiyazi	520446	fungi	"Fusarium andiyazi"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	5	5
+Fusarium asiaticum	282267	fungi	"Fusarium asiaticum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	10	10
+Fusarium avenaceum	40199	fungi	"Fusarium avenaceum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	10	10
+Fusarium boothii	282271	fungi	"Fusarium boothii"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	5	5
+Fusarium camptoceras	57143	fungi	"Fusarium camptoceras"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fusarium cerealis / Fusarium crookwellense	56641	fungi	"Fusarium cerealis / Fusarium crookwellense"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fusarium chlamydosporum	86545	fungi	"Fusarium chlamydosporum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Fusarium concentricum	48491	fungi	"Fusarium concentricum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fusarium culmorum	5516	fungi	"Fusarium culmorum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	51	51
+Fusarium equiseti	61235	fungi	"Fusarium equiseti"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	14	14
+Fusarium globosum	78864	fungi	"Fusarium globosum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	2	2
+Fusarium graminearum (Gibberella zeae)	5518	fungi	"Fusarium graminearum (Gibberella zeae)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fusarium incarnatum (F. semitectum)	298378	fungi	"Fusarium incarnatum (F. semitectum)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fusarium kyushuense	56665	fungi	"Fusarium kyushuense"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Fusarium meridionale	282269	fungi	"Fusarium meridionale"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	11	11
+Fusarium napiforme	42672	fungi	"Fusarium napiforme"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fusarium oxysporum	5507	fungi	"Fusarium oxysporum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	124	124
+Fusarium poae	36050	fungi	"Fusarium poae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	14	14
+Fusarium proliferatum	948311	fungi	"Fusarium proliferatum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	133	133
+Fusarium pseudograminearum	101028	fungi	"Fusarium pseudograminearum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	7	7
+Fusarium pseudonygamai	47755	fungi	"Fusarium pseudonygamai"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Fusarium sacchari	42676	fungi	"Fusarium sacchari"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	3	3
+Fusarium solani (Neocosmospora solani)	169388	fungi	"Fusarium solani (Neocosmospora solani)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Fusarium sporotrichioides	5514	fungi	"Fusarium sporotrichioides"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	16	16
+Fusarium subglutinans	42677	fungi	"Fusarium subglutinans"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	48	48
+Fusarium temperatum	1035347	fungi	"Fusarium temperatum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	22	22
+Fusarium tricinctum	61284	fungi	"Fusarium tricinctum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	21	21
+Fusarium verticillioides (Gibberella moniliformis)	117187	fungi	"Fusarium verticillioides (Gibberella moniliformis)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Gaeumannomyces graminis	29850	fungi	"Gaeumannomyces graminis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	3	3
+Gibberella fujikuroi (Fusarium fujikuroi)	5127	fungi	"Gibberella fujikuroi (Fusarium fujikuroi)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Gloeocercospora sorghi / Microdochium sorghi	1682391	fungi	"Gloeocercospora sorghi / Microdochium sorghi"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Gonatobotrys simplex	2713053	fungi	"Gonatobotrys simplex"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Graphium penicillioides	67620	fungi	"Graphium penicillioides"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)	80373	fungi	"Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Helminthosporium hawaiiensis / Curvularia hawaiiensis	1230527	fungi	"Helminthosporium hawaiiensis / Curvularia hawaiiensis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Helminthosporium pedicellatum/Exserohilum pedicellatum	119929	fungi	"Helminthosporium pedicellatum/Exserohilum pedicellatum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera	145392	fungi	"Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Hyalothyridium maydis / Orphanocoela maydis	NOT_VERIFIED	fungi	"Hyalothyridium maydis / Orphanocoela maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Kabatiella zeae (Aureobasidium zeae)	1592451	fungi	"Kabatiella zeae (Aureobasidium zeae)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Lasiodiplodia theobromae / Botryodiplodia tubericola	45133	fungi	"Lasiodiplodia theobromae / Botryodiplodia tubericola"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Leptosphaeria multiseptata / Entodesmium multiseptatum	NOT_VERIFIED	fungi	"Leptosphaeria multiseptata / Entodesmium multiseptatum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Leptosphaeria variiseptata / Phaeosphaeria variiseptata	NOT_VERIFIED	fungi	"Leptosphaeria variiseptata / Phaeosphaeria variiseptata"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Leptosphaerulina australis	318710	fungi	"Leptosphaerulina australis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Macrophomina phaseolina	35725	fungi	"Macrophomina phaseolina"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	31	31
+Marasmiellus inoderma	3021703	fungi	"Marasmiellus inoderma"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Marasmius graminum var. brevispora / Marasmius graminum	160937	fungi	"Marasmius graminum var. brevispora / Marasmius graminum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Marasmius sacchari var. hawaiiensis / Marasmius sacchar	2075139	fungi	"Marasmius sacchari var. hawaiiensis / Marasmius sacchar"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Microdochium bolleyi	196109	fungi	"Microdochium bolleyi"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Microdochium seminicola	1682390	fungi	"Microdochium seminicola"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Monographella maydis/Microdochium maydis	NOT_VERIFIED	fungi	"Monographella maydis/Microdochium maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Mucor circinelloides	36080	fungi	"Mucor circinelloides"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	14	14
+Mycosarcoma maydis (Ustilago maydis)	5270	fungi	"Mycosarcoma maydis (Ustilago maydis)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Nigrospora oryzae (Khuskia oryzae)	335854	fungi	"Nigrospora oryzae (Khuskia oryzae)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Paraphaeosphaeria michotii / Sphaeria michotii	125373	fungi	"Paraphaeosphaeria michotii / Sphaeria michotii"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Penicillium chrysogenum	5076	fungi	"Penicillium chrysogenum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	21	21
+Penicillium cyclopium	60167	fungi	"Penicillium cyclopium"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	8	8
+Penicillium funiculosum / Talaromyces funiculosus	28572	fungi	"Penicillium funiculosum / Talaromyces funiculosus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Penicillium oxalicum	69781	fungi	"Penicillium oxalicum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	40	40
+Penicillium verrucosum	60171	fungi	"Penicillium verrucosum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	20	20
+Phaeocytostroma ambiguum	935936	fungi	"Phaeocytostroma ambiguum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	2	2
+Phaeosphaeria herpotricha / Ophiosphaerella herpotricha	33175	fungi	"Phaeosphaeria herpotricha / Ophiosphaerella herpotricha"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Phaeosphaeria maydis	NOT_VERIFIED	fungi	"Phaeosphaeria maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Phialophora radicicola / Gaeumannomyces radicicola	1577605	fungi	"Phialophora radicicola / Gaeumannomyces radicicola"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Phyllachora maydis	1825666	fungi	"Phyllachora maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	26	26
+Physoderma maydis	276838	fungi	"Physoderma maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Physopella pallescens / Phakopsora pallescens	NOT_VERIFIED	fungi	"Physopella pallescens / Phakopsora pallescens"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Physopella zeae	NOT_VERIFIED	fungi	"Physopella zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Puccinia polysora	684837	fungi	"Puccinia polysora"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	51	51
+Puccinia sorghi	27349	fungi	"Puccinia sorghi"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	54	54
+Pyricularia oryzae (Magnaporthe oryzae)	318829	fungi	"Pyricularia oryzae (Magnaporthe oryzae)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Rhizoctonia solani (Thanatephorus cucumeris)	456999	fungi	"Rhizoctonia solani (Thanatephorus cucumeris)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Rhizopus arrhizus	64495	fungi	"Rhizopus arrhizus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	10	10
+Rhizopus stolonifer	4846	fungi	"Rhizopus stolonifer"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	10	10
+Sarocladium strictum (Acremonium strictum)	5046	fungi	"Sarocladium strictum (Acremonium strictum)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Sarocladium zeae/Acremonium zeae	1036732	fungi	"Sarocladium zeae/Acremonium zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Septoria maydis	NOT_VERIFIED	fungi	"Septoria maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Septoria zeina/Septoria zeae	NOT_VERIFIED	fungi	"Septoria zeina/Septoria zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )	798162	fungi	"Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Sporisorium reilianum (Sphacelotheca reiliana)	72558	fungi	"Sporisorium reilianum (Sphacelotheca reiliana)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Stenocarpella macrospora	371126	fungi	"Stenocarpella macrospora"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	7	7
+Stenocarpella maydis (Diplodia maydis)	238245	fungi	"Stenocarpella maydis (Diplodia maydis)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Talaromyces radicus	228353	fungi	"Talaromyces radicus"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Trichoderma afroharzianum	1567482	fungi	"Trichoderma afroharzianum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	7	7
+Trichoderma asperellum	101201	fungi	"Trichoderma asperellum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	34	34
+Trichoderma hamatum	49224	fungi	"Trichoderma hamatum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Trichoderma harzianum	5544	fungi	"Trichoderma harzianum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	61	61
+Trichoderma koningii	97093	fungi	"Trichoderma koningii"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	5	5
+Trichoderma roseum /Trichothecium roseum	47278	fungi	"Trichoderma roseum /Trichothecium roseum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Trichoderma viride	5547	fungi	"Trichoderma viride"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	44	44
+Ustilaginoidea virens	1159556	fungi	"Ustilaginoidea virens"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	4	4
+Waitea zeae (Rhizoctonia zeae)	49569	fungi	"Waitea zeae (Rhizoctonia zeae)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Xepiculopsis graminea/Myrothecium gramineum	226117	fungi	"Xepiculopsis graminea/Myrothecium gramineum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Globisporangium irregulare (Pythium irregulare)	36331	oomycetes	"Globisporangium irregulare (Pythium irregulare)"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Globisporangium rostratum (Pythium rostratum )	2711123	oomycetes	"Globisporangium rostratum (Pythium rostratum )"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Peronosclerospora heteropogonis	467162	oomycetes	"Peronosclerospora heteropogonis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Peronosclerospora maydis	886949	oomycetes	"Peronosclerospora maydis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Peronosclerospora miscanthi	1081076	oomycetes	"Peronosclerospora miscanthi"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Peronosclerospora philippinensis	886948	oomycetes	"Peronosclerospora philippinensis"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Peronosclerospora sacchari	467161	oomycetes	"Peronosclerospora sacchari"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Peronosclerospora sorghi	230839	oomycetes	"Peronosclerospora sorghi"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	12	12
+Peronosclerospora spontanea	NOT_VERIFIED	oomycetes	"Peronosclerospora spontanea"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium acanthicum	65069	oomycetes	"Pythium acanthicum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium adhaerens	289596	oomycetes	"Pythium adhaerens"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium angustatum	289598	oomycetes	"Pythium angustatum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium aphanidermatum	65070	oomycetes	"Pythium aphanidermatum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	13	13
+Pythium aristosporum	140044	oomycetes	"Pythium aristosporum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	3	3
+Pythium arrhenomanes	82932	oomycetes	"Pythium arrhenomanes"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	2	2
+Pythium debaryanum /Globisporangium debaryanum	231958	oomycetes	"Pythium debaryanum /Globisporangium debaryanum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium graminicola	82937	oomycetes	"Pythium graminicola"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Pythium helicoides / Phytopythium helicoides	126844	oomycetes	"Pythium helicoides / Phytopythium helicoides"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium inflatum	82938	oomycetes	"Pythium inflatum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	4	4
+Pythium lutarium	289618	oomycetes	"Pythium lutarium"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Pythium paroecandrum/ Globisporangium paroecandrum	2125995	oomycetes	"Pythium paroecandrum/ Globisporangium paroecandrum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium pulchrum / Globisporangium pulchrum	115420	oomycetes	"Pythium pulchrum / Globisporangium pulchrum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium schmitthenneri / Globisporangium schmitthenneri	1277646	oomycetes	"Pythium schmitthenneri / Globisporangium schmitthenneri"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium spinosum /Globisporangium spinosum	2125998	oomycetes	"Pythium spinosum /Globisporangium spinosum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium splendens/Globisporangium splendens	82926	oomycetes	"Pythium splendens/Globisporangium splendens"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium sylvaticum / Globisporangium sylvaticum	82950	oomycetes	"Pythium sylvaticum / Globisporangium sylvaticum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Pythium torulosum	4799	oomycetes	"Pythium torulosum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Pythium ultimum	2052682	oomycetes	"Pythium ultimum"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	16	16
+Pythium vexans/Phytopythium vexans	907947	oomycetes	"Pythium vexans/Phytopythium vexans"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Sclerophthora macrospora	467176	oomycetes	"Sclerophthora macrospora"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1
+Sclerophthora rayssiae / Sclerophthora rayssiae var. zeae	NOT_VERIFIED	oomycetes	"Sclerophthora rayssiae / Sclerophthora rayssiae var. zeae"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	0	0
+Sclerospora graminicola	162130	oomycetes	"Sclerospora graminicola"[Title/Abstract] AND (maize[Title/Abstract] OR corn[Title/Abstract] OR "Zea mays"[Title/Abstract])	1	1

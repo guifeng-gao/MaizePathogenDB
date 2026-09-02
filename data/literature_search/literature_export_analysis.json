@@ -1,0 +1,62 @@
+{
+  "run_date": "2026-08-26",
+  "wos": {
+    "file": "data/literature_search/wos_export/wos_ris_full.ris",
+    "raw_records": 18014,
+    "unique_records": 18014,
+    "unique_dois": 15816
+  },
+  "cnki": {
+    "files": [
+      {
+        "file": "CNKI-20260826103915475.enw",
+        "raw_records": 50
+      },
+      {
+        "file": "CNKI-20260826104047183.enw",
+        "raw_records": 500
+      },
+      {
+        "file": "CNKI-20260826104051480.enw",
+        "raw_records": 500
+      },
+      {
+        "file": "CNKI-20260826104202735.enw",
+        "raw_records": 500
+      },
+      {
+        "file": "CNKI-20260826104239790.enw",
+        "raw_records": 202
+      }
+    ],
+    "reported_search_hits": 1702,
+    "raw_records": 1752,
+    "duplicate_records": 553,
+    "unique_records": 1199,
+    "unique_doi_records": 397,
+    "unique_no_doi_records": 802,
+    "missing_vs_reported_hits": 503
+  },
+  "cross_source": {
+    "doi_overlap": 0,
+    "exact_title_overlap": 0,
+    "combined_unique_exported": 19213
+  },
+  "catalog_overlap": {
+    "candidate_citations": 260,
+    "candidate_species": 225,
+    "unique_citation_dois": 203,
+    "wos_unique_citation_dois": 77,
+    "wos_citation_rows_with_crossref_doi": 96,
+    "wos_citation_rows_with_any_doi": 96,
+    "wos_citation_rows_by_doi_or_title": 108,
+    "wos_unique_records_matching_catalog": 92,
+    "cnki_citation_rows_matched": 15,
+    "cnki_unique_records_matching_catalog": 5,
+    "cnki_species_with_matched_citation": 15,
+    "citation_dois_in_either": 80,
+    "pubmed_species_rows_matched": 33,
+    "rows_anchored_by_pubmed_wos_or_cnki": 140,
+    "species_anchored_by_pubmed_wos_or_cnki": 136
+  }
+}

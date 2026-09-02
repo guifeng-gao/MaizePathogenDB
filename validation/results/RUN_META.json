@@ -1,0 +1,19 @@
+{
+  "run_date": "2026-08-26",
+  "database_version": "release",
+  "total_sequences": 6133,
+  "species_with_sequences": 201,
+  "query_sets": {
+    "Q2_external_positives": 675,
+    "Q3_negatives": 500,
+    "Q4_cross_db": 565
+  },
+  "build": "frozen release; up to 30 representative sequences per species, excluding prior references and Q2 holdout",
+  "qc": "0 bad headers, 0 marker inconsistencies, 0 cross-category hits; removed 1 PDB-derived record",
+  "blast_version": "BLAST+ 2.17.0",
+  "ncbi_nt_snapshot": {
+    "status": "downloading",
+    "location": "external storage volume",
+    "session": "background download"
+  }
+}

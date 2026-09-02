@@ -1,0 +1,566 @@
+qid	taxid	species	category	accession	source	title	seq_len
+x00001	117187	Fusarium verticillioides (Gibberella moniliformis)	fungi	PZ625871.1	silva_unite	x00001|117187|Fusarium verticillioides (Gibberella moniliformis)|fungi|PZ625871.1	558
+x00002	117187	Fusarium verticillioides (Gibberella moniliformis)	fungi	PZ623892.1	silva_unite	x00002|117187|Fusarium verticillioides (Gibberella moniliformis)|fungi|PZ623892.1	584
+x00003	5059	Aspergillus flavus	fungi	PZ687126.1	silva_unite	x00003|5059|Aspergillus flavus|fungi|PZ687126.1	543
+x00004	5059	Aspergillus flavus	fungi	PZ658259.1	silva_unite	x00004|5059|Aspergillus flavus|fungi|PZ658259.1	539
+x00005	5059	Aspergillus flavus	fungi	PZ658212.1	silva_unite	x00005|5059|Aspergillus flavus|fungi|PZ658212.1	553
+x00006	5059	Aspergillus flavus	fungi	PZ683265.1	silva_unite	x00006|5059|Aspergillus flavus|fungi|PZ683265.1	705
+x00007	5059	Aspergillus flavus	fungi	PZ668821.1	silva_unite	x00007|5059|Aspergillus flavus|fungi|PZ668821.1	539
+x00008	5061	Aspergillus niger	fungi	PZ691414.1	silva_unite	x00008|5061|Aspergillus niger|fungi|PZ691414.1	261
+x00009	5061	Aspergillus niger	fungi	PZ683029.1	silva_unite	x00009|5061|Aspergillus niger|fungi|PZ683029.1	497
+x00010	456999	Rhizoctonia solani (Thanatephorus cucumeris)	fungi	PZ630069.1	silva_unite	x00010|456999|Rhizoctonia solani (Thanatephorus cucumeris)|fungi|PZ630069.1	304
+x00011	456999	Rhizoctonia solani (Thanatephorus cucumeris)	fungi	PZ627266.1	silva_unite	x00011|456999|Rhizoctonia solani (Thanatephorus cucumeris)|fungi|PZ627266.1	632
+x00012	5599	Alternaria alternata	fungi	PZ190089.1	silva_unite	x00012|5599|Alternaria alternata|fungi|PZ190089.1	529
+x00013	5599	Alternaria alternata	fungi	PZ190088.1	silva_unite	x00013|5599|Alternaria alternata|fungi|PZ190088.1	530
+x00014	169388	Fusarium solani (Neocosmospora solani)	fungi	PZ691958.1	silva_unite	x00014|169388|Fusarium solani (Neocosmospora solani)|fungi|PZ691958.1	284
+x00015	169388	Fusarium solani (Neocosmospora solani)	fungi	PZ691921.1	silva_unite	x00015|169388|Fusarium solani (Neocosmospora solani)|fungi|PZ691921.1	247
+x00016	40559	Botrytis cinerea	fungi	PZ671376.1	silva_unite	x00016|40559|Botrytis cinerea|fungi|PZ671376.1	508
+x00017	10821	Maize streak virus (MSV)	viruses	NC_001346.2	refseq	x00017|10821|Maize streak virus (MSV)|viruses|NC_001346.2	2689
+x00018	12224	Sugarcane mosaic virus (SCMV)	viruses	NC_003398.1	refseq	x00018|12224|Sugarcane mosaic virus (SCMV)|viruses|NC_003398.1	9596
+x00019	31741	Wheat streak mosaic virus (WSMV)	viruses	NC_001886.1	refseq	x00019|31741|Wheat streak mosaic virus (WSMV)|viruses|NC_001886.1	9384
+x00020	1408	Bacillus pumilus	bacteria	LN626894.1	ncbi	x00020|1408|Bacillus pumilus|bacteria|LN626894.1	361
+x00021	1408	Bacillus pumilus	bacteria	HG424711.1	ncbi	x00021|1408|Bacillus pumilus|bacteria|HG424711.1	1305
+x00022	1408	Bacillus pumilus	bacteria	HG424709.1	ncbi	x00022|1408|Bacillus pumilus|bacteria|HG424709.1	1401
+x00023	1408	Bacillus pumilus	bacteria	HG975590.1	ncbi	x00023|1408|Bacillus pumilus|bacteria|HG975590.1	1039
+x00024	1408	Bacillus pumilus	bacteria	AB968523.1	ncbi	x00024|1408|Bacillus pumilus|bacteria|AB968523.1	1372
+x00025	573	Klebsiella pneumoniae	bacteria	LC572262.1	ncbi	x00025|573|Klebsiella pneumoniae|bacteria|LC572262.1	1477
+x00026	573	Klebsiella pneumoniae	bacteria	LC571923.1	ncbi	x00026|573|Klebsiella pneumoniae|bacteria|LC571923.1	1462
+x00027	573	Klebsiella pneumoniae	bacteria	MT781409.1	ncbi	x00027|573|Klebsiella pneumoniae|bacteria|MT781409.1	1401
+x00028	573	Klebsiella pneumoniae	bacteria	LR861523.1	ncbi	x00028|573|Klebsiella pneumoniae|bacteria|LR861523.1	1031
+x00029	573	Klebsiella pneumoniae	bacteria	LC557048.1	ncbi	x00029|573|Klebsiella pneumoniae|bacteria|LC557048.1	1381
+x00030	549	Pantoea agglomerans	bacteria	HE588002.1	ncbi	x00030|549|Pantoea agglomerans|bacteria|HE588002.1	977
+x00031	549	Pantoea agglomerans	bacteria	HE863944.1	ncbi	x00031|549|Pantoea agglomerans|bacteria|HE863944.1	459
+x00032	549	Pantoea agglomerans	bacteria	HE805080.1	ncbi	x00032|549|Pantoea agglomerans|bacteria|HE805080.1	314
+x00033	549	Pantoea agglomerans	bacteria	AB681812.1	ncbi	x00033|549|Pantoea agglomerans|bacteria|AB681812.1	1466
+x00034	549	Pantoea agglomerans	bacteria	AB680316.1	ncbi	x00034|549|Pantoea agglomerans|bacteria|AB680316.1	1454
+x00035	287	Pseudomonas aeruginosa	bacteria	OX503248.1	ncbi	x00035|287|Pseudomonas aeruginosa|bacteria|OX503248.1	431
+x00036	287	Pseudomonas aeruginosa	bacteria	OX503247.1	ncbi	x00036|287|Pseudomonas aeruginosa|bacteria|OX503247.1	740
+x00037	287	Pseudomonas aeruginosa	bacteria	OX503246.1	ncbi	x00037|287|Pseudomonas aeruginosa|bacteria|OX503246.1	841
+x00038	287	Pseudomonas aeruginosa	bacteria	OX503245.1	ncbi	x00038|287|Pseudomonas aeruginosa|bacteria|OX503245.1	926
+x00039	287	Pseudomonas aeruginosa	bacteria	OX503244.1	ncbi	x00039|287|Pseudomonas aeruginosa|bacteria|OX503244.1	951
+x00040	615	Serratia marcescens	bacteria	HG799516.1	ncbi	x00040|615|Serratia marcescens|bacteria|HG799516.1	1427
+x00041	615	Serratia marcescens	bacteria	HG799509.1	ncbi	x00041|615|Serratia marcescens|bacteria|HG799509.1	460
+x00042	615	Serratia marcescens	bacteria	HG799507.1	ncbi	x00042|615|Serratia marcescens|bacteria|HG799507.1	460
+x00043	615	Serratia marcescens	bacteria	HG423362.1	ncbi	x00043|615|Serratia marcescens|bacteria|HG423362.1	1043
+x00044	615	Serratia marcescens	bacteria	HG008946.1	ncbi	x00044|615|Serratia marcescens|bacteria|HG008946.1	732
+x00045	40324	Stenotrophomonas maltophilia	bacteria	LR797754.1	ncbi	x00045|40324|Stenotrophomonas maltophilia|bacteria|LR797754.1	803
+x00046	40324	Stenotrophomonas maltophilia	bacteria	LR135565.1	ncbi	x00046|40324|Stenotrophomonas maltophilia|bacteria|LR135565.1	1000
+x00047	40324	Stenotrophomonas maltophilia	bacteria	LR135564.1	ncbi	x00047|40324|Stenotrophomonas maltophilia|bacteria|LR135564.1	1003
+x00048	40324	Stenotrophomonas maltophilia	bacteria	LR135563.1	ncbi	x00048|40324|Stenotrophomonas maltophilia|bacteria|LR135563.1	1015
+x00049	40324	Stenotrophomonas maltophilia	bacteria	LR135560.1	ncbi	x00049|40324|Stenotrophomonas maltophilia|bacteria|LR135560.1	1003
+x00050	12138	Machlomovirus zeae	viruses	MN718732.1	ncbi	x00050|12138|Machlomovirus zeae|viruses|MN718732.1	4420
+x00051	12138	Machlomovirus zeae	viruses	MK491606.1	ncbi	x00051|12138|Machlomovirus zeae|viruses|MK491606.1	4439
+x00052	12138	Machlomovirus zeae	viruses	MK491605.1	ncbi	x00052|12138|Machlomovirus zeae|viruses|MK491605.1	4439
+x00053	12138	Machlomovirus zeae	viruses	MK491604.1	ncbi	x00053|12138|Machlomovirus zeae|viruses|MK491604.1	4453
+x00054	12138	Machlomovirus zeae	viruses	MH205605.1	ncbi	x00054|12138|Machlomovirus zeae|viruses|MH205605.1	4436
+x00055	10821	Mastrevirus storeyi	viruses	OQ102043.1	ncbi	x00055|10821|Mastrevirus storeyi|viruses|OQ102043.1	2689
+x00056	10821	Mastrevirus storeyi	viruses	OQ102042.1	ncbi	x00056|10821|Mastrevirus storeyi|viruses|OQ102042.1	2689
+x00057	10821	Mastrevirus storeyi	viruses	ON193630.1	ncbi	x00057|10821|Mastrevirus storeyi|viruses|ON193630.1	2685
+x00058	10821	Mastrevirus storeyi	viruses	ON193629.1	ncbi	x00058|10821|Mastrevirus storeyi|viruses|ON193629.1	2685
+x00059	12224	Potyvirus sacchari	viruses	MH795798.1	ncbi	x00059|12224|Potyvirus sacchari|viruses|MH795798.1	9526
+x00060	12224	Potyvirus sacchari	viruses	MH795797.1	ncbi	x00060|12224|Potyvirus sacchari|viruses|MH795797.1	9558
+x00061	12224	Potyvirus sacchari	viruses	KU561096.1	ncbi	x00061|12224|Potyvirus sacchari|viruses|KU561096.1	9579
+x00062	12224	Potyvirus sacchari	viruses	MH093733.1	ncbi	x00062|12224|Potyvirus sacchari|viruses|MH093733.1	9623
+x00063	31741	Tritimovirus tritici	viruses	MW990191.1	ncbi	x00063|31741|Tritimovirus tritici|viruses|MW990191.1	9376
+x00064	31741	Tritimovirus tritici	viruses	MW990190.1	ncbi	x00064|31741|Tritimovirus tritici|viruses|MW990190.1	9374
+x00065	31741	Tritimovirus tritici	viruses	MW990189.1	ncbi	x00065|31741|Tritimovirus tritici|viruses|MW990189.1	9372
+x00066	31741	Tritimovirus tritici	viruses	MW990188.1	ncbi	x00066|31741|Tritimovirus tritici|viruses|MW990188.1	9384
+x00067	39291	Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)	fungi	PX971509.1	ncbi	x00067|39291|Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)|fungi|PX971509.1	625
+x00068	39291	Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)	fungi	PX957581.1	ncbi	x00068|39291|Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)|fungi|PX957581.1	680
+x00069	39291	Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)	fungi	PX927494.1	ncbi	x00069|39291|Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)|fungi|PX927494.1	627
+x00070	39291	Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)	fungi	PX925625.1	ncbi	x00070|39291|Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)|fungi|PX925625.1	641
+x00071	39291	Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)	fungi	PX915463.1	ncbi	x00071|39291|Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)|fungi|PX915463.1	484
+x00072	5599	Alternaria alternata	fungi	PZ597221.1	ncbi	x00072|5599|Alternaria alternata|fungi|PZ597221.1	539
+x00073	5599	Alternaria alternata	fungi	PZ597210.1	ncbi	x00073|5599|Alternaria alternata|fungi|PZ597210.1	540
+x00074	5599	Alternaria alternata	fungi	PZ096771.1	ncbi	x00074|5599|Alternaria alternata|fungi|PZ096771.1	514
+x00075	1187904	Alternaria burnsii	fungi	PP915570.1	ncbi	x00075|1187904|Alternaria burnsii|fungi|PP915570.1	455
+x00076	1187904	Alternaria burnsii	fungi	PP915569.1	ncbi	x00076|1187904|Alternaria burnsii|fungi|PP915569.1	456
+x00077	1187904	Alternaria burnsii	fungi	PP915567.1	ncbi	x00077|1187904|Alternaria burnsii|fungi|PP915567.1	455
+x00078	1187904	Alternaria burnsii	fungi	PP915565.1	ncbi	x00078|1187904|Alternaria burnsii|fungi|PP915565.1	457
+x00079	1187904	Alternaria burnsii	fungi	PP855652.1	ncbi	x00079|1187904|Alternaria burnsii|fungi|PP855652.1	483
+x00080	119927	Alternaria tenuissima	fungi	PZ306166.1	ncbi	x00080|119927|Alternaria tenuissima|fungi|PZ306166.1	530
+x00081	119927	Alternaria tenuissima	fungi	PZ281333.1	ncbi	x00081|119927|Alternaria tenuissima|fungi|PZ281333.1	532
+x00082	119927	Alternaria tenuissima	fungi	PZ278594.1	ncbi	x00082|119927|Alternaria tenuissima|fungi|PZ278594.1	540
+x00083	119927	Alternaria tenuissima	fungi	PZ278593.1	ncbi	x00083|119927|Alternaria tenuissima|fungi|PZ278593.1	546
+x00084	119927	Alternaria tenuissima	fungi	PZ278592.1	ncbi	x00084|119927|Alternaria tenuissima|fungi|PZ278592.1	542
+x00085	5061	Aspergillus niger	fungi	PZ730091.1	ncbi	x00085|5061|Aspergillus niger|fungi|PZ730091.1	324
+x00086	5061	Aspergillus niger	fungi	PZ730085.1	ncbi	x00086|5061|Aspergillus niger|fungi|PZ730085.1	326
+x00087	5061	Aspergillus niger	fungi	PZ730054.1	ncbi	x00087|5061|Aspergillus niger|fungi|PZ730054.1	321
+x00088	5067	Aspergillus parasiticus	fungi	OW988051.1	ncbi	x00088|5067|Aspergillus parasiticus|fungi|OW988051.1	593
+x00089	5067	Aspergillus parasiticus	fungi	OW987576.1	ncbi	x00089|5067|Aspergillus parasiticus|fungi|OW987576.1	600
+x00090	5067	Aspergillus parasiticus	fungi	OW983704.1	ncbi	x00090|5067|Aspergillus parasiticus|fungi|OW983704.1	596
+x00091	5067	Aspergillus parasiticus	fungi	OW982839.1	ncbi	x00091|5067|Aspergillus parasiticus|fungi|OW982839.1	554
+x00092	5067	Aspergillus parasiticus	fungi	MW629712.1	ncbi	x00092|5067|Aspergillus parasiticus|fungi|MW629712.1	567
+x00093	41984	Aspergillus tamarii	fungi	PV952701.1	ncbi	x00093|41984|Aspergillus tamarii|fungi|PV952701.1	553
+x00094	41984	Aspergillus tamarii	fungi	PV951570.1	ncbi	x00094|41984|Aspergillus tamarii|fungi|PV951570.1	603
+x00095	41984	Aspergillus tamarii	fungi	PV926753.1	ncbi	x00095|41984|Aspergillus tamarii|fungi|PV926753.1	638
+x00096	41984	Aspergillus tamarii	fungi	PV882464.1	ncbi	x00096|41984|Aspergillus tamarii|fungi|PV882464.1	392
+x00097	41984	Aspergillus tamarii	fungi	PV839787.1	ncbi	x00097|41984|Aspergillus tamarii|fungi|PV839787.1	609
+x00098	5016	Bipolaris maydis (Cochliobolus heterostrophus)	fungi	PP824365.1	ncbi	x00098|5016|Bipolaris maydis (Cochliobolus heterostrophus)|fungi|PP824365.1	509
+x00099	5016	Bipolaris maydis (Cochliobolus heterostrophus)	fungi	PP748465.1	ncbi	x00099|5016|Bipolaris maydis (Cochliobolus heterostrophus)|fungi|PP748465.1	542
+x00100	5016	Bipolaris maydis (Cochliobolus heterostrophus)	fungi	PP425929.1	ncbi	x00100|5016|Bipolaris maydis (Cochliobolus heterostrophus)|fungi|PP425929.1	558
+x00101	5016	Bipolaris maydis (Cochliobolus heterostrophus)	fungi	PP425927.1	ncbi	x00101|5016|Bipolaris maydis (Cochliobolus heterostrophus)|fungi|PP425927.1	480
+x00102	5016	Bipolaris maydis (Cochliobolus heterostrophus)	fungi	PP425926.1	ncbi	x00102|5016|Bipolaris maydis (Cochliobolus heterostrophus)|fungi|PP425926.1	531
+x00103	45130	Bipolaris sorokiniana (Cochliobolus sativus)	fungi	MH855159.1	ncbi	x00103|45130|Bipolaris sorokiniana (Cochliobolus sativus)|fungi|MH855159.1	590
+x00104	45130	Bipolaris sorokiniana (Cochliobolus sativus)	fungi	MH855027.1	ncbi	x00104|45130|Bipolaris sorokiniana (Cochliobolus sativus)|fungi|MH855027.1	583
+x00105	45130	Bipolaris sorokiniana (Cochliobolus sativus)	fungi	MH855026.1	ncbi	x00105|45130|Bipolaris sorokiniana (Cochliobolus sativus)|fungi|MH855026.1	478
+x00106	45130	Bipolaris sorokiniana (Cochliobolus sativus)	fungi	MH854770.1	ncbi	x00106|45130|Bipolaris sorokiniana (Cochliobolus sativus)|fungi|MH854770.1	584
+x00107	45130	Bipolaris sorokiniana (Cochliobolus sativus)	fungi	MH854628.1	ncbi	x00107|45130|Bipolaris sorokiniana (Cochliobolus sativus)|fungi|MH854628.1	510
+x00108	5017	Bipolaris zeicola (Cochliobolus carbonum)	fungi	MF193868.1	ncbi	x00108|5017|Bipolaris zeicola (Cochliobolus carbonum)|fungi|MF193868.1	563
+x00109	5017	Bipolaris zeicola (Cochliobolus carbonum)	fungi	KY570517.1	ncbi	x00109|5017|Bipolaris zeicola (Cochliobolus carbonum)|fungi|KY570517.1	704
+x00110	5017	Bipolaris zeicola (Cochliobolus carbonum)	fungi	KY570516.1	ncbi	x00110|5017|Bipolaris zeicola (Cochliobolus carbonum)|fungi|KY570516.1	581
+x00111	5017	Bipolaris zeicola (Cochliobolus carbonum)	fungi	KX834940.1	ncbi	x00111|5017|Bipolaris zeicola (Cochliobolus carbonum)|fungi|KX834940.1	546
+x00112	5017	Bipolaris zeicola (Cochliobolus carbonum)	fungi	KX834939.1	ncbi	x00112|5017|Bipolaris zeicola (Cochliobolus carbonum)|fungi|KX834939.1	544
+x00113	76351	Ceratobasidium cereale (Rhizoctonia cerealis)	fungi	OR980719.1	ncbi	x00113|76351|Ceratobasidium cereale (Rhizoctonia cerealis)|fungi|OR980719.1	645
+x00114	76351	Ceratobasidium cereale (Rhizoctonia cerealis)	fungi	OR980718.1	ncbi	x00114|76351|Ceratobasidium cereale (Rhizoctonia cerealis)|fungi|OR980718.1	645
+x00115	76351	Ceratobasidium cereale (Rhizoctonia cerealis)	fungi	OR980717.1	ncbi	x00115|76351|Ceratobasidium cereale (Rhizoctonia cerealis)|fungi|OR980717.1	644
+x00116	76351	Ceratobasidium cereale (Rhizoctonia cerealis)	fungi	OR980714.1	ncbi	x00116|76351|Ceratobasidium cereale (Rhizoctonia cerealis)|fungi|OR980714.1	371
+x00117	76351	Ceratobasidium cereale (Rhizoctonia cerealis)	fungi	OR980713.1	ncbi	x00117|76351|Ceratobasidium cereale (Rhizoctonia cerealis)|fungi|OR980713.1	371
+x00118	13001	Ceratocystis paradoxa/Thielaviopsis paradoxa	fungi	OQ422141.1	ncbi	x00118|13001|Ceratocystis paradoxa/Thielaviopsis paradoxa|fungi|OQ422141.1	519
+x00119	13001	Ceratocystis paradoxa/Thielaviopsis paradoxa	fungi	OQ422140.1	ncbi	x00119|13001|Ceratocystis paradoxa/Thielaviopsis paradoxa|fungi|OQ422140.1	519
+x00120	13001	Ceratocystis paradoxa/Thielaviopsis paradoxa	fungi	OQ422139.1	ncbi	x00120|13001|Ceratocystis paradoxa/Thielaviopsis paradoxa|fungi|OQ422139.1	519
+x00121	13001	Ceratocystis paradoxa/Thielaviopsis paradoxa	fungi	OQ422138.1	ncbi	x00121|13001|Ceratocystis paradoxa/Thielaviopsis paradoxa|fungi|OQ422138.1	519
+x00122	13001	Ceratocystis paradoxa/Thielaviopsis paradoxa	fungi	OQ422137.1	ncbi	x00122|13001|Ceratocystis paradoxa/Thielaviopsis paradoxa|fungi|OQ422137.1	518
+x00123	29917	Cladosporium cladosporioides	fungi	PX281980.1	ncbi	x00123|29917|Cladosporium cladosporioides|fungi|PX281980.1	663
+x00124	29917	Cladosporium cladosporioides	fungi	PZ542774.1	ncbi	x00124|29917|Cladosporium cladosporioides|fungi|PZ542774.1	498
+x00125	29917	Cladosporium cladosporioides	fungi	PZ526880.1	ncbi	x00125|29917|Cladosporium cladosporioides|fungi|PZ526880.1	504
+x00126	29917	Cladosporium cladosporioides	fungi	PZ520637.1	ncbi	x00126|29917|Cladosporium cladosporioides|fungi|PZ520637.1	425
+x00127	29917	Cladosporium cladosporioides	fungi	PZ502410.1	ncbi	x00127|29917|Cladosporium cladosporioides|fungi|PZ502410.1	554
+x00128	29918	Cladosporium herbarum	fungi	PP781107.1	ncbi	x00128|29918|Cladosporium herbarum|fungi|PP781107.1	532
+x00129	29918	Cladosporium herbarum	fungi	PP781062.1	ncbi	x00129|29918|Cladosporium herbarum|fungi|PP781062.1	535
+x00130	29918	Cladosporium herbarum	fungi	PP781005.1	ncbi	x00130|29918|Cladosporium herbarum|fungi|PP781005.1	533
+x00131	29918	Cladosporium herbarum	fungi	PP780985.1	ncbi	x00131|29918|Cladosporium herbarum|fungi|PP780985.1	611
+x00132	29918	Cladosporium herbarum	fungi	PV464652.1	ncbi	x00132|29918|Cladosporium herbarum|fungi|PV464652.1	522
+x00133	31870	Colletotrichum graminicola /Glomerella graminicola	fungi	MZ669971.1	ncbi	x00133|31870|Colletotrichum graminicola /Glomerella graminicola|fungi|MZ669971.1	509
+x00134	31870	Colletotrichum graminicola /Glomerella graminicola	fungi	MZ669970.1	ncbi	x00134|31870|Colletotrichum graminicola /Glomerella graminicola|fungi|MZ669970.1	465
+x00135	31870	Colletotrichum graminicola /Glomerella graminicola	fungi	MZ669969.1	ncbi	x00135|31870|Colletotrichum graminicola /Glomerella graminicola|fungi|MZ669969.1	515
+x00136	31870	Colletotrichum graminicola /Glomerella graminicola	fungi	MT704334.1	ncbi	x00136|31870|Colletotrichum graminicola /Glomerella graminicola|fungi|MT704334.1	533
+x00137	31870	Colletotrichum graminicola /Glomerella graminicola	fungi	AY376539.1	ncbi	x00137|31870|Colletotrichum graminicola /Glomerella graminicola|fungi|AY376539.1	537
+x00138	1203437	Curvularia aeria / Curvularia lunata var. aeria	fungi	MF380836.1	ncbi	x00138|1203437|Curvularia aeria / Curvularia lunata var. aeria|fungi|MF380836.1	536
+x00139	1203437	Curvularia aeria / Curvularia lunata var. aeria	fungi	MH384819.1	ncbi	x00139|1203437|Curvularia aeria / Curvularia lunata var. aeria|fungi|MH384819.1	573
+x00140	1203437	Curvularia aeria / Curvularia lunata var. aeria	fungi	LC314152.1	ncbi	x00140|1203437|Curvularia aeria / Curvularia lunata var. aeria|fungi|LC314152.1	525
+x00141	1203437	Curvularia aeria / Curvularia lunata var. aeria	fungi	LC314151.1	ncbi	x00141|1203437|Curvularia aeria / Curvularia lunata var. aeria|fungi|LC314151.1	524
+x00142	1203437	Curvularia aeria / Curvularia lunata var. aeria	fungi	LT631352.1	ncbi	x00142|1203437|Curvularia aeria / Curvularia lunata var. aeria|fungi|LT631352.1	676
+x00143	91365	Curvularia australiensis	fungi	KJ415540.1	ncbi	x00143|91365|Curvularia australiensis|fungi|KJ415540.1	395
+x00144	91365	Curvularia australiensis	fungi	KC999931.1	ncbi	x00144|91365|Curvularia australiensis|fungi|KC999931.1	551
+x00145	91365	Curvularia australiensis	fungi	KC999930.1	ncbi	x00145|91365|Curvularia australiensis|fungi|KC999930.1	488
+x00146	91365	Curvularia australiensis	fungi	LN482421.1	ncbi	x00146|91365|Curvularia australiensis|fungi|LN482421.1	633
+x00147	91365	Curvularia australiensis	fungi	KJ572131.1	ncbi	x00147|91365|Curvularia australiensis|fungi|KJ572131.1	556
+x00148	418125	Curvularia eragrostidis	fungi	MW082794.1	ncbi	x00148|418125|Curvularia eragrostidis|fungi|MW082794.1	567
+x00149	418125	Curvularia eragrostidis	fungi	MW082787.1	ncbi	x00149|418125|Curvularia eragrostidis|fungi|MW082787.1	568
+x00150	418125	Curvularia eragrostidis	fungi	MW077102.1	ncbi	x00150|418125|Curvularia eragrostidis|fungi|MW077102.1	592
+x00151	418125	Curvularia eragrostidis	fungi	MW077070.1	ncbi	x00151|418125|Curvularia eragrostidis|fungi|MW077070.1	586
+x00152	418125	Curvularia eragrostidis	fungi	MT740191.1	ncbi	x00152|418125|Curvularia eragrostidis|fungi|MT740191.1	546
+x00153	418126	Curvularia geniculata(Cochliobolus geniculatus)	fungi	PP565057.1	ncbi	x00153|418126|Curvularia geniculata(Cochliobolus geniculatus)|fungi|PP565057.1	547
+x00154	418126	Curvularia geniculata(Cochliobolus geniculatus)	fungi	PP565056.1	ncbi	x00154|418126|Curvularia geniculata(Cochliobolus geniculatus)|fungi|PP565056.1	549
+x00155	418126	Curvularia geniculata(Cochliobolus geniculatus)	fungi	PP565055.1	ncbi	x00155|418126|Curvularia geniculata(Cochliobolus geniculatus)|fungi|PP565055.1	549
+x00156	418126	Curvularia geniculata(Cochliobolus geniculatus)	fungi	PP564502.1	ncbi	x00156|418126|Curvularia geniculata(Cochliobolus geniculatus)|fungi|PP564502.1	503
+x00157	418126	Curvularia geniculata(Cochliobolus geniculatus)	fungi	PP069912.1	ncbi	x00157|418126|Curvularia geniculata(Cochliobolus geniculatus)|fungi|PP069912.1	541
+x00158	38902	Curvularia inaequalis / Helminthosporium inaequale	fungi	MF461013.1	ncbi	x00158|38902|Curvularia inaequalis / Helminthosporium inaequale|fungi|MF461013.1	495
+x00159	38902	Curvularia inaequalis / Helminthosporium inaequale	fungi	MF461012.1	ncbi	x00159|38902|Curvularia inaequalis / Helminthosporium inaequale|fungi|MF461012.1	379
+x00160	38902	Curvularia inaequalis / Helminthosporium inaequale	fungi	MF461011.1	ncbi	x00160|38902|Curvularia inaequalis / Helminthosporium inaequale|fungi|MF461011.1	452
+x00161	38902	Curvularia inaequalis / Helminthosporium inaequale	fungi	MF461010.1	ncbi	x00161|38902|Curvularia inaequalis / Helminthosporium inaequale|fungi|MF461010.1	501
+x00162	38902	Curvularia inaequalis / Helminthosporium inaequale	fungi	MH003886.1	ncbi	x00162|38902|Curvularia inaequalis / Helminthosporium inaequale|fungi|MH003886.1	546
+x00163	95735	Curvularia intermedia / Cochliobolus intermedius	fungi	KP269043.1	ncbi	x00163|95735|Curvularia intermedia / Cochliobolus intermedius|fungi|KP269043.1	523
+x00164	95735	Curvularia intermedia / Cochliobolus intermedius	fungi	KX611668.1	ncbi	x00164|95735|Curvularia intermedia / Cochliobolus intermedius|fungi|KX611668.1	620
+x00165	95735	Curvularia intermedia / Cochliobolus intermedius	fungi	KU715119.1	ncbi	x00165|95735|Curvularia intermedia / Cochliobolus intermedius|fungi|KU715119.1	465
+x00166	95735	Curvularia intermedia / Cochliobolus intermedius	fungi	KU856625.1	ncbi	x00166|95735|Curvularia intermedia / Cochliobolus intermedius|fungi|KU856625.1	604
+x00167	95735	Curvularia intermedia / Cochliobolus intermedius	fungi	KU856624.1	ncbi	x00167|95735|Curvularia intermedia / Cochliobolus intermedius|fungi|KU856624.1	491
+x00168	5503	Curvularia lunata (Cochliobolus lunatus)	fungi	PZ231152.1	ncbi	x00168|5503|Curvularia lunata (Cochliobolus lunatus)|fungi|PZ231152.1	269
+x00169	5503	Curvularia lunata (Cochliobolus lunatus)	fungi	PZ213122.1	ncbi	x00169|5503|Curvularia lunata (Cochliobolus lunatus)|fungi|PZ213122.1	1079
+x00170	5503	Curvularia lunata (Cochliobolus lunatus)	fungi	PZ213068.1	ncbi	x00170|5503|Curvularia lunata (Cochliobolus lunatus)|fungi|PZ213068.1	1044
+x00171	5503	Curvularia lunata (Cochliobolus lunatus)	fungi	PZ213061.1	ncbi	x00171|5503|Curvularia lunata (Cochliobolus lunatus)|fungi|PZ213061.1	1099
+x00172	5503	Curvularia lunata (Cochliobolus lunatus)	fungi	PZ204176.1	ncbi	x00172|5503|Curvularia lunata (Cochliobolus lunatus)|fungi|PZ204176.1	521
+x00173	105696	Epicoccum nigrum	fungi	PZ188700.1	ncbi	x00173|105696|Epicoccum nigrum|fungi|PZ188700.1	516
+x00174	105696	Epicoccum nigrum	fungi	PZ168014.1	ncbi	x00174|105696|Epicoccum nigrum|fungi|PZ168014.1	532
+x00175	105696	Epicoccum nigrum	fungi	PV107759.1	ncbi	x00175|105696|Epicoccum nigrum|fungi|PV107759.1	515
+x00176	105696	Epicoccum nigrum	fungi	PZ136810.1	ncbi	x00176|105696|Epicoccum nigrum|fungi|PZ136810.1	506
+x00177	105696	Epicoccum nigrum	fungi	PZ135011.1	ncbi	x00177|105696|Epicoccum nigrum|fungi|PZ135011.1	457
+x00178	749593	Epicoccum sorghinum/Phoma sorghina	fungi	PX832515.1	ncbi	x00178|749593|Epicoccum sorghinum/Phoma sorghina|fungi|PX832515.1	543
+x00179	749593	Epicoccum sorghinum/Phoma sorghina	fungi	PX763050.1	ncbi	x00179|749593|Epicoccum sorghinum/Phoma sorghina|fungi|PX763050.1	532
+x00180	749593	Epicoccum sorghinum/Phoma sorghina	fungi	PX763030.1	ncbi	x00180|749593|Epicoccum sorghinum/Phoma sorghina|fungi|PX763030.1	564
+x00181	749593	Epicoccum sorghinum/Phoma sorghina	fungi	PX763022.1	ncbi	x00181|749593|Epicoccum sorghinum/Phoma sorghina|fungi|PX763022.1	535
+x00182	749593	Epicoccum sorghinum/Phoma sorghina	fungi	PX762993.1	ncbi	x00182|749593|Epicoccum sorghinum/Phoma sorghina|fungi|PX762993.1	542
+x00183	1659837	Exserohilum rostratum (Setosphaeria rostrata)	fungi	PX659712.1	ncbi	x00183|1659837|Exserohilum rostratum (Setosphaeria rostrata)|fungi|PX659712.1	618
+x00184	1659837	Exserohilum rostratum (Setosphaeria rostrata)	fungi	PX659710.1	ncbi	x00184|1659837|Exserohilum rostratum (Setosphaeria rostrata)|fungi|PX659710.1	623
+x00185	1659837	Exserohilum rostratum (Setosphaeria rostrata)	fungi	PX659708.1	ncbi	x00185|1659837|Exserohilum rostratum (Setosphaeria rostrata)|fungi|PX659708.1	606
+x00186	1659837	Exserohilum rostratum (Setosphaeria rostrata)	fungi	PX518060.1	ncbi	x00186|1659837|Exserohilum rostratum (Setosphaeria rostrata)|fungi|PX518060.1	551
+x00187	1659837	Exserohilum rostratum (Setosphaeria rostrata)	fungi	PQ443943.1	ncbi	x00187|1659837|Exserohilum rostratum (Setosphaeria rostrata)|fungi|PQ443943.1	606
+x00188	93612	Exserohilum turcicum (Setosphaeria turcica)	fungi	PV436753.1	ncbi	x00188|93612|Exserohilum turcicum (Setosphaeria turcica)|fungi|PV436753.1	555
+x00189	93612	Exserohilum turcicum (Setosphaeria turcica)	fungi	PV436752.1	ncbi	x00189|93612|Exserohilum turcicum (Setosphaeria turcica)|fungi|PV436752.1	555
+x00190	93612	Exserohilum turcicum (Setosphaeria turcica)	fungi	PV436751.1	ncbi	x00190|93612|Exserohilum turcicum (Setosphaeria turcica)|fungi|PV436751.1	554
+x00191	93612	Exserohilum turcicum (Setosphaeria turcica)	fungi	PV436750.1	ncbi	x00191|93612|Exserohilum turcicum (Setosphaeria turcica)|fungi|PV436750.1	557
+x00192	93612	Exserohilum turcicum (Setosphaeria turcica)	fungi	PV436749.1	ncbi	x00192|93612|Exserohilum turcicum (Setosphaeria turcica)|fungi|PV436749.1	479
+x00193	5515	Fusarium acuminatum	fungi	PV073961.1	ncbi	x00193|5515|Fusarium acuminatum|fungi|PV073961.1	491
+x00194	5515	Fusarium acuminatum	fungi	PV073864.1	ncbi	x00194|5515|Fusarium acuminatum|fungi|PV073864.1	525
+x00195	5515	Fusarium acuminatum	fungi	PX633910.1	ncbi	x00195|5515|Fusarium acuminatum|fungi|PX633910.1	535
+x00196	5515	Fusarium acuminatum	fungi	PX633870.1	ncbi	x00196|5515|Fusarium acuminatum|fungi|PX633870.1	542
+x00197	5515	Fusarium acuminatum	fungi	PX633852.1	ncbi	x00197|5515|Fusarium acuminatum|fungi|PX633852.1	535
+x00198	520446	Fusarium andiyazi	fungi	KY590045.1	ncbi	x00198|520446|Fusarium andiyazi|fungi|KY590045.1	236
+x00199	520446	Fusarium andiyazi	fungi	MT919386.1	ncbi	x00199|520446|Fusarium andiyazi|fungi|MT919386.1	502
+x00200	520446	Fusarium andiyazi	fungi	MW207640.1	ncbi	x00200|520446|Fusarium andiyazi|fungi|MW207640.1	463
+x00201	520446	Fusarium andiyazi	fungi	MW207639.1	ncbi	x00201|520446|Fusarium andiyazi|fungi|MW207639.1	464
+x00202	520446	Fusarium andiyazi	fungi	MW048785.1	ncbi	x00202|520446|Fusarium andiyazi|fungi|MW048785.1	468
+x00203	282267	Fusarium asiaticum	fungi	OQ711830.1	ncbi	x00203|282267|Fusarium asiaticum|fungi|OQ711830.1	510
+x00204	282267	Fusarium asiaticum	fungi	OQ271379.1	ncbi	x00204|282267|Fusarium asiaticum|fungi|OQ271379.1	517
+x00205	282267	Fusarium asiaticum	fungi	OQ271378.1	ncbi	x00205|282267|Fusarium asiaticum|fungi|OQ271378.1	469
+x00206	282267	Fusarium asiaticum	fungi	OQ415214.1	ncbi	x00206|282267|Fusarium asiaticum|fungi|OQ415214.1	516
+x00207	282267	Fusarium asiaticum	fungi	OK623411.1	ncbi	x00207|282267|Fusarium asiaticum|fungi|OK623411.1	540
+x00208	40199	Fusarium avenaceum	fungi	PZ251163.1	ncbi	x00208|40199|Fusarium avenaceum|fungi|PZ251163.1	561
+x00209	40199	Fusarium avenaceum	fungi	PZ242100.1	ncbi	x00209|40199|Fusarium avenaceum|fungi|PZ242100.1	513
+x00210	40199	Fusarium avenaceum	fungi	PZ226504.1	ncbi	x00210|40199|Fusarium avenaceum|fungi|PZ226504.1	566
+x00211	40199	Fusarium avenaceum	fungi	PZ204179.1	ncbi	x00211|40199|Fusarium avenaceum|fungi|PZ204179.1	511
+x00212	40199	Fusarium avenaceum	fungi	PZ204177.1	ncbi	x00212|40199|Fusarium avenaceum|fungi|PZ204177.1	511
+x00213	282271	Fusarium boothii	fungi	OP163555.1	ncbi	x00213|282271|Fusarium boothii|fungi|OP163555.1	553
+x00214	282271	Fusarium boothii	fungi	OM194149.1	ncbi	x00214|282271|Fusarium boothii|fungi|OM194149.1	533
+x00215	282271	Fusarium boothii	fungi	MZ835624.1	ncbi	x00215|282271|Fusarium boothii|fungi|MZ835624.1	525
+x00216	282271	Fusarium boothii	fungi	MT908422.1	ncbi	x00216|282271|Fusarium boothii|fungi|MT908422.1	501
+x00217	282271	Fusarium boothii	fungi	MT658128.1	ncbi	x00217|282271|Fusarium boothii|fungi|MT658128.1	474
+x00218	56641	Fusarium cerealis / Fusarium crookwellense	fungi	MG979791.1	ncbi	x00218|56641|Fusarium cerealis / Fusarium crookwellense|fungi|MG979791.1	485
+x00219	56641	Fusarium cerealis / Fusarium crookwellense	fungi	MG979790.1	ncbi	x00219|56641|Fusarium cerealis / Fusarium crookwellense|fungi|MG979790.1	485
+x00220	56641	Fusarium cerealis / Fusarium crookwellense	fungi	MG979789.1	ncbi	x00220|56641|Fusarium cerealis / Fusarium crookwellense|fungi|MG979789.1	486
+x00221	56641	Fusarium cerealis / Fusarium crookwellense	fungi	MG979788.1	ncbi	x00221|56641|Fusarium cerealis / Fusarium crookwellense|fungi|MG979788.1	483
+x00222	56641	Fusarium cerealis / Fusarium crookwellense	fungi	MG881849.1	ncbi	x00222|56641|Fusarium cerealis / Fusarium crookwellense|fungi|MG881849.1	517
+x00223	86545	Fusarium chlamydosporum	fungi	PQ764033.1	ncbi	x00223|86545|Fusarium chlamydosporum|fungi|PQ764033.1	469
+x00224	86545	Fusarium chlamydosporum	fungi	PQ721294.1	ncbi	x00224|86545|Fusarium chlamydosporum|fungi|PQ721294.1	535
+x00225	86545	Fusarium chlamydosporum	fungi	PQ657501.1	ncbi	x00225|86545|Fusarium chlamydosporum|fungi|PQ657501.1	470
+x00226	86545	Fusarium chlamydosporum	fungi	PP758436.1	ncbi	x00226|86545|Fusarium chlamydosporum|fungi|PP758436.1	520
+x00227	86545	Fusarium chlamydosporum	fungi	OR799675.1	ncbi	x00227|86545|Fusarium chlamydosporum|fungi|OR799675.1	513
+x00228	48491	Fusarium concentricum	fungi	PQ443758.1	ncbi	x00228|48491|Fusarium concentricum|fungi|PQ443758.1	578
+x00229	48491	Fusarium concentricum	fungi	PQ443750.1	ncbi	x00229|48491|Fusarium concentricum|fungi|PQ443750.1	580
+x00230	48491	Fusarium concentricum	fungi	PQ193952.1	ncbi	x00230|48491|Fusarium concentricum|fungi|PQ193952.1	530
+x00231	48491	Fusarium concentricum	fungi	PQ193951.1	ncbi	x00231|48491|Fusarium concentricum|fungi|PQ193951.1	394
+x00232	48491	Fusarium concentricum	fungi	PQ193950.1	ncbi	x00232|48491|Fusarium concentricum|fungi|PQ193950.1	301
+x00233	5516	Fusarium culmorum	fungi	PV592493.1	ncbi	x00233|5516|Fusarium culmorum|fungi|PV592493.1	556
+x00234	5516	Fusarium culmorum	fungi	PV545040.1	ncbi	x00234|5516|Fusarium culmorum|fungi|PV545040.1	505
+x00235	5516	Fusarium culmorum	fungi	PV463221.1	ncbi	x00235|5516|Fusarium culmorum|fungi|PV463221.1	542
+x00236	5516	Fusarium culmorum	fungi	PV341168.1	ncbi	x00236|5516|Fusarium culmorum|fungi|PV341168.1	541
+x00237	5516	Fusarium culmorum	fungi	PV341167.1	ncbi	x00237|5516|Fusarium culmorum|fungi|PV341167.1	543
+x00238	61235	Fusarium equiseti	fungi	PZ501672.1	ncbi	x00238|61235|Fusarium equiseti|fungi|PZ501672.1	516
+x00239	61235	Fusarium equiseti	fungi	PZ478068.1	ncbi	x00239|61235|Fusarium equiseti|fungi|PZ478068.1	549
+x00240	61235	Fusarium equiseti	fungi	PZ478037.1	ncbi	x00240|61235|Fusarium equiseti|fungi|PZ478037.1	538
+x00241	61235	Fusarium equiseti	fungi	PV707027.1	ncbi	x00241|61235|Fusarium equiseti|fungi|PV707027.1	548
+x00242	61235	Fusarium equiseti	fungi	PZ226379.1	ncbi	x00242|61235|Fusarium equiseti|fungi|PZ226379.1	488
+x00243	5518	Fusarium graminearum (Gibberella zeae)	fungi	PZ282515.1	ncbi	x00243|5518|Fusarium graminearum (Gibberella zeae)|fungi|PZ282515.1	492
+x00244	5518	Fusarium graminearum (Gibberella zeae)	fungi	PZ278285.1	ncbi	x00244|5518|Fusarium graminearum (Gibberella zeae)|fungi|PZ278285.1	549
+x00245	5518	Fusarium graminearum (Gibberella zeae)	fungi	PZ278123.1	ncbi	x00245|5518|Fusarium graminearum (Gibberella zeae)|fungi|PZ278123.1	532
+x00246	5518	Fusarium graminearum (Gibberella zeae)	fungi	PZ278122.1	ncbi	x00246|5518|Fusarium graminearum (Gibberella zeae)|fungi|PZ278122.1	537
+x00247	5518	Fusarium graminearum (Gibberella zeae)	fungi	PZ278121.1	ncbi	x00247|5518|Fusarium graminearum (Gibberella zeae)|fungi|PZ278121.1	534
+x00248	298378	Fusarium incarnatum (F. semitectum)	fungi	PZ247592.1	ncbi	x00248|298378|Fusarium incarnatum (F. semitectum)|fungi|PZ247592.1	475
+x00249	298378	Fusarium incarnatum (F. semitectum)	fungi	PZ242102.1	ncbi	x00249|298378|Fusarium incarnatum (F. semitectum)|fungi|PZ242102.1	518
+x00250	298378	Fusarium incarnatum (F. semitectum)	fungi	PZ225388.1	ncbi	x00250|298378|Fusarium incarnatum (F. semitectum)|fungi|PZ225388.1	556
+x00251	298378	Fusarium incarnatum (F. semitectum)	fungi	PZ177418.1	ncbi	x00251|298378|Fusarium incarnatum (F. semitectum)|fungi|PZ177418.1	524
+x00252	298378	Fusarium incarnatum (F. semitectum)	fungi	PZ177417.1	ncbi	x00252|298378|Fusarium incarnatum (F. semitectum)|fungi|PZ177417.1	522
+x00253	56665	Fusarium kyushuense	fungi	U85547.1	ncbi	x00253|56665|Fusarium kyushuense|fungi|U85547.1	514
+x00254	56665	Fusarium kyushuense	fungi	U85546.1	ncbi	x00254|56665|Fusarium kyushuense|fungi|U85546.1	520
+x00255	5507	Fusarium oxysporum	fungi	PZ796548.1	ncbi	x00255|5507|Fusarium oxysporum|fungi|PZ796548.1	496
+x00256	5507	Fusarium oxysporum	fungi	PZ779749.1	ncbi	x00256|5507|Fusarium oxysporum|fungi|PZ779749.1	491
+x00257	5507	Fusarium oxysporum	fungi	PZ785146.1	ncbi	x00257|5507|Fusarium oxysporum|fungi|PZ785146.1	517
+x00258	5507	Fusarium oxysporum	fungi	PZ784883.1	ncbi	x00258|5507|Fusarium oxysporum|fungi|PZ784883.1	472
+x00259	5507	Fusarium oxysporum	fungi	PZ779570.1	ncbi	x00259|5507|Fusarium oxysporum|fungi|PZ779570.1	598
+x00260	36050	Fusarium poae	fungi	ON209611.1	ncbi	x00260|36050|Fusarium poae|fungi|ON209611.1	884
+x00261	36050	Fusarium poae	fungi	ON209609.1	ncbi	x00261|36050|Fusarium poae|fungi|ON209609.1	910
+x00262	36050	Fusarium poae	fungi	ON209608.1	ncbi	x00262|36050|Fusarium poae|fungi|ON209608.1	891
+x00263	36050	Fusarium poae	fungi	ON207931.1	ncbi	x00263|36050|Fusarium poae|fungi|ON207931.1	846
+x00264	36050	Fusarium poae	fungi	ON207930.1	ncbi	x00264|36050|Fusarium poae|fungi|ON207930.1	892
+x00265	948311	Fusarium proliferatum	fungi	MH865926.1	ncbi	x00265|948311|Fusarium proliferatum|fungi|MH865926.1	556
+x00266	948311	Fusarium proliferatum	fungi	MH865925.1	ncbi	x00266|948311|Fusarium proliferatum|fungi|MH865925.1	560
+x00267	948311	Fusarium proliferatum	fungi	MH865920.1	ncbi	x00267|948311|Fusarium proliferatum|fungi|MH865920.1	559
+x00268	948311	Fusarium proliferatum	fungi	MH865741.1	ncbi	x00268|948311|Fusarium proliferatum|fungi|MH865741.1	528
+x00269	948311	Fusarium proliferatum	fungi	MH863645.1	ncbi	x00269|948311|Fusarium proliferatum|fungi|MH863645.1	559
+x00270	101028	Fusarium pseudograminearum	fungi	OK465188.1	ncbi	x00270|101028|Fusarium pseudograminearum|fungi|OK465188.1	582
+x00271	101028	Fusarium pseudograminearum	fungi	MZ605199.1	ncbi	x00271|101028|Fusarium pseudograminearum|fungi|MZ605199.1	502
+x00272	101028	Fusarium pseudograminearum	fungi	MZ605198.1	ncbi	x00272|101028|Fusarium pseudograminearum|fungi|MZ605198.1	507
+x00273	101028	Fusarium pseudograminearum	fungi	MZ605197.1	ncbi	x00273|101028|Fusarium pseudograminearum|fungi|MZ605197.1	517
+x00274	101028	Fusarium pseudograminearum	fungi	MZ605196.1	ncbi	x00274|101028|Fusarium pseudograminearum|fungi|MZ605196.1	501
+x00275	42676	Fusarium sacchari	fungi	PX246654.1	ncbi	x00275|42676|Fusarium sacchari|fungi|PX246654.1	517
+x00276	42676	Fusarium sacchari	fungi	PX246653.1	ncbi	x00276|42676|Fusarium sacchari|fungi|PX246653.1	543
+x00277	42676	Fusarium sacchari	fungi	PX246652.1	ncbi	x00277|42676|Fusarium sacchari|fungi|PX246652.1	529
+x00278	42676	Fusarium sacchari	fungi	PX246651.1	ncbi	x00278|42676|Fusarium sacchari|fungi|PX246651.1	521
+x00279	42676	Fusarium sacchari	fungi	PX246649.1	ncbi	x00279|42676|Fusarium sacchari|fungi|PX246649.1	525
+x00280	169388	Fusarium solani (Neocosmospora solani)	fungi	PZ724245.1	ncbi	x00280|169388|Fusarium solani (Neocosmospora solani)|fungi|PZ724245.1	440
+x00281	169388	Fusarium solani (Neocosmospora solani)	fungi	PZ716596.1	ncbi	x00281|169388|Fusarium solani (Neocosmospora solani)|fungi|PZ716596.1	566
+x00282	169388	Fusarium solani (Neocosmospora solani)	fungi	PZ710489.1	ncbi	x00282|169388|Fusarium solani (Neocosmospora solani)|fungi|PZ710489.1	487
+x00283	5514	Fusarium sporotrichioides	fungi	PX369179.1	ncbi	x00283|5514|Fusarium sporotrichioides|fungi|PX369179.1	522
+x00284	5514	Fusarium sporotrichioides	fungi	PX363274.1	ncbi	x00284|5514|Fusarium sporotrichioides|fungi|PX363274.1	294
+x00285	5514	Fusarium sporotrichioides	fungi	PX363262.1	ncbi	x00285|5514|Fusarium sporotrichioides|fungi|PX363262.1	294
+x00286	5514	Fusarium sporotrichioides	fungi	PX118489.1	ncbi	x00286|5514|Fusarium sporotrichioides|fungi|PX118489.1	666
+x00287	5514	Fusarium sporotrichioides	fungi	PX118448.1	ncbi	x00287|5514|Fusarium sporotrichioides|fungi|PX118448.1	519
+x00288	42677	Fusarium subglutinans	fungi	OQ533556.1	ncbi	x00288|42677|Fusarium subglutinans|fungi|OQ533556.1	566
+x00289	42677	Fusarium subglutinans	fungi	OQ533541.1	ncbi	x00289|42677|Fusarium subglutinans|fungi|OQ533541.1	572
+x00290	42677	Fusarium subglutinans	fungi	OQ450154.1	ncbi	x00290|42677|Fusarium subglutinans|fungi|OQ450154.1	542
+x00291	42677	Fusarium subglutinans	fungi	MW020026.1	ncbi	x00291|42677|Fusarium subglutinans|fungi|MW020026.1	551
+x00292	42677	Fusarium subglutinans	fungi	OL439085.1	ncbi	x00292|42677|Fusarium subglutinans|fungi|OL439085.1	429
+x00293	61284	Fusarium tricinctum	fungi	PV109744.1	ncbi	x00293|61284|Fusarium tricinctum|fungi|PV109744.1	557
+x00294	61284	Fusarium tricinctum	fungi	PV109743.1	ncbi	x00294|61284|Fusarium tricinctum|fungi|PV109743.1	555
+x00295	61284	Fusarium tricinctum	fungi	PZ135134.1	ncbi	x00295|61284|Fusarium tricinctum|fungi|PZ135134.1	466
+x00296	61284	Fusarium tricinctum	fungi	PZ135133.1	ncbi	x00296|61284|Fusarium tricinctum|fungi|PZ135133.1	487
+x00297	61284	Fusarium tricinctum	fungi	PZ059936.1	ncbi	x00297|61284|Fusarium tricinctum|fungi|PZ059936.1	538
+x00298	117187	Fusarium verticillioides (Gibberella moniliformis)	fungi	PZ734322.1	ncbi	x00298|117187|Fusarium verticillioides (Gibberella moniliformis)|fungi|PZ734322.1	536
+x00299	117187	Fusarium verticillioides (Gibberella moniliformis)	fungi	PZ734321.1	ncbi	x00299|117187|Fusarium verticillioides (Gibberella moniliformis)|fungi|PZ734321.1	560
+x00300	117187	Fusarium verticillioides (Gibberella moniliformis)	fungi	PZ734320.1	ncbi	x00300|117187|Fusarium verticillioides (Gibberella moniliformis)|fungi|PZ734320.1	539
+x00301	29850	Gaeumannomyces graminis	fungi	KF018415.1	ncbi	x00301|29850|Gaeumannomyces graminis|fungi|KF018415.1	616
+x00302	29850	Gaeumannomyces graminis	fungi	JX134669.1	ncbi	x00302|29850|Gaeumannomyces graminis|fungi|JX134669.1	519
+x00303	29850	Gaeumannomyces graminis	fungi	KC415584.1	ncbi	x00303|29850|Gaeumannomyces graminis|fungi|KC415584.1	468
+x00304	29850	Gaeumannomyces graminis	fungi	JX491101.1	ncbi	x00304|29850|Gaeumannomyces graminis|fungi|JX491101.1	337
+x00305	29850	Gaeumannomyces graminis	fungi	JQ303334.1	ncbi	x00305|29850|Gaeumannomyces graminis|fungi|JQ303334.1	486
+x00306	5127	Gibberella fujikuroi (Fusarium fujikuroi)	fungi	PZ070785.1	ncbi	x00306|5127|Gibberella fujikuroi (Fusarium fujikuroi)|fungi|PZ070785.1	560
+x00307	5127	Gibberella fujikuroi (Fusarium fujikuroi)	fungi	PZ070783.1	ncbi	x00307|5127|Gibberella fujikuroi (Fusarium fujikuroi)|fungi|PZ070783.1	1024
+x00308	5127	Gibberella fujikuroi (Fusarium fujikuroi)	fungi	PX588008.1	ncbi	x00308|5127|Gibberella fujikuroi (Fusarium fujikuroi)|fungi|PX588008.1	259
+x00309	5127	Gibberella fujikuroi (Fusarium fujikuroi)	fungi	PZ039073.1	ncbi	x00309|5127|Gibberella fujikuroi (Fusarium fujikuroi)|fungi|PZ039073.1	441
+x00310	5127	Gibberella fujikuroi (Fusarium fujikuroi)	fungi	PZ039072.1	ncbi	x00310|5127|Gibberella fujikuroi (Fusarium fujikuroi)|fungi|PZ039072.1	321
+x00311	1682391	Gloeocercospora sorghi / Microdochium sorghi	fungi	OR150490.1	ncbi	x00311|1682391|Gloeocercospora sorghi / Microdochium sorghi|fungi|OR150490.1	500
+x00312	1682391	Gloeocercospora sorghi / Microdochium sorghi	fungi	MH384910.1	ncbi	x00312|1682391|Gloeocercospora sorghi / Microdochium sorghi|fungi|MH384910.1	622
+x00313	1682391	Gloeocercospora sorghi / Microdochium sorghi	fungi	KP859000.1	ncbi	x00313|1682391|Gloeocercospora sorghi / Microdochium sorghi|fungi|KP859000.1	522
+x00314	1682391	Gloeocercospora sorghi / Microdochium sorghi	fungi	KY862005.1	ncbi	x00314|1682391|Gloeocercospora sorghi / Microdochium sorghi|fungi|KY862005.1	531
+x00315	1682391	Gloeocercospora sorghi / Microdochium sorghi	fungi	LC063855.1	ncbi	x00315|1682391|Gloeocercospora sorghi / Microdochium sorghi|fungi|LC063855.1	1118
+x00316	80373	Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)	fungi	AY428785.1	ncbi	x00316|80373|Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)|fungi|AY428785.1	555
+x00317	80373	Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)	fungi	AJ010028.1	ncbi	x00317|80373|Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)|fungi|AJ010028.1	514
+x00318	80373	Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)	fungi	AJ010027.1	ncbi	x00318|80373|Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)|fungi|AJ010027.1	517
+x00319	80373	Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)	fungi	AJ010026.1	ncbi	x00319|80373|Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)|fungi|AJ010026.1	516
+x00320	1230527	Helminthosporium hawaiiensis / Curvularia hawaiiensis	fungi	OL684965.1	ncbi	x00320|1230527|Helminthosporium hawaiiensis / Curvularia hawaiiensis|fungi|OL684965.1	462
+x00321	1230527	Helminthosporium hawaiiensis / Curvularia hawaiiensis	fungi	MW151778.1	ncbi	x00321|1230527|Helminthosporium hawaiiensis / Curvularia hawaiiensis|fungi|MW151778.1	540
+x00322	1230527	Helminthosporium hawaiiensis / Curvularia hawaiiensis	fungi	OK397200.1	ncbi	x00322|1230527|Helminthosporium hawaiiensis / Curvularia hawaiiensis|fungi|OK397200.1	520
+x00323	1230527	Helminthosporium hawaiiensis / Curvularia hawaiiensis	fungi	OK355359.1	ncbi	x00323|1230527|Helminthosporium hawaiiensis / Curvularia hawaiiensis|fungi|OK355359.1	539
+x00324	1230527	Helminthosporium hawaiiensis / Curvularia hawaiiensis	fungi	MZ045513.1	ncbi	x00324|1230527|Helminthosporium hawaiiensis / Curvularia hawaiiensis|fungi|MZ045513.1	508
+x00325	145392	Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera	fungi	PQ587293.1	ncbi	x00325|145392|Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera|fungi|PQ587293.1	560
+x00326	145392	Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera	fungi	PV078619.1	ncbi	x00326|145392|Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera|fungi|PV078619.1	541
+x00327	145392	Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera	fungi	PV056889.1	ncbi	x00327|145392|Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera|fungi|PV056889.1	566
+x00328	145392	Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera	fungi	PV056568.1	ncbi	x00328|145392|Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera|fungi|PV056568.1	571
+x00329	145392	Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera	fungi	PV021262.1	ncbi	x00329|145392|Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera|fungi|PV021262.1	576
+x00330	1592451	Kabatiella zeae (Aureobasidium zeae)	fungi	LS484449.1	ncbi	x00330|1592451|Kabatiella zeae (Aureobasidium zeae)|fungi|LS484449.1	163
+x00331	1592451	Kabatiella zeae (Aureobasidium zeae)	fungi	LS483836.1	ncbi	x00331|1592451|Kabatiella zeae (Aureobasidium zeae)|fungi|LS483836.1	162
+x00332	1592451	Kabatiella zeae (Aureobasidium zeae)	fungi	KT693745.1	ncbi	x00332|1592451|Kabatiella zeae (Aureobasidium zeae)|fungi|KT693745.1	536
+x00333	1592451	Kabatiella zeae (Aureobasidium zeae)	fungi	KP226696.1	ncbi	x00333|1592451|Kabatiella zeae (Aureobasidium zeae)|fungi|KP226696.1	557
+x00334	1592451	Kabatiella zeae (Aureobasidium zeae)	fungi	KP067091.1	ncbi	x00334|1592451|Kabatiella zeae (Aureobasidium zeae)|fungi|KP067091.1	590
+x00335	45133	Lasiodiplodia theobromae / Botryodiplodia tubericola	fungi	PZ556908.1	ncbi	x00335|45133|Lasiodiplodia theobromae / Botryodiplodia tubericola|fungi|PZ556908.1	293
+x00336	45133	Lasiodiplodia theobromae / Botryodiplodia tubericola	fungi	PZ544461.1	ncbi	x00336|45133|Lasiodiplodia theobromae / Botryodiplodia tubericola|fungi|PZ544461.1	513
+x00337	45133	Lasiodiplodia theobromae / Botryodiplodia tubericola	fungi	PZ544460.1	ncbi	x00337|45133|Lasiodiplodia theobromae / Botryodiplodia tubericola|fungi|PZ544460.1	516
+x00338	45133	Lasiodiplodia theobromae / Botryodiplodia tubericola	fungi	PZ536001.1	ncbi	x00338|45133|Lasiodiplodia theobromae / Botryodiplodia tubericola|fungi|PZ536001.1	503
+x00339	45133	Lasiodiplodia theobromae / Botryodiplodia tubericola	fungi	PZ520498.1	ncbi	x00339|45133|Lasiodiplodia theobromae / Botryodiplodia tubericola|fungi|PZ520498.1	531
+x00340	318710	Leptosphaerulina australis	fungi	MT348209.1	ncbi	x00340|318710|Leptosphaerulina australis|fungi|MT348209.1	472
+x00341	318710	Leptosphaerulina australis	fungi	MN068918.1	ncbi	x00341|318710|Leptosphaerulina australis|fungi|MN068918.1	474
+x00342	318710	Leptosphaerulina australis	fungi	KJ171020.1	ncbi	x00342|318710|Leptosphaerulina australis|fungi|KJ171020.1	462
+x00343	318710	Leptosphaerulina australis	fungi	MK304198.1	ncbi	x00343|318710|Leptosphaerulina australis|fungi|MK304198.1	493
+x00344	318710	Leptosphaerulina australis	fungi	GU237829.1	ncbi	x00344|318710|Leptosphaerulina australis|fungi|GU237829.1	486
+x00345	35725	Macrophomina phaseolina	fungi	PZ575831.1	ncbi	x00345|35725|Macrophomina phaseolina|fungi|PZ575831.1	385
+x00346	35725	Macrophomina phaseolina	fungi	PZ575825.1	ncbi	x00346|35725|Macrophomina phaseolina|fungi|PZ575825.1	506
+x00347	35725	Macrophomina phaseolina	fungi	PZ571503.1	ncbi	x00347|35725|Macrophomina phaseolina|fungi|PZ571503.1	462
+x00348	35725	Macrophomina phaseolina	fungi	PZ567389.1	ncbi	x00348|35725|Macrophomina phaseolina|fungi|PZ567389.1	583
+x00349	35725	Macrophomina phaseolina	fungi	PZ567271.1	ncbi	x00349|35725|Macrophomina phaseolina|fungi|PZ567271.1	498
+x00350	196109	Microdochium bolleyi	fungi	OP437893.1	ncbi	x00350|196109|Microdochium bolleyi|fungi|OP437893.1	503
+x00351	196109	Microdochium bolleyi	fungi	ON193792.1	ncbi	x00351|196109|Microdochium bolleyi|fungi|ON193792.1	1401
+x00352	196109	Microdochium bolleyi	fungi	ON193791.1	ncbi	x00352|196109|Microdochium bolleyi|fungi|ON193791.1	1400
+x00353	196109	Microdochium bolleyi	fungi	OQ816102.1	ncbi	x00353|196109|Microdochium bolleyi|fungi|OQ816102.1	556
+x00354	196109	Microdochium bolleyi	fungi	OQ708851.1	ncbi	x00354|196109|Microdochium bolleyi|fungi|OQ708851.1	500
+x00355	36080	Mucor circinelloides	fungi	PZ134961.1	ncbi	x00355|36080|Mucor circinelloides|fungi|PZ134961.1	573
+x00356	36080	Mucor circinelloides	fungi	PZ134960.1	ncbi	x00356|36080|Mucor circinelloides|fungi|PZ134960.1	578
+x00357	36080	Mucor circinelloides	fungi	PZ134939.1	ncbi	x00357|36080|Mucor circinelloides|fungi|PZ134939.1	477
+x00358	36080	Mucor circinelloides	fungi	PZ112830.1	ncbi	x00358|36080|Mucor circinelloides|fungi|PZ112830.1	645
+x00359	36080	Mucor circinelloides	fungi	PZ019537.1	ncbi	x00359|36080|Mucor circinelloides|fungi|PZ019537.1	420
+x00360	5270	Mycosarcoma maydis (Ustilago maydis)	fungi	KY929603.1	ncbi	x00360|5270|Mycosarcoma maydis (Ustilago maydis)|fungi|KY929603.1	548
+x00361	5270	Mycosarcoma maydis (Ustilago maydis)	fungi	KX892621.1	ncbi	x00361|5270|Mycosarcoma maydis (Ustilago maydis)|fungi|KX892621.1	743
+x00362	5270	Mycosarcoma maydis (Ustilago maydis)	fungi	KX096695.1	ncbi	x00362|5270|Mycosarcoma maydis (Ustilago maydis)|fungi|KX096695.1	1054
+x00363	5270	Mycosarcoma maydis (Ustilago maydis)	fungi	LC228638.1	ncbi	x00363|5270|Mycosarcoma maydis (Ustilago maydis)|fungi|LC228638.1	780
+x00364	5270	Mycosarcoma maydis (Ustilago maydis)	fungi	KP866233.1	ncbi	x00364|5270|Mycosarcoma maydis (Ustilago maydis)|fungi|KP866233.1	1317
+x00365	335854	Nigrospora oryzae (Khuskia oryzae)	fungi	PX694585.1	ncbi	x00365|335854|Nigrospora oryzae (Khuskia oryzae)|fungi|PX694585.1	527
+x00366	335854	Nigrospora oryzae (Khuskia oryzae)	fungi	PX654099.1	ncbi	x00366|335854|Nigrospora oryzae (Khuskia oryzae)|fungi|PX654099.1	526
+x00367	335854	Nigrospora oryzae (Khuskia oryzae)	fungi	PX558846.1	ncbi	x00367|335854|Nigrospora oryzae (Khuskia oryzae)|fungi|PX558846.1	485
+x00368	335854	Nigrospora oryzae (Khuskia oryzae)	fungi	PX558845.1	ncbi	x00368|335854|Nigrospora oryzae (Khuskia oryzae)|fungi|PX558845.1	460
+x00369	335854	Nigrospora oryzae (Khuskia oryzae)	fungi	PX558844.1	ncbi	x00369|335854|Nigrospora oryzae (Khuskia oryzae)|fungi|PX558844.1	471
+x00370	125373	Paraphaeosphaeria michotii / Sphaeria michotii	fungi	JN688924.1	ncbi	x00370|125373|Paraphaeosphaeria michotii / Sphaeria michotii|fungi|JN688924.1	460
+x00371	125373	Paraphaeosphaeria michotii / Sphaeria michotii	fungi	DQ426537.1	ncbi	x00371|125373|Paraphaeosphaeria michotii / Sphaeria michotii|fungi|DQ426537.1	539
+x00372	125373	Paraphaeosphaeria michotii / Sphaeria michotii	fungi	AF250817.1	ncbi	x00372|125373|Paraphaeosphaeria michotii / Sphaeria michotii|fungi|AF250817.1	2258
+x00373	5076	Penicillium chrysogenum	fungi	PZ691610.1	ncbi	x00373|5076|Penicillium chrysogenum|fungi|PZ691610.1	244
+x00374	5076	Penicillium chrysogenum	fungi	PZ691591.1	ncbi	x00374|5076|Penicillium chrysogenum|fungi|PZ691591.1	294
+x00375	5076	Penicillium chrysogenum	fungi	PZ691564.1	ncbi	x00375|5076|Penicillium chrysogenum|fungi|PZ691564.1	236
+x00376	5076	Penicillium chrysogenum	fungi	PZ691557.1	ncbi	x00376|5076|Penicillium chrysogenum|fungi|PZ691557.1	234
+x00377	5076	Penicillium chrysogenum	fungi	PZ691524.1	ncbi	x00377|5076|Penicillium chrysogenum|fungi|PZ691524.1	251
+x00378	28572	Penicillium funiculosum / Talaromyces funiculosus	fungi	PV259734.1	ncbi	x00378|28572|Penicillium funiculosum / Talaromyces funiculosus|fungi|PV259734.1	410
+x00379	28572	Penicillium funiculosum / Talaromyces funiculosus	fungi	PV211319.1	ncbi	x00379|28572|Penicillium funiculosum / Talaromyces funiculosus|fungi|PV211319.1	1059
+x00380	28572	Penicillium funiculosum / Talaromyces funiculosus	fungi	PQ600703.1	ncbi	x00380|28572|Penicillium funiculosum / Talaromyces funiculosus|fungi|PQ600703.1	543
+x00381	28572	Penicillium funiculosum / Talaromyces funiculosus	fungi	PV074030.1	ncbi	x00381|28572|Penicillium funiculosum / Talaromyces funiculosus|fungi|PV074030.1	544
+x00382	28572	Penicillium funiculosum / Talaromyces funiculosus	fungi	PV022408.1	ncbi	x00382|28572|Penicillium funiculosum / Talaromyces funiculosus|fungi|PV022408.1	432
+x00383	69781	Penicillium oxalicum	fungi	PZ070819.1	ncbi	x00383|69781|Penicillium oxalicum|fungi|PZ070819.1	520
+x00384	69781	Penicillium oxalicum	fungi	PZ049774.1	ncbi	x00384|69781|Penicillium oxalicum|fungi|PZ049774.1	534
+x00385	69781	Penicillium oxalicum	fungi	PZ049731.1	ncbi	x00385|69781|Penicillium oxalicum|fungi|PZ049731.1	569
+x00386	69781	Penicillium oxalicum	fungi	PZ028625.1	ncbi	x00386|69781|Penicillium oxalicum|fungi|PZ028625.1	541
+x00387	69781	Penicillium oxalicum	fungi	PZ013053.1	ncbi	x00387|69781|Penicillium oxalicum|fungi|PZ013053.1	524
+x00388	60171	Penicillium verrucosum	fungi	KU363732.1	ncbi	x00388|60171|Penicillium verrucosum|fungi|KU363732.1	580
+x00389	60171	Penicillium verrucosum	fungi	FJ004319.1	ncbi	x00389|60171|Penicillium verrucosum|fungi|FJ004319.1	509
+x00390	60171	Penicillium verrucosum	fungi	AY373937.1	ncbi	x00390|60171|Penicillium verrucosum|fungi|AY373937.1	609
+x00391	60171	Penicillium verrucosum	fungi	LN835270.1	ncbi	x00391|60171|Penicillium verrucosum|fungi|LN835270.1	564
+x00392	60171	Penicillium verrucosum	fungi	KM115145.1	ncbi	x00392|60171|Penicillium verrucosum|fungi|KM115145.1	651
+x00393	684837	Puccinia polysora	fungi	AB599969.1	ncbi	x00393|684837|Puccinia polysora|fungi|AB599969.1	434
+x00394	684837	Puccinia polysora	fungi	AB599968.1	ncbi	x00394|684837|Puccinia polysora|fungi|AB599968.1	436
+x00395	684837	Puccinia polysora	fungi	AB599967.1	ncbi	x00395|684837|Puccinia polysora|fungi|AB599967.1	361
+x00396	684837	Puccinia polysora	fungi	AB599966.1	ncbi	x00396|684837|Puccinia polysora|fungi|AB599966.1	487
+x00397	684837	Puccinia polysora	fungi	AB599965.1	ncbi	x00397|684837|Puccinia polysora|fungi|AB599965.1	498
+x00398	318829	Pyricularia oryzae (Magnaporthe oryzae)	fungi	PX944899.1	ncbi	x00398|318829|Pyricularia oryzae (Magnaporthe oryzae)|fungi|PX944899.1	491
+x00399	318829	Pyricularia oryzae (Magnaporthe oryzae)	fungi	PX944744.1	ncbi	x00399|318829|Pyricularia oryzae (Magnaporthe oryzae)|fungi|PX944744.1	482
+x00400	318829	Pyricularia oryzae (Magnaporthe oryzae)	fungi	PX944743.1	ncbi	x00400|318829|Pyricularia oryzae (Magnaporthe oryzae)|fungi|PX944743.1	492
+x00401	318829	Pyricularia oryzae (Magnaporthe oryzae)	fungi	PX944742.1	ncbi	x00401|318829|Pyricularia oryzae (Magnaporthe oryzae)|fungi|PX944742.1	494
+x00402	318829	Pyricularia oryzae (Magnaporthe oryzae)	fungi	PX944741.1	ncbi	x00402|318829|Pyricularia oryzae (Magnaporthe oryzae)|fungi|PX944741.1	501
+x00403	456999	Rhizoctonia solani (Thanatephorus cucumeris)	fungi	PZ715520.1	ncbi	x00403|456999|Rhizoctonia solani (Thanatephorus cucumeris)|fungi|PZ715520.1	660
+x00404	456999	Rhizoctonia solani (Thanatephorus cucumeris)	fungi	PZ715519.1	ncbi	x00404|456999|Rhizoctonia solani (Thanatephorus cucumeris)|fungi|PZ715519.1	656
+x00405	456999	Rhizoctonia solani (Thanatephorus cucumeris)	fungi	PZ714986.1	ncbi	x00405|456999|Rhizoctonia solani (Thanatephorus cucumeris)|fungi|PZ714986.1	735
+x00406	64495	Rhizopus arrhizus	fungi	MH857090.1	ncbi	x00406|64495|Rhizopus arrhizus|fungi|MH857090.1	625
+x00407	64495	Rhizopus arrhizus	fungi	MH856920.1	ncbi	x00407|64495|Rhizopus arrhizus|fungi|MH856920.1	627
+x00408	64495	Rhizopus arrhizus	fungi	MH856548.1	ncbi	x00408|64495|Rhizopus arrhizus|fungi|MH856548.1	626
+x00409	64495	Rhizopus arrhizus	fungi	MH855817.1	ncbi	x00409|64495|Rhizopus arrhizus|fungi|MH855817.1	592
+x00410	64495	Rhizopus arrhizus	fungi	MH855690.1	ncbi	x00410|64495|Rhizopus arrhizus|fungi|MH855690.1	635
+x00411	4846	Rhizopus stolonifer	fungi	PP873095.1	ncbi	x00411|4846|Rhizopus stolonifer|fungi|PP873095.1	489
+x00412	4846	Rhizopus stolonifer	fungi	PP495829.1	ncbi	x00412|4846|Rhizopus stolonifer|fungi|PP495829.1	576
+x00413	4846	Rhizopus stolonifer	fungi	OR766342.1	ncbi	x00413|4846|Rhizopus stolonifer|fungi|OR766342.1	700
+x00414	4846	Rhizopus stolonifer	fungi	OP437906.1	ncbi	x00414|4846|Rhizopus stolonifer|fungi|OP437906.1	457
+x00415	4846	Rhizopus stolonifer	fungi	OR656943.1	ncbi	x00415|4846|Rhizopus stolonifer|fungi|OR656943.1	425
+x00416	5046	Sarocladium strictum (Acremonium strictum)	fungi	PX587572.1	ncbi	x00416|5046|Sarocladium strictum (Acremonium strictum)|fungi|PX587572.1	1034
+x00417	5046	Sarocladium strictum (Acremonium strictum)	fungi	PX587571.1	ncbi	x00417|5046|Sarocladium strictum (Acremonium strictum)|fungi|PX587571.1	1141
+x00418	5046	Sarocladium strictum (Acremonium strictum)	fungi	PX587570.1	ncbi	x00418|5046|Sarocladium strictum (Acremonium strictum)|fungi|PX587570.1	1143
+x00419	5046	Sarocladium strictum (Acremonium strictum)	fungi	PX587569.1	ncbi	x00419|5046|Sarocladium strictum (Acremonium strictum)|fungi|PX587569.1	1037
+x00420	5046	Sarocladium strictum (Acremonium strictum)	fungi	PX587568.1	ncbi	x00420|5046|Sarocladium strictum (Acremonium strictum)|fungi|PX587568.1	1113
+x00421	1036732	Sarocladium zeae/Acremonium zeae	fungi	OR500026.1	ncbi	x00421|1036732|Sarocladium zeae/Acremonium zeae|fungi|OR500026.1	859
+x00422	1036732	Sarocladium zeae/Acremonium zeae	fungi	OR500025.1	ncbi	x00422|1036732|Sarocladium zeae/Acremonium zeae|fungi|OR500025.1	861
+x00423	1036732	Sarocladium zeae/Acremonium zeae	fungi	OR500024.1	ncbi	x00423|1036732|Sarocladium zeae/Acremonium zeae|fungi|OR500024.1	862
+x00424	1036732	Sarocladium zeae/Acremonium zeae	fungi	OR500022.1	ncbi	x00424|1036732|Sarocladium zeae/Acremonium zeae|fungi|OR500022.1	802
+x00425	1036732	Sarocladium zeae/Acremonium zeae	fungi	OR500021.1	ncbi	x00425|1036732|Sarocladium zeae/Acremonium zeae|fungi|OR500021.1	345
+x00426	798162	Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )	fungi	PP446644.1	ncbi	x00426|798162|Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )|fungi|PP446644.1	489
+x00427	798162	Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )	fungi	OR539491.1	ncbi	x00427|798162|Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )|fungi|OR539491.1	549
+x00428	798162	Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )	fungi	OR437972.1	ncbi	x00428|798162|Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )|fungi|OR437972.1	512
+x00429	798162	Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )	fungi	OR434045.1	ncbi	x00429|798162|Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )|fungi|OR434045.1	484
+x00430	798162	Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )	fungi	OQ848622.1	ncbi	x00430|798162|Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )|fungi|OQ848622.1	317
+x00431	238245	Stenocarpella maydis (Diplodia maydis)	fungi	GQ167219.1	ncbi	x00431|238245|Stenocarpella maydis (Diplodia maydis)|fungi|GQ167219.1	1063
+x00432	238245	Stenocarpella maydis (Diplodia maydis)	fungi	GQ167218.1	ncbi	x00432|238245|Stenocarpella maydis (Diplodia maydis)|fungi|GQ167218.1	1014
+x00433	238245	Stenocarpella maydis (Diplodia maydis)	fungi	GQ167217.1	ncbi	x00433|238245|Stenocarpella maydis (Diplodia maydis)|fungi|GQ167217.1	1058
+x00434	238245	Stenocarpella maydis (Diplodia maydis)	fungi	GQ167216.1	ncbi	x00434|238245|Stenocarpella maydis (Diplodia maydis)|fungi|GQ167216.1	1056
+x00435	238245	Stenocarpella maydis (Diplodia maydis)	fungi	GQ167215.1	ncbi	x00435|238245|Stenocarpella maydis (Diplodia maydis)|fungi|GQ167215.1	1079
+x00436	228353	Talaromyces radicus	fungi	MK239048.1	ncbi	x00436|228353|Talaromyces radicus|fungi|MK239048.1	347
+x00437	228353	Talaromyces radicus	fungi	MG976286.1	ncbi	x00437|228353|Talaromyces radicus|fungi|MG976286.1	556
+x00438	228353	Talaromyces radicus	fungi	MH889152.1	ncbi	x00438|228353|Talaromyces radicus|fungi|MH889152.1	581
+x00439	228353	Talaromyces radicus	fungi	MH790324.1	ncbi	x00439|228353|Talaromyces radicus|fungi|MH790324.1	574
+x00440	228353	Talaromyces radicus	fungi	MH298756.1	ncbi	x00440|228353|Talaromyces radicus|fungi|MH298756.1	562
+x00441	1567482	Trichoderma afroharzianum	fungi	PQ196655.1	ncbi	x00441|1567482|Trichoderma afroharzianum|fungi|PQ196655.1	716
+x00442	1567482	Trichoderma afroharzianum	fungi	PV523289.1	ncbi	x00442|1567482|Trichoderma afroharzianum|fungi|PV523289.1	379
+x00443	1567482	Trichoderma afroharzianum	fungi	PV202823.1	ncbi	x00443|1567482|Trichoderma afroharzianum|fungi|PV202823.1	660
+x00444	1567482	Trichoderma afroharzianum	fungi	PV123738.1	ncbi	x00444|1567482|Trichoderma afroharzianum|fungi|PV123738.1	584
+x00445	1567482	Trichoderma afroharzianum	fungi	PV123730.1	ncbi	x00445|1567482|Trichoderma afroharzianum|fungi|PV123730.1	582
+x00446	101201	Trichoderma asperellum	fungi	MH863553.1	ncbi	x00446|101201|Trichoderma asperellum|fungi|MH863553.1	727
+x00447	101201	Trichoderma asperellum	fungi	MH863552.1	ncbi	x00447|101201|Trichoderma asperellum|fungi|MH863552.1	572
+x00448	101201	Trichoderma asperellum	fungi	PZ556966.1	ncbi	x00448|101201|Trichoderma asperellum|fungi|PZ556966.1	558
+x00449	101201	Trichoderma asperellum	fungi	PZ556965.1	ncbi	x00449|101201|Trichoderma asperellum|fungi|PZ556965.1	565
+x00450	101201	Trichoderma asperellum	fungi	PZ556964.1	ncbi	x00450|101201|Trichoderma asperellum|fungi|PZ556964.1	553
+x00451	49224	Trichoderma hamatum	fungi	PX570743.1	ncbi	x00451|49224|Trichoderma hamatum|fungi|PX570743.1	236
+x00452	49224	Trichoderma hamatum	fungi	PX498477.1	ncbi	x00452|49224|Trichoderma hamatum|fungi|PX498477.1	565
+x00453	49224	Trichoderma hamatum	fungi	PX498476.1	ncbi	x00453|49224|Trichoderma hamatum|fungi|PX498476.1	573
+x00454	49224	Trichoderma hamatum	fungi	PX487701.1	ncbi	x00454|49224|Trichoderma hamatum|fungi|PX487701.1	603
+x00455	49224	Trichoderma hamatum	fungi	PX487690.1	ncbi	x00455|49224|Trichoderma hamatum|fungi|PX487690.1	599
+x00456	5544	Trichoderma harzianum	fungi	PZ685954.1	ncbi	x00456|5544|Trichoderma harzianum|fungi|PZ685954.1	676
+x00457	5544	Trichoderma harzianum	fungi	PZ683097.1	ncbi	x00457|5544|Trichoderma harzianum|fungi|PZ683097.1	616
+x00458	5544	Trichoderma harzianum	fungi	PZ675359.1	ncbi	x00458|5544|Trichoderma harzianum|fungi|PZ675359.1	582
+x00459	5544	Trichoderma harzianum	fungi	PZ675358.1	ncbi	x00459|5544|Trichoderma harzianum|fungi|PZ675358.1	536
+x00460	5544	Trichoderma harzianum	fungi	PZ675357.1	ncbi	x00460|5544|Trichoderma harzianum|fungi|PZ675357.1	581
+x00461	97093	Trichoderma koningii	fungi	OR350471.1	ncbi	x00461|97093|Trichoderma koningii|fungi|OR350471.1	564
+x00462	97093	Trichoderma koningii	fungi	PQ059697.1	ncbi	x00462|97093|Trichoderma koningii|fungi|PQ059697.1	565
+x00463	97093	Trichoderma koningii	fungi	PQ047542.1	ncbi	x00463|97093|Trichoderma koningii|fungi|PQ047542.1	532
+x00464	97093	Trichoderma koningii	fungi	OR004617.1	ncbi	x00464|97093|Trichoderma koningii|fungi|OR004617.1	239
+x00465	97093	Trichoderma koningii	fungi	PP860354.1	ncbi	x00465|97093|Trichoderma koningii|fungi|PP860354.1	636
+x00466	47278	Trichoderma roseum /Trichothecium roseum	fungi	PV157052.1	ncbi	x00466|47278|Trichoderma roseum /Trichothecium roseum|fungi|PV157052.1	627
+x00467	47278	Trichoderma roseum /Trichothecium roseum	fungi	PV156941.1	ncbi	x00467|47278|Trichoderma roseum /Trichothecium roseum|fungi|PV156941.1	625
+x00468	47278	Trichoderma roseum /Trichothecium roseum	fungi	PV156922.1	ncbi	x00468|47278|Trichoderma roseum /Trichothecium roseum|fungi|PV156922.1	632
+x00469	47278	Trichoderma roseum /Trichothecium roseum	fungi	PV123019.1	ncbi	x00469|47278|Trichoderma roseum /Trichothecium roseum|fungi|PV123019.1	592
+x00470	47278	Trichoderma roseum /Trichothecium roseum	fungi	PV017476.1	ncbi	x00470|47278|Trichoderma roseum /Trichothecium roseum|fungi|PV017476.1	629
+x00471	5547	Trichoderma viride	fungi	PX884399.1	ncbi	x00471|5547|Trichoderma viride|fungi|PX884399.1	514
+x00472	5547	Trichoderma viride	fungi	PX836785.1	ncbi	x00472|5547|Trichoderma viride|fungi|PX836785.1	571
+x00473	5547	Trichoderma viride	fungi	PX795153.1	ncbi	x00473|5547|Trichoderma viride|fungi|PX795153.1	570
+x00474	5547	Trichoderma viride	fungi	PX795149.1	ncbi	x00474|5547|Trichoderma viride|fungi|PX795149.1	580
+x00475	5547	Trichoderma viride	fungi	PX688287.1	ncbi	x00475|5547|Trichoderma viride|fungi|PX688287.1	607
+x00476	1159556	Ustilaginoidea virens	fungi	OQ645534.1	ncbi	x00476|1159556|Ustilaginoidea virens|fungi|OQ645534.1	424
+x00477	1159556	Ustilaginoidea virens	fungi	OQ645533.1	ncbi	x00477|1159556|Ustilaginoidea virens|fungi|OQ645533.1	608
+x00478	1159556	Ustilaginoidea virens	fungi	OQ645532.1	ncbi	x00478|1159556|Ustilaginoidea virens|fungi|OQ645532.1	630
+x00479	1159556	Ustilaginoidea virens	fungi	OQ645531.1	ncbi	x00479|1159556|Ustilaginoidea virens|fungi|OQ645531.1	612
+x00480	1159556	Ustilaginoidea virens	fungi	OQ645530.1	ncbi	x00480|1159556|Ustilaginoidea virens|fungi|OQ645530.1	625
+x00481	49569	Waitea zeae (Rhizoctonia zeae)	fungi	KC590517.1	ncbi	x00481|49569|Waitea zeae (Rhizoctonia zeae)|fungi|KC590517.1	630
+x00482	49569	Waitea zeae (Rhizoctonia zeae)	fungi	KC590516.1	ncbi	x00482|49569|Waitea zeae (Rhizoctonia zeae)|fungi|KC590516.1	626
+x00483	49569	Waitea zeae (Rhizoctonia zeae)	fungi	KC590515.1	ncbi	x00483|49569|Waitea zeae (Rhizoctonia zeae)|fungi|KC590515.1	629
+x00484	49569	Waitea zeae (Rhizoctonia zeae)	fungi	KC590514.1	ncbi	x00484|49569|Waitea zeae (Rhizoctonia zeae)|fungi|KC590514.1	625
+x00485	49569	Waitea zeae (Rhizoctonia zeae)	fungi	KC590513.1	ncbi	x00485|49569|Waitea zeae (Rhizoctonia zeae)|fungi|KC590513.1	889
+x00486	36331	Globisporangium irregulare (Pythium irregulare)	oomycetes	OR120794.1	ncbi	x00486|36331|Globisporangium irregulare (Pythium irregulare)|oomycetes|OR120794.1	796
+x00487	36331	Globisporangium irregulare (Pythium irregulare)	oomycetes	OR120792.1	ncbi	x00487|36331|Globisporangium irregulare (Pythium irregulare)|oomycetes|OR120792.1	792
+x00488	36331	Globisporangium irregulare (Pythium irregulare)	oomycetes	OR120772.1	ncbi	x00488|36331|Globisporangium irregulare (Pythium irregulare)|oomycetes|OR120772.1	842
+x00489	36331	Globisporangium irregulare (Pythium irregulare)	oomycetes	OR120764.1	ncbi	x00489|36331|Globisporangium irregulare (Pythium irregulare)|oomycetes|OR120764.1	911
+x00490	36331	Globisporangium irregulare (Pythium irregulare)	oomycetes	OR120758.1	ncbi	x00490|36331|Globisporangium irregulare (Pythium irregulare)|oomycetes|OR120758.1	849
+x00491	65069	Pythium acanthicum	oomycetes	KX423752.1	ncbi	x00491|65069|Pythium acanthicum|oomycetes|KX423752.1	894
+x00492	65069	Pythium acanthicum	oomycetes	MK910131.1	ncbi	x00492|65069|Pythium acanthicum|oomycetes|MK910131.1	818
+x00493	65069	Pythium acanthicum	oomycetes	MK326559.1	ncbi	x00493|65069|Pythium acanthicum|oomycetes|MK326559.1	775
+x00494	65069	Pythium acanthicum	oomycetes	MK326508.1	ncbi	x00494|65069|Pythium acanthicum|oomycetes|MK326508.1	801
+x00495	65069	Pythium acanthicum	oomycetes	MK326480.1	ncbi	x00495|65069|Pythium acanthicum|oomycetes|MK326480.1	781
+x00496	65070	Pythium aphanidermatum	oomycetes	PV849258.1	ncbi	x00496|65070|Pythium aphanidermatum|oomycetes|PV849258.1	840
+x00497	65070	Pythium aphanidermatum	oomycetes	PV849257.1	ncbi	x00497|65070|Pythium aphanidermatum|oomycetes|PV849257.1	829
+x00498	65070	Pythium aphanidermatum	oomycetes	PV849256.1	ncbi	x00498|65070|Pythium aphanidermatum|oomycetes|PV849256.1	839
+x00499	65070	Pythium aphanidermatum	oomycetes	PV849250.1	ncbi	x00499|65070|Pythium aphanidermatum|oomycetes|PV849250.1	840
+x00500	65070	Pythium aphanidermatum	oomycetes	PV849244.1	ncbi	x00500|65070|Pythium aphanidermatum|oomycetes|PV849244.1	840
+x00501	140044	Pythium aristosporum	oomycetes	MF446811.1	ncbi	x00501|140044|Pythium aristosporum|oomycetes|MF446811.1	336
+x00502	140044	Pythium aristosporum	oomycetes	KU211111.1	ncbi	x00502|140044|Pythium aristosporum|oomycetes|KU211111.1	777
+x00503	140044	Pythium aristosporum	oomycetes	KU211108.1	ncbi	x00503|140044|Pythium aristosporum|oomycetes|KU211108.1	770
+x00504	140044	Pythium aristosporum	oomycetes	KU211072.1	ncbi	x00504|140044|Pythium aristosporum|oomycetes|KU211072.1	793
+x00505	140044	Pythium aristosporum	oomycetes	KU210592.1	ncbi	x00505|140044|Pythium aristosporum|oomycetes|KU210592.1	794
+x00506	82932	Pythium arrhenomanes	oomycetes	LC053668.1	ncbi	x00506|82932|Pythium arrhenomanes|oomycetes|LC053668.1	807
+x00507	82932	Pythium arrhenomanes	oomycetes	LC053667.1	ncbi	x00507|82932|Pythium arrhenomanes|oomycetes|LC053667.1	801
+x00508	82932	Pythium arrhenomanes	oomycetes	LC053666.1	ncbi	x00508|82932|Pythium arrhenomanes|oomycetes|LC053666.1	814
+x00509	82932	Pythium arrhenomanes	oomycetes	AB903904.1	ncbi	x00509|82932|Pythium arrhenomanes|oomycetes|AB903904.1	794
+x00510	82932	Pythium arrhenomanes	oomycetes	AB979122.1	ncbi	x00510|82932|Pythium arrhenomanes|oomycetes|AB979122.1	787
+x00511	82937	Pythium graminicola	oomycetes	OR194781.1	ncbi	x00511|82937|Pythium graminicola|oomycetes|OR194781.1	797
+x00512	82937	Pythium graminicola	oomycetes	OR194780.1	ncbi	x00512|82937|Pythium graminicola|oomycetes|OR194780.1	797
+x00513	82937	Pythium graminicola	oomycetes	OR194779.1	ncbi	x00513|82937|Pythium graminicola|oomycetes|OR194779.1	701
+x00514	82937	Pythium graminicola	oomycetes	OR194778.1	ncbi	x00514|82937|Pythium graminicola|oomycetes|OR194778.1	745
+x00515	82937	Pythium graminicola	oomycetes	OR194777.1	ncbi	x00515|82937|Pythium graminicola|oomycetes|OR194777.1	787
+x00516	126844	Pythium helicoides / Phytopythium helicoides	oomycetes	AB108055.1	ncbi	x00516|126844|Pythium helicoides / Phytopythium helicoides|oomycetes|AB108055.1	753
+x00517	126844	Pythium helicoides / Phytopythium helicoides	oomycetes	AB108054.1	ncbi	x00517|126844|Pythium helicoides / Phytopythium helicoides|oomycetes|AB108054.1	758
+x00518	126844	Pythium helicoides / Phytopythium helicoides	oomycetes	AB108053.1	ncbi	x00518|126844|Pythium helicoides / Phytopythium helicoides|oomycetes|AB108053.1	753
+x00519	126844	Pythium helicoides / Phytopythium helicoides	oomycetes	AB108052.1	ncbi	x00519|126844|Pythium helicoides / Phytopythium helicoides|oomycetes|AB108052.1	754
+x00520	126844	Pythium helicoides / Phytopythium helicoides	oomycetes	AB108050.1	ncbi	x00520|126844|Pythium helicoides / Phytopythium helicoides|oomycetes|AB108050.1	757
+x00521	82938	Pythium inflatum	oomycetes	MK910121.1	ncbi	x00521|82938|Pythium inflatum|oomycetes|MK910121.1	807
+x00522	82938	Pythium inflatum	oomycetes	MK796021.1	ncbi	x00522|82938|Pythium inflatum|oomycetes|MK796021.1	638
+x00523	82938	Pythium inflatum	oomycetes	MK326553.1	ncbi	x00523|82938|Pythium inflatum|oomycetes|MK326553.1	757
+x00524	82938	Pythium inflatum	oomycetes	MK326521.1	ncbi	x00524|82938|Pythium inflatum|oomycetes|MK326521.1	777
+x00525	82938	Pythium inflatum	oomycetes	MK326514.1	ncbi	x00525|82938|Pythium inflatum|oomycetes|MK326514.1	769
+x00526	289618	Pythium lutarium	oomycetes	KU210116.1	ncbi	x00526|289618|Pythium lutarium|oomycetes|KU210116.1	785
+x00527	289618	Pythium lutarium	oomycetes	KU210115.1	ncbi	x00527|289618|Pythium lutarium|oomycetes|KU210115.1	784
+x00528	289618	Pythium lutarium	oomycetes	KU210112.1	ncbi	x00528|289618|Pythium lutarium|oomycetes|KU210112.1	783
+x00529	289618	Pythium lutarium	oomycetes	KU210111.1	ncbi	x00529|289618|Pythium lutarium|oomycetes|KU210111.1	782
+x00530	289618	Pythium lutarium	oomycetes	KU210109.1	ncbi	x00530|289618|Pythium lutarium|oomycetes|KU210109.1	781
+x00531	2125995	Pythium paroecandrum/ Globisporangium paroecandrum	oomycetes	KU208273.1	ncbi	x00531|2125995|Pythium paroecandrum/ Globisporangium paroecandrum|oomycetes|KU208273.1	923
+x00532	2125995	Pythium paroecandrum/ Globisporangium paroecandrum	oomycetes	KU208272.1	ncbi	x00532|2125995|Pythium paroecandrum/ Globisporangium paroecandrum|oomycetes|KU208272.1	929
+x00533	2125995	Pythium paroecandrum/ Globisporangium paroecandrum	oomycetes	KU208271.1	ncbi	x00533|2125995|Pythium paroecandrum/ Globisporangium paroecandrum|oomycetes|KU208271.1	928
+x00534	2125995	Pythium paroecandrum/ Globisporangium paroecandrum	oomycetes	KU208269.1	ncbi	x00534|2125995|Pythium paroecandrum/ Globisporangium paroecandrum|oomycetes|KU208269.1	927
+x00535	2125995	Pythium paroecandrum/ Globisporangium paroecandrum	oomycetes	KU208259.1	ncbi	x00535|2125995|Pythium paroecandrum/ Globisporangium paroecandrum|oomycetes|KU208259.1	926
+x00536	2125998	Pythium spinosum /Globisporangium spinosum	oomycetes	MN306124.1	ncbi	x00536|2125998|Pythium spinosum /Globisporangium spinosum|oomycetes|MN306124.1	916
+x00537	2125998	Pythium spinosum /Globisporangium spinosum	oomycetes	MZ540511.1	ncbi	x00537|2125998|Pythium spinosum /Globisporangium spinosum|oomycetes|MZ540511.1	791
+x00538	2125998	Pythium spinosum /Globisporangium spinosum	oomycetes	MW687137.1	ncbi	x00538|2125998|Pythium spinosum /Globisporangium spinosum|oomycetes|MW687137.1	815
+x00539	2125998	Pythium spinosum /Globisporangium spinosum	oomycetes	MW489847.1	ncbi	x00539|2125998|Pythium spinosum /Globisporangium spinosum|oomycetes|MW489847.1	942
+x00540	2125998	Pythium spinosum /Globisporangium spinosum	oomycetes	MW489836.1	ncbi	x00540|2125998|Pythium spinosum /Globisporangium spinosum|oomycetes|MW489836.1	930
+x00541	82926	Pythium splendens/Globisporangium splendens	oomycetes	LC500115.1	ncbi	x00541|82926|Pythium splendens/Globisporangium splendens|oomycetes|LC500115.1	806
+x00542	82926	Pythium splendens/Globisporangium splendens	oomycetes	LC500113.1	ncbi	x00542|82926|Pythium splendens/Globisporangium splendens|oomycetes|LC500113.1	806
+x00543	82926	Pythium splendens/Globisporangium splendens	oomycetes	LC500110.1	ncbi	x00543|82926|Pythium splendens/Globisporangium splendens|oomycetes|LC500110.1	806
+x00544	82926	Pythium splendens/Globisporangium splendens	oomycetes	MH810251.1	ncbi	x00544|82926|Pythium splendens/Globisporangium splendens|oomycetes|MH810251.1	801
+x00545	82926	Pythium splendens/Globisporangium splendens	oomycetes	MF446778.1	ncbi	x00545|82926|Pythium splendens/Globisporangium splendens|oomycetes|MF446778.1	338
+x00546	82950	Pythium sylvaticum / Globisporangium sylvaticum	oomycetes	OR120754.1	ncbi	x00546|82950|Pythium sylvaticum / Globisporangium sylvaticum|oomycetes|OR120754.1	950
+x00547	82950	Pythium sylvaticum / Globisporangium sylvaticum	oomycetes	OR120753.1	ncbi	x00547|82950|Pythium sylvaticum / Globisporangium sylvaticum|oomycetes|OR120753.1	950
+x00548	82950	Pythium sylvaticum / Globisporangium sylvaticum	oomycetes	OR120749.1	ncbi	x00548|82950|Pythium sylvaticum / Globisporangium sylvaticum|oomycetes|OR120749.1	946
+x00549	82950	Pythium sylvaticum / Globisporangium sylvaticum	oomycetes	OR120746.1	ncbi	x00549|82950|Pythium sylvaticum / Globisporangium sylvaticum|oomycetes|OR120746.1	950
+x00550	82950	Pythium sylvaticum / Globisporangium sylvaticum	oomycetes	OR120744.1	ncbi	x00550|82950|Pythium sylvaticum / Globisporangium sylvaticum|oomycetes|OR120744.1	950
+x00551	4799	Pythium torulosum	oomycetes	MK795029.1	ncbi	x00551|4799|Pythium torulosum|oomycetes|MK795029.1	844
+x00552	4799	Pythium torulosum	oomycetes	MK795017.1	ncbi	x00552|4799|Pythium torulosum|oomycetes|MK795017.1	858
+x00553	4799	Pythium torulosum	oomycetes	MK795012.1	ncbi	x00553|4799|Pythium torulosum|oomycetes|MK795012.1	861
+x00554	4799	Pythium torulosum	oomycetes	MK795005.1	ncbi	x00554|4799|Pythium torulosum|oomycetes|MK795005.1	850
+x00555	4799	Pythium torulosum	oomycetes	MK795003.1	ncbi	x00555|4799|Pythium torulosum|oomycetes|MK795003.1	822
+x00556	2052682	Pythium ultimum	oomycetes	PV688524.1	ncbi	x00556|2052682|Pythium ultimum|oomycetes|PV688524.1	780
+x00557	2052682	Pythium ultimum	oomycetes	PV589517.1	ncbi	x00557|2052682|Pythium ultimum|oomycetes|PV589517.1	693
+x00558	2052682	Pythium ultimum	oomycetes	PV197169.1	ncbi	x00558|2052682|Pythium ultimum|oomycetes|PV197169.1	867
+x00559	2052682	Pythium ultimum	oomycetes	PV076888.1	ncbi	x00559|2052682|Pythium ultimum|oomycetes|PV076888.1	841
+x00560	2052682	Pythium ultimum	oomycetes	AY598657.2	ncbi	x00560|2052682|Pythium ultimum|oomycetes|AY598657.2	4113
+x00561	907947	Pythium vexans/Phytopythium vexans	oomycetes	PV849262.1	ncbi	x00561|907947|Pythium vexans/Phytopythium vexans|oomycetes|PV849262.1	858
+x00562	907947	Pythium vexans/Phytopythium vexans	oomycetes	PV849221.1	ncbi	x00562|907947|Pythium vexans/Phytopythium vexans|oomycetes|PV849221.1	853
+x00563	907947	Pythium vexans/Phytopythium vexans	oomycetes	PV849202.1	ncbi	x00563|907947|Pythium vexans/Phytopythium vexans|oomycetes|PV849202.1	736
+x00564	907947	Pythium vexans/Phytopythium vexans	oomycetes	PV849188.1	ncbi	x00564|907947|Pythium vexans/Phytopythium vexans|oomycetes|PV849188.1	853
+x00565	907947	Pythium vexans/Phytopythium vexans	oomycetes	PV849185.1	ncbi	x00565|907947|Pythium vexans/Phytopythium vexans|oomycetes|PV849185.1	846

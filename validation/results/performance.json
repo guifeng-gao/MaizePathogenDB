@@ -1,0 +1,108 @@
+{
+  "note": "Usage Notes only; fixed ASV query set from 260samples_fungi/rep-seqs.fasta; no pathogen detection analysis",
+  "seed": 42,
+  "databases": {
+    "MPDB": "release/blast_db/maize_pathogens_all",
+    "NCBI_ITS_eukaryote": "260samples_fungi/analysis/db/ncbi_ITS_eukaryote/ITS_eukaryote_sequences"
+  },
+  "rows": [
+    {
+      "n_queries": 100,
+      "database": "MPDB",
+      "wall_s": 1.886,
+      "maxrss_mb": 43.9,
+      "per_query_ms": 18.86
+    },
+    {
+      "n_queries": 100,
+      "database": "NCBI_ITS_eukaryote",
+      "wall_s": 2.875,
+      "maxrss_mb": 57.4,
+      "per_query_ms": 28.75
+    },
+    {
+      "n_queries": 500,
+      "database": "MPDB",
+      "wall_s": 2.584,
+      "maxrss_mb": 114.8,
+      "per_query_ms": 5.168
+    },
+    {
+      "n_queries": 500,
+      "database": "NCBI_ITS_eukaryote",
+      "wall_s": 11.001,
+      "maxrss_mb": 60.0,
+      "per_query_ms": 22.002
+    },
+    {
+      "n_queries": 1000,
+      "database": "MPDB",
+      "wall_s": 4.171,
+      "maxrss_mb": 115.2,
+      "per_query_ms": 4.171
+    },
+    {
+      "n_queries": 1000,
+      "database": "NCBI_ITS_eukaryote",
+      "wall_s": 20.989,
+      "maxrss_mb": 60.8,
+      "per_query_ms": 20.989
+    },
+    {
+      "n_queries": 2000,
+      "database": "MPDB",
+      "wall_s": 7.704,
+      "maxrss_mb": 116.3,
+      "per_query_ms": 3.852
+    },
+    {
+      "n_queries": 2000,
+      "database": "NCBI_ITS_eukaryote",
+      "wall_s": 41.633,
+      "maxrss_mb": 62.0,
+      "per_query_ms": 20.817
+    },
+    {
+      "n_queries": 5000,
+      "database": "MPDB",
+      "wall_s": 18.149,
+      "maxrss_mb": 116.2,
+      "per_query_ms": 3.63
+    },
+    {
+      "n_queries": 5000,
+      "database": "NCBI_ITS_eukaryote",
+      "wall_s": 95.64,
+      "maxrss_mb": 63.0,
+      "per_query_ms": 19.128
+    },
+    {
+      "n_queries": 10000,
+      "database": "MPDB",
+      "wall_s": 34.83,
+      "maxrss_mb": 117.8,
+      "per_query_ms": 3.483
+    },
+    {
+      "n_queries": 10000,
+      "database": "NCBI_ITS_eukaryote",
+      "wall_s": 188.388,
+      "maxrss_mb": 63.6,
+      "per_query_ms": 18.839
+    },
+    {
+      "n_queries": 19276,
+      "database": "MPDB",
+      "wall_s": 77.955,
+      "maxrss_mb": 336.6,
+      "per_query_ms": 4.044
+    },
+    {
+      "n_queries": 19276,
+      "database": "NCBI_ITS_eukaryote",
+      "wall_s": 499.027,
+      "maxrss_mb": 183.2,
+      "per_query_ms": 25.889
+    }
+  ]
+}

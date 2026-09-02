@@ -1,0 +1,64 @@
+{
+  "validation": "classification_benchmark_mpdb",
+  "thresholds": {
+    "species_pident": 99.0,
+    "species_qcov": 90.0
+  },
+  "per_category": {
+    "bacteria": {
+      "tp": 17,
+      "fp": 0,
+      "fn": 15,
+      "tn": 100,
+      "sensitivity": 53.1,
+      "specificity": 100.0,
+      "precision": 100.0,
+      "f1": 69.4,
+      "balanced_accuracy": 76.6
+    },
+    "viruses": {
+      "tp": 18,
+      "fp": 0,
+      "fn": 12,
+      "tn": 100,
+      "sensitivity": 60.0,
+      "specificity": 100.0,
+      "precision": 100.0,
+      "f1": 75.0,
+      "balanced_accuracy": 80.0
+    },
+    "fungi": {
+      "tp": 318,
+      "fp": 31,
+      "fn": 219,
+      "tn": 219,
+      "sensitivity": 59.2,
+      "specificity": 87.6,
+      "precision": 91.1,
+      "f1": 71.8,
+      "balanced_accuracy": 73.4
+    },
+    "oomycetes": {
+      "tp": 58,
+      "fp": 0,
+      "fn": 18,
+      "tn": 50,
+      "sensitivity": 76.3,
+      "specificity": 100.0,
+      "precision": 100.0,
+      "f1": 86.6,
+      "balanced_accuracy": 88.2
+    }
+  },
+  "overall": {
+    "tp": 411,
+    "fp": 31,
+    "fn": 264,
+    "tn": 469,
+    "sensitivity": 60.9,
+    "specificity": 93.8,
+    "precision": 93.0,
+    "f1": 73.6,
+    "balanced_accuracy": 77.3
+  }
+}

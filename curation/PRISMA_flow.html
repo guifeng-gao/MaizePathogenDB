@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>MPDB PRISMA-style literature flow</title>
+  <style>
+    body { font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+           margin: 2rem auto; max-width: 900px; color: #1f2933; }
+    h1 { font-size: 1.4rem; }
+    .note { background: #f3f4f6; border-left: 4px solid #9aa5b1;
+            padding: .75rem 1rem; border-radius: 4px; margin: 1rem 0; }
+    #mermaid { background: #fff; border: 1px solid #e4e7eb;
+               border-radius: 8px; padding: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>MaizePathogenDB: PRISMA-style literature flow</h1>
+  <div class="note">
+    PubMed arm reproduced 2026-08-25 with NCBI E-utilities. WoS, Google
+    Scholar, CNKI, Wanfang, Baidu Scholar and compendia were documented in the
+    manuscript Methods. WoS full export and a partial CNKI export are archived
+    as of 2026-08-26; Google Scholar, Wanfang and Baidu Scholar hit counts are
+    also archived as approximate identification counts. CNKI is reported as a
+    partial export; full CNKI export is not required.
+  </div>
+  <div id="mermaid">
+<pre class="mermaid">
+flowchart TD
+  A["PubMed broad query<br/>records identified n = 13,817<br/>PMID set used downstream n = 9,999"]
+  B["PubMed species-targeted queries<br/>raw hits n = 2,829<br/>unique PMIDs n = 2,459"]
+  C["WoS full export archived n = 18,014<br/>CNKI partial export n = 1,199 unique<br/>(1,702 reported hits)"]
+  I["Combined archived WoS + CNKI unique n = 19,213"]
+  J["Google Scholar ~1,220,000 / Wanfang 6,060 / Baidu Scholar 33,548<br/>approximate search-engine counts; not exported"]
+  D["Records after de-duplication<br/>unique reproducible PubMed records n = 11,389"]
+  E["Records screened n = 11,389"]
+  F["Records excluded / not retained as catalog evidence n = 11,366"]
+  G["Records assessed for eligibility<br/>23 PubMed-retained + 237 from other documented sources = 260"]
+  H["Included<br/>260 citations supporting 225 species"]
+  A --> D
+  B --> D
+  C --> I
+  I -.-> G
+  J -.-> G
+  D --> E
+  E --> F
+  E --> G
+  G --> H
+</pre>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+  <script>mermaid.initialize({ startOnLoad: true, theme: "default" });</script>
+</body>
+</html>

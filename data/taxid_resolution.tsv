@@ -1,0 +1,30 @@
+row_type	original_species	original_taxid	category	candidate_names	matched_name	resolved_taxid	resolved_scientific_name	resolved_rank	status	sequence_hits	notes
+not_verified	Ascochyta maydis	NOT_VERIFIED	fungi	Ascochyta maydis					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Ascochyta zeae	NOT_VERIFIED	fungi	Ascochyta zeae					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Botryosphaeria zeae	NOT_VERIFIED	fungi	Botryosphaeria zeae					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Hyalothyridium maydis / Orphanocoela maydis	NOT_VERIFIED	fungi	Orphanocoela maydis; Hyalothyridium maydis					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Leptosphaeria multiseptata / Entodesmium multiseptatum	NOT_VERIFIED	fungi	Leptosphaeria multiseptata; Entodesmium multiseptatum					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Leptosphaeria variiseptata / Phaeosphaeria variiseptata	NOT_VERIFIED	fungi	Leptosphaeria variiseptata; Phaeosphaeria variiseptata					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Monographella maydis/Microdochium maydis	NOT_VERIFIED	fungi	Microdochium maydis; Monographella maydis					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Phaeosphaeria maydis	NOT_VERIFIED	fungi	Phaeosphaeria maydis					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Physopella pallescens / Phakopsora pallescens	NOT_VERIFIED	fungi	Phakopsora pallescens; Physopella pallescens					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Physopella zeae	NOT_VERIFIED	fungi	Phakopsora zeae; Physopella zeae					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Septoria maydis	NOT_VERIFIED	fungi	Septoria maydis					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Septoria zeina/Septoria zeae	NOT_VERIFIED	fungi	Septoria zeina					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Peronosclerospora spontanea	NOT_VERIFIED	oomycetes	Peronosclerospora spontanea					PENDING		no exact NCBI Taxonomy match for any candidate name
+not_verified	Sclerophthora rayssiae / Sclerophthora rayssiae var. zeae	NOT_VERIFIED	oomycetes	Sclerophthora rayssiae; Sclerophthora rayssiae var. zeae					PENDING		no exact NCBI Taxonomy match for any candidate name
+duplicate_species_name	Fijivirus zeae	10989	viruses	Maize rough dwarf virus (MRDV)		3428775	Fijivirus zeae	species	RESOLVED		isolate taxid 10989; species-level node from NCBI lineage
+duplicate_species_name	Fijivirus zeae	10990	viruses	Rice black streaked dwarf virus (RBSDV)		3428768	Fijivirus alporyzae	species	RESOLVED		isolate taxid 10990; species-level node from NCBI lineage
+missing_sequence	Pseudomonas syringae pv. lapsa	199201	bacteria			199201	Pseudomonas syringae pv. lapsa		SEQUENCE_FOUND	10	query_taxid=317; marker hits: 3117333754, 3117333693, 3117333598
+missing_sequence	Xanthomonas vasicola pv. vasculorum	325776	bacteria			325776	Xanthomonas vasicola pv. vasculorum		SEQUENCE_FOUND	1	query_taxid=56459; marker hits: 1922933
+missing_sequence	American wheat striate mosaic virus	1985707	viruses			1985707	American wheat striate mosaic virus		NO_SEQUENCE	0	query_taxid=1985707; marker hits: 
+missing_sequence	Potyvirus zeatessellati	115232	viruses			115232	Potyvirus zeatessellati		NO_SEQUENCE	0	query_taxid=115232; marker hits: 
+missing_sequence	Fusarium temperatum	1035347	fungi			1035347	Fusarium temperatum		NO_SEQUENCE	0	query_taxid=2644629; marker hits: 
+missing_sequence	Marasmius sacchari var. hawaiiensis / Marasmius sacchar	2075139	fungi			2075139	Marasmius sacchari var. hawaiiensis / Marasmius sacchar		NO_SEQUENCE	0	query_taxid=2075139; marker hits: 
+missing_sequence	Peronosclerospora heteropogonis	467162	oomycetes			467162	Peronosclerospora heteropogonis		NO_SEQUENCE	0	query_taxid=467162; marker hits: 
+missing_sequence	Peronosclerospora maydis	886949	oomycetes			886949	Peronosclerospora maydis		SEQUENCE_FOUND	10	query_taxid=886949; marker hits: 3276769004, 3276769002, 3276769000
+missing_sequence	Peronosclerospora miscanthi	1081076	oomycetes			1081076	Peronosclerospora miscanthi		SEQUENCE_FOUND	1	query_taxid=1081076; marker hits: 1071358120
+missing_sequence	Peronosclerospora sorghi	230839	oomycetes			230839	Peronosclerospora sorghi		SEQUENCE_FOUND	2	query_taxid=230839; marker hits: 307333919, 307333918
+missing_sequence	Pythium pulchrum / Globisporangium pulchrum	115420	oomycetes			115420	Pythium pulchrum / Globisporangium pulchrum		NO_SEQUENCE	0	query_taxid=115420; marker hits: 
+missing_sequence	Sclerophthora macrospora	467176	oomycetes			467176	Sclerophthora macrospora		NO_SEQUENCE	0	query_taxid=467176; marker hits: 
+missing_sequence	Sclerospora graminicola	162130	oomycetes			162130	Sclerospora graminicola		NO_SEQUENCE	0	query_taxid=162130; marker hits: 

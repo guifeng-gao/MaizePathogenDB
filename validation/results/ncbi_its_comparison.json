@@ -1,0 +1,236 @@
+{
+  "categories": [
+    "fungi",
+    "oomycetes"
+  ],
+  "databases": {
+    "MPDB": {
+      "per_category": {
+        "fungi": {
+          "species": {
+            "tp": 318,
+            "fp": 31,
+            "fn": 219,
+            "tn": 219,
+            "sensitivity": 59.2,
+            "specificity": 87.6,
+            "precision": 91.1,
+            "f1": 71.8,
+            "balanced_accuracy": 73.4
+          },
+          "genus": {
+            "tp": 493,
+            "fp": 43,
+            "fn": 44,
+            "tn": 207,
+            "sensitivity": 91.8,
+            "specificity": 82.8,
+            "precision": 92.0,
+            "f1": 91.9,
+            "balanced_accuracy": 87.3
+          }
+        },
+        "oomycetes": {
+          "species": {
+            "tp": 58,
+            "fp": 0,
+            "fn": 18,
+            "tn": 50,
+            "sensitivity": 76.3,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 86.6,
+            "balanced_accuracy": 88.2
+          },
+          "genus": {
+            "tp": 75,
+            "fp": 1,
+            "fn": 1,
+            "tn": 49,
+            "sensitivity": 98.7,
+            "specificity": 98.0,
+            "precision": 98.7,
+            "f1": 98.7,
+            "balanced_accuracy": 98.3
+          }
+        }
+      },
+      "overall": {
+        "species": {
+          "tp": 376,
+          "fp": 31,
+          "fn": 237,
+          "tn": 269,
+          "sensitivity": 61.3,
+          "specificity": 89.7,
+          "precision": 92.4,
+          "f1": 73.7,
+          "balanced_accuracy": 75.5
+        },
+        "genus": {
+          "tp": 568,
+          "fp": 44,
+          "fn": 45,
+          "tn": 256,
+          "sensitivity": 92.7,
+          "specificity": 85.3,
+          "precision": 92.8,
+          "f1": 92.7,
+          "balanced_accuracy": 89.0
+        }
+      }
+    },
+    "NCBI_ITS_eukaryote": {
+      "per_category": {
+        "fungi": {
+          "species": {
+            "tp": 76,
+            "fp": 2,
+            "fn": 461,
+            "tn": 248,
+            "sensitivity": 14.2,
+            "specificity": 99.2,
+            "precision": 97.4,
+            "f1": 24.7,
+            "balanced_accuracy": 56.7
+          },
+          "genus": {
+            "tp": 441,
+            "fp": 40,
+            "fn": 96,
+            "tn": 210,
+            "sensitivity": 82.1,
+            "specificity": 84.0,
+            "precision": 91.7,
+            "f1": 86.6,
+            "balanced_accuracy": 83.1
+          }
+        },
+        "oomycetes": {
+          "species": {
+            "tp": 38,
+            "fp": 0,
+            "fn": 38,
+            "tn": 50,
+            "sensitivity": 50.0,
+            "specificity": 100.0,
+            "precision": 100.0,
+            "f1": 66.7,
+            "balanced_accuracy": 75.0
+          },
+          "genus": {
+            "tp": 65,
+            "fp": 1,
+            "fn": 11,
+            "tn": 49,
+            "sensitivity": 85.5,
+            "specificity": 98.0,
+            "precision": 98.5,
+            "f1": 91.5,
+            "balanced_accuracy": 91.8
+          }
+        }
+      },
+      "overall": {
+        "species": {
+          "tp": 114,
+          "fp": 2,
+          "fn": 499,
+          "tn": 298,
+          "sensitivity": 18.6,
+          "specificity": 99.3,
+          "precision": 98.3,
+          "f1": 31.3,
+          "balanced_accuracy": 59.0
+        },
+        "genus": {
+          "tp": 506,
+          "fp": 41,
+          "fn": 107,
+          "tn": 259,
+          "sensitivity": 82.5,
+          "specificity": 86.3,
+          "precision": 92.5,
+          "f1": 87.2,
+          "balanced_accuracy": 84.4
+        }
+      }
+    },
+    "NCBI_ITS_RefSeq_Fungi": {
+      "per_category": {
+        "fungi": {
+          "species": {
+            "tp": 75,
+            "fp": 2,
+            "fn": 462,
+            "tn": 248,
+            "sensitivity": 14.0,
+            "specificity": 99.2,
+            "precision": 97.4,
+            "f1": 24.4,
+            "balanced_accuracy": 56.6
+          },
+          "genus": {
+            "tp": 397,
+            "fp": 47,
+            "fn": 140,
+            "tn": 203,
+            "sensitivity": 73.9,
+            "specificity": 81.2,
+            "precision": 89.4,
+            "f1": 80.9,
+            "balanced_accuracy": 77.6
+          }
+        },
+        "oomycetes": {
+          "species": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 76,
+            "tn": 50,
+            "sensitivity": 0.0,
+            "specificity": 100.0,
+            "precision": null,
+            "f1": null,
+            "balanced_accuracy": 50.0
+          },
+          "genus": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 76,
+            "tn": 49,
+            "sensitivity": 0.0,
+            "specificity": 98.0,
+            "precision": 0.0,
+            "f1": null,
+            "balanced_accuracy": 49.0
+          }
+        }
+      },
+      "overall": {
+        "species": {
+          "tp": 75,
+          "fp": 2,
+          "fn": 538,
+          "tn": 298,
+          "sensitivity": 12.2,
+          "specificity": 99.3,
+          "precision": 97.4,
+          "f1": 21.7,
+          "balanced_accuracy": 55.8
+        },
+        "genus": {
+          "tp": 397,
+          "fp": 48,
+          "fn": 216,
+          "tn": 252,
+          "sensitivity": 64.8,
+          "specificity": 84.0,
+          "precision": 89.2,
+          "f1": 75.0,
+          "balanced_accuracy": 74.4
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+search_date	search_string	hits
+2026-08-25	("Zea mays"[MeSH Terms] OR "Zea mays"[Title/Abstract] OR maize[Title/Abstract] OR corn[Title/Abstract]) AND (pathogen*[Title/Abstract] OR disease*[Title/Abstract] OR bacterial[Title/Abstract] OR viral[Title/Abstract] OR fungal[Title/Abstract] OR oomyc*[Title/Abstract])	13817
