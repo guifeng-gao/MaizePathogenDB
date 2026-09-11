@@ -7,16 +7,32 @@ import os
 import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TAXONOMY_JSON = os.path.join(ROOT, "Figshare", "taxonomy.json")
+TAXONOMY_JSON = next(
+    path for path in (
+        os.path.join(ROOT, "Figshare", "taxonomy", "taxonomy.json"),
+        os.path.join(ROOT, "taxonomy", "taxonomy.json"),
+    ) if os.path.exists(path)
+)
 MANIFEST = os.path.join(ROOT, "data", "sequence_manifest.tsv")
-FASTA = os.path.join(ROOT, "release", "sequences", "maize_pathogens_all.fasta")
+FASTA = next(
+    path for path in (
+        os.path.join(ROOT, "release", "sequences", "maize_pathogens_all.fasta"),
+        os.path.join(ROOT, "sequences", "maize_pathogens_all.fasta"),
+    ) if os.path.exists(path)
+)
 WEB_FILES = [
-    os.path.join(ROOT, "maize_pathogen_web", "index.html"),
-    os.path.join(ROOT, "Figshare", "web", "index.html"),
+    path for path in (
+        os.path.join(ROOT, "maize_pathogen_web", "index.html"),
+        os.path.join(ROOT, "Figshare", "web", "index.html"),
+        os.path.join(ROOT, "web", "index.html"),
+    ) if os.path.exists(path)
 ]
 DATA_DIRS = [
-    os.path.join(ROOT, "maize_pathogen_web", "data"),
-    os.path.join(ROOT, "Figshare", "web", "data"),
+    path for path in (
+        os.path.join(ROOT, "maize_pathogen_web", "data"),
+        os.path.join(ROOT, "Figshare", "web", "data"),
+        os.path.join(ROOT, "web", "data"),
+    ) if os.path.exists(os.path.dirname(path))
 ]
 
 MAX_KMERS = 200
@@ -112,19 +128,24 @@ def build_meta_fp(groups):
 
 
 def validation_block():
+    # Keep these results synchronized with the manuscript Technical Validation
+    # section and docs/validation/results/SUMMARY.md.
     return """
 <div style="margin-top:24px">
 <h3 style="font-size:16px;margin-bottom:12px">Validation Summary</h3>
 <table class="result-table">
-<tr><th>Method</th><th>Species</th><th>Genus</th></tr>
-<tr><td>External retrieval (n=442)</td><td>83.3% (368/442)</td><td>97.3% (430/442)</td></tr>
-<tr><td>External classification</td><td>64.7% (99/90)</td><td>92.1% (95/70)</td></tr>
-<tr><td>Fixed-threshold validation split (species 99/90)</td><td>Sens 61.8%, Spec 94.6%, F1 73.8</td><td>-</td></tr>
-<tr><td>Fixed-threshold validation split (genus 95/70)</td><td>-</td><td>Sens 92.0%, Spec 91.9%, F1 91.8</td></tr>
-<tr><td>V4 vs NCBI ITS_eukaryote (fungi+oomycetes)</td><td>MPDB 65.4% vs 18.8%</td><td>MPDB 92.6% vs 78.9%</td></tr>
-<tr><td>V4 vs NCBI ITS_RefSeq_Fungi</td><td>MPDB 65.4% vs 12.2%</td><td>MPDB 92.6% vs 60.3%</td></tr>
+<tr><th>Analysis</th><th>Result</th></tr>
+<tr><td>Internal completeness (n=6,133)</td><td>95.9% (5,880/6,133)</td></tr>
+<tr><td>Independent external retrieval (n=675)</td><td>Species 78.8% (532/675); genus 97.0% (655/675)</td></tr>
+<tr><td>External classification at fixed thresholds (675 positives)</td><td>Species 60.9% (411/675); genus 92.4% (624/675)</td></tr>
+<tr><td>Classification benchmark (675 positives; 500 negatives)</td><td>Sensitivity 60.9%; specificity 93.8%; precision 93.0%; F1 73.6%; balanced accuracy 77.3%</td></tr>
+<tr><td>Fixed-threshold validation split (299 positives; 221 negatives)</td><td>Species: sensitivity 58.2%, specificity 94.6%, precision 93.5%, F1 71.8%, balanced accuracy 76.4%; genus: sensitivity 91.6%, specificity 91.9%, precision 93.8%, F1 92.7%, balanced accuracy 91.7%</td></tr>
+<tr><td>Cross-database consistency (n=565)</td><td>Species 75.8% (428/565); genus 95.0% (537/565)</td></tr>
+<tr><td>NCBI-nt comparison (n=260 non-self queries)</td><td>Retrieval: MPDB vs NCBI-nt, species 71.5% vs 63.1%, genus 96.2% vs 91.9%; classification: species 66.2% vs 63.1%, genus 95.4% vs 91.9%</td></tr>
+<tr><td>NCBI ITS comparison (613 fungal/oomycete positives)</td><td>Species sensitivity: MPDB 61.3% vs NCBI ITS_eukaryote 18.6% and ITS_RefSeq_Fungi 12.2%; genus sensitivity: MPDB 92.7% vs 82.5% and 64.8%</td></tr>
+<tr><td>UNITE comparison (fungi only; confidence >= 0.7)</td><td>Species sensitivity: MPDB 59.2% vs UNITE 38.7%; genus sensitivity: MPDB 91.8% vs UNITE 83.6%</td></tr>
 </table>
-<p style="font-size:12px;color:#555;margin:8px 0 0">Species calls use pident>=99 and query coverage>=90; genus calls use pident>=95 and query coverage>=70.</p>
+<p style="font-size:12px;color:#555;margin:8px 0 0">Species calls use pident&gt;=99 and query coverage&gt;=90; genus calls use pident&gt;=95 and query coverage&gt;=70. The NCBI-nt comparison used a fixed snapshot (2026-08-23) and excluded 415 self-matching queries. On 500 negative queries, 3 (0.6%) were assigned to the catalog.</p>
 </div>
 """
 
@@ -153,6 +174,15 @@ def main():
                             ">6,133</div><div class=\"label\">Reference Sequences")
         html = html.replace("Fingerprint database loaded (198 species with sequences)",
                             "Fingerprint database loaded (201 species with sequences)")
+        html = html.replace(
+            "Extracts 25-mer fingerprints and matches against 198 species reference database.",
+            "Extracts 25-mer fingerprints and performs rapid screening against a "
+            "species-level fingerprint index covering the 201 species with reference sequences."
+        )
+        html = html.replace(
+            ">4</div><div class=\"label\">BLAST Databases",
+            ">5</div><div class=\"label\">BLAST Databases"
+        )
         html = html.replace("<title>MaizePathogenDB</title>",
                             "<title>Maize Pathogen Database (MPDB)</title>")
         html = html.replace("<h1>🌽 MaizePathogenDB</h1>",
@@ -165,11 +195,21 @@ def main():
                             "matches each row against the Maize Pathogen Database (MPDB)")
         html = html.replace("<footer><div class=\"container\">MaizePathogenDB ·",
                             "<footer><div class=\"container\">Maize Pathogen Database (MPDB) ·")
-        html = html.replace(
-            '<div id="info-species-list"',
+        composition = (
             '<p style="font-size:13px;color:#555;margin:16px 0 0">'
             'Sequence composition: 402 bacterial 16S rRNA · 5,301 fungal/oomycete ITS · '
-            '430 viral complete genomes</p>\n<div id="info-species-list"'
+            '430 viral genome or genome-segment sequences</p>'
+        )
+        html = re.sub(
+            r'<p style="font-size:13px;color:#555;margin:16px 0 0">Sequence composition:.*?</p>\s*',
+            '',
+            html,
+            flags=re.S,
+        )
+        html = html.replace(
+            '<div id="info-species-list"',
+            composition + '\n<div id="info-species-list"',
+            1,
         )
 
         start = html.rindex('<div style="margin-top:24px">', 0, html.index("Validation Summary"))

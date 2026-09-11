@@ -1,0 +1,6 @@
+category	n_pos	n_neg	sensitivity	specificity	precision	f1
+Bacteria	32	100	53.1	100.0	100.0	69.4
+Viruses	30	100	60.0	100.0	100.0	75.0
+Fungi	537	250	59.2	87.6	91.1	71.8
+Oomycetes	76	50	76.3	100.0	100.0	86.6
+Overall	675	500	60.9	93.8	93.0	73.6

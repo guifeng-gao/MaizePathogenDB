@@ -43,7 +43,7 @@ bacteria, viruses, fungi, and oomycetes in one resource.
 - Catalog species: 225
 - Species with reference sequences: 201
 - Reference sequences: 6,133 (402 bacterial 16S rRNA, 5,301 fungal/oomycete
-  ITS, 430 complete virus genomes)
+  ITS, 430 viral genome or genome-segment sequences)
 - Candidate evidence citations: 260 (207 Correct; 40 Incorrect; 13 Not
   found; all 260 retained for audit)
 
@@ -57,6 +57,7 @@ web/         Standalone web search platform
 data/        Species catalog, sequence manifest, QC report, evidence audit
 validation/  Validation protocol and results
 curation/    Literature audit, PRISMA flow, expert review record
+figures/     Figure source tables and rendered manuscript figures
 code/        Reproducible scripts, configuration, and environment files
 ```
 
@@ -85,6 +86,8 @@ vsearch --sintax rep_seqs.fasta \\
 ```
 
 QIIME2 integration is described in `validation/QIIME2_INSTALL.md`.
+
+Figure source tables and rendered PNG/PDF files are provided in `figures/`.
 
 ## Validation summary
 
@@ -296,6 +299,35 @@ def main():
         os.path.join(ROOT, "Maize Pathogen.xlsx"),
         "data/source/Maize Pathogen.xlsx",
     )
+
+    # Figure source tables and rendered manuscript figures
+    figure_files = [
+        "README.md",
+        "Figure_Pipeline.png",
+        "Figure_Pipeline.pdf",
+        "Figure1_database_content.png",
+        "Figure1_database_content.pdf",
+        "Figure2_validation.png",
+        "Figure2_validation.pdf",
+        "Figure3_applications.png",
+        "Figure3_applications.pdf",
+        "catalog.tsv",
+        "composition.tsv",
+        "seq_features_all.tsv",
+        "v1.tsv",
+        "v2.tsv",
+        "v3a.tsv",
+        "v3b.tsv",
+        "v4_mpdb.tsv",
+        "v4_split.tsv",
+        "v4_external.tsv",
+        "v5.tsv",
+        "v6.tsv",
+        "realworld_agreement.tsv",
+        "realworld_top_rescued.tsv",
+    ]
+    for name in figure_files:
+        copy_file(os.path.join(ROOT, "docs", "figures", name), f"figures/{name}")
 
     # Validation
     copy_file(

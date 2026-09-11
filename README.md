@@ -11,7 +11,7 @@ bacteria, viruses, fungi, and oomycetes in one resource.
 - Catalog species: 225
 - Species with reference sequences: 201
 - Reference sequences: 6,133 (402 bacterial 16S rRNA, 5,301 fungal/oomycete
-  ITS, 430 complete virus genomes)
+  ITS, 430 viral genome or genome-segment sequences)
 - Candidate evidence citations: 260 (207 Correct; 40 Incorrect; 13 Not
   found; all 260 retained for audit)
 
@@ -25,6 +25,7 @@ web/         Standalone web search platform
 data/        Species catalog, sequence manifest, QC report, evidence audit
 validation/  Validation protocol and results
 curation/    Literature audit, PRISMA flow, expert review record
+figures/     Figure source tables and rendered manuscript figures
 code/        Reproducible scripts, configuration, and environment files
 ```
 
@@ -53,6 +54,8 @@ vsearch --sintax rep_seqs.fasta \
 ```
 
 QIIME2 integration is described in `validation/QIIME2_INSTALL.md`.
+
+Figure source tables and rendered PNG/PDF files are provided in `figures/`.
 
 ## Validation summary
 
