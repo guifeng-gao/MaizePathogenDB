@@ -6,7 +6,9 @@ import json
 import os
 import re
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.environ.get(
+    "MPDB_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+)
 TAXONOMY_JSON = next(
     path for path in (
         os.path.join(ROOT, "Figshare", "taxonomy", "taxonomy.json"),
@@ -135,17 +137,16 @@ def validation_block():
 <h3 style="font-size:16px;margin-bottom:12px">Validation Summary</h3>
 <table class="result-table">
 <tr><th>Analysis</th><th>Result</th></tr>
-<tr><td>Internal completeness (n=6,133)</td><td>95.9% (5,880/6,133)</td></tr>
-<tr><td>Independent external retrieval (n=675)</td><td>Species 78.8% (532/675); genus 97.0% (655/675)</td></tr>
-<tr><td>External classification at fixed thresholds (675 positives)</td><td>Species 60.9% (411/675); genus 92.4% (624/675)</td></tr>
-<tr><td>Classification benchmark (675 positives; 500 negatives)</td><td>Sensitivity 60.9%; specificity 93.8%; precision 93.0%; F1 73.6%; balanced accuracy 77.3%</td></tr>
-<tr><td>Fixed-threshold validation split (299 positives; 221 negatives)</td><td>Species: sensitivity 58.2%, specificity 94.6%, precision 93.5%, F1 71.8%, balanced accuracy 76.4%; genus: sensitivity 91.6%, specificity 91.9%, precision 93.8%, F1 92.7%, balanced accuracy 91.7%</td></tr>
-<tr><td>Cross-database consistency (n=565)</td><td>Species 75.8% (428/565); genus 95.0% (537/565)</td></tr>
-<tr><td>NCBI-nt comparison (n=260 non-self queries)</td><td>Retrieval: MPDB vs NCBI-nt, species 71.5% vs 63.1%, genus 96.2% vs 91.9%; classification: species 66.2% vs 63.1%, genus 95.4% vs 91.9%</td></tr>
-<tr><td>NCBI ITS comparison (613 fungal/oomycete positives)</td><td>Species sensitivity: MPDB 61.3% vs NCBI ITS_eukaryote 18.6% and ITS_RefSeq_Fungi 12.2%; genus sensitivity: MPDB 92.7% vs 82.5% and 64.8%</td></tr>
-<tr><td>UNITE comparison (fungi only; confidence >= 0.7)</td><td>Species sensitivity: MPDB 59.2% vs UNITE 38.7%; genus sensitivity: MPDB 91.8% vs UNITE 83.6%</td></tr>
+<tr><td>Internal top-1 self-hit (n=6,114)</td><td>Bacteria 100.0%; viruses 100.0%; fungi 89.4%; oomycetes 98.4%</td></tr>
+<tr><td>Independent external retrieval (n=675)</td><td>Species 76.1% (514/675); genus 96.7% (653/675)</td></tr>
+<tr><td>External classification at fixed thresholds (675 positives)</td><td>Species 61.6%; genus 93.8%</td></tr>
+<tr><td>Classification benchmark (675 positives; 487 negatives)</td><td>Sensitivity 61.6%; specificity 93.8%; precision 93.3%; F1 74.2%; balanced accuracy 77.7%</td></tr>
+<tr><td>Fixed-threshold validation split (299 positives; 221 negatives)</td><td>Species: sensitivity 57.9%, specificity 94.6%, precision 93.5%, F1 71.5%, balanced accuracy 76.2%; genus: sensitivity 92.6%, specificity 91.9%, precision 93.9%, F1 93.3%, balanced accuracy 92.2%</td></tr>
+<tr><td>Cross-database consistency (n=560)</td><td>Species 77.7% (435/560); genus 95.9% (537/560)</td></tr>
+<tr><td>NCBI ITS comparison (613 fungal/oomycete positives)</td><td>Species sensitivity: MPDB 62.0% vs NCBI ITS_eukaryote 23.0% and ITS_RefSeq_Fungi 14.5%; genus sensitivity: MPDB 94.0% vs 84.5% and 67.0%</td></tr>
+<tr><td>UNITE comparison (fungi only; confidence >= 0.7)</td><td>Species sensitivity: MPDB 60.1% vs UNITE 37.8%; genus sensitivity: MPDB 93.3% vs UNITE 84.2%</td></tr>
 </table>
-<p style="font-size:12px;color:#555;margin:8px 0 0">Species calls use pident&gt;=99 and query coverage&gt;=90; genus calls use pident&gt;=95 and query coverage&gt;=70. The NCBI-nt comparison used a fixed snapshot (2026-08-23) and excluded 415 self-matching queries. On 500 negative queries, 3 (0.6%) were assigned to the catalog.</p>
+<p style="font-size:12px;color:#555;margin:8px 0 0">Species calls use pident&gt;=99 and query coverage&gt;=90; genus calls use pident&gt;=95 and query coverage&gt;=70. Validation queries were trimmed to the same marker space as the corrected database. The NCBI-nt head-to-head was not rerun because the fixed local snapshot is not available.</p>
 </div>
 """
 
@@ -171,7 +172,9 @@ def main():
         html = html.replace(">198/225</div><div class=\"label\">Species with Sequences",
                             ">201/225</div><div class=\"label\">Species with Sequences")
         html = html.replace(">6133</div><div class=\"label\">Marker Gene Sequences",
-                            ">6,133</div><div class=\"label\">Reference Sequences")
+                            ">6,114</div><div class=\"label\">Reference Sequences")
+        html = html.replace(">6,133</div><div class=\"label\">Reference Sequences",
+                            ">6,114</div><div class=\"label\">Reference Sequences")
         html = html.replace("Fingerprint database loaded (198 species with sequences)",
                             "Fingerprint database loaded (201 species with sequences)")
         html = html.replace(
@@ -197,7 +200,7 @@ def main():
                             "<footer><div class=\"container\">Maize Pathogen Database (MPDB) ·")
         composition = (
             '<p style="font-size:13px;color:#555;margin:16px 0 0">'
-            'Sequence composition: 402 bacterial 16S rRNA · 5,301 fungal/oomycete ITS · '
+            'Sequence composition: 392 bacterial 16S rRNA · 4,500 fungal ITS · 792 oomycete ITS · '
             '430 viral genome or genome-segment sequences</p>'
         )
         html = re.sub(

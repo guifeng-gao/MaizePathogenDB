@@ -6,27 +6,37 @@ bacteria, viruses, fungi, and oomycetes in one resource.
 
 ## Release
 
-- Release date: 2026-08-25
-- Frozen release files use version-neutral names.
-- Catalog species: 225
-- Species with reference sequences: 201
-- Reference sequences: 6,133 (402 bacterial 16S rRNA, 5,301 fungal/oomycete
-  ITS, 430 viral genome or genome-segment sequences)
-- Candidate evidence citations: 260 (207 Correct; 40 Incorrect; 13 Not
-  found; all 260 retained for audit)
+- Release date: 2026-09-16
+- Version: marker-clean
+- Catalog entries: 225
+- Entries with reference sequences: 201
+- Reference sequences: 6,114
+- Bacteria: 392
+- Fungi: 4,500
+- Oomycetes: 792
+- Viruses: 430
+
+This release removes 10 bacterial false positives that represented 16S rRNA
+methylase or methyltransferase genes rather than 16S rRNA genes. Fungal and
+oomycete records were reduced to the ITS1-5.8S-ITS2 marker with ITSx 1.1.3,
+and bacterial records were reduced to 16S rRNA regions with Barrnap 0.9.
+Nine fungal records for which a reliable pure ITS interval could not be
+obtained were excluded. No catalog entry lost all reference sequences.
+
+Rendered manuscript figures and figure-generation code are intentionally not
+included in this repository.
 
 ## Repository structure
 
 ```text
-sequences/   Multi-FASTA reference files and SINTAX taxonomy
+sequences/   Marker-cleaned FASTA files and SINTAX taxonomy
 blast_db/    Prebuilt BLAST+ databases
 taxonomy/    NCBI Taxonomy-verified taxonomy JSON
 web/         Standalone web search platform
-data/        Species catalog, sequence manifest, QC report, evidence audit
-validation/  Validation protocol and results
+data/        Species catalog, marker manifest, QC, validation and traceability data
+validation/  Validation protocol, query sets, and corrected results
 curation/    Literature audit, PRISMA flow, expert review record
-figures/     Figure source tables and rendered manuscript figures
-code/        Reproducible scripts, configuration, and environment files
+code/        Database-construction and validation scripts
 ```
 
 ## Quick start
@@ -55,19 +65,19 @@ vsearch --sintax rep_seqs.fasta \
 
 QIIME2 integration is described in `validation/QIIME2_INSTALL.md`.
 
-Figure source tables and rendered PNG/PDF files are provided in `figures/`.
-
 ## Validation summary
 
-- Independent external positives: 675 (fungi 537, oomycetes 76, bacteria 32,
-  viruses 30); negatives: 500; cross-database queries: 565.
-- Species-level retrieval: 78.8%; genus-level retrieval: 97.0%.
-- Species-level classification (pident >= 99, qcovs >= 90): 60.9%;
-  genus-level (pident >= 95, qcovs >= 70): 92.4%; specificity 93.8%.
-- Cross-database consistency (SILVA/UNITE/RefSeq + NCBI): 75.8% species /
-  95.0% genus overall.
-- NCBI ITS_eukaryote and ITS_RefSeq comparisons and a UNITE QIIME2 comparison
-  are included in `validation/results/`.
+- Independent positive queries: 675; retained negatives: 487;
+  cross-database queries: 560.
+- External retrieval: species 76.1% (514/675); genus 96.7% (653/675).
+- Species classification: sensitivity 61.6%; specificity 93.8%; precision
+  93.3%; F1 74.2; balanced accuracy 77.7%.
+- Cross-database consistency: species 77.7% (435/560); genus 95.9%
+  (537/560).
+- Fixed-threshold validation half: species sensitivity 57.9%, specificity
+  94.6%, F1 71.5; genus sensitivity 92.6%, specificity 91.9%, F1 93.3.
+- NCBI-nt was not rerun because the fixed local 4.3-Tbp snapshot is not
+  available in the release environment.
 
 The official recommended thresholds are species-level `pident >= 99,
 qcovs >= 90` and genus-level `pident >= 95, qcovs >= 70`. The database is
@@ -77,15 +87,10 @@ substitute for general-purpose databases.
 ## Literature and evidence audit
 
 The catalog was compiled from a documented multi-source search strategy.
-The PubMed arm was reproduced on 2026-08-25. The full 18,014-record Web of
-Science export and CNKI ENW exports are kept in the source working repository;
-the Figshare package contains the analysis summaries, query records, and
-review workbook instead of the raw exports. Google Scholar, Wanfang, and
-Baidu Scholar hit counts were reproduced on 2026-08-26 as approximate
-identification counts. `Maize Pathogen.xlsx` is the raw expert-curated source
-workbook; the expert review record is in `curation/EXPERT_REVIEW.md`
-(bacteria Xiaolong Shao, fungi and oomycetes Lingmin Meng, viruses Zihao
-Xia).
+The PubMed arm was reproduced on 2026-08-25. Web of Science, CNKI, Google
+Scholar, Wanfang, and Baidu Scholar searches were archived on 2026-08-26.
+`data/source/Maize Pathogen.xlsx` is the curated source workbook, and the
+expert review record is in `curation/EXPERT_REVIEW.md`.
 
 ## License
 
@@ -94,4 +99,6 @@ https://creativecommons.org/licenses/by/4.0/legalcode
 
 ## Citation
 
-Please cite this release when using MPDB. A DOI will be assigned on upload.
+Gao, G.-F. MPDB: a multi-kingdom reference database for the identification of
+maize (*Zea mays* L.) associated pathogens. figshare
+https://doi.org/10.6084/m9.figshare.33415123 (2026).

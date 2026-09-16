@@ -1,0 +1,78 @@
+{
+  "n_asvs": 19276,
+  "mpdb_species_asvs": [
+    3,
+    40
+  ],
+  "mpdb_genus_asvs": [
+    1228,
+    393220
+  ],
+  "unite_species_asvs": [
+    179,
+    37829
+  ],
+  "unite_genus_asvs": [
+    682,
+    171559
+  ],
+  "agreement": {
+    "both": 422,
+    "mpdb_only": 806,
+    "unite_only": 260
+  },
+  "rescued_asvs": 635,
+  "rescued_reads": 197817,
+  "top_rescued": [
+    {
+      "genus": "Fusarium",
+      "asv": 193,
+      "reads": 96446
+    },
+    {
+      "genus": "Leptosphaerulina",
+      "asv": 83,
+      "reads": 35905
+    },
+    {
+      "genus": "Trichoderma",
+      "asv": 74,
+      "reads": 15630
+    },
+    {
+      "genus": "Cladosporium",
+      "asv": 35,
+      "reads": 9025
+    },
+    {
+      "genus": "Penicillium",
+      "asv": 27,
+      "reads": 8233
+    },
+    {
+      "genus": "Setophoma",
+      "asv": 34,
+      "reads": 7439
+    },
+    {
+      "genus": "Alternaria",
+      "asv": 31,
+      "reads": 5973
+    },
+    {
+      "genus": "Epicoccum",
+      "asv": 21,
+      "reads": 5877
+    },
+    {
+      "genus": "Talaromyces",
+      "asv": 13,
+      "reads": 3355
+    },
+    {
+      "genus": "Pythium",
+      "asv": 29,
+      "reads": 1536
+    }
+  ]
+}

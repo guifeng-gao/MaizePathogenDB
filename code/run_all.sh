@@ -1,65 +1,50 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SCRIPTS="$(cd "$(dirname "${BASH_SOURCE[0]}")/scripts" && pwd)"
+REPO_ROOT="$(cd "$SCRIPTS/../.." && pwd)"
 PY="${PYTHON:-python3}"
 MAKEBLASTDB="${MAKEBLASTDB:-makeblastdb}"
+BLASTN="${BLASTN:-blastn}"
 
-echo "==> MaizePathogenDB release reproducibility pipeline"
+export MPDB_ROOT="$REPO_ROOT"
+export BLASTN
+export SEQ_DIR="$REPO_ROOT/sequences"
+export BLAST_DIR="$REPO_ROOT/blast_db"
+export QUERY_DIR="$REPO_ROOT/validation/query_sets"
+export RESULT_DIR="$REPO_ROOT/validation/results"
 
-echo "==> 1/8 species_list"
-MAIZE_FASTA="$ROOT/release/sequences/maize_pathogens_all.fasta" \
-  "$PY" "$ROOT/scripts/build_species_list.py"
-
-echo "==> 2/8 BLAST databases"
-mkdir -p "$ROOT/release/blast_db"
+echo "==> 1/5 BLAST databases"
 for name in all bacteria viruses fungi oomycetes; do
   "$MAKEBLASTDB" \
-    -in "$ROOT/release/sequences/maize_pathogens_${name}.fasta" \
+    -in "$SEQ_DIR/maize_pathogens_${name}.fasta" \
     -dbtype nucl \
-    -out "$ROOT/release/blast_db/maize_pathogens_${name}" \
-    -title "MaizePathogenDB release ${name}" >/dev/null
+    -out "$BLAST_DIR/maize_pathogens_${name}" \
+    -title "MaizePathogenDB marker-clean ${name}" >/dev/null
 done
 
-echo "==> 3/8 sequence QC"
-SEQ_DIR="$ROOT/release/sequences" \
-MANIFEST="$ROOT/data/sequence_manifest.tsv" \
-OUT_TSV="$ROOT/data/sequence_qc_report.tsv" \
-  "$PY" "$ROOT/scripts/qc_sequences.py"
+echo "==> 2/5 core validation"
+"$PY" "$SCRIPTS/run_validation.py"
 
-echo "==> 4/8 validation"
-SEQ_DIR="$ROOT/release/sequences" \
-BLAST_DIR="$ROOT/release/blast_db" \
-RESULT_DIR="$ROOT/docs/validation/results" \
-DB_VERSION="release" \
-  "$PY" "$ROOT/scripts/run_validation.py"
-
-echo "==> 5/8 fixed-threshold validation split"
-BLAST_DIR="$ROOT/release/blast_db" \
-RESULT_DIR="$ROOT/docs/validation/results" \
-  "$PY" "$ROOT/scripts/fixed_threshold_validation_split.py"
-
-echo "==> 6/8 NCBI ITS comparison"
-BLAST_DIR="$ROOT/release/blast_db" \
-RESULT_DIR="$ROOT/docs/validation/results" \
-  "$PY" "$ROOT/scripts/run_ncbi_its.py"
+echo "==> 3/5 fixed-threshold validation split"
+"$PY" "$SCRIPTS/fixed_threshold_validation_split.py"
 
 if [[ "${SKIP_PERFORMANCE:-0}" != "1" ]]; then
-  echo "==> 7/8 performance (Usage Notes only)"
-  RESULT_DIR="$ROOT/docs/validation/results" \
-    "$PY" "$ROOT/scripts/run_performance.py"
+  echo "==> 4/5 performance"
+  "$PY" "$SCRIPTS/run_performance.py"
 else
-  echo "==> 7/8 performance skipped (SKIP_PERFORMANCE=1)"
+  echo "==> 4/5 performance skipped"
 fi
 
-QIIME_BIN="$HOME/miniconda3/envs/rachis-qiime2-2026.7/bin/qiime"
-if [[ "${SKIP_UNITE:-0}" != "1" && -x "$QIIME_BIN" ]]; then
-  echo "==> 8/8 UNITE comparison"
-  RESULT_DIR="$ROOT/docs/validation/results" \
-    QIIME="$QIIME_BIN" \
-    "$PY" "$ROOT/scripts/run_unite.py"
+if [[ "${SKIP_EXTERNAL:-1}" != "1" ]]; then
+  echo "==> 5/5 optional external database comparisons"
+  "$PY" "$SCRIPTS/run_ncbi_its.py"
+  QIIME_BIN="${QIIME:-$HOME/miniconda3/envs/rachis-qiime2-2026.7/bin/qiime}"
+  if [[ -x "$QIIME_BIN" ]]; then
+    QIIME="$QIIME_BIN" "$PY" "$SCRIPTS/run_unite.py"
+  fi
 else
-  echo "==> 8/8 UNITE skipped (SKIP_UNITE=1 or QIIME2 not installed)"
+  echo "==> 5/5 external comparisons skipped (set SKIP_EXTERNAL=0 after providing fixed databases)"
 fi
 
 echo "==> done"

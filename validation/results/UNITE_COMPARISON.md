@@ -4,12 +4,12 @@
 **Classifier**: UNITE v10.0 dynamic fungi, release 2025-02-19, `unite_ver2025-02-19_dynamic_fungi-Q2-2026.4.qza`.
 **QIIME2**: QIIME2 2026.7 (rachis 2026.7.0).
 **Confidence threshold**: >= 0.7; calls below threshold are treated as no call.
-**Queries**: 787 (positive 537, negative 250).
+**Queries**: 783 (positive 537, negative 246).
 
 | Level | TP | FP | FN | TN | Sensitivity | Specificity | F1 | Balanced |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| species | 208 | 1 | 329 | 249 | 38.7% | 99.6% | 55.8 | 69.2% |
-| genus | 449 | 45 | 88 | 205 | 83.6% | 82.0% | 87.1 | 82.8% |
+| species | 203 | 1 | 334 | 245 | 37.8% | 99.6% | 54.8 | 68.7% |
+| genus | 452 | 46 | 85 | 200 | 84.2% | 81.3% | 87.3 | 82.7% |
 
 ## Notes
 
@@ -23,9 +23,9 @@ UNITE is a naive-Bayes classifier with confidence >= 0.7; BLAST databases use sp
 
 | Method | Level | Sensitivity | Specificity | F1 | Balanced |
 |---|---|---:|---:|---:|---:|
-| MaizePathogenDB (BLAST 99/90, 95/70) | species | 59.2% | 87.6% | 71.8 | 73.4% |
-| MaizePathogenDB (BLAST 99/90, 95/70) | genus | 91.8% | 82.8% | 91.9 | 87.3% |
-| NCBI ITS_eukaryote (BLAST 99/90, 95/70) | species | 14.2% | 99.2% | 24.7 | 56.7% |
-| NCBI ITS_eukaryote (BLAST 99/90, 95/70) | genus | 82.1% | 84.0% | 86.6 | 83.1% |
+| MaizePathogenDB (BLAST 99/90, 95/70) | species | 60.1% | 87.8% | 72.6 | 74.0% |
+| MaizePathogenDB (BLAST 99/90, 95/70) | genus | 93.3% | 82.5% | 92.7 | 87.9% |
+| NCBI ITS_eukaryote (BLAST 99/90, 95/70) | species | 17.9% | 99.2% | 30.2 | 58.5% |
+| NCBI ITS_eukaryote (BLAST 99/90, 95/70) | genus | 83.6% | 83.7% | 87.5 | 83.7% |
 
 Source for MPDB/NCBI rows: `ncbi_its_comparison.json`.

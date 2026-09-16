@@ -1,0 +1,5 @@
+category	n	length_min	length_q1	length_median	length_q3	length_max	length_mean	gc_min	gc_q1	gc_median	gc_q3	gc_max	gc_mean
+bacteria	392	120	739.2	1022.0	1364.0	1533	1033.3	45.0	54.2	54.8	55.4	58.2	54.7
+fungi	4500	56	455.0	482.0	508.0	992	475.7	18.8	46.9	49.6	55.0	72.8	50.4
+oomycetes	792	89	751.8	781.0	823.0	1574	743.4	30.0	44.9	45.6	47.8	65.4	46.0
+viruses	430	720	3342.0	5676.5	9498.5	13800	6381.5	30.4	40.7	44.9	49.9	61.7	45.1

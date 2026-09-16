@@ -1,7 +1,7 @@
 # MaizePathogenDB Validation Protocol
 
 **Applies to**: MaizePathogenDB release (frozen content)  
-**Freeze date**: 2026-08-26  
+**Freeze date**: 2026-09-16
 **Status**: in force  
 
 ## 1. Purpose
@@ -19,10 +19,10 @@
 
 ## 3. Reference build
 
-- `release/sequences/maize_pathogens_all.fasta`：6,133 条。
-- 分类库：bacteria 402 / viruses 430 / fungi 4,509 / oomycetes 792。
-- `release/blast_db/`：由 BLAST+ 2.17.0 构建。
-- `release/maize_pathogens_taxonomy_sintax.fasta`：6,133 条 SINTAX。
+- `sequences/maize_pathogens_all.fasta`：6,114 条 marker-clean 序列。
+- 分类库：bacteria 392 / viruses 430 / fungi 4,500 / oomycetes 792。
+- `blast_db/`：由 BLAST+ 2.17.0 构建。
+- `sequences/maize_pathogens_taxonomy_sintax.fasta`：6,114 条 SINTAX。
 - `data/species_list.tsv`：225 个 catalog 条目；201 个有序列；14 个 TAXID_PENDING。
 - 所有 SHA-256 见 `CHECKSUMS.sha256`。
 
@@ -40,7 +40,7 @@
 ## 5. Query sets
 
 ### Q1 Internal (completeness only)
-- 全部 6,133 条参考序列，对分类内 BLAST 库 top-1 自命中。
+- 全部 6,114 条参考序列，对分类内 BLAST 库 top-1 自命中。
 - 仅作完整性检查，不称为准确率。
 
 ### Q2 Independent external positives（主验证）
@@ -48,20 +48,22 @@
 - 每个有序列 catalog 物种最多 10 条 marker 序列；排除与参考序列 100% 全长一致的记录。
 - 目标：真菌 ≥500 条，细菌/病毒/卵菌 ≥30 条；若类别物种数不足则使用全部可用物种。
 - 记录每个物种的查询日期、检索式、命中数和排除数。
-- 输出：`docs/validation/query_sets/external_positives.fasta` + `external_positives_meta.tsv`。
+- 输出：`validation/query_sets/external_positives.fasta` + `external_positives_meta.tsv`。
 
 ### Q3 Negatives
-- 500 条非玉米病原序列：100 细菌 / 100 病毒 / 250 真菌 / 50 卵菌。
+- 原始 500 条非玉米病原序列：100 细菌 / 100 病毒 / 250 真菌 / 50 卵菌。
+- marker 裁剪后保留 487 条：93 细菌 / 100 病毒 / 246 真菌 / 48 卵菌。
 - 条件：TaxID 不在 catalog；与 Q2 和参考序列无 100% 全长一致；固定后不再变动。
-- 输出：`docs/validation/query_sets/negatives.fasta` + `negatives_meta.tsv`。
+- 输出：`validation/query_sets/negatives.fasta` + `negatives_meta.tsv`。
 
 ### Q4 Cross-database consistency
 - 对每个有序列 catalog 物种，从已存档的 SILVA/UNITE/NCBI RefSeq 查询集和
   NCBI 独立序列中取非 100% 一致的序列，每物种最多 5 条；卵菌通过 NCBI
   ITS 补齐。
-- 直接使用固定资源：`Figshare/docs/validation/external/silva_unite_cross_queries.fasta`（SILVA/UNITE 查询）与 `Figshare/docs/validation/external/refseq_queries.fasta`（病毒 RefSeq 查询）。
+- 直接使用固定资源：`validation/external/silva_unite_cross_queries.fasta`（SILVA/UNITE 查询）与 `validation/external/refseq_queries.fasta`（病毒 RefSeq 查询）。
 - SILVA 138.2 本地完整数据库为待办项；下载并记录 md5 后，Q4 细菌部分可替换为直接从 SILVA 138.2 提取。
-- 输出：`docs/validation/query_sets/cross_db_queries.fasta` + `cross_db_queries_meta.tsv`。
+- 输出：`validation/query_sets/cross_db_queries.fasta` + `cross_db_queries_meta.tsv`。
+- marker 裁剪后保留 560 条：26 细菌 / 20 病毒 / 434 真菌 / 80 卵菌。
 
 ### Q5 Performance (informational)
 - 固定 ASV 查询集，规模 5/10/20/40/60/80/100/150/200/260（或等价划分）。
@@ -87,11 +89,8 @@
 
 ### Head-to-head against NCBI-nt
 - 条件：存在固定日期下载的 NCBI-nt 本地快照，或存档全部 web BLAST RID/XML。
-- 当前状态：已完成（NCBI-nt 快照 2026-08-23）。
-- 公平对照口径：排除 415 条“top-1 命中即查询自身 accession”的自匹配后，
-  使用剩余 260 条独立查询。结果：MPDB 种级检索 71.5% vs NCBI-nt 63.1%；
-  属级检索 96.2% vs 91.9%；种级分类 66.2% vs 63.1%；属级分类 95.4% vs
-  91.9%；负样本假阳性 0.6%（3/500）。详见 `results/NCBI_NT_COMPARISON.md`。
+- 当前状态：未重跑。固定快照约 4.3 Tbp，校正环境不具备该本地数据库。
+- 禁止将旧 NCBI-nt 数值与 marker-clean MPDB 结果直接拼接。
 
 ### Classification benchmark against general databases
 - 阳性：Q2；阴性：Q3。
@@ -113,7 +112,7 @@
 
 ## 7. Output and reporting
 
-- 输出目录：`docs/validation/results/`。
+- 输出目录：`validation/results/`。
 - 每次运行必须保存：
   - 查询集 FASTA + metadata；
   - BLAST raw TSV / XML；
@@ -134,7 +133,7 @@
 | Internal completeness | 已完成（release） |
 | Primer coverage | 已完成（release） |
 | External retrieval against MPDB | 已完成（release） |
-| NCBI-nt head-to-head | 已完成（2026-08-23 快照；`results/NCBI_NT_COMPARISON.md`） |
+| NCBI-nt head-to-head | 未重跑（固定本地快照不可用） |
 | Classification benchmark (MPDB + fixed NCBI ITS) | 已完成（release） |
 | UNITE comparison | 已完成（QIIME2 2026.7，仅真菌；结果见 `results/UNITE_COMPARISON.md`） |
 | Cross-database consistency | 已完成（release） |
@@ -143,7 +142,7 @@
 ## 10. Threshold exploration (diagnostic only)
 
 - 官方与推荐口径统一：种级 `pident>=99, qcovs>=90`；属级 `pident>=95, qcovs>=70`。
-- 固定推荐阈值的无泄漏分层结果：`docs/validation/results/fixed_threshold_validation_split.json` 与 `FIXED_THRESHOLD_VALIDATION_SPLIT.md`。
+- 固定推荐阈值的无泄漏分层结果：`validation/results/fixed_threshold_validation_split.json` 与 `FIXED_THRESHOLD_VALIDATION_SPLIT.md`。
 
 ## 11. First run checklist
 
@@ -152,6 +151,6 @@
 - [ ] 确认 UNITE qza、NCBI ITS_eukaryote、RefSeq、taxdump 版本与第 4 节一致。
 - [ ] 构建 Q2/Q3/Q4 固定查询集。
 - [ ] 下载并固定 NCBI nt 本地快照（或确认可存档 web BLAST RID）。
-- [ ] 运行完整验证，写入 `docs/validation/results/`。
-- [ ] 更新 `docs/validation/README.md`。
+- [ ] 运行完整验证，写入 `validation/results/`。
+- [ ] 更新 `validation/README.md`。
 - [ ] 将主验证数字填入论文 Technical Validation。

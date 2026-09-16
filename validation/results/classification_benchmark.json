@@ -6,15 +6,15 @@
   },
   "per_category": {
     "bacteria": {
-      "tp": 17,
+      "tp": 18,
       "fp": 0,
-      "fn": 15,
-      "tn": 100,
-      "sensitivity": 53.1,
+      "fn": 14,
+      "tn": 93,
+      "sensitivity": 56.2,
       "specificity": 100.0,
       "precision": 100.0,
-      "f1": 69.4,
-      "balanced_accuracy": 76.6
+      "f1": 72.0,
+      "balanced_accuracy": 78.1
     },
     "viruses": {
       "tp": 18,
@@ -28,37 +28,37 @@
       "balanced_accuracy": 80.0
     },
     "fungi": {
-      "tp": 318,
-      "fp": 31,
-      "fn": 219,
-      "tn": 219,
-      "sensitivity": 59.2,
-      "specificity": 87.6,
-      "precision": 91.1,
-      "f1": 71.8,
-      "balanced_accuracy": 73.4
+      "tp": 323,
+      "fp": 30,
+      "fn": 214,
+      "tn": 216,
+      "sensitivity": 60.1,
+      "specificity": 87.8,
+      "precision": 91.5,
+      "f1": 72.6,
+      "balanced_accuracy": 74.0
     },
     "oomycetes": {
-      "tp": 58,
+      "tp": 57,
       "fp": 0,
-      "fn": 18,
-      "tn": 50,
-      "sensitivity": 76.3,
+      "fn": 19,
+      "tn": 48,
+      "sensitivity": 75.0,
       "specificity": 100.0,
       "precision": 100.0,
-      "f1": 86.6,
-      "balanced_accuracy": 88.2
+      "f1": 85.7,
+      "balanced_accuracy": 87.5
     }
   },
   "overall": {
-    "tp": 411,
-    "fp": 31,
-    "fn": 264,
-    "tn": 469,
-    "sensitivity": 60.9,
+    "tp": 416,
+    "fp": 30,
+    "fn": 259,
+    "tn": 457,
+    "sensitivity": 61.6,
     "specificity": 93.8,
-    "precision": 93.0,
-    "f1": 73.6,
-    "balanced_accuracy": 77.3
+    "precision": 93.3,
+    "f1": 74.2,
+    "balanced_accuracy": 77.7
   }
 }

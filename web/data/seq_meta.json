@@ -2,31 +2,31 @@
   "1408": {
     "s": "Bacillus pumilus",
     "c": "bacteria",
-    "l": 1441,
+    "l": 1436,
     "n": 43
   },
   "169669": {
     "s": "Pseudomonas extremorientalis",
     "c": "bacteria",
-    "l": 1382,
+    "l": 1363,
     "n": 3
   },
   "204038": {
     "s": "Dickeya dadantii",
     "c": "bacteria",
-    "l": 1371,
+    "l": 1368,
     "n": 13
   },
   "204042": {
     "s": "Dickeya zeae",
     "c": "bacteria",
-    "l": 1372,
+    "l": 1366,
     "n": 7
   },
   "28092": {
     "s": "Robbsia andropogonis",
     "c": "bacteria",
-    "l": 1458,
+    "l": 1456,
     "n": 6
   },
   "28095": {
@@ -44,13 +44,13 @@
   "31963": {
     "s": "Clavibacter michiganensis subsp. nebraskensis",
     "c": "bacteria",
-    "l": 1478,
+    "l": 1476,
     "n": 10
   },
   "321": {
     "s": "Pseudomonas syringae pv. syringae",
     "c": "bacteria",
-    "l": 1479,
+    "l": 1478,
     "n": 10
   },
   "40324": {
@@ -62,13 +62,13 @@
   "53407": {
     "s": "Pseudomonas asplenii",
     "c": "bacteria",
-    "l": 1503,
+    "l": 1501,
     "n": 6
   },
   "549": {
     "s": "Pantoea agglomerans",
     "c": "bacteria",
-    "l": 1694,
+    "l": 1531,
     "n": 43
   },
   "553": {
@@ -86,25 +86,25 @@
   "573": {
     "s": "Klebsiella pneumoniae",
     "c": "bacteria",
-    "l": 3315,
-    "n": 43
+    "l": 1531,
+    "n": 37
   },
   "615": {
     "s": "Serratia marcescens",
     "c": "bacteria",
-    "l": 7741,
-    "n": 43
+    "l": 1470,
+    "n": 39
   },
   "66269": {
     "s": "Pantoea stewartii subsp. stewartii",
     "c": "bacteria",
-    "l": 2024,
+    "l": 1533,
     "n": 17
   },
   "69219": {
     "s": "Enterobacter cloacae subsp. dissolvens",
     "c": "bacteria",
-    "l": 1332,
+    "l": 1327,
     "n": 3
   },
   "80867": {
@@ -320,559 +320,559 @@
   "101028": {
     "s": "Fusarium pseudograminearum",
     "c": "fungi",
-    "l": 1642,
+    "l": 587,
     "n": 43
   },
   "101201": {
     "s": "Trichoderma asperellum",
     "c": "fungi",
-    "l": 651,
+    "l": 568,
     "n": 43
   },
   "1036732": {
     "s": "Sarocladium zeae/Acremonium zeae",
     "c": "fungi",
-    "l": 1053,
+    "l": 528,
     "n": 43
   },
   "1056642": {
     "s": "Curvularia tuberculata / Cochliobolus tuberculatus",
     "c": "fungi",
-    "l": 740,
+    "l": 549,
     "n": 33
   },
   "105696": {
     "s": "Epicoccum nigrum",
     "c": "fungi",
-    "l": 601,
+    "l": 509,
     "n": 43
   },
   "1159556": {
     "s": "Ustilaginoidea virens",
     "c": "fungi",
-    "l": 679,
+    "l": 584,
     "n": 43
   },
   "117187": {
     "s": "Fusarium verticillioides (Gibberella moniliformis)",
     "c": "fungi",
-    "l": 559,
+    "l": 500,
     "n": 43
   },
   "1187904": {
     "s": "Alternaria burnsii",
     "c": "fungi",
-    "l": 1337,
+    "l": 687,
     "n": 43
   },
   "119927": {
     "s": "Alternaria tenuissima",
     "c": "fungi",
-    "l": 604,
+    "l": 553,
     "n": 43
   },
   "119929": {
     "s": "Helminthosporium pedicellatum/Exserohilum pedicellatum",
     "c": "fungi",
-    "l": 772,
+    "l": 506,
     "n": 20
   },
   "1203437": {
     "s": "Curvularia aeria / Curvularia lunata var. aeria",
     "c": "fungi",
-    "l": 1115,
+    "l": 511,
     "n": 43
   },
   "1230527": {
     "s": "Helminthosporium hawaiiensis / Curvularia hawaiiensis",
     "c": "fungi",
-    "l": 708,
+    "l": 554,
     "n": 43
   },
   "125373": {
     "s": "Paraphaeosphaeria michotii / Sphaeria michotii",
     "c": "fungi",
-    "l": 620,
+    "l": 524,
     "n": 43
   },
   "13001": {
     "s": "Ceratocystis paradoxa/Thielaviopsis paradoxa",
     "c": "fungi",
-    "l": 1172,
+    "l": 521,
     "n": 43
   },
   "135779": {
     "s": "Cercospora zeae-maydis",
     "c": "fungi",
-    "l": 515,
+    "l": 480,
     "n": 9
   },
   "145392": {
     "s": "Helminthosporium tetramera / Curvularia spicifera/Bipolaris spicifera",
     "c": "fungi",
-    "l": 753,
+    "l": 694,
     "n": 43
   },
   "1567482": {
     "s": "Trichoderma afroharzianum",
     "c": "fungi",
-    "l": 883,
+    "l": 564,
     "n": 43
   },
   "1577605": {
     "s": "Phialophora radicicola / Gaeumannomyces radicicola",
     "c": "fungi",
-    "l": 582,
+    "l": 500,
     "n": 18
   },
   "1592451": {
     "s": "Kabatiella zeae (Aureobasidium zeae)",
     "c": "fungi",
-    "l": 564,
+    "l": 524,
     "n": 43
   },
   "1608309": {
     "s": "Eutiarosporella dactylidis",
     "c": "fungi",
-    "l": 566,
+    "l": 495,
     "n": 38
   },
   "160937": {
     "s": "Marasmius graminum var. brevispora / Marasmius graminum",
     "c": "fungi",
-    "l": 666,
+    "l": 601,
     "n": 4
   },
   "161743": {
     "s": "Cercospora sorghi var. maydis",
     "c": "fungi",
-    "l": 560,
+    "l": 448,
     "n": 2
   },
   "1659837": {
     "s": "Exserohilum rostratum (Setosphaeria rostrata)",
     "c": "fungi",
-    "l": 743,
+    "l": 548,
     "n": 43
   },
   "1682390": {
     "s": "Microdochium seminicola",
     "c": "fungi",
-    "l": 562,
+    "l": 487,
     "n": 23
   },
   "1682391": {
     "s": "Gloeocercospora sorghi / Microdochium sorghi",
     "c": "fungi",
-    "l": 554,
+    "l": 536,
     "n": 43
   },
   "169388": {
     "s": "Fusarium solani (Neocosmospora solani)",
     "c": "fungi",
-    "l": 684,
+    "l": 521,
     "n": 43
   },
   "1825666": {
     "s": "Phyllachora maydis",
     "c": "fungi",
-    "l": 585,
+    "l": 457,
     "n": 19
   },
   "196109": {
     "s": "Microdochium bolleyi",
     "c": "fungi",
-    "l": 1150,
+    "l": 503,
     "n": 43
   },
   "215132": {
     "s": "Curvularia senegalensis / Brachysporium senegalense",
     "c": "fungi",
-    "l": 1185,
+    "l": 533,
     "n": 31
   },
   "226117": {
     "s": "Xepiculopsis graminea/Myrothecium gramineum",
     "c": "fungi",
-    "l": 2404,
+    "l": 536,
     "n": 39
   },
   "228353": {
     "s": "Talaromyces radicus",
     "c": "fungi",
-    "l": 1071,
+    "l": 561,
     "n": 43
   },
   "238245": {
     "s": "Stenocarpella maydis (Diplodia maydis)",
     "c": "fungi",
-    "l": 7800,
+    "l": 512,
     "n": 41
   },
   "259522": {
     "s": "Didymella maydis (Phyllosticta maydis)",
     "c": "fungi",
-    "l": 1407,
+    "l": 457,
     "n": 9
   },
   "2713053": {
     "s": "Gonatobotrys simplex",
     "c": "fungi",
-    "l": 930,
+    "l": 563,
     "n": 2
   },
   "27349": {
     "s": "Puccinia sorghi",
     "c": "fungi",
-    "l": 1384,
-    "n": 21
+    "l": 622,
+    "n": 20
   },
   "276838": {
     "s": "Physoderma maydis",
     "c": "fungi",
-    "l": 1698,
-    "n": 2
+    "l": 652,
+    "n": 1
   },
   "282267": {
     "s": "Fusarium asiaticum",
     "c": "fungi",
-    "l": 1179,
+    "l": 529,
     "n": 43
   },
   "282269": {
     "s": "Fusarium meridionale",
     "c": "fungi",
-    "l": 543,
+    "l": 468,
     "n": 28
   },
   "282271": {
     "s": "Fusarium boothii",
     "c": "fungi",
-    "l": 1190,
+    "l": 489,
     "n": 43
   },
   "28572": {
     "s": "Penicillium funiculosum / Talaromyces funiculosus",
     "c": "fungi",
-    "l": 1452,
+    "l": 531,
     "n": 43
   },
   "298378": {
     "s": "Fusarium incarnatum (F. semitectum)",
     "c": "fungi",
-    "l": 1133,
+    "l": 550,
     "n": 43
   },
   "29850": {
     "s": "Gaeumannomyces graminis",
     "c": "fungi",
-    "l": 691,
+    "l": 495,
     "n": 43
   },
   "29917": {
     "s": "Cladosporium cladosporioides",
     "c": "fungi",
-    "l": 1430,
+    "l": 490,
     "n": 43
   },
   "29918": {
     "s": "Cladosporium herbarum",
     "c": "fungi",
-    "l": 1429,
+    "l": 582,
     "n": 43
   },
   "3021703": {
     "s": "Marasmiellus inoderma",
     "c": "fungi",
-    "l": 692,
+    "l": 652,
     "n": 1
   },
   "31870": {
     "s": "Colletotrichum graminicola /Glomerella graminicola",
     "c": "fungi",
-    "l": 957,
+    "l": 528,
     "n": 42
   },
   "318706": {
     "s": "Curvularia pallescens",
     "c": "fungi",
-    "l": 606,
-    "n": 12
+    "l": 534,
+    "n": 10
   },
   "318710": {
     "s": "Leptosphaerulina australis",
     "c": "fungi",
-    "l": 1427,
+    "l": 508,
     "n": 43
   },
   "318829": {
     "s": "Pyricularia oryzae (Magnaporthe oryzae)",
     "c": "fungi",
-    "l": 549,
+    "l": 500,
     "n": 43
   },
   "33175": {
     "s": "Phaeosphaeria herpotricha / Ophiosphaerella herpotricha",
     "c": "fungi",
-    "l": 4813,
-    "n": 38
+    "l": 517,
+    "n": 37
   },
   "335854": {
     "s": "Nigrospora oryzae (Khuskia oryzae)",
     "c": "fungi",
-    "l": 657,
+    "l": 561,
     "n": 43
   },
   "348901": {
     "s": "Cercospora zeina",
     "c": "fungi",
-    "l": 562,
+    "l": 476,
     "n": 42
   },
   "35725": {
     "s": "Macrophomina phaseolina",
     "c": "fungi",
-    "l": 762,
+    "l": 563,
     "n": 43
   },
   "36050": {
     "s": "Fusarium poae",
     "c": "fungi",
-    "l": 1635,
+    "l": 470,
     "n": 43
   },
   "36080": {
     "s": "Mucor circinelloides",
     "c": "fungi",
-    "l": 817,
+    "l": 612,
     "n": 43
   },
   "371126": {
     "s": "Stenocarpella macrospora",
     "c": "fungi",
-    "l": 1078,
+    "l": 522,
     "n": 20
   },
   "38902": {
     "s": "Curvularia inaequalis / Helminthosporium inaequale",
     "c": "fungi",
-    "l": 712,
+    "l": 527,
     "n": 43
   },
   "39291": {
     "s": "Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)",
     "c": "fungi",
-    "l": 1216,
-    "n": 43
+    "l": 910,
+    "n": 42
   },
   "40199": {
     "s": "Fusarium avenaceum",
     "c": "fungi",
-    "l": 576,
+    "l": 511,
     "n": 43
   },
   "40559": {
     "s": "Botrytis cinerea",
     "c": "fungi",
-    "l": 577,
+    "l": 465,
     "n": 9
   },
   "41413": {
     "s": "Aspergillus glaucus",
     "c": "fungi",
-    "l": 1548,
+    "l": 490,
     "n": 28
   },
   "418125": {
     "s": "Curvularia eragrostidis",
     "c": "fungi",
-    "l": 831,
+    "l": 640,
     "n": 43
   },
   "418126": {
     "s": "Curvularia geniculata(Cochliobolus geniculatus)",
     "c": "fungi",
-    "l": 719,
+    "l": 578,
     "n": 43
   },
   "41984": {
     "s": "Aspergillus tamarii",
     "c": "fungi",
-    "l": 657,
+    "l": 565,
     "n": 43
   },
   "42672": {
     "s": "Fusarium napiforme",
     "c": "fungi",
-    "l": 1374,
+    "l": 491,
     "n": 39
   },
   "42676": {
     "s": "Fusarium sacchari",
     "c": "fungi",
-    "l": 996,
+    "l": 992,
     "n": 43
   },
   "42677": {
     "s": "Fusarium subglutinans",
     "c": "fungi",
-    "l": 1646,
+    "l": 521,
     "n": 43
   },
   "45130": {
     "s": "Bipolaris sorokiniana (Cochliobolus sativus)",
     "c": "fungi",
-    "l": 598,
+    "l": 559,
     "n": 43
   },
   "45133": {
     "s": "Lasiodiplodia theobromae / Botryodiplodia tubericola",
     "c": "fungi",
-    "l": 721,
+    "l": 659,
     "n": 43
   },
   "456999": {
     "s": "Rhizoctonia solani (Thanatephorus cucumeris)",
     "c": "fungi",
-    "l": 773,
+    "l": 668,
     "n": 43
   },
   "47278": {
     "s": "Trichoderma roseum /Trichothecium roseum",
     "c": "fungi",
-    "l": 1219,
+    "l": 587,
     "n": 43
   },
   "47755": {
     "s": "Fusarium pseudonygamai",
     "c": "fungi",
-    "l": 875,
+    "l": 556,
     "n": 27
   },
   "4846": {
     "s": "Rhizopus stolonifer",
     "c": "fungi",
-    "l": 889,
-    "n": 43
+    "l": 836,
+    "n": 42
   },
   "48491": {
     "s": "Fusarium concentricum",
     "c": "fungi",
-    "l": 567,
+    "l": 506,
     "n": 43
   },
   "487631": {
     "s": "Didymella exitialis / Neoascochyta exitialis",
     "c": "fungi",
-    "l": 3040,
+    "l": 573,
     "n": 39
   },
   "49224": {
     "s": "Trichoderma hamatum",
     "c": "fungi",
-    "l": 997,
+    "l": 677,
     "n": 43
   },
   "49569": {
     "s": "Waitea zeae (Rhizoctonia zeae)",
     "c": "fungi",
-    "l": 863,
-    "n": 43
+    "l": 607,
+    "n": 42
   },
   "5016": {
     "s": "Bipolaris maydis (Cochliobolus heterostrophus)",
     "c": "fungi",
-    "l": 619,
+    "l": 530,
     "n": 43
   },
   "5017": {
     "s": "Bipolaris zeicola (Cochliobolus carbonum)",
     "c": "fungi",
-    "l": 1060,
+    "l": 536,
     "n": 43
   },
   "5046": {
     "s": "Sarocladium strictum (Acremonium strictum)",
     "c": "fungi",
-    "l": 1102,
+    "l": 522,
     "n": 43
   },
   "5059": {
     "s": "Aspergillus flavus",
     "c": "fungi",
-    "l": 652,
+    "l": 574,
     "n": 43
   },
   "5061": {
     "s": "Aspergillus niger",
     "c": "fungi",
-    "l": 601,
+    "l": 551,
     "n": 43
   },
   "5067": {
     "s": "Aspergillus parasiticus",
     "c": "fungi",
-    "l": 969,
+    "l": 551,
     "n": 43
   },
   "5076": {
     "s": "Penicillium chrysogenum",
     "c": "fungi",
-    "l": 609,
+    "l": 517,
     "n": 43
   },
   "5127": {
     "s": "Gibberella fujikuroi (Fusarium fujikuroi)",
     "c": "fungi",
-    "l": 626,
+    "l": 509,
     "n": 43
   },
   "520446": {
     "s": "Fusarium andiyazi",
     "c": "fungi",
-    "l": 1001,
+    "l": 487,
     "n": 43
   },
   "5270": {
     "s": "Mycosarcoma maydis (Ustilago maydis)",
     "c": "fungi",
-    "l": 5034,
+    "l": 760,
     "n": 43
   },
   "5503": {
     "s": "Curvularia lunata (Cochliobolus lunatus)",
     "c": "fungi",
-    "l": 617,
+    "l": 554,
     "n": 43
   },
   "5507": {
     "s": "Fusarium oxysporum",
     "c": "fungi",
-    "l": 750,
+    "l": 566,
     "n": 43
   },
   "5514": {
     "s": "Fusarium sporotrichioides",
     "c": "fungi",
-    "l": 570,
+    "l": 497,
     "n": 37
   },
   "5515": {
     "s": "Fusarium acuminatum",
     "c": "fungi",
-    "l": 679,
+    "l": 520,
     "n": 43
   },
   "5516": {
     "s": "Fusarium culmorum",
     "c": "fungi",
-    "l": 1131,
+    "l": 667,
     "n": 43
   },
   "5518": {
     "s": "Fusarium graminearum (Gibberella zeae)",
     "c": "fungi",
-    "l": 1063,
+    "l": 495,
     "n": 43
   },
   "5544": {
@@ -884,212 +884,308 @@
   "5547": {
     "s": "Trichoderma viride",
     "c": "fungi",
-    "l": 860,
+    "l": 594,
     "n": 43
   },
   "5599": {
     "s": "Alternaria alternata",
     "c": "fungi",
-    "l": 750,
+    "l": 743,
     "n": 43
   },
   "56641": {
     "s": "Fusarium cerealis / Fusarium crookwellense",
     "c": "fungi",
-    "l": 806,
+    "l": 500,
     "n": 43
   },
   "56665": {
     "s": "Fusarium kyushuense",
     "c": "fungi",
-    "l": 1216,
+    "l": 517,
     "n": 43
   },
   "57143": {
     "s": "Fusarium camptoceras",
     "c": "fungi",
-    "l": 1131,
+    "l": 486,
     "n": 11
   },
   "60167": {
     "s": "Penicillium cyclopium",
     "c": "fungi",
-    "l": 609,
+    "l": 531,
     "n": 32
   },
   "60171": {
     "s": "Penicillium verrucosum",
     "c": "fungi",
-    "l": 615,
+    "l": 526,
     "n": 43
   },
   "61235": {
     "s": "Fusarium equiseti",
     "c": "fungi",
-    "l": 990,
+    "l": 507,
     "n": 43
   },
   "61284": {
     "s": "Fusarium tricinctum",
     "c": "fungi",
-    "l": 759,
+    "l": 517,
     "n": 43
   },
   "64495": {
     "s": "Rhizopus arrhizus",
     "c": "fungi",
-    "l": 859,
+    "l": 561,
     "n": 43
   },
   "67620": {
     "s": "Graphium penicillioides",
     "c": "fungi",
-    "l": 576,
+    "l": 520,
     "n": 21
   },
   "684837": {
     "s": "Puccinia polysora",
     "c": "fungi",
-    "l": 1331,
+    "l": 709,
     "n": 43
   },
   "69781": {
     "s": "Penicillium oxalicum",
     "c": "fungi",
-    "l": 886,
+    "l": 532,
     "n": 43
   },
   "72558": {
     "s": "Sporisorium reilianum (Sphacelotheca reiliana)",
     "c": "fungi",
-    "l": 1349,
+    "l": 755,
     "n": 33
   },
   "749593": {
     "s": "Epicoccum sorghinum/Phoma sorghina",
     "c": "fungi",
-    "l": 579,
+    "l": 482,
     "n": 43
   },
   "76351": {
     "s": "Ceratobasidium cereale (Rhizoctonia cerealis)",
     "c": "fungi",
-    "l": 1282,
+    "l": 612,
     "n": 39
   },
   "78864": {
     "s": "Fusarium globosum",
     "c": "fungi",
-    "l": 1421,
+    "l": 501,
     "n": 12
   },
   "798162": {
     "s": "Setophoma terrestris (Phoma terrestris/Pyrenochaeta terrestris )",
     "c": "fungi",
-    "l": 1141,
+    "l": 490,
     "n": 43
   },
   "80373": {
     "s": "Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)",
     "c": "fungi",
     "l": 658,
-    "n": 43
+    "n": 42
   },
   "86545": {
     "s": "Fusarium chlamydosporum",
     "c": "fungi",
-    "l": 571,
+    "l": 508,
     "n": 43
   },
   "89175": {
     "s": "Claviceps gigantea",
     "c": "fungi",
-    "l": 1187,
+    "l": 954,
     "n": 7
   },
   "91365": {
     "s": "Curvularia australiensis",
     "c": "fungi",
-    "l": 733,
+    "l": 548,
     "n": 43
   },
   "935936": {
     "s": "Phaeocytostroma ambiguum",
     "c": "fungi",
-    "l": 695,
+    "l": 524,
     "n": 29
   },
   "93612": {
     "s": "Exserohilum turcicum (Setosphaeria turcica)",
     "c": "fungi",
-    "l": 717,
+    "l": 715,
     "n": 43
   },
   "948311": {
     "s": "Fusarium proliferatum",
     "c": "fungi",
-    "l": 588,
+    "l": 536,
     "n": 43
   },
   "95735": {
     "s": "Curvularia intermedia / Cochliobolus intermedius",
     "c": "fungi",
-    "l": 897,
+    "l": 569,
     "n": 43
   },
   "95742": {
     "s": "Curvularia clavata",
     "c": "fungi",
-    "l": 898,
+    "l": 530,
     "n": 40
   },
   "97093": {
     "s": "Trichoderma koningii",
     "c": "fungi",
-    "l": 783,
+    "l": 564,
     "n": 43
-  },
-  "1081076": {
-    "s": "Peronosclerospora miscanthi",
-    "c": "oomycetes",
-    "l": 249,
-    "n": 1
   },
   "126844": {
     "s": "Pythium helicoides / Phytopythium helicoides",
     "c": "oomycetes",
-    "l": 4044,
+    "l": 818,
     "n": 43
   },
   "1277646": {
     "s": "Pythium schmitthenneri / Globisporangium schmitthenneri",
     "c": "oomycetes",
-    "l": 2019,
+    "l": 897,
     "n": 7
   },
   "140044": {
     "s": "Pythium aristosporum",
     "c": "oomycetes",
-    "l": 4069,
+    "l": 834,
     "n": 43
   },
   "2052682": {
     "s": "Pythium ultimum",
     "c": "oomycetes",
-    "l": 1987,
+    "l": 846,
     "n": 43
   },
   "2125995": {
     "s": "Pythium paroecandrum/ Globisporangium paroecandrum",
     "c": "oomycetes",
-    "l": 4220,
+    "l": 945,
     "n": 43
   },
   "2125998": {
     "s": "Pythium spinosum /Globisporangium spinosum",
     "c": "oomycetes",
-    "l": 4068,
+    "l": 945,
     "n": 43
+  },
+  "231958": {
+    "s": "Pythium debaryanum /Globisporangium debaryanum",
+    "c": "oomycetes",
+    "l": 946,
+    "n": 19
+  },
+  "2711123": {
+    "s": "Globisporangium rostratum (Pythium rostratum )",
+    "c": "oomycetes",
+    "l": 982,
+    "n": 12
+  },
+  "289596": {
+    "s": "Pythium adhaerens",
+    "c": "oomycetes",
+    "l": 807,
+    "n": 15
+  },
+  "289598": {
+    "s": "Pythium angustatum",
+    "c": "oomycetes",
+    "l": 800,
+    "n": 9
+  },
+  "289618": {
+    "s": "Pythium lutarium",
+    "c": "oomycetes",
+    "l": 813,
+    "n": 43
+  },
+  "36331": {
+    "s": "Globisporangium irregulare (Pythium irregulare)",
+    "c": "oomycetes",
+    "l": 986,
+    "n": 43
+  },
+  "4799": {
+    "s": "Pythium torulosum",
+    "c": "oomycetes",
+    "l": 811,
+    "n": 43
+  },
+  "65069": {
+    "s": "Pythium acanthicum",
+    "c": "oomycetes",
+    "l": 787,
+    "n": 40
+  },
+  "65070": {
+    "s": "Pythium aphanidermatum",
+    "c": "oomycetes",
+    "l": 813,
+    "n": 43
+  },
+  "82926": {
+    "s": "Pythium splendens/Globisporangium splendens",
+    "c": "oomycetes",
+    "l": 834,
+    "n": 43
+  },
+  "82932": {
+    "s": "Pythium arrhenomanes",
+    "c": "oomycetes",
+    "l": 838,
+    "n": 43
+  },
+  "82937": {
+    "s": "Pythium graminicola",
+    "c": "oomycetes",
+    "l": 789,
+    "n": 43
+  },
+  "82938": {
+    "s": "Pythium inflatum",
+    "c": "oomycetes",
+    "l": 796,
+    "n": 43
+  },
+  "82950": {
+    "s": "Pythium sylvaticum / Globisporangium sylvaticum",
+    "c": "oomycetes",
+    "l": 929,
+    "n": 43
+  },
+  "886949": {
+    "s": "Peronosclerospora maydis",
+    "c": "oomycetes",
+    "l": 219,
+    "n": 16
+  },
+  "907947": {
+    "s": "Pythium vexans/Phytopythium vexans",
+    "c": "oomycetes",
+    "l": 869,
+    "n": 43
+  },
+  "1081076": {
+    "s": "Peronosclerospora miscanthi",
+    "c": "oomycetes",
+    "l": 164,
+    "n": 1
   },
   "230839": {
     "s": "Peronosclerospora sorghi",
@@ -1097,112 +1193,16 @@
     "l": 195,
     "n": 2
   },
-  "231958": {
-    "s": "Pythium debaryanum /Globisporangium debaryanum",
-    "c": "oomycetes",
-    "l": 4189,
-    "n": 19
-  },
-  "2711123": {
-    "s": "Globisporangium rostratum (Pythium rostratum )",
-    "c": "oomycetes",
-    "l": 4116,
-    "n": 12
-  },
-  "289596": {
-    "s": "Pythium adhaerens",
-    "c": "oomycetes",
-    "l": 3926,
-    "n": 15
-  },
-  "289598": {
-    "s": "Pythium angustatum",
-    "c": "oomycetes",
-    "l": 2254,
-    "n": 9
-  },
-  "289618": {
-    "s": "Pythium lutarium",
-    "c": "oomycetes",
-    "l": 828,
-    "n": 43
-  },
-  "36331": {
-    "s": "Globisporangium irregulare (Pythium irregulare)",
-    "c": "oomycetes",
-    "l": 4212,
-    "n": 43
-  },
   "467161": {
     "s": "Peronosclerospora sacchari",
     "c": "oomycetes",
     "l": 1574,
     "n": 3
   },
-  "4799": {
-    "s": "Pythium torulosum",
-    "c": "oomycetes",
-    "l": 4041,
-    "n": 43
-  },
-  "65069": {
-    "s": "Pythium acanthicum",
-    "c": "oomycetes",
-    "l": 4048,
-    "n": 40
-  },
-  "65070": {
-    "s": "Pythium aphanidermatum",
-    "c": "oomycetes",
-    "l": 882,
-    "n": 43
-  },
-  "82926": {
-    "s": "Pythium splendens/Globisporangium splendens",
-    "c": "oomycetes",
-    "l": 4076,
-    "n": 43
-  },
-  "82932": {
-    "s": "Pythium arrhenomanes",
-    "c": "oomycetes",
-    "l": 2271,
-    "n": 43
-  },
-  "82937": {
-    "s": "Pythium graminicola",
-    "c": "oomycetes",
-    "l": 4042,
-    "n": 43
-  },
-  "82938": {
-    "s": "Pythium inflatum",
-    "c": "oomycetes",
-    "l": 4033,
-    "n": 43
-  },
-  "82950": {
-    "s": "Pythium sylvaticum / Globisporangium sylvaticum",
-    "c": "oomycetes",
-    "l": 4188,
-    "n": 43
-  },
   "886948": {
     "s": "Peronosclerospora philippinensis",
     "c": "oomycetes",
     "l": 1572,
     "n": 23
-  },
-  "886949": {
-    "s": "Peronosclerospora maydis",
-    "c": "oomycetes",
-    "l": 249,
-    "n": 16
-  },
-  "907947": {
-    "s": "Pythium vexans/Phytopythium vexans",
-    "c": "oomycetes",
-    "l": 927,
-    "n": 43
   }
 }

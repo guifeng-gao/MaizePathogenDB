@@ -5,33 +5,33 @@
     "classifier": "UNITE v10.0 dynamic fungi 2025-02-19 (Q2-2026.4 qza)",
     "qiime_version": "QIIME2 2026.7 (rachis 2026.7.0)",
     "confidence_threshold": 0.7,
-    "n_queries": 787,
+    "n_queries": 783,
     "n_pos": 537,
-    "n_neg": 250,
-    "classify_s": 40.6
+    "n_neg": 246,
+    "classify_s": 31.2
   },
   "overall": {
     "species": {
-      "tp": 208,
+      "tp": 203,
       "fp": 1,
-      "fn": 329,
-      "tn": 249,
-      "sensitivity": 38.7,
+      "fn": 334,
+      "tn": 245,
+      "sensitivity": 37.8,
       "specificity": 99.6,
       "precision": 99.5,
-      "f1": 55.8,
-      "balanced_accuracy": 69.2
+      "f1": 54.8,
+      "balanced_accuracy": 68.7
     },
     "genus": {
-      "tp": 449,
-      "fp": 45,
-      "fn": 88,
-      "tn": 205,
-      "sensitivity": 83.6,
-      "specificity": 82.0,
-      "precision": 90.9,
-      "f1": 87.1,
-      "balanced_accuracy": 82.8
+      "tp": 452,
+      "fp": 46,
+      "fn": 85,
+      "tn": 200,
+      "sensitivity": 84.2,
+      "specificity": 81.3,
+      "precision": 90.8,
+      "f1": 87.3,
+      "balanced_accuracy": 82.7
     }
   }
 }

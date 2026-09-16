@@ -1,0 +1,113 @@
+section	metric	category	n	value	unit
+internal_completeness	top1_self_hit	bacteria	392	100.0	%
+internal_completeness	top1_self_hit	viruses	430	100.0	%
+internal_completeness	top1_self_hit	fungi	4500	89.4	%
+internal_completeness	top1_self_hit	oomycetes	792	98.4	%
+primer_coverage	16S_V3V4	bacteria	392	59.9	%
+primer_coverage	16S_V4	bacteria	392	67.3	%
+primer_coverage	16S_V3V8	bacteria	392	33.9	%
+primer_coverage	16S_full_27F_1492R	bacteria	392	1.0	%
+primer_coverage	16S_V4V5	bacteria	392	62.2	%
+primer_coverage	ITS_ITS1F_ITS4	fungi+oomycetes	5292	3.2	%
+primer_coverage	ITS_ITS5_ITS4	fungi+oomycetes	5292	3.7	%
+primer_coverage	ITS_ITS1_ITS4	fungi+oomycetes	5292	7.2	%
+primer_coverage	ITS_ITS86F_ITS4	fungi+oomycetes	5292	16.1	%
+primer_coverage	ITS_fITS7_ITS4	fungi+oomycetes	5292	16.6	%
+primer_coverage	ITS_ITS1F_ITS2	fungi+oomycetes	5292	5.6	%
+primer_coverage	ITS_ITS3_ITS4	fungi+oomycetes	5292	15.8	%
+primer_coverage	ITS_ITS9mun_ITS4ngs	fungi+oomycetes	5292	1.1	%
+external_retrieval	species_retrieval_pct	bacteria	32	93.8	%
+external_retrieval	genus_retrieval_pct	bacteria	32	96.9	%
+external_retrieval	species_classification_pct	bacteria	32	56.2	%
+external_retrieval	genus_classification_pct	bacteria	32	93.8	%
+external_retrieval	species_retrieval_pct	viruses	30	100.0	%
+external_retrieval	genus_retrieval_pct	viruses	30	100.0	%
+external_retrieval	species_classification_pct	viruses	30	60.0	%
+external_retrieval	genus_classification_pct	viruses	30	90.0	%
+external_retrieval	species_retrieval_pct	fungi	537	71.5	%
+external_retrieval	genus_retrieval_pct	fungi	537	96.1	%
+external_retrieval	species_classification_pct	fungi	537	60.1	%
+external_retrieval	genus_classification_pct	fungi	537	93.3	%
+external_retrieval	species_retrieval_pct	oomycetes	76	92.1	%
+external_retrieval	genus_retrieval_pct	oomycetes	76	100.0	%
+external_retrieval	species_classification_pct	oomycetes	76	75.0	%
+external_retrieval	genus_classification_pct	oomycetes	76	98.7	%
+external_retrieval	species_retrieval_pct	overall	675	76.1	%
+external_retrieval	genus_retrieval_pct	overall	675	96.7	%
+external_retrieval	species_classification_pct	overall	675	61.6	%
+external_retrieval	genus_classification_pct	overall	675	93.8	%
+classification	sensitivity	bacteria		56.2	%
+classification	specificity	bacteria		100.0	%
+classification	precision	bacteria		100.0	%
+classification	f1	bacteria		72.0	%
+classification	balanced_accuracy	bacteria		78.1	%
+classification	sensitivity	viruses		60.0	%
+classification	specificity	viruses		100.0	%
+classification	precision	viruses		100.0	%
+classification	f1	viruses		75.0	%
+classification	balanced_accuracy	viruses		80.0	%
+classification	sensitivity	fungi		60.1	%
+classification	specificity	fungi		87.8	%
+classification	precision	fungi		91.5	%
+classification	f1	fungi		72.6	%
+classification	balanced_accuracy	fungi		74.0	%
+classification	sensitivity	oomycetes		75.0	%
+classification	specificity	oomycetes		100.0	%
+classification	precision	oomycetes		100.0	%
+classification	f1	oomycetes		85.7	%
+classification	balanced_accuracy	oomycetes		87.5	%
+classification	sensitivity	overall		61.6	%
+classification	specificity	overall		93.8	%
+classification	precision	overall		93.3	%
+classification	f1	overall		74.2	%
+classification	balanced_accuracy	overall		77.7	%
+cross_database	species_retrieval_pct	bacteria	26	88.5	%
+cross_database	genus_retrieval_pct	bacteria	26	100.0	%
+cross_database	species_retrieval_pct	viruses	20	100.0	%
+cross_database	genus_retrieval_pct	viruses	20	100.0	%
+cross_database	species_retrieval_pct	fungi	434	73.3	%
+cross_database	genus_retrieval_pct	fungi	434	95.2	%
+cross_database	species_retrieval_pct	oomycetes	80	92.5	%
+cross_database	genus_retrieval_pct	oomycetes	80	97.5	%
+fixed_threshold_validation_split	species_sensitivity	overall		57.9	%
+fixed_threshold_validation_split	species_specificity	overall		94.6	%
+fixed_threshold_validation_split	species_precision	overall		93.5	%
+fixed_threshold_validation_split	species_f1	overall		71.5	%
+fixed_threshold_validation_split	species_balanced_accuracy	overall		76.2	%
+fixed_threshold_validation_split	genus_sensitivity	overall		92.6	%
+fixed_threshold_validation_split	genus_specificity	overall		91.9	%
+fixed_threshold_validation_split	genus_precision	overall		93.9	%
+fixed_threshold_validation_split	genus_f1	overall		93.3	%
+fixed_threshold_validation_split	genus_balanced_accuracy	overall		92.2	%
+method_comparison	species_sensitivity	MPDB		60.1	%
+method_comparison	species_specificity	MPDB		87.8	%
+method_comparison	species_f1	MPDB		72.6	%
+method_comparison	species_balanced_accuracy	MPDB		74.0	%
+method_comparison	genus_sensitivity	MPDB		93.3	%
+method_comparison	genus_specificity	MPDB		82.5	%
+method_comparison	genus_f1	MPDB		92.7	%
+method_comparison	genus_balanced_accuracy	MPDB		87.9	%
+method_comparison	species_sensitivity	NCBI eukaryote		17.9	%
+method_comparison	species_specificity	NCBI eukaryote		99.2	%
+method_comparison	species_f1	NCBI eukaryote		30.2	%
+method_comparison	species_balanced_accuracy	NCBI eukaryote		58.5	%
+method_comparison	genus_sensitivity	NCBI eukaryote		83.6	%
+method_comparison	genus_specificity	NCBI eukaryote		83.7	%
+method_comparison	genus_f1	NCBI eukaryote		87.5	%
+method_comparison	genus_balanced_accuracy	NCBI eukaryote		83.7	%
+method_comparison	species_sensitivity	NCBI RefSeq_Fungi		16.6	%
+method_comparison	species_specificity	NCBI RefSeq_Fungi		99.2	%
+method_comparison	species_f1	NCBI RefSeq_Fungi		28.3	%
+method_comparison	species_balanced_accuracy	NCBI RefSeq_Fungi		57.9	%
+method_comparison	genus_sensitivity	NCBI RefSeq_Fungi		76.5	%
+method_comparison	genus_specificity	NCBI RefSeq_Fungi		80.9	%
+method_comparison	genus_f1	NCBI RefSeq_Fungi		82.6	%
+method_comparison	genus_balanced_accuracy	NCBI RefSeq_Fungi		78.7	%
+method_comparison	species_sensitivity	UNITE		37.8	%
+method_comparison	species_specificity	UNITE		99.6	%
+method_comparison	species_f1	UNITE		54.8	%
+method_comparison	species_balanced_accuracy	UNITE		68.7	%
+method_comparison	genus_sensitivity	UNITE		84.2	%
+method_comparison	genus_specificity	UNITE		81.3	%
+method_comparison	genus_f1	UNITE		87.3	%
+method_comparison	genus_balanced_accuracy	UNITE		82.7	%

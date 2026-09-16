@@ -8,47 +8,47 @@
       "per_category": {
         "fungi": {
           "species": {
-            "tp": 318,
-            "fp": 31,
-            "fn": 219,
-            "tn": 219,
-            "sensitivity": 59.2,
-            "specificity": 87.6,
-            "precision": 91.1,
-            "f1": 71.8,
-            "balanced_accuracy": 73.4
+            "tp": 323,
+            "fp": 30,
+            "fn": 214,
+            "tn": 216,
+            "sensitivity": 60.1,
+            "specificity": 87.8,
+            "precision": 91.5,
+            "f1": 72.6,
+            "balanced_accuracy": 74.0
           },
           "genus": {
-            "tp": 493,
+            "tp": 501,
             "fp": 43,
-            "fn": 44,
-            "tn": 207,
-            "sensitivity": 91.8,
-            "specificity": 82.8,
-            "precision": 92.0,
-            "f1": 91.9,
-            "balanced_accuracy": 87.3
+            "fn": 36,
+            "tn": 203,
+            "sensitivity": 93.3,
+            "specificity": 82.5,
+            "precision": 92.1,
+            "f1": 92.7,
+            "balanced_accuracy": 87.9
           }
         },
         "oomycetes": {
           "species": {
-            "tp": 58,
+            "tp": 57,
             "fp": 0,
-            "fn": 18,
-            "tn": 50,
-            "sensitivity": 76.3,
+            "fn": 19,
+            "tn": 48,
+            "sensitivity": 75.0,
             "specificity": 100.0,
             "precision": 100.0,
-            "f1": 86.6,
-            "balanced_accuracy": 88.2
+            "f1": 85.7,
+            "balanced_accuracy": 87.5
           },
           "genus": {
             "tp": 75,
             "fp": 1,
             "fn": 1,
-            "tn": 49,
+            "tn": 47,
             "sensitivity": 98.7,
-            "specificity": 98.0,
+            "specificity": 97.9,
             "precision": 98.7,
             "f1": 98.7,
             "balanced_accuracy": 98.3
@@ -57,26 +57,26 @@
       },
       "overall": {
         "species": {
-          "tp": 376,
-          "fp": 31,
-          "fn": 237,
-          "tn": 269,
-          "sensitivity": 61.3,
-          "specificity": 89.7,
-          "precision": 92.4,
-          "f1": 73.7,
-          "balanced_accuracy": 75.5
+          "tp": 380,
+          "fp": 30,
+          "fn": 233,
+          "tn": 264,
+          "sensitivity": 62.0,
+          "specificity": 89.8,
+          "precision": 92.7,
+          "f1": 74.3,
+          "balanced_accuracy": 75.9
         },
         "genus": {
-          "tp": 568,
+          "tp": 576,
           "fp": 44,
-          "fn": 45,
-          "tn": 256,
-          "sensitivity": 92.7,
-          "specificity": 85.3,
-          "precision": 92.8,
-          "f1": 92.7,
-          "balanced_accuracy": 89.0
+          "fn": 37,
+          "tn": 250,
+          "sensitivity": 94.0,
+          "specificity": 85.0,
+          "precision": 92.9,
+          "f1": 93.4,
+          "balanced_accuracy": 89.5
         }
       }
     },
@@ -84,75 +84,75 @@
       "per_category": {
         "fungi": {
           "species": {
-            "tp": 76,
+            "tp": 96,
             "fp": 2,
-            "fn": 461,
-            "tn": 248,
-            "sensitivity": 14.2,
+            "fn": 441,
+            "tn": 244,
+            "sensitivity": 17.9,
             "specificity": 99.2,
-            "precision": 97.4,
-            "f1": 24.7,
-            "balanced_accuracy": 56.7
+            "precision": 98.0,
+            "f1": 30.2,
+            "balanced_accuracy": 58.5
           },
           "genus": {
-            "tp": 441,
+            "tp": 449,
             "fp": 40,
-            "fn": 96,
-            "tn": 210,
-            "sensitivity": 82.1,
-            "specificity": 84.0,
-            "precision": 91.7,
-            "f1": 86.6,
-            "balanced_accuracy": 83.1
+            "fn": 88,
+            "tn": 206,
+            "sensitivity": 83.6,
+            "specificity": 83.7,
+            "precision": 91.8,
+            "f1": 87.5,
+            "balanced_accuracy": 83.7
           }
         },
         "oomycetes": {
           "species": {
-            "tp": 38,
+            "tp": 45,
             "fp": 0,
-            "fn": 38,
-            "tn": 50,
-            "sensitivity": 50.0,
+            "fn": 31,
+            "tn": 48,
+            "sensitivity": 59.2,
             "specificity": 100.0,
             "precision": 100.0,
-            "f1": 66.7,
-            "balanced_accuracy": 75.0
+            "f1": 74.4,
+            "balanced_accuracy": 79.6
           },
           "genus": {
-            "tp": 65,
+            "tp": 69,
             "fp": 1,
-            "fn": 11,
-            "tn": 49,
-            "sensitivity": 85.5,
-            "specificity": 98.0,
-            "precision": 98.5,
-            "f1": 91.5,
-            "balanced_accuracy": 91.8
+            "fn": 7,
+            "tn": 47,
+            "sensitivity": 90.8,
+            "specificity": 97.9,
+            "precision": 98.6,
+            "f1": 94.5,
+            "balanced_accuracy": 94.4
           }
         }
       },
       "overall": {
         "species": {
-          "tp": 114,
+          "tp": 141,
           "fp": 2,
-          "fn": 499,
-          "tn": 298,
-          "sensitivity": 18.6,
+          "fn": 472,
+          "tn": 292,
+          "sensitivity": 23.0,
           "specificity": 99.3,
-          "precision": 98.3,
-          "f1": 31.3,
-          "balanced_accuracy": 59.0
+          "precision": 98.6,
+          "f1": 37.3,
+          "balanced_accuracy": 61.2
         },
         "genus": {
-          "tp": 506,
+          "tp": 518,
           "fp": 41,
-          "fn": 107,
-          "tn": 259,
-          "sensitivity": 82.5,
-          "specificity": 86.3,
-          "precision": 92.5,
-          "f1": 87.2,
-          "balanced_accuracy": 84.4
+          "fn": 95,
+          "tn": 253,
+          "sensitivity": 84.5,
+          "specificity": 86.1,
+          "precision": 92.7,
+          "f1": 88.4,
+          "balanced_accuracy": 85.3
         }
       }
     },
@@ -160,26 +160,26 @@
       "per_category": {
         "fungi": {
           "species": {
-            "tp": 75,
+            "tp": 89,
             "fp": 2,
-            "fn": 462,
-            "tn": 248,
-            "sensitivity": 14.0,
+            "fn": 448,
+            "tn": 244,
+            "sensitivity": 16.6,
             "specificity": 99.2,
-            "precision": 97.4,
-            "f1": 24.4,
-            "balanced_accuracy": 56.6
+            "precision": 97.8,
+            "f1": 28.3,
+            "balanced_accuracy": 57.9
           },
           "genus": {
-            "tp": 397,
+            "tp": 411,
             "fp": 47,
-            "fn": 140,
-            "tn": 203,
-            "sensitivity": 73.9,
-            "specificity": 81.2,
-            "precision": 89.4,
-            "f1": 80.9,
-            "balanced_accuracy": 77.6
+            "fn": 126,
+            "tn": 199,
+            "sensitivity": 76.5,
+            "specificity": 80.9,
+            "precision": 89.7,
+            "f1": 82.6,
+            "balanced_accuracy": 78.7
           }
         },
         "oomycetes": {
@@ -187,7 +187,7 @@
             "tp": 0,
             "fp": 0,
             "fn": 76,
-            "tn": 50,
+            "tn": 48,
             "sensitivity": 0.0,
             "specificity": 100.0,
             "precision": null,
@@ -198,9 +198,9 @@
             "tp": 0,
             "fp": 1,
             "fn": 76,
-            "tn": 49,
+            "tn": 47,
             "sensitivity": 0.0,
-            "specificity": 98.0,
+            "specificity": 97.9,
             "precision": 0.0,
             "f1": null,
             "balanced_accuracy": 49.0
@@ -209,26 +209,26 @@
       },
       "overall": {
         "species": {
-          "tp": 75,
+          "tp": 89,
           "fp": 2,
-          "fn": 538,
-          "tn": 298,
-          "sensitivity": 12.2,
+          "fn": 524,
+          "tn": 292,
+          "sensitivity": 14.5,
           "specificity": 99.3,
-          "precision": 97.4,
-          "f1": 21.7,
-          "balanced_accuracy": 55.8
+          "precision": 97.8,
+          "f1": 25.3,
+          "balanced_accuracy": 56.9
         },
         "genus": {
-          "tp": 397,
+          "tp": 411,
           "fp": 48,
-          "fn": 216,
-          "tn": 252,
-          "sensitivity": 64.8,
-          "specificity": 84.0,
-          "precision": 89.2,
-          "f1": 75.0,
-          "balanced_accuracy": 74.4
+          "fn": 202,
+          "tn": 246,
+          "sensitivity": 67.0,
+          "specificity": 83.7,
+          "precision": 89.5,
+          "f1": 76.7,
+          "balanced_accuracy": 75.4
         }
       }
     }

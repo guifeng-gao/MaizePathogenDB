@@ -5,8 +5,10 @@ import os
 import subprocess
 import tempfile
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-FASTA = os.path.join(ROOT, "release", "sequences", "maize_pathogens_all.fasta")
+ROOT = os.environ.get(
+    "MPDB_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+)
+FASTA = os.path.join(ROOT, "sequences", "maize_pathogens_all.fasta")
 MAKEBLASTDB = os.environ.get("MAKEBLASTDB", "makeblastdb")
 BLASTN = os.environ.get("BLASTN", "blastn")
 

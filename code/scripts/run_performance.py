@@ -8,23 +8,38 @@ import re
 import subprocess
 import time
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ASV_FASTA = os.path.join(ROOT, "260samples_fungi", "rep-seqs.fasta")
-OUT_DIR = os.path.join(ROOT, "data", "performance_query_sets")
+ROOT = os.environ.get(
+    "MPDB_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+)
+ASV_FASTA = os.environ.get(
+    "ASV_FASTA", os.path.join(ROOT, "260samples_fungi", "rep-seqs.fasta")
+)
+OUT_DIR = os.environ.get(
+    "PERFORMANCE_QUERY_DIR", os.path.join(ROOT, "data", "performance_query_sets")
+)
 RESULT_DIR = os.environ.get(
     "RESULT_DIR", os.path.join(ROOT, "docs", "validation", "results")
 )
-MPDB_DB = os.path.join(ROOT, "release", "blast_db", "maize_pathogens_all")
-ITS_EUK_DB = os.path.join(
-    ROOT, "260samples_fungi", "analysis", "db",
-    "ncbi_ITS_eukaryote", "ITS_eukaryote_sequences",
+MPDB_DB = os.environ.get(
+    "MPDB_DB", os.path.join(ROOT, "release", "blast_db", "maize_pathogens_all")
+)
+ITS_EUK_DB = os.environ.get(
+    "NCBI_ITS_DB",
+    os.path.join(
+        ROOT,
+        "260samples_fungi",
+        "analysis",
+        "db",
+        "ncbi_ITS_eukaryote",
+        "ITS_eukaryote_sequences",
+    ),
 )
 DB_PATHS = {
     "MPDB": MPDB_DB,
     "NCBI_ITS_eukaryote": ITS_EUK_DB,
 }
 DB_LABELS = {
-    "MPDB": "release/blast_db/maize_pathogens_all",
+    "MPDB": "blast_db/maize_pathogens_all",
     "NCBI_ITS_eukaryote": "260samples_fungi/analysis/db/ncbi_ITS_eukaryote/ITS_eukaryote_sequences",
 }
 BLASTN = os.environ.get("BLASTN", "blastn")

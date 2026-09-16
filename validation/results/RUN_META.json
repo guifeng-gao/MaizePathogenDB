@@ -1,24 +1,12 @@
 {
-  "run_date": "2026-08-26",
-  "database_version": "release",
-  "total_sequences": 6133,
-  "species_with_sequences": 201,
-  "query_sets": {
-    "Q2_external_positives": 675,
-    "Q3_negatives": 500,
-    "Q4_cross_db": 565
-  },
-  "build": "frozen release; up to 30 representative sequences per species, excluding prior references and Q2 holdout",
-  "qc": "0 bad headers, 0 marker inconsistencies, 0 cross-category hits; removed 1 PDB-derived record",
-  "blast_version": "BLAST+ 2.17.0",
-  "ncbi_nt_snapshot": {
-    "snapshot_date": "2026-08-23",
-    "source": "https://ftp.ncbi.nlm.nih.gov/blast/db/",
-    "volumes": 361,
-    "sequences": 130097750,
-    "total_bases": 4315573502030,
-    "status": "complete",
-    "location": "external storage volume",
-    "manifest": "nt_snapshot_2026-08-23_manifest.md5"
-  }
+  "database_version": "marker-clean-2026-09-16",
+  "reference_sequences": 6114,
+  "blast_version": "2.17.0",
+  "itsx_version": "1.1.3",
+  "barrnap_version": "0.9",
+  "positive_queries": 675,
+  "negative_queries_retained": 487,
+  "cross_database_queries_retained": 560,
+  "validation_split_seed": 42,
+  "ncbi_nt_head_to_head": "not rerun; fixed 4.3-Tbp local snapshot unavailable"
 }

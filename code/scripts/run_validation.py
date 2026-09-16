@@ -8,10 +8,14 @@ import re
 import subprocess
 from collections import Counter, defaultdict
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.environ.get(
+    "MPDB_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+)
 SEQ_DIR = os.environ.get("SEQ_DIR", os.path.join(ROOT, "release", "sequences"))
 BLAST_DIR = os.environ.get("BLAST_DIR", os.path.join(ROOT, "release", "blast_db"))
-QUERY_DIR = os.path.join(ROOT, "docs", "validation", "query_sets")
+QUERY_DIR = os.environ.get(
+    "QUERY_DIR", os.path.join(ROOT, "docs", "validation", "query_sets")
+)
 RESULT_DIR = os.environ.get(
     "RESULT_DIR", os.path.join(ROOT, "docs", "validation", "results")
 )

@@ -1,0 +1,10 @@
+seqid	accession	species	category	source_length	reason
+MPDB001994	ON000260.1	Puccinia sorghi	fungi	142	No clean ITS region could be extracted
+MPDB002003	AY601708.1	Physoderma maydis	fungi	1698	No clean ITS region could be extracted
+MPDB002377	AB288408.1	Curvularia pallescens	fungi	205	No clean ITS region could be extracted
+MPDB002378	AB288409.1	Curvularia pallescens	fungi	206	No clean ITS region could be extracted
+MPDB002501	KM096231.1	Phaeosphaeria herpotricha / Ophiosphaerella herpotricha	fungi	1811	No clean ITS region could be extracted
+MPDB002832	PZ829597.1	Agroathelia rolfsii (Sclerotium rolfsii, Athelia rolfsii)	fungi	635	No clean ITS region could be extracted
+MPDB003380	PV916127.1	Rhizopus stolonifer	fungi	761	No clean ITS region could be extracted
+MPDB003534	KC590518.1	Waitea zeae (Rhizoctonia zeae)	fungi	632	No clean ITS region could be extracted
+MPDB004974	LC888095.1	Harpophora maydis (Cephalosporium maydis/Magnaporthiopsis maydis)	fungi	514	No clean ITS region could be extracted
