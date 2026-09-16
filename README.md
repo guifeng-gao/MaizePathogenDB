@@ -6,8 +6,6 @@ bacteria, viruses, fungi, and oomycetes in one resource.
 
 ## Release
 
-- Release date: 2026-09-16
-- Version: marker-clean
 - Catalog entries: 225
 - Entries with reference sequences: 201
 - Reference sequences: 6,114
@@ -15,16 +13,6 @@ bacteria, viruses, fungi, and oomycetes in one resource.
 - Fungi: 4,500
 - Oomycetes: 792
 - Viruses: 430
-
-This release removes 10 bacterial false positives that represented 16S rRNA
-methylase or methyltransferase genes rather than 16S rRNA genes. Fungal and
-oomycete records were reduced to the ITS1-5.8S-ITS2 marker with ITSx 1.1.3,
-and bacterial records were reduced to 16S rRNA regions with Barrnap 0.9.
-Nine fungal records for which a reliable pure ITS interval could not be
-obtained were excluded. No catalog entry lost all reference sequences.
-
-Rendered manuscript figures and figure-generation code are intentionally not
-included in this repository.
 
 ## Repository structure
 
